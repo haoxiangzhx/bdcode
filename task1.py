@@ -85,17 +85,19 @@ def handleText(texts, texts_len):
 datasetSize = np.load("datasetSize.npy")
 datasetName = list(datasetSize[:, 0])
 
-cnt = 0
-for fileName in datasetName[:200]:
+start = int(sys.argv[1])
+end = int(sys.argv[2])
+cnt = start
+for fileName in datasetName[start:end]:
 	cnt += 1
 	print("="*40)
-	print("Processing file: %s (#%d)" % (fileName, cnt))
+	print("Processing file: %s (#%d of 1900)" % (fileName, cnt))
 	folder='/user/hm74/NYCOpenData/'
 	tsv_rdd=spark.read.format("csv") \
 		.option("header","true") \
 		.option("delimiter",'\t') \
 		.load(folder+fileName+'.tsv.gz')
-
+		
 	jsonDict = {}
 	jsonDict['dataset_name'] = fileName
 	jsonDict['columns'] = []

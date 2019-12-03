@@ -6,6 +6,19 @@ module load spark/2.4.0
 spark-submit task1.py
 
 
-Questions:
+Task1 Note:
+	0-200 
+		stopped at 52 12/03/01:37 AM skip 52 datasetName[51]
+			cannot resolve '`Family Size (3 nos.) Monthly Income`' given input columns: [Family Size (5 nos.) Monthly Income, Each Additional Person Add, Family Size (1 ind.) Monthly Income, Family Size (no.), Family Size (2 nos.) Monthly Income, Family Size (3 nos.) Monthly Income, Family Size (4 nos.) Monthly Income];;\n'Project ['Family Size (3 nos.) Monthly Income]\n+- Project [Family Size (no.)#10 AS Family Size (no.)#24, Family Size (1 ind.) Monthly Income#11 AS Family Size (1 ind.) Monthly Income#25, Family Size (2 nos.) Monthly Income#12 AS Family Size (2 nos.) Monthly Income#26, Family Size (3 nos.) Monthly Income#13 AS Family Size (3 nos.) Monthly Income#27, Family Size (4 nos.) Monthly Income#14 AS Family Size (4 nos.) Monthly Income#28, Family Size (5 nos.) Monthly Income#15 AS Family Size (5 nos.) Monthly Income#29, Each Additional Person Add#16 AS Each Additional Person Add#30]\n   +- Relation[Family Size (no.)#10,Family Size (1 ind.) Monthly Income#11,Family Size (2 nos.) Monthly Income#12,Family Size (3 nos.) Monthly Income#13,Family Size (4 nos.) Monthly Income#14,Family Size (5 nos.) Monthly Income#15,Each Additional Person Add#16] csv\n"
+		stopped at 93
+	200-400 
+		stopped at 252 12/03/01:57 AM skip 252 datasetName[251]
+		stopped at 262,skipped 12/03/02:08 cannot resolve '`TOTAL NO. OF PROPERTIES`' given input columns: [NEIGHBORHOOD, ME ==> same problem maybe of ` `
 
-1.
+Count number of json files
+ls -l json/ | wc -l
+
+Todo:
+
+1. debug cannot resolve '`TOTAL NO. OF PROPERTIES`' 
+2. parallel
