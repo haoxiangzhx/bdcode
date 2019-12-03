@@ -97,17 +97,23 @@ for fileName in datasetName[start:end]:
 		.option("header","true") \
 		.option("delimiter",'\t') \
 		.load(folder+fileName+'.tsv.gz')
-		
+
 	jsonDict = {}
 	jsonDict['dataset_name'] = fileName
 	jsonDict['columns'] = []
 
 	tsv_columns = tsv_rdd.columns
+	columns_rename = []
+	for clmn in tsv_columns:
+		new_name = clmn.replace('.','')
+		columns_rename.append(new_name)
+
+	tsv_columns = columns_rename
 	tsv_df = tsv_rdd.toDF(*tsv_columns)
 
 	for colname in tsv_columns:
 		print("-"*40)
-		print("Processing column:", colname)
+		print("Processing column:", colname.encode("utf-8"))
 		column = tsv_df.select(colname)
 		totCount = column.count()
 		empty = column.select(colname).where(col(colname).isNull())

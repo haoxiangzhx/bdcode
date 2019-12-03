@@ -7,13 +7,38 @@ spark-submit task1.py
 
 
 Task1 Note:
+
+	they all stopped at col names with '.'!!!
+		'`Family Size (3 nos.) Monthly Income`'
+		'`St. Nicholas`'
+		'`TOTAL NO. OF PROPERTIES`'
+
+	duplicated column names (difference only in white spaces ==> poor naming) [Data Quality Issues]
+
 	0-200 
 		stopped at 52 12/03/01:37 AM skip 52 datasetName[51]
 			cannot resolve '`Family Size (3 nos.) Monthly Income`' given input columns: [Family Size (5 nos.) Monthly Income, Each Additional Person Add, Family Size (1 ind.) Monthly Income, Family Size (no.), Family Size (2 nos.) Monthly Income, Family Size (3 nos.) Monthly Income, Family Size (4 nos.) Monthly Income];;\n'Project ['Family Size (3 nos.) Monthly Income]\n+- Project [Family Size (no.)#10 AS Family Size (no.)#24, Family Size (1 ind.) Monthly Income#11 AS Family Size (1 ind.) Monthly Income#25, Family Size (2 nos.) Monthly Income#12 AS Family Size (2 nos.) Monthly Income#26, Family Size (3 nos.) Monthly Income#13 AS Family Size (3 nos.) Monthly Income#27, Family Size (4 nos.) Monthly Income#14 AS Family Size (4 nos.) Monthly Income#28, Family Size (5 nos.) Monthly Income#15 AS Family Size (5 nos.) Monthly Income#29, Each Additional Person Add#16 AS Each Additional Person Add#30]\n   +- Relation[Family Size (no.)#10,Family Size (1 ind.) Monthly Income#11,Family Size (2 nos.) Monthly Income#12,Family Size (3 nos.) Monthly Income#13,Family Size (4 nos.) Monthly Income#14,Family Size (5 nos.) Monthly Income#15,Each Additional Person Add#16] csv\n"
 		stopped at 93
 	200-400 
 		stopped at 252 12/03/01:57 AM skip 252 datasetName[251]
+			pyspark.sql.utils.AnalysisException: "cannot resolve '`St. Nicholas`' given input columns: [Citywide Monthly Average Wait Time, Jamaica, Coney Island, Hunt's Point, Fort Greene, Richmond, Waverly, Rockaway, Washington Heights, Queens, East New York, East End, Crotona, Total Monthly Average NCA SNAP, Concourse, SSI, Center Name, Williamsburg, North Brooklyn, St. Nicholas];;\n'Project ['St. Nicholas]\n+- Project [Center Name#10 AS Center Name#50, Concourse#11 AS Concourse#51, Coney Island#12 AS Coney Island#52, Crotona#13 AS Crotona#53, North Brooklyn#14 AS North Brooklyn#54, Washington Heights#15 AS Washington Heights#55, East End#16 AS East End#56, East New York#17 AS East New York#57, Fort Greene#18 AS Fort Greene#58, Hunt's Point#19 AS Hunt's Point#59, Jamaica#20 AS Jamaica#60, Queens#21 AS Queens#61, Richmond#22 AS Richmond#62, Rockaway#23 AS Rockaway#63, SSI#24 AS SSI#64, St. Nicholas#25 AS St. Nicholas#65, Waverly#26 AS Waverly#66, Williamsburg#27 AS Williamsburg#67, Total Monthly Average NCA SNAP#28 AS Total Monthly Average NCA SNAP#68, Citywide Monthly Average Wait Time#29 AS Citywide Monthly Average Wait Time#69]\n   +- Relation[Center Name#10,Concourse#11,Coney Island#12,Crotona#13,North Brooklyn#14,Washington Heights#15,East End#16,East New York#17,Fort Greene#18,Hunt's Point#19,Jamaica#20,Queens#21,Richmond#22,Rockaway#23,SSI#24,St. Nicholas#25,Waverly#26,Williamsburg#27,Total Monthly Average NCA SNAP#28,Citywide Monthly Average Wait Time#29] csv\n"
 		stopped at 262,skipped 12/03/02:08 cannot resolve '`TOTAL NO. OF PROPERTIES`' given input columns: [NEIGHBORHOOD, ME ==> same problem maybe of ` `
+	420:
+		========================================
+		Processing file: 56bx-u7iw (#420 of 1900)
+		----------------------------------------
+		Processing column: b'Month'
+		----------------------------------------
+		Processing column: b'Cash Assistance Recipients'
+		----------------------------------------
+		Processing column: b'FAP (formerly AFDC)'
+		----------------------------------------
+		Processing column: b'60 Month converted to SNA'
+		Traceback (most recent call last):
+		  File "/share/apps/spark/spark-2.4.0-bin-hadoop2.6/python/lib/pyspark.zip/pyspark/sql/utils.py", line 63, in deco
+		  File "/share/apps/spark/spark-2.4.0-bin-hadoop2.6/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+		py4j.protocol.Py4JJavaError: An error occurred while calling o13232.select.
+		: org.apache.spark.sql.AnalysisException: Reference '60 Month converted to SNA' is ambiguous, could be: 60 Month converted to SNA, 60 Month converted to SNA, 60 Month converted to SNA.;
 
 Count number of json files
 ls -l json/ | wc -l
