@@ -26,48 +26,30 @@ def stringType(list_str):
     DateOrigin = []
     Text = []
     TextLen = []
-    for string in list_str:
+    for string in list_str:     
         try:
-            Dt = parser.parse(String)
-            Date.append(Dt)
-            DateOrigin.append(Dt)
+            Int = int(string)
+            Integer.append(Int)
         except:
             try:
-                Dt = datetime.strptime(string, "%Y%m")
-                if string[:4] < '2020':
-                    Date.append(Dt)
-                    DateOrigin.append(Dt)
-                else:
-                    Int.append(int(string))
+                Flt = float(string)
+                Float.append(Flt)
             except:
                 try:
-                    Dt = datetime.strptime(string, "%Y-%y")
+                    Dt = parser.parse(string)
                     Date.append(Dt)
-                    DateOrigin.append(Dt)
+                    DateOrigin.append(string)
                 except:
                     try:
-                        Int = int(string)
-                        Integer.append(Int)
+                        Dt = datetime.strptime(string, "%Y-%y")
+                        Date.append(Dt)
+                        DateOrigin.append(string)
                     except:
-                        try:
-                            Flt = float(string)
-                            Float.append(Flt)
-                        except:
-                            Text.append(string)
-                            TextLen.append(len(string))
+                        Text.append(string)
+                        TextLen.append(len(string))
     return Integer, Float, Date, DateOrigin, Text, TextLen
 
-# For columns that contain at least one value of type INTEGER / REAL report:
-# ● Maximum value
-# ● Minimum value ● Mean
-# ● Standard Deviation
-# For columns that contain at least one value of type DATE report:
-# ● Maximum value
-# ● Minimum value
-# For columns that contain at least one value of type TEXT report:
-# ● Top-5 Shortest value(s) (the values with shortest length)
-# ● Top-5 Longest values(s) (the values with longest length)
-# ● Average value length
+
 def handleIntFloat(vals):
 	count = len(vals)
 	maxVal = np.max(vals)
@@ -76,6 +58,7 @@ def handleIntFloat(vals):
 	std = np.std(vals)
 	return count, maxVal, minVal, mean, std
 
+
 def handleDate(dates, dates_origin):
 	count = len(dates)
 	maxInd = np.argmax(dates)
@@ -83,6 +66,7 @@ def handleDate(dates, dates_origin):
 	minInd = np.argmin(dates)
 	minVal = dates_origin[minInd]
 	return count, maxVal, minVal
+
 
 def handleText(texts, texts_len):
 	count = len(texts)
@@ -93,14 +77,17 @@ def handleText(texts, texts_len):
 	avgLen = np.mean(texts_len)
 	return count, shortestVal, longestVal, avgLen
 
-# add
+# add for loop for files
+# list of files order by size
 
-fileName = '2232-dj5q.tsv.gz'
+# fileName = '2232-dj5q.tsv.gz'
+
+fileName = '2bmr-jdsv'
 folder='/user/hm74/NYCOpenData/'
 tsv_rdd=spark.read.format("csv") \
 	.option("header","true") \
 	.option("delimiter",'\t') \
-	.load(folder+fileName)
+	.load(folder+fileName+'.tsv.gz')
 
 jsonDict = {}
 jsonDict['dataset_name'] = fileName
@@ -108,6 +95,7 @@ jsonDict['columns'] = []
 
 tsv_columns = tsv_rdd.columns
 tsv_df = tsv_rdd.toDF(*tsv_columns)
+
 # fileName = '2232-dj5q.tsv'
 # data = sc.textFile(fileName, 1)
 # data = data.mapPartitions(lambda row: reader(row, delimiter = "\t"))
@@ -126,17 +114,13 @@ tsv_df = tsv_rdd.toDF(*tsv_columns)
 # 4. Top-5 most frequent value(s)
 # 5. Data types (a column may contain values belonging to multiple types)
 # 
-# Identify the data types for each distinct column value as one of the following:
-# ● INTEGER (LONG)
-# ● REAL
-# ● DATE/TIME
-# ● TEXT
 # 
 # colname = 'single men'
 # colname = 'SY1617 TOTAL REMOVALS/SUSPENSIONS'
 
 
 for colname in tsv_columns:
+	print(colname)
 	column = tsv_df.select(colname)
 	totCount = column.count()
 	empty = column.select(colname).where(col(colname).isNull())
@@ -145,7 +129,7 @@ for colname in tsv_columns:
 	nonEmptyCount = nonEmpty.count()
 	distinctCount = nonEmpty.distinct().count()
 	top5 = nonEmpty.groupBy(colname).count().sort(col("count").desc()).rdd.map(lambda x:(x[0], x[1])).collect()[:5]
-	json = {}
+	jsonCol = {}
 	jsonCol['column_name'] = colname
 	jsonCol['number_non_empty_cells'] = nonEmptyCount
 	jsonCol['number_empty_cells'] = emptyCount
@@ -156,14 +140,48 @@ for colname in tsv_columns:
 	Int, Flt, Date, DateOrigin, Text, TextLen = stringType(nonEmp_list)
 	if len(Int) > 0:
 		countInt, maxValInt, minValInt, meanInt, stdInt = handleIntFloat(Int)
-		jsonData = {}
-		jsonData['type'] = "INTEGER (LONG)"
+		jsonInt = {}
+		jsonInt['type'] = "INTEGER (LONG)"
+		jsonInt['count'] = countInt
+		jsonInt['max_value'] = int(maxValInt)
+		jsonInt['min_value'] = int(minValInt)
+		jsonInt['mean'] = meanInt
+		jsonInt['stddev'] = stdInt
+		jsonCol['data_types'].append(jsonInt)
 	if len(Flt) > 0:
-		countFlt, maxValFlt, minValFlt, meanFlt, stdFlt = handleIntFloat(Int)
+		countFlt, maxValFlt, minValFlt, meanFlt, stdFlt = handleIntFloat(Flt)
+		jsonFlt = {}
+		jsonFlt['type'] = "REAL"
+		jsonFlt['count'] = countFlt
+		jsonFlt['max_value'] = maxValFlt
+		jsonFlt['min_value'] = minValFlt
+		jsonFlt['mean'] = meanFlt
+		jsonFlt['stddev'] = stdFlt
+		jsonCol['data_types'].append(jsonFlt)
 	if len(Date) > 0:
 		countDate, maxValDate, minValDate = handleDate(Date, DateOrigin)
+		jsonDate = {}
+		jsonDate['type'] = "DATE/TIME"
+		jsonDate['count'] = countDate
+		jsonDate['max_value'] = maxValDate
+		jsonDate['min_value'] = minValDate
+		jsonCol['data_types'].append(jsonDate)
 	if len(Text) > 0:
 		countText, shortestText, longestText, avgLenText = handleText(Text, TextLen)
+		jsonText = {}
+		jsonText['type'] = "TEXT"
+		jsonText['count'] = countText
+		jsonText['shortest_values'] = shortestText
+		jsonText['longest_values'] = longestText
+		jsonText['average_length'] = avgLenText
+		jsonCol['data_types'].append(jsonText)
+	jsonDict['columns'].append(jsonCol)
+# 	print(json.dumps(jsonCol))
+
+with open('json/'+fileName+'.json', 'w') as outfile:
+    json.dump(jsonDict, outfile)
+
+# print(json.dumps(jsonDict))
 
 # .isDigit()
 # nonEmpty = column.filter((col(colname) != "") & (col(colname) != " ") & (col(colname) != "NaN") & (col(colname) != "Unspecified") & (~isnan(col(colname))))
