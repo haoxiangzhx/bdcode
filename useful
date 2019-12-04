@@ -3,8 +3,10 @@ module load python/gnu/3.6.5
 module load spark/2.4.0
 
 
-spark-submit task1.py
+time spark-submit task1.py
 
+
+628 454 after 10min: 649 473; after another 10 min 663, 496, 808 (tot 566)
 
 Task1 Note:
 

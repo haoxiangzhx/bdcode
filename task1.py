@@ -36,7 +36,7 @@ def stringType(list_str):
                 Float.append(Flt)
             except:
                 try:
-                    Dt = parser.parse(string)
+                    Dt = parser.parse(string, ignoretz=True)
                     Date.append(Dt)
                     DateOrigin.append(string)
                 except:
