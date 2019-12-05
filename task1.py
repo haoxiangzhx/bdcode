@@ -26,29 +26,54 @@ def stringType(list_str):
     DateOrigin = []
     Text = []
     TextLen = []
-    for string in list_str:     
-        try:
-            Int = int(string)
-            Integer.append(Int)
-        except:
+    dict_vals = {}
+    for string in list_str:
+        if string in dict_vals:
+            encodes = dict_vals[string]
+            key = encodes[0]
+            val = encodes[1]
+            if key == 0:
+                Integer.append(val)
+            elif key == 1:
+                Float.append(val)
+            elif key == 2:
+                Date.append(val)
+                DateOrigin.append(string)
+            else:
+                Text.append(string)
+                TextLen.append(val)
+        else:
             try:
-                Flt = float(string)
-                Float.append(Flt)
+                Int = int(string)
+                Integer.append(Int)
+                dict_vals[string] = [0, Int]
             except:
                 try:
-                    Dt = parser.parse(string, ignoretz=True)
-                    Date.append(Dt)
-                    DateOrigin.append(string)
-                except:
-                    try:
-                        Dt = datetime.strptime(string, "%Y-%y")
-                        Date.append(Dt)
-                        DateOrigin.append(string)
-                    except:
+                    Flt = float(string)
+                    if string.upper() == 'NAN' or Flt == float("inf"):
                         Text.append(string)
                         TextLen.append(len(string))
+                        dict_vals[string] = [3, len(string)]
+                    else:
+                        Float.append(Flt)
+                        dict_vals[string] = [1, Flt]
+                except:
+                    try:
+                        Dt = parser.parse(string, ignoretz=True)
+                        Date.append(Dt)
+                        DateOrigin.append(string)
+                        dict_vals[string] = [2, Dt]
+                    except:
+                        try:
+                            Dt = datetime.strptime(string, "%Y-%y")
+                            Date.append(Dt)
+                            DateOrigin.append(string)
+                            dict_vals[string] = [2, Dt]
+                        except:
+                            Text.append(string)
+                            TextLen.append(len(string))
+                            dict_vals[string] = [3, len(string)]
     return Integer, Float, Date, DateOrigin, Text, TextLen
-
 
 def handleIntFloat(vals):
 	count = len(vals)

@@ -8,7 +8,11 @@ time spark-submit task1.py
 
 628 454 after 10min: 649 473; after another 10 min 663, 496, 808 (tot 566)
 
-Task1 Note:
+Questions:
+
+1. do we need to append task2 json into task1 json?
+
+Task1 Note: 
 
 	they all stopped at col names with '.'!!!
 		'`Family Size (3 nos.) Monthly Income`'
