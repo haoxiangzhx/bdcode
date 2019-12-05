@@ -71,7 +71,7 @@ def handleIntFloat(vals, counts):
 	maxVal = np.max(vals)
 	minVal = np.min(vals)
 	mean = np.dot(vals, counts)/count
-	std = np.sqrt(np.dot((vals-mean)**2, counts)/count)
+	std = np.sqrt(np.dot((np.asarray(vals)-mean)**2, counts)/count)
 	return count, maxVal, minVal, mean, std
 
 
