@@ -19,73 +19,64 @@ spark = SparkSession \
         .config("spark.some.config.option", "some-value") \
         .getOrCreate()
 
-def stringType(list_str):
+def stringType(vals):
     Integer = []
+    IntegerCount = []
     Float = []
+    FloatCount = []
     Date = []
     DateOrigin = []
+    DateCount = []
     Text = []
     TextLen = []
-    dict_vals = {}
-    for string in list_str:
-        if string in dict_vals:
-            encodes = dict_vals[string]
-            key = encodes[0]
-            val = encodes[1]
-            if key == 0:
-                Integer.append(val)
-            elif key == 1:
-                Float.append(val)
-            elif key == 2:
-                Date.append(val)
-                DateOrigin.append(string)
-            else:
-                Text.append(string)
-                TextLen.append(val)
-        else:
+    TextCount = []
+    for val in vals:
+        string = val[0]
+        cnt = val[1]
+        try:
+            Int = int(string)
+            Integer.append(Int)
+            IntegerCount.append(cnt)
+        except:
             try:
-                Int = int(string)
-                Integer.append(Int)
-                dict_vals[string] = [0, Int]
+                Flt = float(string)
+                if string.upper() == 'NAN' or Flt == float("inf"):
+                    Text.append(string)
+                    TextLen.append(len(string))
+                    TextCount.append(cnt)
+                else:
+                    Float.append(Flt)
+                    FloatCount.append(cnt)
             except:
                 try:
-                    Flt = float(string)
-                    if string.upper() == 'NAN' or Flt == float("inf"):
-                        Text.append(string)
-                        TextLen.append(len(string))
-                        dict_vals[string] = [3, len(string)]
-                    else:
-                        Float.append(Flt)
-                        dict_vals[string] = [1, Flt]
+                    Dt = parser.parse(string, ignoretz=True)
+                    Date.append(Dt)
+                    DateCount.append(cnt)
+                    DateOrigin.append(string)
                 except:
                     try:
-                        Dt = parser.parse(string, ignoretz=True)
+                        Dt = datetime.strptime(string, "%Y-%y")
                         Date.append(Dt)
+                        DateCount.append(cnt)
                         DateOrigin.append(string)
-                        dict_vals[string] = [2, Dt]
                     except:
-                        try:
-                            Dt = datetime.strptime(string, "%Y-%y")
-                            Date.append(Dt)
-                            DateOrigin.append(string)
-                            dict_vals[string] = [2, Dt]
-                        except:
-                            Text.append(string)
-                            TextLen.append(len(string))
-                            dict_vals[string] = [3, len(string)]
-    return Integer, Float, Date, DateOrigin, Text, TextLen
+                        Text.append(string)
+                        TextLen.append(len(string))
+                        TextCount.append(cnt)
+    return Integer, IntegerCount, Float, FloatCount, Date, DateOrigin, DateCount, Text, TextLen, TextCount
 
-def handleIntFloat(vals):
-	count = len(vals)
+
+def handleIntFloat(vals, counts):
+	count = np.sum(counts)
 	maxVal = np.max(vals)
 	minVal = np.min(vals)
-	mean = np.mean(vals)
-	std = np.std(vals)
+	mean = np.dot(vals, counts)/count
+	std = np.sqrt(np.dot((vals-mean)**2, counts)/count)
 	return count, maxVal, minVal, mean, std
 
 
-def handleDate(dates, dates_origin):
-	count = len(dates)
+def handleDate(dates, dates_origin, counts):
+	count = np.sum(counts)
 	maxInd = np.argmax(dates)
 	maxVal = dates_origin[maxInd]
 	minInd = np.argmin(dates)
@@ -93,13 +84,13 @@ def handleDate(dates, dates_origin):
 	return count, maxVal, minVal
 
 
-def handleText(texts, texts_len):
-	count = len(texts)
+def handleText(texts, texts_len, counts):
+	count = np.sum(counts)
 	longestInd = np.argmax(texts_len)
 	longestVal = texts[longestInd]
 	shortestInd = np.argmin(texts_len)
 	shortestVal = texts[shortestInd]
-	avgLen = np.mean(texts_len)
+	avgLen = np.dot(texts_len, counts)/count
 	return count, shortestVal, longestVal, avgLen
 
 # add for loop for files
@@ -145,8 +136,10 @@ for fileName in datasetName[start:end]:
 		emptyCount = empty.count()
 		nonEmpty = column.select(colname).where(col(colname).isNotNull())
 		nonEmptyCount = nonEmpty.count()
-		distinctCount = nonEmpty.distinct().count()
-		top5 = nonEmpty.groupBy(colname).count().sort(col("count").desc()).rdd.map(lambda x:(x[0], x[1])).collect()[:5]
+		col_group = nonEmpty.groupBy(colname).count()
+		distinctCount = col_group.count()
+		nonEmp_list = col_group.sort(col("count").desc()).rdd.map(lambda x:(x[0], x[1])).collect()
+		top5 = nonEmp_list[:5]
 		jsonCol = {}
 		jsonCol['column_name'] = colname
 		jsonCol['number_non_empty_cells'] = nonEmptyCount
@@ -154,41 +147,40 @@ for fileName in datasetName[start:end]:
 		jsonCol['number_distinct_values'] = distinctCount
 		jsonCol['frequent_values'] = top5
 		jsonCol['data_types'] = []
-		nonEmp_list = nonEmpty.rdd.map(lambda x:x[0]).collect()
-		Int, Flt, Date, DateOrigin, Text, TextLen = stringType(nonEmp_list)
+		Int, IntCount, Flt, FltCount, Date, DateOrigin, DateCount, Text, TextLen, TextCount = stringType(nonEmp_list)
 		if len(Int) > 0:
-			countInt, maxValInt, minValInt, meanInt, stdInt = handleIntFloat(Int)
+			countInt, maxValInt, minValInt, meanInt, stdInt = handleIntFloat(Int, IntCount)
 			jsonInt = {}
 			jsonInt['type'] = "INTEGER (LONG)"
-			jsonInt['count'] = countInt
+			jsonInt['count'] = int(countInt)
 			jsonInt['max_value'] = int(maxValInt)
 			jsonInt['min_value'] = int(minValInt)
 			jsonInt['mean'] = meanInt
 			jsonInt['stddev'] = stdInt
 			jsonCol['data_types'].append(jsonInt)
 		if len(Flt) > 0:
-			countFlt, maxValFlt, minValFlt, meanFlt, stdFlt = handleIntFloat(Flt)
+			countFlt, maxValFlt, minValFlt, meanFlt, stdFlt = handleIntFloat(Flt, FltCount)
 			jsonFlt = {}
 			jsonFlt['type'] = "REAL"
-			jsonFlt['count'] = countFlt
+			jsonFlt['count'] = int(countFlt)
 			jsonFlt['max_value'] = maxValFlt
 			jsonFlt['min_value'] = minValFlt
 			jsonFlt['mean'] = meanFlt
 			jsonFlt['stddev'] = stdFlt
 			jsonCol['data_types'].append(jsonFlt)
 		if len(Date) > 0:
-			countDate, maxValDate, minValDate = handleDate(Date, DateOrigin)
+			countDate, maxValDate, minValDate = handleDate(Date, DateOrigin, DateCount)
 			jsonDate = {}
 			jsonDate['type'] = "DATE/TIME"
-			jsonDate['count'] = countDate
+			jsonDate['count'] = int(countDate)
 			jsonDate['max_value'] = maxValDate
 			jsonDate['min_value'] = minValDate
 			jsonCol['data_types'].append(jsonDate)
 		if len(Text) > 0:
-			countText, shortestText, longestText, avgLenText = handleText(Text, TextLen)
+			countText, shortestText, longestText, avgLenText = handleText(Text, TextLen, TextCount)
 			jsonText = {}
 			jsonText['type'] = "TEXT"
-			jsonText['count'] = countText
+			jsonText['count'] = int(countText)
 			jsonText['shortest_values'] = shortestText
 			jsonText['longest_values'] = longestText
 			jsonText['average_length'] = avgLenText
