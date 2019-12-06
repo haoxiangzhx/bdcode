@@ -2,6 +2,15 @@ module load python/gnu/3.6.5
 
 module load spark/2.4.0
 
+time spark-submit   --master local[8]   --conf spark.executor.memoryOverhead=3G   --executor-memory 6G   task1.py
+
+time spark-submit \
+  --master local[8] \
+  --conf spark.executor.memoryOverhead=3G \
+  --executor-memory 6G \
+  task1.py
+
+time spark-submit   --master local[8]   --conf spark.executor.memoryOverhead=3G   --executor-memory 6G   speedupTest.py 1662 1663
 
 time spark-submit task1.py
 
