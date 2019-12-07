@@ -4,11 +4,17 @@ module load spark/2.4.0
 
 time spark-submit   --master local[8]   --conf spark.executor.memoryOverhead=3G   --executor-memory 6G   task1.py
 
+time spark-submit --master local[8] --conf spark.executor.memoryOverhead=16G --driver-memory 32G --executor-memory 32G task1.py 1662 1663
+
+time spark-submit --master local[8] --conf spark.executor.memoryOverhead=16G --driver-memory 32G task1.py 1662 1663
+
 time spark-submit \
-  --master local[8] \
-  --conf spark.executor.memoryOverhead=3G \
-  --executor-memory 6G \
-  task1.py
+  --num-executors 4 \
+  --executor-cores 2 \
+  --conf spark.executor.memoryOverhead=16G \
+  --driver-memory 32G \
+  --executor-memory 32G \
+  task1.py 1662 1663
 
 time spark-submit   --master local[8]   --conf spark.executor.memoryOverhead=3G   --executor-memory 6G   speedupTest.py 1662 1663
 
