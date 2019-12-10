@@ -1,0 +1,13 @@
+value,label,count
+C1-WALK-UP,building_classification,1
+C4-WALK-UP,building_classification,1
+C5-WALK-UP,building_classification,1
+C7-WALK-UP,building_classification,1
+D1-ELEVATOR,building_classification,1
+D2-ELEVATOR,building_classification,1
+D3-ELEVATOR,building_classification,1
+D5-ELEVATOR,building_classification,1
+D6-ELEVATOR,building_classification,1
+D7-ELEVATOR,building_classification,1
+D8-ELEVATOR,building_classification,1
+D9-ELEVATOR,building_classification,1

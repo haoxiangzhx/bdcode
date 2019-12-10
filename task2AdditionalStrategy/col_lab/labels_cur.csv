@@ -1,0 +1,244 @@
+﻿File,Column,Label,Size,id
+2bmr-jdsv,DBA,business_name,0,0
+2sps-j9st,PERSON FIRST NAME,person_name,0,1
+2sps-j9st,PERSON LAST NAME,person_name,0,2
+2v9c-2k7f,DBA,business_name,0,3
+2xh6-psuq,Project School Name,school_name,0,4
+3aka-ggej,CORE SUBJECT (MS CORE and 09-12 ONLY),area_of_study,0,5
+3aka-ggej,BOROUGH,borough,0,6
+3btx-p4av,COMPARABLE RENTAL â€“ 2 â€“Building Classification,building_classification,0,7
+43nn-pn8j,DBA,business_name,0,8
+4fnu-iufz,Agency,city_agency,0,9
+4n2j-ut8i,SCHOOL LEVEL*,school_level,0,10
+4qii-5cz9,BOROUGH,borough,0,11
+5nz7-hh6t,CORE SUBJECT (MS CORE and 09-12 ONLY),area_of_study,0,12
+5nz7-hh6t,BORO,borough,0,13
+62mr-ukqs,BROOKLYN â€“ COOPERATIVES COMPARABLE PROPERTIES â€“ Building Classification,building_classification,0,14
+6anw-twe4,FirstName,person_name,0,15
+6anw-twe4,LastName,person_name,0,16
+6je4-4x7e,SCHOOL LEVEL*,school_level,0,17
+6je4-4x7e,SCHOOL,school_name,0,18
+6kcb-9g8d,independentwebsite,website,0,19
+6kcb-9g8d,neighborhood,neighborhood,0,20
+6wcu-cfa3,CORE COURSE (MS CORE and 9-12 ONLY),subject_in_school,0,21
+6ypq-ih9a,CORE SUBJECT (MS CORE and 09-12 ONLY),area_of_study,0,22
+72ss-25qh,Agency ID,city_agency,0,23
+72ss-25qh,Borough,borough,0,24
+72ss-25qh,Website,website,0,25
+7btz-mnc8,Provider Last Name,person_name,0,26
+7jkp-5w5g,Agency,city_agency,0,27
+7yds-6i8e,CORE SUBJECT (MS CORE and 9-12 ONLY),area_of_study,0,28
+8gr8-ngjc,phone,phone_number,0,29
+8i43-kna8,CORE SUBJECT,area_of_study,0,30
+8k4x-9mp5,Last Name (only 2014-15),person_name,0,31
+956m-xy24,COMPARABLE RENTAL 1  Building Classification,building_classification,0,32
+956m-xy24,MANHATTAN CONDOMINIUM PROPERTY Building Classification,building_classification,0,33
+956m-xy24,MANHATTAN CONDOMINIUM PROPERTY Neighborhood,neighborhood,0,34
+a5qt-5jpu,STATEN ISLAND CONDOMINIUM PROPERTY Neighborhood,neighborhood,0,35
+ac4n-c5re,PRINCIPAL_PHONE_NUMBER,phone_number,0,36
+ad4c-mphb,MANHATTAN CONDOMINIUM PROPERTY Building Classification,building_classification,0,37
+ajgi-hpq9,BORO,borough,0,38
+ajgi-hpq9,CORE SUBJECT (MS CORE and 09-12 ONLY),area_of_study,0,39
+ajxm-kzmj,NeighborhoodName,neighborhood,0,40
+bawj-6bgn,BRONX CONDOMINIUM PROPERTY Building Classification,building_classification,0,41
+bss9-579f,BROOKLYN  CONDOMINIUMS COMPARABLE PROPERTIES  Neighborhood,neighborhood,0,42
+by6m-6zpb,interest,area_of_study,0,43
+cgz5-877h,SCHOOL LEVEL*,school_level,0,44
+ci93-uc8s,Website,website,0,45
+ci93-uc8s,Vendor_DBA,business_name,0,46
+cvh6-nmyi,SCHOOL LEVEL*,school_level,0,47
+cwg5-cqkm,QUEENS  COOPERATIVES COMPARABLE PROPERTIES  Building Classification,building_classification,0,48
+cwqt-nvfg,Boro,borough,0,49
+cyfw-hfqk,STATEN ISLAND CONDOMINIUM PROPERTY Neighborhood,neighborhood,0,50
+cznr-hmrv,School Name,school_name,0,51
+d3ge-anaz,CORE COURSE (MS CORE and 9-12 ONLY),subject_in_school,0,52
+diks-hcwd,School Name,school_name,0,53
+dj4e-3xrn,SCHOOL LEVEL*,school_level,0,54
+e9xc-u3ds,CANDMI,person_name,0,55
+eamj-ryxu,Agency,city_agency,0,56
+en2c-j6tw,BRONX CONDOMINIUM PROPERTY Building Classification,building_classification,0,57
+en2c-j6tw,BRONX CONDOMINIUM PROPERTY Neighborhood,neighborhood,0,58
+f7qh-bcr5,CORE SUBJECT (MS CORE and 9-12 ONLY),area_of_study,0,59
+fbaw-uq4e,Location 1,lat_lon_cord,0,60
+ffnc-f3aa,SCHOOL LEVEL*,school_level,0,61
+fgq8-am2v,Website,website,0,62
+fp78-wt5b,address,address,0,63
+fp78-wt5b,phonenumber,phone_number,0,64
+fxs2-faah,PRINCIPAL_PHONE_NUMBER,phone_number,0,65
+fzv4-jan3,SCHOOL LEVEL*,school_level,0,66
+gahm-hu5h,BRONX â€“ COOPERATIVES COMPARABLE PROPERTIES â€“ Neighborhood,neighborhood,0,67
+gahm-hu5h,COMPARABLE RENTAL â€“ 2 â€“Neighborhood,neighborhood,0,68
+gez6-674h,CORE SUBJECT (MS CORE and 9-12 ONLY),area_of_study,0,69
+gpwd-npar,LOCATION,lat_lon_cord,0,70
+i6b5-j7bu,TOSTREETNAME,street_name,0,71
+i8ys-e4pm,CORE COURSE(9-12 ONLY),subject_in_school,0,72
+jhjm-vsp8,Agency,city_agency,0,73
+jxyc-rxiv,MANHATTAN â€“ COOPERATIVES COMPARABLE PROPERTIES â€“ Neighborhood,neighborhood,0,74
+jxyc-rxiv,COMPARABLE RENTAL â€“ 2 â€“Building Classification,Bulding classification,0,75
+k4xi-fxp5,Borough,borough,0,76
+kiyv-ks3f,Website,website,0,77
+kz72-dump,CORE SUBJECT (MS CORE and 09-12 ONLY),area_of_study,0,78
+m3fi-rt3k,Agency ,city_agency,0,79
+mdcw-n682,Agency Acronym,city_agency,0,80
+mdcw-n682,First Name,person_name,0,81
+mdcw-n682,Last Name,person_name,0,82
+mdcw-n682,Middle Initial,person_name,0,83
+mjux-q9d4,SCHOOL LEVEL*,school_level,0,84
+mqdy-gu73,Color,color,0,85
+n84m-kx4j,VEHICLE MAKE,car_make,0,86
+nhms-9u6g,"Name (Last, First)",person_name,0,87
+p2d7-vcsb,COMPLAINT/INQUIRY STREET ADDRESS,address,0,88
+p2d7-vcsb,ACCOUNT PHONE,phone_number,0,89
+pchn-eaxn,School Name,school_name,0,90
+pdpg-nn8i,SCHOOL NAME,school_name,0,91
+pf3n-zn2m,StreetAddress,address,0,92
+pgtq-ht5f,CORE SUBJECT (MS CORE and 9-12 ONLY),area_of_study,0,93
+pqg4-dm6b,Address1,address,0,94
+qbce-2kcu,COMPARABLE RENTAL â€“ 2 â€“Neighborhood,neighborhood,0,95
+qbjq-atxv,Agency,city_agency,0,96
+qcdj-rwhu,BUSINESS_NAME2,business_name,0,97
+qjvp-rnsx,Website,website,0,98
+qpm9-j523,org_neighborhood,neighborhood,0,99
+s3k6-pzi2,interest2,area_of_study,0,100
+s3k6-pzi2,neighborhood,neighborhood,0,101
+s3k6-pzi2,interest3,area_of_study,0,102
+sxx4-xhzg,Park/Site Name,park_playground,0,103
+sxx4-xhzg,Park/Site Name,park_playground,0,103
+sybh-s59s,CORE SUBJECT (MS CORE and 9-12 ONLY),area_of_study,0,104
+sybh-s59s,SCHOOL NAME,school_name,0,105
+tg3t-nh4h,BusinessName,business_name,0,106
+tmr6-dfvn,School Name,school_name,0,107
+tu4y-7fre,Boro,borough,0,108
+tvhc-4n5n,REGISTRY_ADDRESS,address,0,109
+u35m-9t32,Address,address,0,110
+ub9e-s7ai,CORE SUBJECT (MS CORE and 09-12 ONLY),area_of_study,0,111
+upwt-zvh3,SCHOOL LEVEL*,school_level,0,112
+upwt-zvh3,SCHOOL,school_name,0,113
+uq7m-95z8,interest3,area_of_study,0,114
+uq7m-95z8,website,website,0,115
+uq7m-95z8,interest4,area_of_study,0,116
+uq7m-95z8,interest2,area_of_study,0,117
+uq7m-95z8,interest5,area_of_study,0,118
+urzf-q2g5,Phone Number,phone_number,0,119
+vhah-kvpj,Borough,borough,0,120
+vr8p-8shw,DVT_MAKE,car_make,0,121
+vrn4-2abs,SCHOOL LEVEL*,school_level,0,122
+vw9i-7mzq,website,website,0,123
+vw9i-7mzq,interest6,area_of_study,0,124
+vw9i-7mzq,interest2,area_of_study,0,125
+vw9i-7mzq,interest5,area_of_study,0,126
+weg5-33pj,SCHOOL LEVEL*,school_level,0,127
+wks3-66bn,School Name,school_name,0,128
+wvts-6tdf,Address,address,0,129
+x5tk-fa54,Agency Name,city_agency,0,130
+xck4-5xd5,phone,phone_number,0,131
+xk6g-r83g,Agency,city_agency,0,132
+xne4-4v8f,SCHOOL LEVEL*,school_level,0,133
+xx4a-msrm,Address 1,address,0,134
+y4fw-iqfr,Location 1,lat_lon_cord,0,135
+yahh-6yjc,School Type,school_level,0,136
+yayv-apxh,SCHOOL LEVEL*,school_level,0,137
+yggg-xf4b,Website,website,0,138
+ykx2-pdw8,QUEENS â€“ COOPERATIVES COMPARABLE PROPERTIES â€“ Building Classification,building_classification,0,139
+ytjm-yias,CORE SUBJECT (MS CORE and 09-12 ONLY),area_of_study,0,140
+8vgb-zm6e,"City, State, Zip ",address,0.01,141
+kwmq-dbub,CANDMI,person_name,0.01,142
+myei-c3fa,Neighborhood 3,neighborhood,0.01,143
+t8hj-ruu2,Business Phone Number,phone_number,0.01,144
+t8hj-ruu2,First Name,person_name,0.01,145
+b9km-gdpy,ZIP,zip_code,0.02,146
+bs8b-p36w,STREET,street_name,0.02,147
+itd7-gx3g,Location 1,lat_lon_cord,0.02,148
+k3cd-yu9d,CANDMI,person_name,0.02,149
+rbx6-tga4,Applicant Business Name,address,0.02,150
+w9ak-ipjd,Applicant Last Name,person_name,0.02,151
+w9ak-ipjd,Filing Representative First Name,person_name,0.02,152
+w9ak-ipjd,Owner's Business Name,business_name,0.02,153
+52dp-yji6,Owner Last Name,person_name,0.03,154
+52dp-yji6,Owner First Name,person_name,0.03,155
+pq5i-thsu,DVC_MAKE,car_make,0.03,156
+qu8g-sxqf,First Name,person_name,0.03,157
+qu8g-sxqf,MI,person_name,0.03,158
+735p-zed8,CANDMI,person_name,0.04,159
+kj4p-ruqc,StreetName,street_name,0.04,160
+n8p9-7jxp,ZIP,zip_code,0.04,161
+feu5-w2e2,BusinessZip,zip_code,0.06,162
+ptev-4hud,Zip,zip_code,0.06,163
+vx8i-nprf,MI,person_name,0.06,164
+5uac-w243,Lat_Lon,lat_lon_cord,0.07,165
+5uac-w243,PREM_TYP_DESC,location_type,0.07,166
+dm9a-ab7w,AUTH_REP_LAST_NAME,person_name,0.09,167
+dm9a-ab7w,STREET_NAME,street_name,0.09,168
+dm9a-ab7w,OWNER_ZIP,zip_code,0.09,169
+dm9a-ab7w,APPLICANT_FIRST_NAME,person_name,0.09,170
+dm9a-ab7w,APPLICANT_LAST_NAME,person_name,0.09,171
+bjuu-44hx,DVV_MAKE,car_make,0.1,172
+dpm2-m9mq,applicant_zip,zip_code,0.1,173
+kyad-zm4j,Location,lat_lon_cord,0.11,174
+cspg-yi7g,ADDRESS,address,0.14,175
+uwyv-629c,StreetName,street_name,0.16,176
+a9md-ynri,MI,person_name,0.23,177
+4pt5-3vv4,Location,lat_lon_cord,0.25,178
+bdjm-n7q4,CrossStreet2,street_name,0.29,179
+bdjm-n7q4,Location,lat_lon_cord,0.29,180
+h9gi-nx95,VEHICLE TYPE CODE 2,vehicle_type,0.33,181
+h9gi-nx95,VEHICLE TYPE CODE 3,vehicle_type,0.33,182
+h9gi-nx95,VEHICLE TYPE CODE 5,vehicle_type,0.33,183
+h9gi-nx95,VEHICLE TYPE CODE 1,vehicle_type,0.33,184
+h9gi-nx95,VEHICLE TYPE CODE 4,vehicle_type,0.33,185
+p937-wjvj,HOUSE_NUMBER,address_number,0.39,186
+pvqr-7yc4,Vehicle Body Type,vehicle_type,0.4,187
+pvqr-7yc4,Vehicle Make,car_make,0.4,188
+3h2n-5cm9,STREET,street_name,0.43,189
+sqcr-6mww,School Name,school_name,0.53,190
+sqcr-6mww,Street Name,street_name,0.53,191
+sv2w-rv3k,BORO,borough,0.76,192
+hy4q-igkk,Cross Street 2,street_name,0.86,193
+hy4q-igkk,School name,school_name,0.86,194
+sxmw-f24h,Park Facility Name,park_playground,0.86,195
+sxmw-f24h,Park Facility Name,school_name,0.86,195
+sxmw-f24h,Location,lat_lon_cord,0.86,196
+3rfa-3xsf,Cross Street 2,street_name,0.87,197
+3rfa-3xsf,Street Name,street_name,0.87,198
+3rfa-3xsf,Incident Zip,zip_code,0.87,199
+3rfa-3xsf,School Phone Number,phone_number,0.87,200
+3rfa-3xsf,Location,lat_lon_cord,0.87,201
+uzcy-9puk,Park Facility Name,park_playground,0.9,202
+uzcy-9puk,Park Facility Name,park_playground,0.9,202
+aiww-p3af,Park Facility Name,park_playground,0.91,203
+aiww-p3af,Park Facility Name,park_playground,0.91,203
+aiww-p3af,Intersection Street 2,street_name,0.91,204
+ic3t-wcy2,Applicant's First Name,person_name,1,205
+bty7-2jhb,Site Safety Mgr's Last Name,person_name,1.16,206
+kevu-8hby,STR_NAME,street_name,1.25,207
+ipu4-2q9a,Site Safety Mgr's First Name,person_name,1.55,208
+ipu4-2q9a,Site Safety Mgr's Last Name,person_name,1.55,209
+jt7v-77mi,Vehicle Color,color,1.66,210
+jt7v-77mi,Vehicle Make,car_make,1.66,211
+faiq-9dfq,Vehicle Color,color,1.86,212
+faiq-9dfq,Vehicle Body Type,vehicle_type,1.86,213
+qgea-i56i,PREM_TYP_DESC,location_type,1.88,214
+kiv2-tbus,Vehicle Color,color,1.92,215
+kiv2-tbus,Vehicle Body Type,vehicle_type,1.92,216
+kiv2-tbus,Vehicle Make,car_make,1.92,217
+2bnn-yakx,Vehicle Body Type,vehicle_type,1.94,218
+2bnn-yakx,Vehicle Make,car_make,1.94,219
+2bnn-yakx,Vehicle Color,color,1.94,220
+a5td-mswe,Vehicle Color,color,2,221
+c284-tqph,Vehicle Make,car_make,2.33,222
+c284-tqph,Vehicle Color,color,2.33,223
+72mk-a8z7,ORGANIZATION PHONE,phone_number,0,229
+7btz-mnc8,Provider First Name,person_name,0,230
+8isn-pgv3,Owner Telephone,phone_number,0,231
+p937-wjvj,STREET_NAME,street_name,0.4,233
+aiww-p3af,Incident Zip,zip_code,0.9,234
+aiww-p3af,Cross Street 2,street_name,0.9,235
+uzcy-9puk,Street Name,street_name,0.9,236
+6rrm-vxj9,parkname,street_name,0,237
+4twk-9yq2,CrossStreet2,street_name,0.02,238
+hy4q-igkk,Street Name,street_name,0.86,239
+3rfa-3xsf,School Name,street_name,0.87,240
+ydkf-mpxb,CrossStreetName,street_name,2.11,241
+ci93-uc8s,Address1,address,0,242
+gpwd-npar,INCIDENT_ADDRESS,address,0,243
+ji82-xba5,address,address,0.03,244

@@ -1,0 +1,3729 @@
+value,label,count
+93 avenue elderts lane,address,address
+david sheridan plaza,building_name,building_name
+the plaza,building_name,building_name
+southgate plaza,building_name,building_name
+rockefeller plaza,building_name,building_name
+samuel dickstein plaza,building_name,building_name
+grand army plaza,building_name,building_name
+new dorp plaza,building_name,building_name
+queens plaza,building_name,building_name
+van wyck ep nb en college pt bl,college_name,college_name
+nycta,location_type,location_type
+bend,location_type,location_type
+ida court,park_playground,park_playground
+mitchel court,park_playground,park_playground
+harbor view court,park_playground,park_playground
+renaissance court,park_playground,park_playground
+destiny court,park_playground,park_playground
+judith court,park_playground,park_playground
+jake court,park_playground,park_playground
+graham court,park_playground,park_playground
+wellington court,park_playground,park_playground
+williams court,park_playground,park_playground
+greenwich court,park_playground,park_playground
+4 court,park_playground,park_playground
+yacht club cove,park_playground,park_playground
+star court,park_playground,park_playground
+tompkins court,park_playground,park_playground
+grove court,park_playground,park_playground
+lawn court,park_playground,park_playground
+jillian court,park_playground,park_playground
+larch court,park_playground,park_playground
+brienna court,park_playground,park_playground
+taft court,park_playground,park_playground
+savin court,park_playground,park_playground
+maxie court,park_playground,park_playground
+waldorf court,park_playground,park_playground
+tysen court,park_playground,park_playground
+sally court,park_playground,park_playground
+zachary court,park_playground,park_playground
+boulevard court,park_playground,park_playground
+rene court,park_playground,park_playground
+cooper square,park_playground,park_playground
+lama court,park_playground,park_playground
+temple court,park_playground,park_playground
+haven esplanade,park_playground,park_playground
+poi court,park_playground,park_playground
+nutwood court,park_playground,park_playground
+preston court,park_playground,park_playground
+park row,park_playground,park_playground
+teakwood court,park_playground,park_playground
+wood court,park_playground,park_playground
+turf court,park_playground,park_playground
+marie court,park_playground,park_playground
+keiber court,park_playground,park_playground
+waterford court,park_playground,park_playground
+davis court,park_playground,park_playground
+juni court,park_playground,park_playground
+lundi court,park_playground,park_playground
+nash court,park_playground,park_playground
+constance court,park_playground,park_playground
+barlow court,park_playground,park_playground
+fox hunt court,park_playground,park_playground
+beacon court,park_playground,park_playground
+catherine court,park_playground,park_playground
+summit court,park_playground,park_playground
+parkway court,park_playground,park_playground
+lyceum court,park_playground,park_playground
+gunnison court,park_playground,park_playground
+coonley court,park_playground,park_playground
+tabor court,park_playground,park_playground
+karen court,park_playground,park_playground
+michael court,park_playground,park_playground
+maybury court,park_playground,park_playground
+washington park,park_playground,park_playground
+naso court,park_playground,park_playground
+rita brady square,park_playground,park_playground
+cook court,park_playground,park_playground
+golda meir square,park_playground,park_playground
+rau court,park_playground,park_playground
+brower court,park_playground,park_playground
+cypress court,park_playground,park_playground
+reynolds court,park_playground,park_playground
+cottontail court,park_playground,park_playground
+blake court,park_playground,park_playground
+tessa court,park_playground,park_playground
+clinton court,park_playground,park_playground
+central park gr hill,park_playground,park_playground
+bridge plaza court,park_playground,park_playground
+emily court,park_playground,park_playground
+dormans court,park_playground,park_playground
+richmond court,park_playground,park_playground
+dunne court,park_playground,park_playground
+santo court,park_playground,park_playground
+holbernt court,park_playground,park_playground
+o connell court,park_playground,park_playground
+brightwater court,park_playground,park_playground
+gramercy park,park_playground,park_playground
+dunton court,park_playground,park_playground
+sierra court,park_playground,park_playground
+weiher court,park_playground,park_playground
+cary court,park_playground,park_playground
+salamander court,park_playground,park_playground
+hanover square,park_playground,park_playground
+mathewson court,park_playground,park_playground
+davidson court,park_playground,park_playground
+union court,park_playground,park_playground
+gabrielle court,park_playground,park_playground
+adam court,park_playground,park_playground
+doone court,park_playground,park_playground
+carlton court,park_playground,park_playground
+don court,park_playground,park_playground
+vienna court,park_playground,park_playground
+bennett court,park_playground,park_playground
+tennis court,park_playground,park_playground
+sobel court,park_playground,park_playground
+saccheri court,park_playground,park_playground
+calhoun court,park_playground,park_playground
+ridge court,park_playground,park_playground
+vermont court,park_playground,park_playground
+olivia court,park_playground,park_playground
+leverett court,park_playground,park_playground
+wilton court,park_playground,park_playground
+walker court,park_playground,park_playground
+chapin court,park_playground,park_playground
+ocean court,park_playground,park_playground
+owls head court,park_playground,park_playground
+susan court,park_playground,park_playground
+desmond court,park_playground,park_playground
+howard court,park_playground,park_playground
+madeline court,park_playground,park_playground
+locust court,park_playground,park_playground
+thelma court,park_playground,park_playground
+jansen street,street_name,street_name
+fresh meadow lane,street_name,street_name
+115 road,street_name,street_name
+118 road,street_name,street_name
+hoyt street,street_name,street_name
+mayville street,street_name,street_name
+42 street,street_name,street_name
+seven gables road,street_name,street_name
+legion place,street_name,street_name
+34 avenue,street_name,street_name
+irvine street,street_name,street_name
+glen avenue,street_name,street_name
+hunter avenue,street_name,street_name
+west 207 street,street_name,street_name
+pitman avenue,street_name,street_name
+252 street,street_name,street_name
+hazen street,street_name,street_name
+pacific street,street_name,street_name
+128 street,street_name,street_name
+schieffelin avenue,street_name,street_name
+earley place,street_name,street_name
+token street,street_name,street_name
+trinity avenue,street_name,street_name
+ellicott place,street_name,street_name
+112 place,street_name,street_name
+homecrest avenue,street_name,street_name
+bronx park east,street_name,street_name
+brown street,street_name,street_name
+knapp street,street_name,street_name
+sophia lane,street_name,street_name
+48 avenue,street_name,street_name
+schuyler street,street_name,street_name
+mosely avenue,street_name,street_name
+beach 45 street,street_name,street_name
+old beach 88 street,street_name,street_name
+washington square north,street_name,street_name
+surrey place,street_name,street_name
+east 170 street,street_name,street_name
+7 street,street_name,street_name
+65 road,street_name,street_name
+kell avenue,street_name,street_name
+dr m l king jr boulevard,street_name,street_name
+todt hill road,street_name,street_name
+portland place,street_name,street_name
+123 street,street_name,street_name
+east 233 street,street_name,street_name
+kingsborough 2 walk,street_name,street_name
+west 135 street,street_name,street_name
+dennis street,street_name,street_name
+carpenter avenue,street_name,street_name
+drake street,street_name,street_name
+west 41 street,street_name,street_name
+west 176 street,street_name,street_name
+portage avenue,street_name,street_name
+eastchester road,street_name,street_name
+sinclair avenue,street_name,street_name
+ocean terrace,street_name,street_name
+151 street,street_name,street_name
+westfield avenue,street_name,street_name
+montgomery street,street_name,street_name
+st marys street,street_name,street_name
+clover place,street_name,street_name
+east 235 street,street_name,street_name
+springfield boulevard,street_name,street_name
+washington square west,street_name,street_name
+elizabeth street,street_name,street_name
+52 drive,street_name,street_name
+fingal street,street_name,street_name
+taaffe place,street_name,street_name
+176 street,street_name,street_name
+141 street,street_name,street_name
+wythe avenue,street_name,street_name
+huguenot avenue,street_name,street_name
+grasmere drive,street_name,street_name
+dean avenue,street_name,street_name
+miller place,street_name,street_name
+woolley avenue,street_name,street_name
+sutton place,street_name,street_name
+beach 34 street,street_name,street_name
+edsall avenue,street_name,street_name
+sloan street,street_name,street_name
+east figurea avenue,street_name,street_name
+86 street,street_name,street_name
+162 street,street_name,street_name
+east 49 street,street_name,street_name
+lamont avenue,street_name,street_name
+ferris street,street_name,street_name
+st lukes avenue,street_name,street_name
+83 avenue,street_name,street_name
+centre avenue,street_name,street_name
+hinsdale street,street_name,street_name
+kenilworth place,street_name,street_name
+division place,street_name,street_name
+ingram street,street_name,street_name
+ramble road,street_name,street_name
+caffrey avenue,street_name,street_name
+secor avenue,street_name,street_name
+lander avenue,street_name,street_name
+center boulevard,street_name,street_name
+nugent avenue,street_name,street_name
+28 street,street_name,street_name
+forrest street,street_name,street_name
+east 36 street,street_name,street_name
+jumel place,street_name,street_name
+15 avenue,street_name,street_name
+colony avenue,street_name,street_name
+sickles street,street_name,street_name
+west 190 street,street_name,street_name
+hutchinson riv parkway,street_name,street_name
+booth memorial avenue,street_name,street_name
+west 77 street,street_name,street_name
+60 place,street_name,street_name
+sanford avenue,street_name,street_name
+allerton avenue,street_name,street_name
+eagle street,street_name,street_name
+east new york avenue,street_name,street_name
+west 11 street,street_name,street_name
+kalver place,street_name,street_name
+bradhurst avenue,street_name,street_name
+aultman avenue,street_name,street_name
+valleyview place,street_name,street_name
+132 street,street_name,street_name
+forsyth street,street_name,street_name
+prospect expressway,street_name,street_name
+19 road,street_name,street_name
+east 193 street,street_name,street_name
+north gannon avenue,street_name,street_name
+102 road,street_name,street_name
+idlease place,street_name,street_name
+division street,street_name,street_name
+devon avenue,street_name,street_name
+osman place,street_name,street_name
+otsego street,street_name,street_name
+east 45 street,street_name,street_name
+throgmorton avenue,street_name,street_name
+ionia avenue,street_name,street_name
+east 144 street,street_name,street_name
+32 avenue,street_name,street_name
+roberts avenue,street_name,street_name
+campus road,street_name,street_name
+eagle road,street_name,street_name
+williamsbridge road,street_name,street_name
+hopkins avenue,street_name,street_name
+raymond place,street_name,street_name
+forest street,street_name,street_name
+norton avenue,street_name,street_name
+lincoln road,street_name,street_name
+park terrace east,street_name,street_name
+randall avenue,street_name,street_name
+east 147 street,street_name,street_name
+botanical grdn bridge,street_name,street_name
+drew street,street_name,street_name
+east 87 street,street_name,street_name
+east 229 street,street_name,street_name
+vermont place,street_name,street_name
+67 avenue,street_name,street_name
+tiemann avenue,street_name,street_name
+grant avenue,street_name,street_name
+sherman avenue,street_name,street_name
+margaret street,street_name,street_name
+peck slip,street_name,street_name
+schermerhorn street,street_name,street_name
+huxley avenue,street_name,street_name
+dewey avenue,street_name,street_name
+15 road,street_name,street_name
+young street,street_name,street_name
+london road,street_name,street_name
+south bridge street,street_name,street_name
+battery place,street_name,street_name
+teller avenue,street_name,street_name
+west 85 street,street_name,street_name
+rodney street,street_name,street_name
+warwick avenue,street_name,street_name
+roman avenue,street_name,street_name
+henley road,street_name,street_name
+jewel mc coy lane,street_name,street_name
+holden boulevard,street_name,street_name
+etna street,street_name,street_name
+kosciusko bridge,street_name,street_name
+st marys avenue,street_name,street_name
+259 street,street_name,street_name
+kane street,street_name,street_name
+east 111 street,street_name,street_name
+davis avenue,street_name,street_name
+77 road,street_name,street_name
+brisbin street,street_name,street_name
+sullivan place,street_name,street_name
+caney road,street_name,street_name
+125 street,street_name,street_name
+114 street,street_name,street_name
+riga street,street_name,street_name
+east 34 street,street_name,street_name
+thayer street,street_name,street_name
+sutton street,street_name,street_name
+belmont avenue,street_name,street_name
+deisius street,street_name,street_name
+218 place,street_name,street_name
+louisiana avenue,street_name,street_name
+picadilly place,street_name,street_name
+lincoln street,street_name,street_name
+dreyer avenue,street_name,street_name
+kingsland avenue,street_name,street_name
+crotona park north,street_name,street_name
+claremont avenue,street_name,street_name
+heyward street,street_name,street_name
+86 road,street_name,street_name
+west 230 street,street_name,street_name
+murdock avenue,street_name,street_name
+173 street,street_name,street_name
+lyndale lane,street_name,street_name
+st johns avenue,street_name,street_name
+florence street,street_name,street_name
+monroe avenue,street_name,street_name
+east 115 street,street_name,street_name
+hastings street,street_name,street_name
+gower street,street_name,street_name
+gouverneur avenue,street_name,street_name
+rene drive,street_name,street_name
+west 12 road,street_name,street_name
+amtrak railroad,street_name,street_name
+west 69 street,street_name,street_name
+york street,street_name,street_name
+dorchester road,street_name,street_name
+nutley place,street_name,street_name
+rochester avenue,street_name,street_name
+st andrew's road,street_name,street_name
+189 street,street_name,street_name
+centre street,street_name,street_name
+beach 39 street,street_name,street_name
+highland boulevard,street_name,street_name
+woodhaven boulevard,street_name,street_name
+mc cully avenue,street_name,street_name
+richard avenue,street_name,street_name
+210 street,street_name,street_name
+271 street,street_name,street_name
+west 88 street,street_name,street_name
+homelawn street,street_name,street_name
+rockwell avenue,street_name,street_name
+222 street,street_name,street_name
+crawford avenue,street_name,street_name
+north 15 street,street_name,street_name
+156 avenue,street_name,street_name
+fayette street,street_name,street_name
+monroe place,street_name,street_name
+ludwig street,street_name,street_name
+west 147 street,street_name,street_name
+west mosholu parkway north,street_name,street_name
+hendricks avenue,street_name,street_name
+250 street,street_name,street_name
+brighton 5 street,street_name,street_name
+ralph avenue,street_name,street_name
+colin place,street_name,street_name
+greta place,street_name,street_name
+fort place,street_name,street_name
+62 avenue,street_name,street_name
+remsen avenue,street_name,street_name
+cpe 102 approach,street_name,street_name
+trent street,street_name,street_name
+tallman street,street_name,street_name
+south greenleaf avenue,street_name,street_name
+lawton avenue,street_name,street_name
+melba street,street_name,street_name
+timpson place,street_name,street_name
+66 street,street_name,street_name
+217 street,street_name,street_name
+simonson avenue,street_name,street_name
+172 street,street_name,street_name
+hillside cemetery boundary,street_name,street_name
+minturn avenue,street_name,street_name
+interborough parkway,street_name,street_name
+north 11 street,street_name,street_name
+r f wagner sr place,street_name,street_name
+furman street,street_name,street_name
+bijou avenue,street_name,street_name
+89 avenue,street_name,street_name
+elm avenue,street_name,street_name
+belvedere street,street_name,street_name
+beach 38 street,street_name,street_name
+schurz avenue,street_name,street_name
+49 avenue,street_name,street_name
+village road,street_name,street_name
+whittier street,street_name,street_name
+seddon street,street_name,street_name
+martense avenue,street_name,street_name
+belair road,street_name,street_name
+howard street,street_name,street_name
+eldert street,street_name,street_name
+livonia avenue,street_name,street_name
+12 road,street_name,street_name
+west 121 street,street_name,street_name
+laurel hill boulevard,street_name,street_name
+egbert avenue,street_name,street_name
+domain street,street_name,street_name
+reads lane,street_name,street_name
+taylor street,street_name,street_name
+verona street,street_name,street_name
+east 73 street,street_name,street_name
+maple parkway,street_name,street_name
+pioneer street,street_name,street_name
+pearson street,street_name,street_name
+clifford place,street_name,street_name
+washington square east,street_name,street_name
+ridge road,street_name,street_name
+seaview avenue,street_name,street_name
+131 avenue,street_name,street_name
+lenox terrace place,street_name,street_name
+west 91 street,street_name,street_name
+hamilton avenue,street_name,street_name
+south 5 place,street_name,street_name
+cronston avenue,street_name,street_name
+dawson street,street_name,street_name
+prospect park west,street_name,street_name
+wild avenue,street_name,street_name
+139 road,street_name,street_name
+manilla street,street_name,street_name
+water street,street_name,street_name
+elizabeth road,street_name,street_name
+245 lane,street_name,street_name
+ireland street,street_name,street_name
+beach 72 street,street_name,street_name
+oswald place,street_name,street_name
+107 street,street_name,street_name
+denman street,street_name,street_name
+logan avenue,street_name,street_name
+walbrooke avenue,street_name,street_name
+bruckner boulevard,street_name,street_name
+willow road east,street_name,street_name
+perot street,street_name,street_name
+van cortlandt park east,street_name,street_name
+vesey street,street_name,street_name
+garfield avenue,street_name,street_name
+shore drive,street_name,street_name
+chester avenue,street_name,street_name
+douglas road,street_name,street_name
+shorefront parkway,street_name,street_name
+115 street,street_name,street_name
+east 37 street,street_name,street_name
+helena road,street_name,street_name
+dennett place,street_name,street_name
+150 street,street_name,street_name
+bay 16 street,street_name,street_name
+kiely place,street_name,street_name
+tone lane,street_name,street_name
+edward curry avenue,street_name,street_name
+perry avenue,street_name,street_name
+st patrick's place,street_name,street_name
+long island railroad,street_name,street_name
+matilda avenue,street_name,street_name
+137 avenue,street_name,street_name
+west 175 street,street_name,street_name
+east 84 street,street_name,street_name
+85 avenue,street_name,street_name
+willow place,street_name,street_name
+guinzburg road,street_name,street_name
+ovid place,street_name,street_name
+plimpton avenue,street_name,street_name
+168 street,street_name,street_name
+dalton avenue,street_name,street_name
+bay 44 street,street_name,street_name
+east 133 street,street_name,street_name
+bailey avenue,street_name,street_name
+butler avenue,street_name,street_name
+howton avenue,street_name,street_name
+booth street,street_name,street_name
+east 93 street,street_name,street_name
+east 22 street,street_name,street_name
+greentree lane,street_name,street_name
+east bay avenue,street_name,street_name
+88 avenue,street_name,street_name
+hillmeyer avenue,street_name,street_name
+kneeland avenue,street_name,street_name
+oriental boulevard,street_name,street_name
+seagirt avenue,street_name,street_name
+west 28 street,street_name,street_name
+199 street,street_name,street_name
+fairmount place,street_name,street_name
+west 220 street,street_name,street_name
+146 avenue,street_name,street_name
+haughwout avenue,street_name,street_name
+beach avenue,street_name,street_name
+tysen street,street_name,street_name
+75 avenue,street_name,street_name
+east 225 street,street_name,street_name
+meagher avenue,street_name,street_name
+thornton street,street_name,street_name
+skillman avenue,street_name,street_name
+wortman avenue,street_name,street_name
+prall avenue,street_name,street_name
+livingston street,street_name,street_name
+keating place,street_name,street_name
+mulberry street,street_name,street_name
+joseph avenue,street_name,street_name
+park avenue,street_name,street_name
+pinegrove street,street_name,street_name
+west 159 street,street_name,street_name
+minerva place,street_name,street_name
+stagg street,street_name,street_name
+west 155 street,street_name,street_name
+west 117 street,street_name,street_name
+crescent street,street_name,street_name
+72 avenue,street_name,street_name
+boyle street,street_name,street_name
+harlem rvr dr sb en amsterdam av,street_name,street_name
+cpw 110 approach,street_name,street_name
+tillary street,street_name,street_name
+lohengrin place,street_name,street_name
+red oak drive,street_name,street_name
+rockne street,street_name,street_name
+hempstead avenue,street_name,street_name
+walton street,street_name,street_name
+putnam avenue,street_name,street_name
+melyn place,street_name,street_name
+west 104 street,street_name,street_name
+stieg avenue,street_name,street_name
+worth street,street_name,street_name
+east 176 street,street_name,street_name
+watchogue road,street_name,street_name
+verzano brdg approach,street_name,street_name
+65 avenue,street_name,street_name
+oak lane,street_name,street_name
+wythe place,street_name,street_name
+christopher street,street_name,street_name
+fitzgerald avenue,street_name,street_name
+terrace place,street_name,street_name
+nelson street,street_name,street_name
+14 street,street_name,street_name
+monroe street,street_name,street_name
+heenan avenue,street_name,street_name
+149 avenue,street_name,street_name
+whitwell place,street_name,street_name
+lorillard place,street_name,street_name
+austin street,street_name,street_name
+guy r brewer boulevard,street_name,street_name
+saratoga avenue,street_name,street_name
+national street,street_name,street_name
+dintree lane,street_name,street_name
+west 19 road,street_name,street_name
+waldo place,street_name,street_name
+beach 42 street,street_name,street_name
+bowles avenue,street_name,street_name
+seeley lane,street_name,street_name
+beach 90 street,street_name,street_name
+west 182 street,street_name,street_name
+east houston street,street_name,street_name
+merrymount street,street_name,street_name
+richardson street,street_name,street_name
+ross avenue,street_name,street_name
+riverside boulevard,street_name,street_name
+gwenn loop,street_name,street_name
+goe eb exit 23,street_name,street_name
+van sicklen street,street_name,street_name
+vermont avenue,street_name,street_name
+powers avenue,street_name,street_name
+berrian boulevard,street_name,street_name
+jardine avenue,street_name,street_name
+nome avenue,street_name,street_name
+st nicholas avenue,street_name,street_name
+stoddard place,street_name,street_name
+hervey street,street_name,street_name
+berry street,street_name,street_name
+dongan place,street_name,street_name
+farraday street,street_name,street_name
+veterans road west,street_name,street_name
+celtic avenue,street_name,street_name
+faile street,street_name,street_name
+pleasant place,street_name,street_name
+amboy road,street_name,street_name
+kensico street,street_name,street_name
+hanover avenue,street_name,street_name
+louis street,street_name,street_name
+manh college parkway,street_name,street_name
+stearns street,street_name,street_name
+fox lane,street_name,street_name
+west 246 street,street_name,street_name
+mill avenue,street_name,street_name
+194 street,street_name,street_name
+brownell street,street_name,street_name
+carlisle street,street_name,street_name
+jasmine avenue,street_name,street_name
+190 street,street_name,street_name
+east 148 street,street_name,street_name
+west 60 street,street_name,street_name
+lion street,street_name,street_name
+west 164 street,street_name,street_name
+west 73 street,street_name,street_name
+40 street,street_name,street_name
+kings highway,street_name,street_name
+ocean view avenue,street_name,street_name
+41 avenue,street_name,street_name
+monsey place,street_name,street_name
+n d perlman place,street_name,street_name
+loring avenue,street_name,street_name
+pugsley avenue,street_name,street_name
+w shore expwy nb en boscombe ave,street_name,street_name
+leonard street,street_name,street_name
+mt olivet crescent,street_name,street_name
+63 avenue,street_name,street_name
+brighton 7 street,street_name,street_name
+tysens lane,street_name,street_name
+west 242 street,street_name,street_name
+cyrus avenue,street_name,street_name
+willoughby avenue,street_name,street_name
+story avenue,street_name,street_name
+west 140 street,street_name,street_name
+liberty place,street_name,street_name
+reno avenue,street_name,street_name
+ellery street,street_name,street_name
+shubert alley,street_name,street_name
+lynhurst avenue,street_name,street_name
+katan avenue,street_name,street_name
+rutherford place,street_name,street_name
+brattle avenue,street_name,street_name
+utopia parkway,street_name,street_name
+fairbanks avenue,street_name,street_name
+willow lane,street_name,street_name
+conselyea street,street_name,street_name
+north moore street,street_name,street_name
+west 161 street,street_name,street_name
+41 street,street_name,street_name
+farragut road,street_name,street_name
+tenbroeck avenue,street_name,street_name
+winter avenue,street_name,street_name
+east 158 street,street_name,street_name
+east 181 street,street_name,street_name
+dugdale street,street_name,street_name
+monument walk,street_name,street_name
+lowerre place,street_name,street_name
+purcell street,street_name,street_name
+east 201 street,street_name,street_name
+columbia street,street_name,street_name
+rose street,street_name,street_name
+nadine street,street_name,street_name
+brighton 7 walk,street_name,street_name
+monitor street,street_name,street_name
+ashland avenue east,street_name,street_name
+st nicholas terrace,street_name,street_name
+willett street,street_name,street_name
+union square east,street_name,street_name
+east 139 street,street_name,street_name
+martense street,street_name,street_name
+tynan street,street_name,street_name
+west drive,street_name,street_name
+fr capodanno boulevard,street_name,street_name
+white plains avenue,street_name,street_name
+166 street,street_name,street_name
+pennsylvania avenue,street_name,street_name
+crotona avenue,street_name,street_name
+montreal avenue,street_name,street_name
+wood avenue,street_name,street_name
+broad street,street_name,street_name
+country club road,street_name,street_name
+grove place,street_name,street_name
+windham loop,street_name,street_name
+south beach avenue,street_name,street_name
+meadow road,street_name,street_name
+einstein loop,street_name,street_name
+willow road west,street_name,street_name
+west cedarview avenue,street_name,street_name
+gcp eb exit 9 east,street_name,street_name
+251 street,street_name,street_name
+oxford place,street_name,street_name
+thompson street,street_name,street_name
+east 112 street,street_name,street_name
+elm street,street_name,street_name
+200 street,street_name,street_name
+macon avenue,street_name,street_name
+williamson avenue,street_name,street_name
+hopping avenue,street_name,street_name
+31 drive,street_name,street_name
+west 90 street,street_name,street_name
+henwood place,street_name,street_name
+beach 28 street,street_name,street_name
+west 15 road,street_name,street_name
+east 104 street,street_name,street_name
+hawthorne avenue,street_name,street_name
+lynn street,street_name,street_name
+avenue l,street_name,street_name
+56 road,street_name,street_name
+west 82 street,street_name,street_name
+116 road,street_name,street_name
+hillyer street,street_name,street_name
+leslie avenue,street_name,street_name
+north henry street,street_name,street_name
+jersey street,street_name,street_name
+208 street,street_name,street_name
+66 avenue,street_name,street_name
+mc intosh street,street_name,street_name
+winfield street,street_name,street_name
+president street,street_name,street_name
+major deegan expressway,street_name,street_name
+sharpe avenue,street_name,street_name
+east 123 street,street_name,street_name
+major avenue,street_name,street_name
+134 street,street_name,street_name
+fairview place,street_name,street_name
+bay 52 street,street_name,street_name
+east 196 street,street_name,street_name
+livingston avenue,street_name,street_name
+villa avenue,street_name,street_name
+bay parkway,street_name,street_name
+west 151 street,street_name,street_name
+59 avenue,street_name,street_name
+perry street,street_name,street_name
+220 street,street_name,street_name
+133 place,street_name,street_name
+marginal st west,street_name,street_name
+kingsbridge avenue,street_name,street_name
+east 44 street,street_name,street_name
+16 road,street_name,street_name
+jones place,street_name,street_name
+normalee road,street_name,street_name
+park lane,street_name,street_name
+56 avenue,street_name,street_name
+coddington avenue,street_name,street_name
+bep westbound exit 5,street_name,street_name
+west 9 street,street_name,street_name
+98 street,street_name,street_name
+judge street,street_name,street_name
+159 avenue,street_name,street_name
+kingdom avenue,street_name,street_name
+powell avenue,street_name,street_name
+canarsie lane,street_name,street_name
+malcolm x boulevard,street_name,street_name
+melrose avenue,street_name,street_name
+endview street,street_name,street_name
+198 street,street_name,street_name
+keats street,street_name,street_name
+beach 68 street,street_name,street_name
+olmstead avenue,street_name,street_name
+smith street,street_name,street_name
+grandview avenue,street_name,street_name
+burchell avenue,street_name,street_name
+west 86 street,street_name,street_name
+noll street,street_name,street_name
+dinsmore place,street_name,street_name
+gaylord drive north,street_name,street_name
+edgecombe avenue,street_name,street_name
+st andrews road,street_name,street_name
+jay avenue,street_name,street_name
+kelly street,street_name,street_name
+234 street,street_name,street_name
+john f kennedy expressway,street_name,street_name
+west 103 street,street_name,street_name
+east 17 street,street_name,street_name
+west 152 street,street_name,street_name
+east 6 street,street_name,street_name
+lawrence street,street_name,street_name
+barwell terrace,street_name,street_name
+yukon avenue,street_name,street_name
+sands street,street_name,street_name
+guinevere lane,street_name,street_name
+east 227 street,street_name,street_name
+pendleton place,street_name,street_name
+43 road,street_name,street_name
+dudley avenue,street_name,street_name
+denton place,street_name,street_name
+119 avenue,street_name,street_name
+davidson street,street_name,street_name
+wicklow place,street_name,street_name
+court place,street_name,street_name
+drumgoole road west,street_name,street_name
+30 avenue,street_name,street_name
+hylan boulevard,street_name,street_name
+inwood hill park boundary,street_name,street_name
+nassau avenue,street_name,street_name
+russell street,street_name,street_name
+ft independence street,street_name,street_name
+east 186 street,street_name,street_name
+elizabeth place,street_name,street_name
+waterbury street,street_name,street_name
+167 street,street_name,street_name
+lurting avenue,street_name,street_name
+oakland avenue,street_name,street_name
+normal road,street_name,street_name
+92 road,street_name,street_name
+lucerne street,street_name,street_name
+beach 43 street,street_name,street_name
+81 road,street_name,street_name
+sterling avenue,street_name,street_name
+canterbury avenue,street_name,street_name
+jardine place,street_name,street_name
+72 street,street_name,street_name
+rogers avenue,street_name,street_name
+walker drive,street_name,street_name
+west 33 street,street_name,street_name
+fairmount avenue,street_name,street_name
+leggett avenue,street_name,street_name
+laurel hill terrace,street_name,street_name
+cross island parkway,street_name,street_name
+east 135 street,street_name,street_name
+doty avenue,street_name,street_name
+trimble place,street_name,street_name
+fern place,street_name,street_name
+cambreleng avenue,street_name,street_name
+bay 7 street,street_name,street_name
+fuller street,street_name,street_name
+cromwell avenue,street_name,street_name
+needham avenue,street_name,street_name
+22 avenue,street_name,street_name
+east 9 street,street_name,street_name
+lincoln terrace,street_name,street_name
+bay ridge avenue,street_name,street_name
+hurst street,street_name,street_name
+west 84 street,street_name,street_name
+42 avenue,street_name,street_name
+north burgher avenue,street_name,street_name
+8 road,street_name,street_name
+cottage place,street_name,street_name
+de costa avenue,street_name,street_name
+bay 38 street,street_name,street_name
+douglass street,street_name,street_name
+104 road,street_name,street_name
+joel place,street_name,street_name
+83 street,street_name,street_name
+37 street,street_name,street_name
+carlton place,street_name,street_name
+north portland avenue,street_name,street_name
+karweg place,street_name,street_name
+ridgecrest avenue,street_name,street_name
+paerdegat avenue north,street_name,street_name
+30 road,street_name,street_name
+hawkstone street,street_name,street_name
+powells cove boulevard,street_name,street_name
+willow pond road,street_name,street_name
+17 avenue,street_name,street_name
+bentley lane,street_name,street_name
+james place,street_name,street_name
+tan place,street_name,street_name
+leland avenue,street_name,street_name
+mt morris park west,street_name,street_name
+minetta street,street_name,street_name
+st james place,street_name,street_name
+minna street,street_name,street_name
+i 678,street_name,street_name
+williamsburg st east,street_name,street_name
+cebra avenue,street_name,street_name
+belt parkway exit 17 north wb,street_name,street_name
+kossuth avenue,street_name,street_name
+cross bronx expressway,street_name,street_name
+st george drive,street_name,street_name
+west 260 street,street_name,street_name
+19 avenue,street_name,street_name
+stevenson place,street_name,street_name
+pheasant lane,street_name,street_name
+post lane,street_name,street_name
+146 road,street_name,street_name
+183 street,street_name,street_name
+east 107 street,street_name,street_name
+marine parkway br exit,street_name,street_name
+schmidts lane,street_name,street_name
+park drive north,street_name,street_name
+hudson avenue,street_name,street_name
+beach 12 street,street_name,street_name
+harold street,street_name,street_name
+myrtle avenue,street_name,street_name
+tiebout avenue,street_name,street_name
+hull avenue,street_name,street_name
+east 237 street,street_name,street_name
+east 53 street,street_name,street_name
+hillman avenue,street_name,street_name
+ryan place,street_name,street_name
+weir lane,street_name,street_name
+shaler avenue,street_name,street_name
+east 86 street,street_name,street_name
+delafield avenue,street_name,street_name
+hanover place,street_name,street_name
+debevoise street,street_name,street_name
+henry hudson parkway,street_name,street_name
+st peters avenue,street_name,street_name
+65 place,street_name,street_name
+129 street,street_name,street_name
+eylandt street,street_name,street_name
+colonial road,street_name,street_name
+maryland avenue,street_name,street_name
+cullman avenue,street_name,street_name
+163 street,street_name,street_name
+25 street,street_name,street_name
+dieterle crescent,street_name,street_name
+crosby street,street_name,street_name
+east 98 street,street_name,street_name
+broadway alley,street_name,street_name
+skillman street,street_name,street_name
+layton street,street_name,street_name
+clove road,street_name,street_name
+parsifal place,street_name,street_name
+92 street,street_name,street_name
+la forge place,street_name,street_name
+146 terrace,street_name,street_name
+west 162 street,street_name,street_name
+kendrick place,street_name,street_name
+sweetgum lane,street_name,street_name
+rochambeau avenue,street_name,street_name
+petrus avenue,street_name,street_name
+sackett avenue,street_name,street_name
+douglaston parkway,street_name,street_name
+market street,street_name,street_name
+maguire avenue,street_name,street_name
+east 199 street,street_name,street_name
+bryson avenue,street_name,street_name
+hampton place,street_name,street_name
+bay 11 street,street_name,street_name
+york terrace,street_name,street_name
+26 avenue,street_name,street_name
+lispenard street,street_name,street_name
+winthrop street,street_name,street_name
+batchelder street,street_name,street_name
+sperry place,street_name,street_name
+guyon avenue,street_name,street_name
+monaco place,street_name,street_name
+brinkerhoff avenue,street_name,street_name
+sagamore street,street_name,street_name
+122 avenue,street_name,street_name
+ohio walk,street_name,street_name
+vaughan street,street_name,street_name
+west 218 street,street_name,street_name
+furman avenue,street_name,street_name
+bolton avenue,street_name,street_name
+103 street,street_name,street_name
+nicholas avenue,street_name,street_name
+west 234 street,street_name,street_name
+ingraham street,street_name,street_name
+bismark avenue,street_name,street_name
+park lane south,street_name,street_name
+hank place,street_name,street_name
+valentine avenue,street_name,street_name
+middagh street,street_name,street_name
+melhorn road,street_name,street_name
+8 avenue,street_name,street_name
+nashville street,street_name,street_name
+barlow avenue,street_name,street_name
+grissom avenue,street_name,street_name
+luten avenue,street_name,street_name
+west 83 street,street_name,street_name
+kingsbridge terrace,street_name,street_name
+radnor road,street_name,street_name
+palisade street,street_name,street_name
+franklin street,street_name,street_name
+rivington street,street_name,street_name
+cresskill place,street_name,street_name
+kingston avenue,street_name,street_name
+west 181 street,street_name,street_name
+gurley avenue,street_name,street_name
+90 avenue,street_name,street_name
+williams place,street_name,street_name
+irwin avenue,street_name,street_name
+55 street,street_name,street_name
+east 30 street,street_name,street_name
+richardson avenue,street_name,street_name
+barrett park boundary,street_name,street_name
+east 242 street,street_name,street_name
+withers street,street_name,street_name
+palmetto street,street_name,street_name
+newtown avenue,street_name,street_name
+metropolitan avenue,street_name,street_name
+richmond terrace,street_name,street_name
+59 street,street_name,street_name
+9 avenue,street_name,street_name
+dongan street,street_name,street_name
+martling avenue,street_name,street_name
+peter street,street_name,street_name
+thornhill avenue,street_name,street_name
+britton avenue,street_name,street_name
+cryders lane,street_name,street_name
+bedell street,street_name,street_name
+dupont street,street_name,street_name
+speedwell avenue,street_name,street_name
+canal avenue,street_name,street_name
+81 avenue,street_name,street_name
+classon avenue,street_name,street_name
+clintonville street,street_name,street_name
+ford street,street_name,street_name
+sheridan avenue,street_name,street_name
+brunswick avenue,street_name,street_name
+vermilyea avenue,street_name,street_name
+76 avenue,street_name,street_name
+francis lewis boulevard,street_name,street_name
+manida street,street_name,street_name
+memo street,street_name,street_name
+cranford avenue,street_name,street_name
+juniper blvd north,street_name,street_name
+bayonne bridge,street_name,street_name
+cip southbound exit 34,street_name,street_name
+mt hope place,street_name,street_name
+west 58 street,street_name,street_name
+anjali loop,street_name,street_name
+bushwick avenue,street_name,street_name
+szold place,street_name,street_name
+135 avenue,street_name,street_name
+15 drive,street_name,street_name
+farmers boulevard,street_name,street_name
+netherland avenue,street_name,street_name
+238 street,street_name,street_name
+92 avenue,street_name,street_name
+west 21 street,street_name,street_name
+hale street,street_name,street_name
+bklyn bridge en ramp,street_name,street_name
+grove street,street_name,street_name
+rushmore avenue,street_name,street_name
+oakland place,street_name,street_name
+east end avenue,street_name,street_name
+jefferson place,street_name,street_name
+east 106 street,street_name,street_name
+25 road,street_name,street_name
+bolton road,street_name,street_name
+mc veigh avenue,street_name,street_name
+ina street,street_name,street_name
+west 127 street,street_name,street_name
+gravesend neck road,street_name,street_name
+nansen street,street_name,street_name
+ridgewood avenue,street_name,street_name
+lafayette avenue,street_name,street_name
+oakland terrace,street_name,street_name
+96 street,street_name,street_name
+van cortlandt park south,street_name,street_name
+beach 89 street,street_name,street_name
+164 street,street_name,street_name
+128 road,street_name,street_name
+east 91 street,street_name,street_name
+seymour avenue,street_name,street_name
+119 road,street_name,street_name
+95 avenue,street_name,street_name
+skidmore avenue,street_name,street_name
+gerard avenue,street_name,street_name
+thornton place,street_name,street_name
+union street,street_name,street_name
+12 street,street_name,street_name
+kingsborough 7 walk,street_name,street_name
+ludlum avenue,street_name,street_name
+oder avenue,street_name,street_name
+hollis court boulevard,street_name,street_name
+tenney place,street_name,street_name
+east 105 street,street_name,street_name
+east 173 street,street_name,street_name
+west 111 street,street_name,street_name
+237 street,street_name,street_name
+east 42 street,street_name,street_name
+apex place,street_name,street_name
+46 street,street_name,street_name
+west 130 street,street_name,street_name
+lamberts lane,street_name,street_name
+east 13 street,street_name,street_name
+vleigh place,street_name,street_name
+east 58 street,street_name,street_name
+olive street,street_name,street_name
+262 street,street_name,street_name
+mace avenue,street_name,street_name
+east 168 street,street_name,street_name
+waltham street,street_name,street_name
+decatur street,street_name,street_name
+east 18 street,street_name,street_name
+32 street,street_name,street_name
+egbert place,street_name,street_name
+qnsbo br up roadway approach,street_name,street_name
+ravenhurst avenue,street_name,street_name
+lake street,street_name,street_name
+ryerson street,street_name,street_name
+longfellow avenue,street_name,street_name
+ryder avenue,street_name,street_name
+kingsley avenue,street_name,street_name
+nicole loop,street_name,street_name
+midland avenue,street_name,street_name
+si expressway entrance eb,street_name,street_name
+madison place,street_name,street_name
+quentin road,street_name,street_name
+stuart street,street_name,street_name
+whitaker place,street_name,street_name
+astoria boulevard,street_name,street_name
+lincoln tunnel,street_name,street_name
+congress street,street_name,street_name
+sherlock place,street_name,street_name
+whipple street,street_name,street_name
+52 avenue,street_name,street_name
+pershing crescent,street_name,street_name
+van duzer street,street_name,street_name
+23 road,street_name,street_name
+231 street,street_name,street_name
+western avenue,street_name,street_name
+bqe eastbound exit 35 e w,street_name,street_name
+barbara street,street_name,street_name
+mia drive,street_name,street_name
+meserole street,street_name,street_name
+107 avenue,street_name,street_name
+culloden place,street_name,street_name
+hewitt place,street_name,street_name
+lott avenue,street_name,street_name
+80 street,street_name,street_name
+jackson place,street_name,street_name
+214 street,street_name,street_name
+hunton street,street_name,street_name
+silver beech road,street_name,street_name
+quinn street,street_name,street_name
+nassau expressway,street_name,street_name
+east 97 street,street_name,street_name
+northfield avenue,street_name,street_name
+35 street,street_name,street_name
+west 75 street,street_name,street_name
+kingsland street,street_name,street_name
+marble hill avenue,street_name,street_name
+west 12 street,street_name,street_name
+west 119 street,street_name,street_name
+east 31 street,street_name,street_name
+forest avenue,street_name,street_name
+butler street,street_name,street_name
+utica avenue,street_name,street_name
+little neck parkway,street_name,street_name
+adams street,street_name,street_name
+wellman avenue,street_name,street_name
+257 street,street_name,street_name
+158 avenue,street_name,street_name
+harway avenue,street_name,street_name
+robin road,street_name,street_name
+arnow avenue,street_name,street_name
+grace cemetery boundary,street_name,street_name
+retner street,street_name,street_name
+clarendon road,street_name,street_name
+102 avenue,street_name,street_name
+corporal kennedy street,street_name,street_name
+penn street,street_name,street_name
+winslow place,street_name,street_name
+rapelye street,street_name,street_name
+longview place,street_name,street_name
+48 street,street_name,street_name
+west 232 street,street_name,street_name
+54 road,street_name,street_name
+230 street,street_name,street_name
+armand street,street_name,street_name
+wharton place,street_name,street_name
+east 191 street,street_name,street_name
+leroy street,street_name,street_name
+edison street,street_name,street_name
+9 street,street_name,street_name
+brooklyn battery tunnel,street_name,street_name
+harborview place,street_name,street_name
+landis avenue,street_name,street_name
+19 street,street_name,street_name
+little west street,street_name,street_name
+plymouth street,street_name,street_name
+gettysburg street,street_name,street_name
+south railroad avenue,street_name,street_name
+lincoln tnnl approach,street_name,street_name
+95 street,street_name,street_name
+lowell street,street_name,street_name
+99 avenue,street_name,street_name
+tudor road,street_name,street_name
+asser levy place,street_name,street_name
+mc clellan street,street_name,street_name
+garden street,street_name,street_name
+79 street,street_name,street_name
+122 street,street_name,street_name
+o gorman avenue,street_name,street_name
+manse street,street_name,street_name
+west 23 street,street_name,street_name
+bayside lane,street_name,street_name
+east 206 street,street_name,street_name
+delafield place,street_name,street_name
+rector place,street_name,street_name
+george street,street_name,street_name
+sumpter street,street_name,street_name
+parkinson avenue,street_name,street_name
+43 street,street_name,street_name
+shore parkway,street_name,street_name
+clearview expressway,street_name,street_name
+gleason avenue,street_name,street_name
+158 street,street_name,street_name
+bayside avenue,street_name,street_name
+smedley street,street_name,street_name
+oak avenue,street_name,street_name
+south william street,street_name,street_name
+113 avenue,street_name,street_name
+hanson place,street_name,street_name
+jacobus street,street_name,street_name
+middletown road,street_name,street_name
+east 33 street,street_name,street_name
+forrestal avenue,street_name,street_name
+whalley avenue,street_name,street_name
+lockman avenue,street_name,street_name
+rico place,street_name,street_name
+20 avenue,street_name,street_name
+tiffany street,street_name,street_name
+yellowstone boulevard,street_name,street_name
+gowanus expressway wb en 61 st,street_name,street_name
+calder place,street_name,street_name
+nagle avenue,street_name,street_name
+beach 91 street,street_name,street_name
+roebling street,street_name,street_name
+newton street,street_name,street_name
+wyckoff street,street_name,street_name
+lincoln tunnel entrance,street_name,street_name
+negundo avenue,street_name,street_name
+orange street,street_name,street_name
+westervelt avenue,street_name,street_name
+jumel terrace,street_name,street_name
+south 5 street,street_name,street_name
+summit road,street_name,street_name
+sedgwick street,street_name,street_name
+hillside avenue,street_name,street_name
+post road,street_name,street_name
+kosciusko street,street_name,street_name
+mill road,street_name,street_name
+kimball street,street_name,street_name
+st johns place,street_name,street_name
+hanover street,street_name,street_name
+harvey street,street_name,street_name
+upland parkway,street_name,street_name
+navy walk,street_name,street_name
+nevins street,street_name,street_name
+east 57 street,street_name,street_name
+193 street,street_name,street_name
+forest road,street_name,street_name
+roberts drive,street_name,street_name
+weldon street,street_name,street_name
+schenectady avenue,street_name,street_name
+goodwin place,street_name,street_name
+new calvary cemetery boundary,street_name,street_name
+woodhaven avenue,street_name,street_name
+burchell road,street_name,street_name
+west 261 street,street_name,street_name
+willets point boulevard,street_name,street_name
+west 89 street,street_name,street_name
+tyler avenue,street_name,street_name
+morningstar road,street_name,street_name
+collins place,street_name,street_name
+staten isl ep wb en richmond av,street_name,street_name
+sanford place,street_name,street_name
+lacombe avenue,street_name,street_name
+st marks avenue,street_name,street_name
+carreau avenue,street_name,street_name
+lamoka avenue,street_name,street_name
+tillman street,street_name,street_name
+malta street,street_name,street_name
+humphreys street,street_name,street_name
+east 96 street,street_name,street_name
+orinoco place,street_name,street_name
+elizabeth avenue,street_name,street_name
+montauk avenue,street_name,street_name
+windom avenue,street_name,street_name
+crimmins avenue,street_name,street_name
+manhattan college parkway,street_name,street_name
+cross island parkway et 32 nb,street_name,street_name
+avenue f,street_name,street_name
+chrystie street,street_name,street_name
+16 avenue,street_name,street_name
+williams avenue,street_name,street_name
+st mary's cemetery boundary,street_name,street_name
+149 road,street_name,street_name
+mitchel lane,street_name,street_name
+new york place,street_name,street_name
+west 179 street,street_name,street_name
+plumb 2 street,street_name,street_name
+notus avenue,street_name,street_name
+newtown road,street_name,street_name
+104 street,street_name,street_name
+monterey avenue,street_name,street_name
+lindbergh avenue,street_name,street_name
+doscher street,street_name,street_name
+grimsby street,street_name,street_name
+191 street,street_name,street_name
+118 avenue,street_name,street_name
+east 15 street,street_name,street_name
+buttonwood road,street_name,street_name
+croes avenue,street_name,street_name
+maplewood avenue,street_name,street_name
+54 avenue,street_name,street_name
+west 153 street,street_name,street_name
+wiederer place,street_name,street_name
+mac dougal street,street_name,street_name
+east 226 street,street_name,street_name
+greenleaf avenue,street_name,street_name
+poplar avenue,street_name,street_name
+vedder avenue,street_name,street_name
+134 avenue,street_name,street_name
+east 236 street,street_name,street_name
+narrows road north,street_name,street_name
+crown street,street_name,street_name
+west 214 street,street_name,street_name
+214 place,street_name,street_name
+81 street,street_name,street_name
+logan street,street_name,street_name
+east 78 street,street_name,street_name
+osgood street,street_name,street_name
+journeay street,street_name,street_name
+hecker street,street_name,street_name
+144 avenue,street_name,street_name
+florida terrace,street_name,street_name
+summer street,street_name,street_name
+115 avenue,street_name,street_name
+73 avenue,street_name,street_name
+267 street,street_name,street_name
+marinette street,street_name,street_name
+west 167 street,street_name,street_name
+weller lane,street_name,street_name
+west 72 street,street_name,street_name
+east 157 street,street_name,street_name
+obrien avenue,street_name,street_name
+berriman street,street_name,street_name
+94 avenue,street_name,street_name
+west 20 street,street_name,street_name
+howard alley,street_name,street_name
+beach 44 street,street_name,street_name
+cleveland street,street_name,street_name
+knesel street,street_name,street_name
+washington square south,street_name,street_name
+east 167 street,street_name,street_name
+montieth street,street_name,street_name
+177 street,street_name,street_name
+givan avenue,street_name,street_name
+east 154 street,street_name,street_name
+east 149 street,street_name,street_name
+91 street,street_name,street_name
+crescent avenue,street_name,street_name
+goethals bridge approach,street_name,street_name
+south road,street_name,street_name
+mansion street,street_name,street_name
+princeton avenue,street_name,street_name
+bay 37 street,street_name,street_name
+east 41 street,street_name,street_name
+dover street,street_name,street_name
+205 street,street_name,street_name
+west 139 street,street_name,street_name
+veterans road east,street_name,street_name
+newkirk avenue,street_name,street_name
+east 109 street,street_name,street_name
+hubbard place,street_name,street_name
+west 142 street,street_name,street_name
+264 street,street_name,street_name
+sackman street,street_name,street_name
+howe street,street_name,street_name
+warren place,street_name,street_name
+st mary's avenue,street_name,street_name
+nelson avenue,street_name,street_name
+carnegie avenue,street_name,street_name
+franklin avenue,street_name,street_name
+79 avenue,street_name,street_name
+holdridge avenue,street_name,street_name
+clvelake expwy en eb,street_name,street_name
+parkwood avenue,street_name,street_name
+east 126 street,street_name,street_name
+84 street,street_name,street_name
+lombardy street,street_name,street_name
+kosciuszko bridge,street_name,street_name
+downey place,street_name,street_name
+neptune avenue,street_name,street_name
+brighton 2 street,street_name,street_name
+101 street,street_name,street_name
+bethel cemetery boundary,street_name,street_name
+thornycroft avenue,street_name,street_name
+berry avenue,street_name,street_name
+new street,street_name,street_name
+153 street,street_name,street_name
+treadwell avenue,street_name,street_name
+randolph place,street_name,street_name
+henning street,street_name,street_name
+181 street,street_name,street_name
+150 avenue,street_name,street_name
+87 avenue,street_name,street_name
+suydam street,street_name,street_name
+mc guinness boulevard,street_name,street_name
+neilson street,street_name,street_name
+pine terrace,street_name,street_name
+richmond parkway,street_name,street_name
+116 avenue,street_name,street_name
+joline avenue,street_name,street_name
+sanders street,street_name,street_name
+vista avenue,street_name,street_name
+bay 10 street,street_name,street_name
+east 2 street,street_name,street_name
+parkville avenue,street_name,street_name
+seminole avenue,street_name,street_name
+west 163 street,street_name,street_name
+purdy street,street_name,street_name
+mt olivet cemetery boundary,street_name,street_name
+34 road,street_name,street_name
+washington street,street_name,street_name
+arnold street,street_name,street_name
+bennett street,street_name,street_name
+calamus avenue,street_name,street_name
+state street,street_name,street_name
+hobart avenue,street_name,street_name
+east 77 street,street_name,street_name
+carlton street,street_name,street_name
+brooklyn bridge,street_name,street_name
+barnett avenue,street_name,street_name
+south portland avenue,street_name,street_name
+gilbert place,street_name,street_name
+radcliff avenue,street_name,street_name
+jefferson boulevard,street_name,street_name
+clyde street,street_name,street_name
+lewis street,street_name,street_name
+freeman place,street_name,street_name
+watkins street,street_name,street_name
+2 avenue,street_name,street_name
+133 road,street_name,street_name
+qns mdtwn tunnel exit,street_name,street_name
+isabella avenue,street_name,street_name
+117 street,street_name,street_name
+east 94 street,street_name,street_name
+harrison place,street_name,street_name
+kansas place,street_name,street_name
+murray street,street_name,street_name
+ulmer street,street_name,street_name
+fox hill terrace,street_name,street_name
+100 street,street_name,street_name
+meeker avenue,street_name,street_name
+dahill road,street_name,street_name
+philip avenue,street_name,street_name
+shakespeare avenue,street_name,street_name
+coenties slip,street_name,street_name
+sidney place,street_name,street_name
+rip northbound exit,street_name,street_name
+walloon street,street_name,street_name
+aviston street,street_name,street_name
+hunt avenue,street_name,street_name
+rip nb exit,street_name,street_name
+6 avenue,street_name,street_name
+twin oak drive,street_name,street_name
+lambert street,street_name,street_name
+heberton avenue,street_name,street_name
+eastentry road,street_name,street_name
+west 170 street,street_name,street_name
+east 88 street,street_name,street_name
+127 street,street_name,street_name
+flint street,street_name,street_name
+norfolk street,street_name,street_name
+avenue d,street_name,street_name
+keap street,street_name,street_name
+jackson avenue,street_name,street_name
+248 street,street_name,street_name
+macy place,street_name,street_name
+153 lane,street_name,street_name
+47 street,street_name,street_name
+sylvia street,street_name,street_name
+elkhart street,street_name,street_name
+ladd avenue,street_name,street_name
+kenmare street,street_name,street_name
+cedar grove cemetery boundary,street_name,street_name
+stewart street,street_name,street_name
+howard avenue,street_name,street_name
+hitchings avenue,street_name,street_name
+sedgwick avenue,street_name,street_name
+lexington lane,street_name,street_name
+pearl street,street_name,street_name
+grant street,street_name,street_name
+norman avenue,street_name,street_name
+wadsworth avenue,street_name,street_name
+westcott boulevard,street_name,street_name
+stillwell avenue,street_name,street_name
+william street,street_name,street_name
+ocean avenue,street_name,street_name
+ocean parkway,street_name,street_name
+belt parkway,street_name,street_name
+summit place,street_name,street_name
+brooklyn qns expressway,street_name,street_name
+van wyck expressway,street_name,street_name
+41 road,street_name,street_name
+louisa street,street_name,street_name
+stillwells place,street_name,street_name
+west 16 street,street_name,street_name
+virginia avenue,street_name,street_name
+doane avenue,street_name,street_name
+morton street,street_name,street_name
+carlton boulevard,street_name,street_name
+brighton 3 street,street_name,street_name
+west 68 street,street_name,street_name
+south street,street_name,street_name
+suburban place,street_name,street_name
+west 132 street,street_name,street_name
+west 177 street,street_name,street_name
+ovington avenue,street_name,street_name
+bklyn bridge entrance ramp,street_name,street_name
+st patricks place,street_name,street_name
+pendale street,street_name,street_name
+shepherd avenue,street_name,street_name
+pelton place,street_name,street_name
+87 street,street_name,street_name
+187 street,street_name,street_name
+gordon place,street_name,street_name
+mc kee avenue,street_name,street_name
+fox beach avenue,street_name,street_name
+east 151 street,street_name,street_name
+snediker avenue,street_name,street_name
+madison avenue,street_name,street_name
+daleham street,street_name,street_name
+31 avenue,street_name,street_name
+william place,street_name,street_name
+north 10 street,street_name,street_name
+varick street,street_name,street_name
+commonwealth boulevard,street_name,street_name
+rossville avenue,street_name,street_name
+157 avenue,street_name,street_name
+jerome street,street_name,street_name
+cornell avenue,street_name,street_name
+144 road,street_name,street_name
+bert road,street_name,street_name
+scarboro avenue,street_name,street_name
+caldwell avenue,street_name,street_name
+155 avenue,street_name,street_name
+burling street,street_name,street_name
+nippon avenue,street_name,street_name
+archer avenue,street_name,street_name
+east broadway,street_name,street_name
+queensboro brdg exit,street_name,street_name
+havemeyer avenue,street_name,street_name
+marble cemetery boundary,street_name,street_name
+south gannon avenue,street_name,street_name
+east 137 street,street_name,street_name
+east 103 street,street_name,street_name
+north drive,street_name,street_name
+woodward avenue,street_name,street_name
+8 street,street_name,street_name
+wolverine street,street_name,street_name
+clermont avenue,street_name,street_name
+seneca loop,street_name,street_name
+st george road,street_name,street_name
+mathews avenue,street_name,street_name
+215 street,street_name,street_name
+west 14 road,street_name,street_name
+46 road,street_name,street_name
+lyon avenue,street_name,street_name
+east 61 street,street_name,street_name
+bay 40 street,street_name,street_name
+13 road,street_name,street_name
+rust street,street_name,street_name
+spencer street,street_name,street_name
+southern boulevard,street_name,street_name
+hill street,street_name,street_name
+harbor road,street_name,street_name
+beach 29 street,street_name,street_name
+hancock street,street_name,street_name
+jewell street,street_name,street_name
+river terrace,street_name,street_name
+willow avenue,street_name,street_name
+schorr place,street_name,street_name
+gem street,street_name,street_name
+kearney avenue,street_name,street_name
+165 avenue,street_name,street_name
+gateway boulevard,street_name,street_name
+tarrytown avenue,street_name,street_name
+bay 14 street,street_name,street_name
+155 street,street_name,street_name
+228 street,street_name,street_name
+greystone avenue,street_name,street_name
+johnson avenue,street_name,street_name
+barbey street,street_name,street_name
+kansas avenue,street_name,street_name
+park avenue south,street_name,street_name
+princeton street,street_name,street_name
+shore boulevard,street_name,street_name
+sedgwick place,street_name,street_name
+van name avenue,street_name,street_name
+porter avenue,street_name,street_name
+cornelia street,street_name,street_name
+13 avenue,street_name,street_name
+reeve place,street_name,street_name
+east 136 street,street_name,street_name
+maujer street,street_name,street_name
+grand centrl parkway,street_name,street_name
+62 street,street_name,street_name
+sumner avenue,street_name,street_name
+devoe street,street_name,street_name
+albemarle road,street_name,street_name
+tonking road,street_name,street_name
+brehaut avenue,street_name,street_name
+bell boulevard,street_name,street_name
+mac kay place,street_name,street_name
+edgewood avenue,street_name,street_name
+trinity place,street_name,street_name
+fountain avenue,street_name,street_name
+bethel avenue,street_name,street_name
+delanoy avenue,street_name,street_name
+33 road,street_name,street_name
+duke place,street_name,street_name
+sie westbound exit 15 south,street_name,street_name
+foster avenue,street_name,street_name
+voorhies avenue,street_name,street_name
+leeds street,street_name,street_name
+140 avenue,street_name,street_name
+53 street,street_name,street_name
+garnet street,street_name,street_name
+central park west,street_name,street_name
+de reimer avenue,street_name,street_name
+lake place,street_name,street_name
+theatre alley,street_name,street_name
+lott lane,street_name,street_name
+50 street,street_name,street_name
+lax avenue,street_name,street_name
+bronxwood avenue,street_name,street_name
+202 street,street_name,street_name
+clinton street,street_name,street_name
+wyckoff avenue,street_name,street_name
+108 street,street_name,street_name
+east drive,street_name,street_name
+east mosholu parkway south,street_name,street_name
+poplar street,street_name,street_name
+109 avenue,street_name,street_name
+darlington avenue,street_name,street_name
+staten is cemetery boundary,street_name,street_name
+bay 19 street,street_name,street_name
+south end avenue,street_name,street_name
+latourette lane,street_name,street_name
+dongan hills avenue,street_name,street_name
+selmoff lane,street_name,street_name
+narrows avenue,street_name,street_name
+metcalf avenue,street_name,street_name
+east 46 street,street_name,street_name
+dominick street,street_name,street_name
+west 168 street,street_name,street_name
+65 street,street_name,street_name
+giles place,street_name,street_name
+princess street,street_name,street_name
+wayne street,street_name,street_name
+hale avenue,street_name,street_name
+260 street,street_name,street_name
+miriam street,street_name,street_name
+west 76 street,street_name,street_name
+thomson avenue,street_name,street_name
+renfrew place,street_name,street_name
+thwaites place,street_name,street_name
+west 67 street,street_name,street_name
+fulton avenue,street_name,street_name
+east 192 street,street_name,street_name
+union turnpike,street_name,street_name
+white plains road,street_name,street_name
+gerry street,street_name,street_name
+garretson avenue,street_name,street_name
+135 street,street_name,street_name
+dorothea place,street_name,street_name
+lefferts place,street_name,street_name
+harrison avenue,street_name,street_name
+lexington avenue,street_name,street_name
+brookville boulevard,street_name,street_name
+clayton street,street_name,street_name
+pauw street,street_name,street_name
+bay 8 street,street_name,street_name
+schaefer street,street_name,street_name
+west raleigh avenue,street_name,street_name
+north 12 street,street_name,street_name
+halleck street,street_name,street_name
+east 74 street,street_name,street_name
+woodstock avenue,street_name,street_name
+guerlain street,street_name,street_name
+ovis place,street_name,street_name
+west 204 street,street_name,street_name
+alvine avenue,street_name,street_name
+153 avenue,street_name,street_name
+victory boulevard,street_name,street_name
+townsend avenue,street_name,street_name
+west 105 street,street_name,street_name
+west 184 street,street_name,street_name
+west 252 street,street_name,street_name
+kissel avenue,street_name,street_name
+216 street,street_name,street_name
+nina avenue,street_name,street_name
+east 99 street,street_name,street_name
+evergreen avenue,street_name,street_name
+escanaba avenue,street_name,street_name
+ferry street,street_name,street_name
+park hill lane,street_name,street_name
+merrill avenue,street_name,street_name
+fdr drive nb en brooklyn br,street_name,street_name
+169 street,street_name,street_name
+neckar avenue,street_name,street_name
+east 39 street,street_name,street_name
+parrott place,street_name,street_name
+reon avenue,street_name,street_name
+craig avenue,street_name,street_name
+bx river parkway exit northbound,street_name,street_name
+59 road,street_name,street_name
+locust avenue,street_name,street_name
+beach 74 street,street_name,street_name
+east 28 street,street_name,street_name
+46 avenue,street_name,street_name
+east 102 street,street_name,street_name
+driggs street,street_name,street_name
+mc kinley avenue,street_name,street_name
+beach 41 street,street_name,street_name
+east 146 street,street_name,street_name
+vanderbilt avenue,street_name,street_name
+spark place,street_name,street_name
+mountainview avenue,street_name,street_name
+grymes hill road,street_name,street_name
+barrow place,street_name,street_name
+columbus avenue,street_name,street_name
+85 street,street_name,street_name
+liberty avenue,street_name,street_name
+highland place,street_name,street_name
+stephen street,street_name,street_name
+union hall street,street_name,street_name
+west 166 street,street_name,street_name
+255 street,street_name,street_name
+dekalb avenue,street_name,street_name
+duer lane,street_name,street_name
+merrick boulevard,street_name,street_name
+wilson avenue,street_name,street_name
+lyvere street,street_name,street_name
+duncan street,street_name,street_name
+brook avenue,street_name,street_name
+java street,street_name,street_name
+flatbush avenue extension,street_name,street_name
+centre market place,street_name,street_name
+south 1 street,street_name,street_name
+cranberry street,street_name,street_name
+rev james polite avenue,street_name,street_name
+160 street,street_name,street_name
+brooklyn queens expwy et 40 eb,street_name,street_name
+rigby avenue,street_name,street_name
+maine avenue,street_name,street_name
+137 street,street_name,street_name
+mc graw avenue,street_name,street_name
+guider avenue,street_name,street_name
+west 215 street,street_name,street_name
+68 street,street_name,street_name
+greeley avenue,street_name,street_name
+morgan avenue,street_name,street_name
+humbert street,street_name,street_name
+glassboro avenue,street_name,street_name
+neill avenue,street_name,street_name
+woodruff avenue,street_name,street_name
+reid avenue,street_name,street_name
+lake avenue,street_name,street_name
+hewlett street,street_name,street_name
+dixon avenue,street_name,street_name
+park terrace west,street_name,street_name
+west 158 street,street_name,street_name
+gcp eb exit 18,street_name,street_name
+langere place,street_name,street_name
+211 street,street_name,street_name
+38 street,street_name,street_name
+ellis place,street_name,street_name
+sabrina lane,street_name,street_name
+west 219 street,street_name,street_name
+indiana walk,street_name,street_name
+seagirt boulevard,street_name,street_name
+greenwich avenue,street_name,street_name
+remington street,street_name,street_name
+21 road,street_name,street_name
+qnsboro brdg approach,street_name,street_name
+145 street,street_name,street_name
+waring avenue,street_name,street_name
+west 125 street,street_name,street_name
+coles lane,street_name,street_name
+veronica place,street_name,street_name
+kinghorn street,street_name,street_name
+richmond hill road,street_name,street_name
+west 113 street,street_name,street_name
+vanderbilt street,street_name,street_name
+north 8 street,street_name,street_name
+east 110 street,street_name,street_name
+cross bronx expwy nb et 6 b,street_name,street_name
+whitman avenue,street_name,street_name
+mersereau avenue,street_name,street_name
+west tremont avenue,street_name,street_name
+flushing avenue,street_name,street_name
+67 street,street_name,street_name
+avenue of the finest,street_name,street_name
+moultrie street,street_name,street_name
+lortel avenue,street_name,street_name
+main avenue,street_name,street_name
+soundview avenue,street_name,street_name
+viele avenue,street_name,street_name
+beach 96 street,street_name,street_name
+chauncey street,street_name,street_name
+botanical garden bridge,street_name,street_name
+poland place,street_name,street_name
+103 avenue,street_name,street_name
+juno street,street_name,street_name
+125 avenue,street_name,street_name
+east 155 street,street_name,street_name
+school road,street_name,street_name
+wallabout street,street_name,street_name
+emerson avenue,street_name,street_name
+riviera drive,street_name,street_name
+171 street,street_name,street_name
+eliot avenue,street_name,street_name
+east kingsbridge road,street_name,street_name
+east 124 street,street_name,street_name
+grote street,street_name,street_name
+lee avenue,street_name,street_name
+cropsey avenue,street_name,street_name
+willoughby street,street_name,street_name
+west 136 street,street_name,street_name
+qn mdtwn tunnel approach,street_name,street_name
+east 65 street,street_name,street_name
+88 street,street_name,street_name
+seacrest avenue,street_name,street_name
+jackie robinson parkway,street_name,street_name
+malone avenue,street_name,street_name
+161 avenue,street_name,street_name
+brighton 6 street,street_name,street_name
+tomlinson avenue,street_name,street_name
+east 183 street,street_name,street_name
+ludlow street,street_name,street_name
+rodman street,street_name,street_name
+c p west 67 approach,street_name,street_name
+bantam place,street_name,street_name
+6 street,street_name,street_name
+university place,street_name,street_name
+marathon parkway,street_name,street_name
+schenck avenue,street_name,street_name
+mac donough street,street_name,street_name
+bayonne brdg approach,street_name,street_name
+avenue a,street_name,street_name
+cbe sb exit 11,street_name,street_name
+east 121 street,street_name,street_name
+miles avenue,street_name,street_name
+melvin avenue,street_name,street_name
+west 109 street,street_name,street_name
+east 82 street,street_name,street_name
+franklin place,street_name,street_name
+beresford avenue,street_name,street_name
+rockland avenue,street_name,street_name
+targee street,street_name,street_name
+harlem river drive,street_name,street_name
+27 street,street_name,street_name
+traffic avenue,street_name,street_name
+east 156 street,street_name,street_name
+cedar street,street_name,street_name
+queens midtown tunnel,street_name,street_name
+meredith avenue,street_name,street_name
+dinsmore avenue,street_name,street_name
+east 241 street,street_name,street_name
+st james avenue,street_name,street_name
+east 47 street,street_name,street_name
+willowbrook road,street_name,street_name
+tilson place,street_name,street_name
+138 avenue,street_name,street_name
+ft hamilton parkway,street_name,street_name
+west 6 road,street_name,street_name
+yates avenue,street_name,street_name
+sackett street,street_name,street_name
+oak street,street_name,street_name
+whitehall place,street_name,street_name
+93 avenue,street_name,street_name
+tudor city place,street_name,street_name
+fieldstone terrace,street_name,street_name
+taft avenue,street_name,street_name
+brighton 8 street,street_name,street_name
+greenpoint avenue,street_name,street_name
+palisade avenue,street_name,street_name
+van zandt avenue,street_name,street_name
+fenton avenue,street_name,street_name
+queen street,street_name,street_name
+west 238 street,street_name,street_name
+west 10 street,street_name,street_name
+bayonne bridge entrance,street_name,street_name
+hopkinson avenue,street_name,street_name
+willis avenue bridge exit ramp,street_name,street_name
+brighton 4 street,street_name,street_name
+256 street,street_name,street_name
+bergen street,street_name,street_name
+unnamed street,street_name,street_name
+brooklyn queens expwy et 44 wb,street_name,street_name
+avenue o,street_name,street_name
+nereid avenue,street_name,street_name
+west 38 street,street_name,street_name
+maple terrace,street_name,street_name
+carlton avenue,street_name,street_name
+west 149 street,street_name,street_name
+overbrook street,street_name,street_name
+lindenwood place,street_name,street_name
+delmar avenue,street_name,street_name
+82 avenue,street_name,street_name
+cbe sb entrance amsterdam ave,street_name,street_name
+stuyvesant avenue,street_name,street_name
+king road,street_name,street_name
+39 street,street_name,street_name
+east 132 street,street_name,street_name
+platt street,street_name,street_name
+lighthouse drive,street_name,street_name
+thayer place,street_name,street_name
+st anns avenue,street_name,street_name
+olcott street,street_name,street_name
+pilling street,street_name,street_name
+kew gardens road,street_name,street_name
+hartford street,street_name,street_name
+lynch street,street_name,street_name
+van street,street_name,street_name
+bethune street,street_name,street_name
+sumner place,street_name,street_name
+hoe avenue,street_name,street_name
+east 138 street,street_name,street_name
+east 125 street,street_name,street_name
+bradley avenue,street_name,street_name
+white street,street_name,street_name
+fowler avenue,street_name,street_name
+mosholu parkway,street_name,street_name
+east 120 street,street_name,street_name
+gilbert street,street_name,street_name
+84 avenue,street_name,street_name
+east 79 street,street_name,street_name
+hitchcock avenue,street_name,street_name
+corson avenue,street_name,street_name
+67 road,street_name,street_name
+degraw st,street_name,street_name
+68 avenue,street_name,street_name
+west 15 street,street_name,street_name
+winegar lane,street_name,street_name
+qnsboro bridge approach,street_name,street_name
+175 street,street_name,street_name
+121 avenue,street_name,street_name
+barton avenue,street_name,street_name
+jeannette avenue,street_name,street_name
+disosway place,street_name,street_name
+east 240 street,street_name,street_name
+dartmouth street,street_name,street_name
+getz avenue,street_name,street_name
+stockholm street,street_name,street_name
+16 street,street_name,street_name
+somerset street,street_name,street_name
+kent street,street_name,street_name
+zulette avenue,street_name,street_name
+west fordham road,street_name,street_name
+bay 43 street,street_name,street_name
+losee terrace,street_name,street_name
+dry harbor road,street_name,street_name
+st claire place,street_name,street_name
+162 avenue,street_name,street_name
+209 street,street_name,street_name
+duncan road,street_name,street_name
+van dyke street,street_name,street_name
+penn avenue,street_name,street_name
+stone street,street_name,street_name
+regal walk,street_name,street_name
+west 183 street,street_name,street_name
+shelterview drive,street_name,street_name
+beach 31 street,street_name,street_name
+23 street,street_name,street_name
+the boulevard,street_name,street_name
+brandis lane,street_name,street_name
+rockaway parkway,street_name,street_name
+norden street,street_name,street_name
+woodlawn avenue,street_name,street_name
+st nicholas place,street_name,street_name
+hannibal street,street_name,street_name
+holland tunnel entrance,street_name,street_name
+watkins avenue,street_name,street_name
+west shore expressway,street_name,street_name
+west 235 street,street_name,street_name
+grand street,street_name,street_name
+gillmore street,street_name,street_name
+browvale lane,street_name,street_name
+vista place,street_name,street_name
+east 11 street,street_name,street_name
+suffolk avenue,street_name,street_name
+82 street,street_name,street_name
+133 street,street_name,street_name
+veltman avenue,street_name,street_name
+69 place,street_name,street_name
+strong avenue,street_name,street_name
+royce street,street_name,street_name
+liverpool street,street_name,street_name
+driggs avenue,street_name,street_name
+tinton avenue,street_name,street_name
+shirra avenue,street_name,street_name
+west 18 road,street_name,street_name
+griswold avenue,street_name,street_name
+kalmia avenue,street_name,street_name
+waterbury avenue,street_name,street_name
+urbana street,street_name,street_name
+liberty street,street_name,street_name
+milford drive,street_name,street_name
+gordon street,street_name,street_name
+mott street,street_name,street_name
+shepard avenue,street_name,street_name
+ten eyck street,street_name,street_name
+165 street,street_name,street_name
+grand avenue,street_name,street_name
+mansion avenue,street_name,street_name
+vanderveer street,street_name,street_name
+park crescent,street_name,street_name
+beach 67 street,street_name,street_name
+morris park avenue,street_name,street_name
+castle hill avenue,street_name,street_name
+west 237 street,street_name,street_name
+catalpa avenue,street_name,street_name
+c p east drive,street_name,street_name
+244 street,street_name,street_name
+caswell avenue,street_name,street_name
+35 avenue,street_name,street_name
+stanton street,street_name,street_name
+west thames street,street_name,street_name
+131 street,street_name,street_name
+gardner avenue,street_name,street_name
+fabian street,street_name,street_name
+dustan street,street_name,street_name
+arden avenue,street_name,street_name
+montague street,street_name,street_name
+notre dame avenue,street_name,street_name
+west 62 street,street_name,street_name
+west 118 street,street_name,street_name
+23 avenue,street_name,street_name
+may avenue,street_name,street_name
+102 street,street_name,street_name
+stephen loop,street_name,street_name
+cypres hill cemetery boundary,street_name,street_name
+east 4 road,street_name,street_name
+sylvan place,street_name,street_name
+bay 54 street,street_name,street_name
+east 24 street,street_name,street_name
+la guardia avenue,street_name,street_name
+elder avenue,street_name,street_name
+139 street,street_name,street_name
+nameoke avenue,street_name,street_name
+henderson avenue,street_name,street_name
+west 196 street,street_name,street_name
+jacob riis park driveway,street_name,street_name
+henry street,street_name,street_name
+parsons boulevard,street_name,street_name
+park road,street_name,street_name
+townley avenue,street_name,street_name
+sheffield avenue,street_name,street_name
+14 road,street_name,street_name
+babbage street,street_name,street_name
+india street,street_name,street_name
+utter avenue,street_name,street_name
+201 street,street_name,street_name
+greene avenue,street_name,street_name
+mario j esposito way,street_name,street_name
+seldin avenue,street_name,street_name
+gillespie avenue,street_name,street_name
+laredo avenue,street_name,street_name
+45 street,street_name,street_name
+rutgers slip,street_name,street_name
+hope street,street_name,street_name
+irving avenue,street_name,street_name
+rockaway beach boulevard,street_name,street_name
+grassmere terrace,street_name,street_name
+west 231 street,street_name,street_name
+oakdale street,street_name,street_name
+river street,street_name,street_name
+reynolds street,street_name,street_name
+park place,street_name,street_name
+sunset avenue,street_name,street_name
+maspeth avenue,street_name,street_name
+chestnut place,street_name,street_name
+hope avenue,street_name,street_name
+krier place,street_name,street_name
+elverton avenue,street_name,street_name
+seaver avenue,street_name,street_name
+madison street,street_name,street_name
+west 102 street,street_name,street_name
+guernsey street,street_name,street_name
+edison avenue,street_name,street_name
+stobe avenue,street_name,street_name
+bullard avenue,street_name,street_name
+fulton street,street_name,street_name
+watt avenue,street_name,street_name
+old mill road,street_name,street_name
+57 road,street_name,street_name
+barrow street,street_name,street_name
+greenway drive,street_name,street_name
+17 road,street_name,street_name
+west 120 street,street_name,street_name
+wellbrook avenue,street_name,street_name
+east 81 street,street_name,street_name
+89 street,street_name,street_name
+wetherole street,street_name,street_name
+25 avenue,street_name,street_name
+continental place,street_name,street_name
+59 place,street_name,street_name
+east 127 street,street_name,street_name
+93 street,street_name,street_name
+rutgers street,street_name,street_name
+192 street,street_name,street_name
+mosholu avenue,street_name,street_name
+east 230 street,street_name,street_name
+elbertson street,street_name,street_name
+elk street,street_name,street_name
+cedar grove avenue,street_name,street_name
+newark avenue,street_name,street_name
+orlando street,street_name,street_name
+power road,street_name,street_name
+reed place,street_name,street_name
+vandam street,street_name,street_name
+wolf place,street_name,street_name
+fanning street,street_name,street_name
+verona place,street_name,street_name
+hollis avenue,street_name,street_name
+southgate street,street_name,street_name
+woodlawn cemetery boundary,street_name,street_name
+7 avenue,street_name,street_name
+fairbury avenue,street_name,street_name
+60 avenue,street_name,street_name
+97 street,street_name,street_name
+west 61 street,street_name,street_name
+slosson avenue,street_name,street_name
+tyndale street,street_name,street_name
+toddy avenue,street_name,street_name
+thomas street,street_name,street_name
+glover street,street_name,street_name
+36 road,street_name,street_name
+east 83 street,street_name,street_name
+lefferts avenue,street_name,street_name
+ramona avenue,street_name,street_name
+strauss street,street_name,street_name
+university avenue,street_name,street_name
+west 71 street,street_name,street_name
+fox street,street_name,street_name
+106 avenue,street_name,street_name
+east 76 street,street_name,street_name
+platinum avenue,street_name,street_name
+van tuyl street,street_name,street_name
+roff street,street_name,street_name
+86 avenue,street_name,street_name
+van siclen avenue,street_name,street_name
+benson avenue,street_name,street_name
+garrett street,street_name,street_name
+monahan avenue,street_name,street_name
+varick avenue,street_name,street_name
+queens boulevard,street_name,street_name
+waters avenue,street_name,street_name
+paulding avenue,street_name,street_name
+76 street,street_name,street_name
+cooper avenue,street_name,street_name
+lorimer street,street_name,street_name
+west 169 street,street_name,street_name
+eltingville boulevard,street_name,street_name
+11 street,street_name,street_name
+jefferson avenue,street_name,street_name
+22 street,street_name,street_name
+furmanville avenue,street_name,street_name
+west 101 street,street_name,street_name
+lenevar avenue,street_name,street_name
+dean street,street_name,street_name
+184 street,street_name,street_name
+yetman avenue,street_name,street_name
+east 153 street,street_name,street_name
+sheepshead bay road,street_name,street_name
+hasbrouck road,street_name,street_name
+foster road,street_name,street_name
+avenue t,street_name,street_name
+gothic drive,street_name,street_name
+beach 69 street,street_name,street_name
+west 240 street,street_name,street_name
+janet place,street_name,street_name
+64 road,street_name,street_name
+watson avenue,street_name,street_name
+bruckner expwy eb en e 138 st,street_name,street_name
+ford place,street_name,street_name
+tyrellan avenue,street_name,street_name
+ellsworth avenue,street_name,street_name
+west 34 street,street_name,street_name
+15 street,street_name,street_name
+74 avenue,street_name,street_name
+la salle street,street_name,street_name
+133 avenue,street_name,street_name
+west 17 street,street_name,street_name
+cunard place,street_name,street_name
+forbell street,street_name,street_name
+spruce street,street_name,street_name
+west 134 street,street_name,street_name
+east 8 street,street_name,street_name
+east 92 street,street_name,street_name
+fiske place,street_name,street_name
+east 189 street,street_name,street_name
+montgomery avenue,street_name,street_name
+qns midtown tunnel,street_name,street_name
+avenue c,street_name,street_name
+john street,street_name,street_name
+linwood street,street_name,street_name
+soren street,street_name,street_name
+old lane,street_name,street_name
+tate street,street_name,street_name
+laconia avenue,street_name,street_name
+coyle street,street_name,street_name
+de groot place,street_name,street_name
+himrod street,street_name,street_name
+east 75 street,street_name,street_name
+66 road,street_name,street_name
+118 street,street_name,street_name
+curzon road,street_name,street_name
+herkimer street,street_name,street_name
+post avenue,street_name,street_name
+fillmore avenue,street_name,street_name
+fitchett street,street_name,street_name
+harman street,street_name,street_name
+four corners road,street_name,street_name
+fieldway avenue,street_name,street_name
+oceana drive,street_name,street_name
+hampton street,street_name,street_name
+strang avenue,street_name,street_name
+macombs place,street_name,street_name
+samuel place,street_name,street_name
+hubert street,street_name,street_name
+polo place,street_name,street_name
+york avenue,street_name,street_name
+west 128 street,street_name,street_name
+grant place,street_name,street_name
+shaughnessy lane,street_name,street_name
+kingsborough 6 walk,street_name,street_name
+143 street,street_name,street_name
+2 place,street_name,street_name
+east 72 street,street_name,street_name
+laight street,street_name,street_name
+west 137 street,street_name,street_name
+weiner street,street_name,street_name
+loubet street,street_name,street_name
+east 122 street,street_name,street_name
+west 13 street,street_name,street_name
+203 street,street_name,street_name
+cowen place,street_name,street_name
+norwalk avenue,street_name,street_name
+chevy chase street,street_name,street_name
+east mosholu parkway north,street_name,street_name
+east 52 street,street_name,street_name
+hicks street,street_name,street_name
+force tube avenue,street_name,street_name
+east 35 street,street_name,street_name
+56 street,street_name,street_name
+home place,street_name,street_name
+whitehall street,street_name,street_name
+10 street,street_name,street_name
+henry place,street_name,street_name
+oneil place,street_name,street_name
+drake park south,street_name,street_name
+vwe nb entrance college pnt blvd,street_name,street_name
+wheeler avenue,street_name,street_name
+pershing street,street_name,street_name
+71 avenue,street_name,street_name
+somers street,street_name,street_name
+west 212 street,street_name,street_name
+renwick street,street_name,street_name
+north 4 street,street_name,street_name
+gale avenue,street_name,street_name
+plymouth avenue,street_name,street_name
+13 street,street_name,street_name
+billings place,street_name,street_name
+50 avenue,street_name,street_name
+roebling avenue,street_name,street_name
+east 7 road,street_name,street_name
+riverton street,street_name,street_name
+east 142 street,street_name,street_name
+west 19 street,street_name,street_name
+west 138 street,street_name,street_name
+east 38 street,street_name,street_name
+cedarcroft road,street_name,street_name
+daniel low terrace,street_name,street_name
+washington walk,street_name,street_name
+west 4 street,street_name,street_name
+belt parkway eastbound exit 20,street_name,street_name
+margo loop,street_name,street_name
+west 32 street,street_name,street_name
+11 avenue,street_name,street_name
+provost street,street_name,street_name
+muliner avenue,street_name,street_name
+40 road,street_name,street_name
+midland parkway,street_name,street_name
+hewes street,street_name,street_name
+peter avenue,street_name,street_name
+st raymond avenue,street_name,street_name
+jamaica avenue,street_name,street_name
+warren street,street_name,street_name
+west terrace,street_name,street_name
+43 avenue,street_name,street_name
+hart street,street_name,street_name
+digby place,street_name,street_name
+20 street,street_name,street_name
+vandervoort place,street_name,street_name
+pitkin avenue,street_name,street_name
+jackson mill road,street_name,street_name
+long island expressway,street_name,street_name
+west 64 street,street_name,street_name
+149 street,street_name,street_name
+gouverneur place,street_name,street_name
+vermont street,street_name,street_name
+west gun hill road,street_name,street_name
+genesee avenue,street_name,street_name
+east 172 street,street_name,street_name
+west 6 street,street_name,street_name
+west 123 street,street_name,street_name
+ormond place,street_name,street_name
+rosebank place,street_name,street_name
+rector street,street_name,street_name
+drumgoole road east,street_name,street_name
+14 avenue,street_name,street_name
+canal street,street_name,street_name
+hunter place,street_name,street_name
+70 avenue,street_name,street_name
+silver road,street_name,street_name
+53 road,street_name,street_name
+castleton avenue,street_name,street_name
+lawn avenue,street_name,street_name
+meisner avenue,street_name,street_name
+36 avenue,street_name,street_name
+cypress hills street,street_name,street_name
+58 street,street_name,street_name
+east 180 street,street_name,street_name
+152 street,street_name,street_name
+woodland avenue,street_name,street_name
+south 8 street,street_name,street_name
+224 street,street_name,street_name
+manhattan bridge,street_name,street_name
+gatling place,street_name,street_name
+fort hill circle,street_name,street_name
+garfield place,street_name,street_name
+rye avenue,street_name,street_name
+little west 12 street,street_name,street_name
+edson avenue,street_name,street_name
+bay 13 street,street_name,street_name
+zerega avenue,street_name,street_name
+beach channel drive,street_name,street_name
+convent avenue,street_name,street_name
+64 street,street_name,street_name
+findlay avenue,street_name,street_name
+west 48 street,street_name,street_name
+washington cemetery boundary,street_name,street_name
+mayflower avenue,street_name,street_name
+haring street,street_name,street_name
+tarlton street,street_name,street_name
+edinboro road,street_name,street_name
+goethals avenue,street_name,street_name
+summerfield place,street_name,street_name
+east 184 street,street_name,street_name
+lisbon place,street_name,street_name
+gotham avenue,street_name,street_name
+hudson street,street_name,street_name
+union square west,street_name,street_name
+207 street,street_name,street_name
+summit street,street_name,street_name
+sound street,street_name,street_name
+kelvin avenue,street_name,street_name
+manor road,street_name,street_name
+mc donald avenue,street_name,street_name
+91 avenue,street_name,street_name
+east 16 street,street_name,street_name
+quimby avenue,street_name,street_name
+west 96 street,street_name,street_name
+shiloh avenue,street_name,street_name
+flatbush avenue,street_name,street_name
+selkirk street,street_name,street_name
+louise terrace,street_name,street_name
+east 116 street,street_name,street_name
+bentley street,street_name,street_name
+tyndall avenue,street_name,street_name
+new montrose avenue,street_name,street_name
+mexico street,street_name,street_name
+reading avenue,street_name,street_name
+staten island expwy wb et 7,street_name,street_name
+stewart avenue,street_name,street_name
+avenue w,street_name,street_name
+new haven avenue,street_name,street_name
+noble avenue,street_name,street_name
+johnson street,street_name,street_name
+163 avenue,street_name,street_name
+seneca avenue,street_name,street_name
+morningside drive,street_name,street_name
+76 road,street_name,street_name
+60 lane,street_name,street_name
+seth loop,street_name,street_name
+silver lake road,street_name,street_name
+148 street,street_name,street_name
+st pauls place,street_name,street_name
+warwick street,street_name,street_name
+kingston place,street_name,street_name
+noel road,street_name,street_name
+central avenue,street_name,street_name
+87 road,street_name,street_name
+tennyson drive,street_name,street_name
+spencer drive,street_name,street_name
+cardinal hayes place,street_name,street_name
+troy avenue,street_name,street_name
+wolkoff lane,street_name,street_name
+radcliff road,street_name,street_name
+hudson boulevard,street_name,street_name
+144 street,street_name,street_name
+vernon avenue,street_name,street_name
+locke avenue,street_name,street_name
+30 street,street_name,street_name
+beach 40 street,street_name,street_name
+west 99 street,street_name,street_name
+inwood street,street_name,street_name
+140 street,street_name,street_name
+east 57 place,street_name,street_name
+253 street,street_name,street_name
+east 243 street,street_name,street_name
+park street,street_name,street_name
+hawley avenue,street_name,street_name
+geranium avenue,street_name,street_name
+goethals road north,street_name,street_name
+paradise place,street_name,street_name
+throgs neck expressway,street_name,street_name
+west 259 street,street_name,street_name
+white place,street_name,street_name
+rockaway boulevard,street_name,street_name
+narragansett avenue,street_name,street_name
+lutheran cemetery boundary,street_name,street_name
+west burnside avenue,street_name,street_name
+142 street,street_name,street_name
+davidson avenue,street_name,street_name
+sheldon avenue,street_name,street_name
+larkin avenue,street_name,street_name
+seaman avenue,street_name,street_name
+caton avenue,street_name,street_name
+west end avenue,street_name,street_name
+van allen avenue,street_name,street_name
+east 21 street,street_name,street_name
+powell street,street_name,street_name
+poillon avenue,street_name,street_name
+east 213 street,street_name,street_name
+ft washington avenue,street_name,street_name
+drury avenue,street_name,street_name
+sybilla street,street_name,street_name
+44 street,street_name,street_name
+gunton place,street_name,street_name
+hessler avenue,street_name,street_name
+east 145 street,street_name,street_name
+quince avenue,street_name,street_name
+65 drive,street_name,street_name
+east 12 street,street_name,street_name
+east 3 street,street_name,street_name
+burton street,street_name,street_name
+tompkins street,street_name,street_name
+bay ridge place,street_name,street_name
+130 street,street_name,street_name
+admiral avenue,street_name,street_name
+cook street,street_name,street_name
+west 112 street,street_name,street_name
+meserole avenue,street_name,street_name
+wiley place,street_name,street_name
+marc street,street_name,street_name
+stanley circle,street_name,street_name
+west 126 street,street_name,street_name
+west 131 street,street_name,street_name
+prospect avenue,street_name,street_name
+fire access lane,street_name,street_name
+norwood avenue,street_name,street_name
+avenue p,street_name,street_name
+avenue x,street_name,street_name
+hamden avenue,street_name,street_name
+strickland avenue,street_name,street_name
+borough boundary,street_name,street_name
+independence avenue,street_name,street_name
+wolcott street,street_name,street_name
+shad creek road,street_name,street_name
+73 place,street_name,street_name
+horace harding expressway,street_name,street_name
+sea gate road,street_name,street_name
+west 195 street,street_name,street_name
+mercer street,street_name,street_name
+quincy street,street_name,street_name
+truxton street,street_name,street_name
+van wyck expressway et 1 e nb,street_name,street_name
+78 road,street_name,street_name
+cpw 106 approach,street_name,street_name
+dyckman street,street_name,street_name
+west 143 street,street_name,street_name
+indiana place,street_name,street_name
+concord street,street_name,street_name
+mills avenue,street_name,street_name
+huron street,street_name,street_name
+138 street,street_name,street_name
+village road south,street_name,street_name
+21 avenue,street_name,street_name
+dalny road,street_name,street_name
+rockaway avenue,street_name,street_name
+east 20 street,street_name,street_name
+north hills golf boundary,street_name,street_name
+ericsson street,street_name,street_name
+60 street,street_name,street_name
+walden avenue,street_name,street_name
+34 street,street_name,street_name
+woodbine street,street_name,street_name
+hoover avenue,street_name,street_name
+188 street,street_name,street_name
+walworth street,street_name,street_name
+cpw 100 approach,street_name,street_name
+captain dennis morales way,street_name,street_name
+east 175 street,street_name,street_name
+east 188 street,street_name,street_name
+scott avenue,street_name,street_name
+macombs road,street_name,street_name
+west 87 street,street_name,street_name
+wolcott avenue,street_name,street_name
+229 street,street_name,street_name
+mc farland avenue,street_name,street_name
+ditmas avenue,street_name,street_name
+mayfield road,street_name,street_name
+bayfield avenue,street_name,street_name
+lincoln place,street_name,street_name
+green street,street_name,street_name
+pleasant avenue,street_name,street_name
+pacific avenue,street_name,street_name
+muriel street,street_name,street_name
+garrison avenue,street_name,street_name
+eagle avenue,street_name,street_name
+holland tunnel approach,street_name,street_name
+west 233 street,street_name,street_name
+west 14 street,street_name,street_name
+van cortlandt avenue west,street_name,street_name
+close avenue,street_name,street_name
+rawlins avenue,street_name,street_name
+troutville road,street_name,street_name
+willis avenue bridge,street_name,street_name
+west 81 street,street_name,street_name
+ryder street,street_name,street_name
+jefferson street,street_name,street_name
+old new utrecht road,street_name,street_name
+90 road,street_name,street_name
+36 street,street_name,street_name
+woodhull street,street_name,street_name
+hrd nb entrance e 126 st,street_name,street_name
+newburg street,street_name,street_name
+lois lane,street_name,street_name
+revere avenue,street_name,street_name
+hope lane,street_name,street_name
+w shr expwy nb en arthur kill rd,street_name,street_name
+21 drive,street_name,street_name
+rose avenue,street_name,street_name
+west 5 street,street_name,street_name
+brookfield avenue,street_name,street_name
+chapin parkway,street_name,street_name
+east 179 street,street_name,street_name
+west 254 street,street_name,street_name
+263 street,street_name,street_name
+winant avenue,street_name,street_name
+united hebrew cemetery boundary,street_name,street_name
+steinway street,street_name,street_name
+oxford avenue,street_name,street_name
+78 street,street_name,street_name
+chester street,street_name,street_name
+west 213 street,street_name,street_name
+south 4 street,street_name,street_name
+58 avenue,street_name,street_name
+east 134 street,street_name,street_name
+loring place,street_name,street_name
+ravenna street,street_name,street_name
+newport street,street_name,street_name
+wadsworth road,street_name,street_name
+briggs avenue,street_name,street_name
+west 236 street,street_name,street_name
+east 174 street,street_name,street_name
+gaton street,street_name,street_name
+vincent avenue,street_name,street_name
+avenue s,street_name,street_name
+exeter street,street_name,street_name
+rutland road,street_name,street_name
+prol place,street_name,street_name
+pierrepont street,street_name,street_name
+oceania street,street_name,street_name
+zion street,street_name,street_name
+223 place,street_name,street_name
+94 road,street_name,street_name
+east 95 street,street_name,street_name
+72 road,street_name,street_name
+west broadway,street_name,street_name
+beach 94 street,street_name,street_name
+purdy place,street_name,street_name
+peel place,street_name,street_name
+avenue n,street_name,street_name
+figurea avenue,street_name,street_name
+seabury place,street_name,street_name
+east 10 road,street_name,street_name
+30 place,street_name,street_name
+west 106 street,street_name,street_name
+casanova street,street_name,street_name
+wright street,street_name,street_name
+vine street,street_name,street_name
+70 street,street_name,street_name
+74 place,street_name,street_name
+west 15 place,street_name,street_name
+south 6 street,street_name,street_name
+bklyn battery tnl approach,street_name,street_name
+union avenue,street_name,street_name
+avenue r,street_name,street_name
+cromwell crescent,street_name,street_name
+justice avenue,street_name,street_name
+steuben street,street_name,street_name
+west 7 street,street_name,street_name
+grand central parkway,street_name,street_name
+ascan avenue,street_name,street_name
+pomander walk,street_name,street_name
+126 street,street_name,street_name
+macon street,street_name,street_name
+west 187 street,street_name,street_name
+west 94 street,street_name,street_name
+glenwood road,street_name,street_name
+east 19 street,street_name,street_name
+montana place,street_name,street_name
+west 3 street,street_name,street_name
+east 7 street,street_name,street_name
+wright avenue,street_name,street_name
+stadium avenue,street_name,street_name
+maurice avenue,street_name,street_name
+greenwood avenue,street_name,street_name
+baisley boulevard,street_name,street_name
+jumel street,street_name,street_name
+north randall avenue,street_name,street_name
+van cortlandt avenue east,street_name,street_name
+24 road,street_name,street_name
+east 32 street,street_name,street_name
+60 road,street_name,street_name
+new dorp lane,street_name,street_name
+182 place,street_name,street_name
+snyder avenue,street_name,street_name
+rhinelander avenue,street_name,street_name
+prospect street,street_name,street_name
+pre eastbound entrance 17 st,street_name,street_name
+glebe avenue,street_name,street_name
+west 239 street,street_name,street_name
+theresa place,street_name,street_name
+sutton place south,street_name,street_name
+richmond street,street_name,street_name
+digney avenue,street_name,street_name
+grand central pkwy wb en 94 st,street_name,street_name
+arlington terrace,street_name,street_name
+shore avenue,street_name,street_name
+forest hill road,street_name,street_name
+tilden avenue,street_name,street_name
+fteley avenue,street_name,street_name
+lancaster avenue,street_name,street_name
+west 40 street,street_name,street_name
+kew forest lane,street_name,street_name
+colon avenue,street_name,street_name
+57 street,street_name,street_name
+west 108 street,street_name,street_name
+wickham avenue,street_name,street_name
+delaware street,street_name,street_name
+lenox road,street_name,street_name
+28 avenue,street_name,street_name
+avenue u,street_name,street_name
+53 drive,street_name,street_name
+gowanus expressway wb exit 22,street_name,street_name
+scheffelin avenue,street_name,street_name
+woodside avenue,street_name,street_name
+east 141 street,street_name,street_name
+gold street,street_name,street_name
+marble street,street_name,street_name
+hereford street,street_name,street_name
+25 drive,street_name,street_name
+motley avenue,street_name,street_name
+boyce avenue,street_name,street_name
+west street,street_name,street_name
+decatur avenue,street_name,street_name
+ithaca street,street_name,street_name
+brevoort place,street_name,street_name
+bay 41 street,street_name,street_name
+tompkins avenue,street_name,street_name
+qns mdtwn tnnl exit,street_name,street_name
+ridgewood place,street_name,street_name
+east 23 street,street_name,street_name
+kruger road,street_name,street_name
+vyse avenue,street_name,street_name
+flatlands avenue,street_name,street_name
+stanley avenue,street_name,street_name
+45 avenue,street_name,street_name
+grand concourse,street_name,street_name
+mc keever place,street_name,street_name
+west 178 street,street_name,street_name
+mason boulevard,street_name,street_name
+polhemus place,street_name,street_name
+holland avenue,street_name,street_name
+claremont parkway,street_name,street_name
+westport street,street_name,street_name
+audubon avenue,street_name,street_name
+teleport drive,street_name,street_name
+dahlgren place,street_name,street_name
+tibbett avenue,street_name,street_name
+melrose street,street_name,street_name
+winchester avenue,street_name,street_name
+elmhurst avenue,street_name,street_name
+shadow lane,street_name,street_name
+east 234 street,street_name,street_name
+spratt avenue,street_name,street_name
+montague terrace,street_name,street_name
+east tremont avenue,street_name,street_name
+heath avenue,street_name,street_name
+exchange place,street_name,street_name
+newbold avenue,street_name,street_name
+st peter's avenue,street_name,street_name
+micieli place,street_name,street_name
+wainwright avenue,street_name,street_name
+sandford street,street_name,street_name
+69 street,street_name,street_name
+247 street,street_name,street_name
+128 avenue,street_name,street_name
+pettit avenue,street_name,street_name
+humboldt street,street_name,street_name
+dikeman street,street_name,street_name
+byrne avenue,street_name,street_name
+sutphin boulevard,street_name,street_name
+sheridan ep nb en hunts pt av,street_name,street_name
+laurel avenue,street_name,street_name
+orchard street,street_name,street_name
+throop avenue,street_name,street_name
+wilson view place,street_name,street_name
+burnett place,street_name,street_name
+west 180 street,street_name,street_name
+nurge avenue,street_name,street_name
+west 92 street,street_name,street_name
+chestnut avenue,street_name,street_name
+126 avenue,street_name,street_name
+beach 7 street,street_name,street_name
+tratman avenue,street_name,street_name
+west 165 street,street_name,street_name
+oak point avenue,street_name,street_name
+rathbun avenue,street_name,street_name
+woodhull avenue,street_name,street_name
+east 152 street,street_name,street_name
+beach 25 street,street_name,street_name
+delancey street,street_name,street_name
+beach 75 street,street_name,street_name
+gulf avenue,street_name,street_name
+fiedler avenue,street_name,street_name
+buchanan street,street_name,street_name
+111 avenue,street_name,street_name
+east 169 street,street_name,street_name
+beach 30 street,street_name,street_name
+61 avenue,street_name,street_name
+marketfield street,street_name,street_name
+martin avenue,street_name,street_name
+pulaski avenue,street_name,street_name
+227 street,street_name,street_name
+3 avenue,street_name,street_name
+linwood avenue,street_name,street_name
+fern avenue,street_name,street_name
+84 road,street_name,street_name
+44 avenue,street_name,street_name
+80 avenue,street_name,street_name
+sunbury road,street_name,street_name
+spofford avenue,street_name,street_name
+otis avenue,street_name,street_name
+cloverdale boulevard,street_name,street_name
+new utrecht avenue,street_name,street_name
+saybrook street,street_name,street_name
+18 avenue,street_name,street_name
+104 avenue,street_name,street_name
+129 avenue,street_name,street_name
+andrews avenue,street_name,street_name
+west 116 street,street_name,street_name
+estate road,street_name,street_name
+71 road,street_name,street_name
+236 street,street_name,street_name
+ft hill circle,street_name,street_name
+mayfair drive,street_name,street_name
+ditmars boulevard,street_name,street_name
+friel place,street_name,street_name
+briarcliff road,street_name,street_name
+elm place,street_name,street_name
+sylvaton terrace,street_name,street_name
+roe street,street_name,street_name
+riverdale avenue,street_name,street_name
+bedford avenue,street_name,street_name
+queens plaza north,street_name,street_name
+136 street,street_name,street_name
+east 66 street,street_name,street_name
+huntington avenue,street_name,street_name
+center street,street_name,street_name
+east 228 street,street_name,street_name
+121 street,street_name,street_name
+st lawrence avenue,street_name,street_name
+fillmore street,street_name,street_name
+109 street,street_name,street_name
+west 197 street,street_name,street_name
+staten island mall access road,street_name,street_name
+south avenue,street_name,street_name
+juniper avenue,street_name,street_name
+hester street,street_name,street_name
+beekman street,street_name,street_name
+maclay avenue,street_name,street_name
+94 street,street_name,street_name
+197 street,street_name,street_name
+east 55 street,street_name,street_name
+pine drive,street_name,street_name
+47 avenue,street_name,street_name
+westbrook avenue,street_name,street_name
+plumb 3 street,street_name,street_name
+st john's avenue,street_name,street_name
+west 227 street,street_name,street_name
+fisher avenue,street_name,street_name
+third avenue bridge,street_name,street_name
+piave avenue,street_name,street_name
+45 road,street_name,street_name
+love lane,street_name,street_name
+east 1 road,street_name,street_name
+jay street,street_name,street_name
+west 124 street,street_name,street_name
+lafayette street,street_name,street_name
+pleasant valley avenue,street_name,street_name
+benedict road,street_name,street_name
+88 place,street_name,street_name
+laurel drive,street_name,street_name
+147 avenue,street_name,street_name
+east 118 street,street_name,street_name
+clara street,street_name,street_name
+33 street,street_name,street_name
+swinton avenue,street_name,street_name
+riedel avenue,street_name,street_name
+53 avenue,street_name,street_name
+croak avenue,street_name,street_name
+irvington place,street_name,street_name
+layton avenue,street_name,street_name
+west 66 street,street_name,street_name
+downing street,street_name,street_name
+rex road,street_name,street_name
+greaves avenue,street_name,street_name
+north 1 street,street_name,street_name
+linden street,street_name,street_name
+miller avenue,street_name,street_name
+connor avenue,street_name,street_name
+29 street,street_name,street_name
+luna circle,street_name,street_name
+sherwood place,street_name,street_name
+shea road,street_name,street_name
+112 avenue,street_name,street_name
+mackintosh street,street_name,street_name
+111 street,street_name,street_name
+newport avenue,street_name,street_name
+cross bay boulevard,street_name,street_name
+68 road,street_name,street_name
+old amboy road,street_name,street_name
+francesca lane,street_name,street_name
+east 43 street,street_name,street_name
+113 street,street_name,street_name
+carroll street,street_name,street_name
+nicolls avenue,street_name,street_name
+christie avenue,street_name,street_name
+west 122 street,street_name,street_name
+sandborn street,street_name,street_name
+west 160 street,street_name,street_name
+73 street,street_name,street_name
+brigham street,street_name,street_name
+milford street,street_name,street_name
+153 place,street_name,street_name
+brooklyn queens expressway,street_name,street_name
+gladwin street,street_name,street_name
+campus place,street_name,street_name
+laburnum avenue,street_name,street_name
+north 9 street,street_name,street_name
+north conduit avenue,street_name,street_name
+serrell avenue,street_name,street_name
+delancey st south,street_name,street_name
+east 198 street,street_name,street_name
+jewel avenue,street_name,street_name
+mc clean avenue,street_name,street_name
+24 street,street_name,street_name
+van nest avenue,street_name,street_name
+saunders street,street_name,street_name
+226 street,street_name,street_name
+182 street,street_name,street_name
+mermaid avenue,street_name,street_name
+burgher avenue,street_name,street_name
+rockwell place,street_name,street_name
+212 street,street_name,street_name
+ironwood street,street_name,street_name
+leonard avenue,street_name,street_name
+north 6 street,street_name,street_name
+232 street,street_name,street_name
+steele avenue,street_name,street_name
+turnbull avenue,street_name,street_name
+harrington avenue,street_name,street_name
+national drive,street_name,street_name
+drake avenue,street_name,street_name
+254 street,street_name,street_name
+borden avenue,street_name,street_name
+sutter avenue,street_name,street_name
+craft avenue,street_name,street_name
+bartow avenue,street_name,street_name
+154 street,street_name,street_name
+90 street,street_name,street_name
+55 avenue,street_name,street_name
+potter avenue,street_name,street_name
+pickersgill avenue,street_name,street_name
+north 3 street,street_name,street_name
+sylvan avenue,street_name,street_name
+matthews avenue,street_name,street_name
+thieriot avenue,street_name,street_name
+rose feiss boulevard,street_name,street_name
+south 9 street,street_name,street_name
+west 74 street,street_name,street_name
+beach 84 street,street_name,street_name
+billiou street,street_name,street_name
+213 street,street_name,street_name
+east 232 street,street_name,street_name
+putnam avenue west,street_name,street_name
+hillcrest road,street_name,street_name
+37 avenue,street_name,street_name
+west 27 street,street_name,street_name
+bruckner expressway,street_name,street_name
+268 street,street_name,street_name
+totten street,street_name,street_name
+west 97 street,street_name,street_name
+west farms road,street_name,street_name
+east 54 street,street_name,street_name
+transverse road 4,street_name,street_name
+blackstone avenue,street_name,street_name
+graham avenue,street_name,street_name
+isham street,street_name,street_name
+west kingsbridge road,street_name,street_name
+west 193 street,street_name,street_name
+61 road,street_name,street_name
+avenue m,street_name,street_name
+west 146 street,street_name,street_name
+mickle avenue,street_name,street_name
+ryer avenue,street_name,street_name
+ridge boulevard,street_name,street_name
+merriman avenue,street_name,street_name
+noble street,street_name,street_name
+visitation place,street_name,street_name
+weller avenue,street_name,street_name
+buchanan avenue,street_name,street_name
+burke avenue,street_name,street_name
+gowanus expressway,street_name,street_name
+watts street,street_name,street_name
+tarring street,street_name,street_name
+jackie robinson pkwy eb et 2,street_name,street_name
+willis avenue,street_name,street_name
+brooklyn battery tunnel approach,street_name,street_name
+west 22 street,street_name,street_name
+31 road,street_name,street_name
+webster place,street_name,street_name
+scranton avenue,street_name,street_name
+61 street,street_name,street_name
+wales avenue,street_name,street_name
+mann avenue,street_name,street_name
+avenue y,street_name,street_name
+west 174 street,street_name,street_name
+webster avenue,street_name,street_name
+old town road,street_name,street_name
+woodrow road,street_name,street_name
+hoffman street,street_name,street_name
+hoxie street,street_name,street_name
+east 129 street,street_name,street_name
+kissena boulevard,street_name,street_name
+180 street,street_name,street_name
+stanwix street,street_name,street_name
+west 114 street,street_name,street_name
+junction boulevard,street_name,street_name
+east 187 street,street_name,street_name
+leeds road,street_name,street_name
+ring road,street_name,street_name
+west 95 street,street_name,street_name
+gleane street,street_name,street_name
+creedmoor hospital boundary,street_name,street_name
+ferndale avenue,street_name,street_name
+dubois avenue,street_name,street_name
+havenwood road,street_name,street_name
+metro north rr,street_name,street_name
+bqe wb exit 27,street_name,street_name
+winfield avenue,street_name,street_name
+pulaski bridge,street_name,street_name
+pine street,street_name,street_name
+west 9 road,street_name,street_name
+keating street,street_name,street_name
+churchill avenue,street_name,street_name
+barclay avenue,street_name,street_name
+east 27 street,street_name,street_name
+hillel place,street_name,street_name
+natick street,street_name,street_name
+home street,street_name,street_name
+37 road,street_name,street_name
+east 164 street,street_name,street_name
+rochelle place,street_name,street_name
+149 place,street_name,street_name
+inwood road,street_name,street_name
+hawtree creek road,street_name,street_name
+woehrle avenue,street_name,street_name
+wardwell avenue,street_name,street_name
+233 street,street_name,street_name
+plumb 1 street,street_name,street_name
+112 street,street_name,street_name
+menahan street,street_name,street_name
+fahy avenue,street_name,street_name
+huntington street,street_name,street_name
+spinnaker drive,street_name,street_name
+willmohr street,street_name,street_name
+70 road,street_name,street_name
+north 7 street,street_name,street_name
+roosevelt avenue,street_name,street_name
+prices lane,street_name,street_name
+ellwell crescent,street_name,street_name
+northentry road,street_name,street_name
+robertson street,street_name,street_name
+hollywood avenue,street_name,street_name
+commerce street,street_name,street_name
+washington place,street_name,street_name
+mundy avenue,street_name,street_name
+roxbury street,street_name,street_name
+wiman place,street_name,street_name
+langdale street,street_name,street_name
+vernon boulevard,street_name,street_name
+east stroud avenue,street_name,street_name
+221 street,street_name,street_name
+glen street,street_name,street_name
+74 street,street_name,street_name
+west 145 street,street_name,street_name
+54 street,street_name,street_name
+crystal street,street_name,street_name
+sand lane,street_name,street_name
+west 93 street,street_name,street_name
+richmond road,street_name,street_name
+185 street,street_name,street_name
+lloyd road,street_name,street_name
+huxley street,street_name,street_name
+yona avenue,street_name,street_name
+fenway circle,street_name,street_name
+kent avenue,street_name,street_name
+west 100 street,street_name,street_name
+south conduit avenue exit eb,street_name,street_name
+combs avenue,street_name,street_name
+whitlock avenue,street_name,street_name
+memphis avenue,street_name,street_name
+west 44 street,street_name,street_name
+hemlock street,street_name,street_name
+qnsbo br up ry approach,street_name,street_name
+jewett avenue,street_name,street_name
+pompey avenue,street_name,street_name
+macnish street,street_name,street_name
+windsor avenue,street_name,street_name
+howard lane,street_name,street_name
+westwood avenue,street_name,street_name
+powers street,street_name,street_name
+linden place,street_name,street_name
+west 150 street,street_name,street_name
+hamilton place,street_name,street_name
+page avenue,street_name,street_name
+katan loop,street_name,street_name
+kingsborough 5 walk,street_name,street_name
+yates road,street_name,street_name
+reservoir avenue,street_name,street_name
+robinson street,street_name,street_name
+milton street,street_name,street_name
+mc kenny street,street_name,street_name
+gelston avenue,street_name,street_name
+prince street,street_name,street_name
+country drive west,street_name,street_name
+10 avenue,street_name,street_name
+east 85 street,street_name,street_name
+vulcan street,street_name,street_name
+sullivan street,street_name,street_name
+170 street,street_name,street_name
+medina street,street_name,street_name
+nostrand avenue,street_name,street_name
+pinehurst avenue,street_name,street_name
+spencer avenue,street_name,street_name
+sunnyside avenue,street_name,street_name
+mason avenue,street_name,street_name
+buffalo avenue,street_name,street_name
+simonson place,street_name,street_name
+lewis avenue,street_name,street_name
+west 35 street,street_name,street_name
+west 129 street,street_name,street_name
+vandalia avenue,street_name,street_name
+bay 17 street,street_name,street_name
+east 204 street,street_name,street_name
+lucas street,street_name,street_name
+west 211 street,street_name,street_name
+melissa street,street_name,street_name
+faber street,street_name,street_name
+peck avenue,street_name,street_name
+156 street,street_name,street_name
+pidgeon meadow road,street_name,street_name
+dakota place,street_name,street_name
+delancey place,street_name,street_name
+benedict avenue,street_name,street_name
+mc guinness blvd south,street_name,street_name
+jennings street,street_name,street_name
+sunrise highway,street_name,street_name
+elton street,street_name,street_name
+gillen place,street_name,street_name
+west 191 street,street_name,street_name
+merle place,street_name,street_name
+grace avenue,street_name,street_name
+west 65 street,street_name,street_name
+smith terrace,street_name,street_name
+maybury avenue,street_name,street_name
+258 street,street_name,street_name
+erastina place,street_name,street_name
+219 street,street_name,street_name
+east 108 street,street_name,street_name
+westchester avenue,street_name,street_name
+58 road,street_name,street_name
+west 36 street,street_name,street_name
+120 avenue,street_name,street_name
+foch avenue,street_name,street_name
+161 street,street_name,street_name
+bayonne bridge approach,street_name,street_name
+osgood avenue,street_name,street_name
+west 255 street,street_name,street_name
+sharrott avenue,street_name,street_name
+waters place,street_name,street_name
+coney island avenue,street_name,street_name
+cambridge avenue,street_name,street_name
+leverett avenue,street_name,street_name
+gowanus expwy wb en erik plce,street_name,street_name
+prospect place,street_name,street_name
+altoona avenue,street_name,street_name
+mayfair drive north,street_name,street_name
+annadale road,street_name,street_name
+pelham parkway,street_name,street_name
+palmer avenue,street_name,street_name
+west 205 street,street_name,street_name
+stockton street,street_name,street_name
+harvest avenue,street_name,street_name
+coolidge avenue,street_name,street_name
+andrew diorio boulevard,street_name,street_name
+rae avenue,street_name,street_name
+duryea place,street_name,street_name
+west 29 street,street_name,street_name
+120 street,street_name,street_name
+redmond avenue,street_name,street_name
+georgia avenue,street_name,street_name
+hillis street,street_name,street_name
+edenwald avenue,street_name,street_name
+morrison avenue,street_name,street_name
+edward m morgan place,street_name,street_name
+nashville boulevard,street_name,street_name
+lighthouse avenue,street_name,street_name
+trantor place,street_name,street_name
+west 37 street,street_name,street_name
+bqe wb entrance columbia st,street_name,street_name
+magenta street,street_name,street_name
+little street,street_name,street_name
+west 70 street,street_name,street_name
+lefferts boulevard,street_name,street_name
+wooster street,street_name,street_name
+east 4 street,street_name,street_name
+east 25 street,street_name,street_name
+brown place,street_name,street_name
+164 avenue,street_name,street_name
+burden crescent,street_name,street_name
+lorraine avenue,street_name,street_name
+murdock place,street_name,street_name
+cross island pkwy sb en 149 st,street_name,street_name
+cemetery of evergrns boundary,street_name,street_name
+sommer avenue,street_name,street_name
+186 street,street_name,street_name
+quinlan avenue,street_name,street_name
+kappock street,street_name,street_name
+heath place,street_name,street_name
+irving place,street_name,street_name
+sterling place,street_name,street_name
+east burnside avenue,street_name,street_name
+jules drive,street_name,street_name
+east 140 street,street_name,street_name
+stanhope street,street_name,street_name
+east 182 street,street_name,street_name
+jane street,street_name,street_name
+38 avenue,street_name,street_name
+bedford street,street_name,street_name
+talbot street,street_name,street_name
+euclid avenue,street_name,street_name
+lakewood avenue,street_name,street_name
+sea place,street_name,street_name
+cherry street,street_name,street_name
+lott street,street_name,street_name
+east 56 street,street_name,street_name
+parker street,street_name,street_name
+surf avenue,street_name,street_name
+cadman plaza east,street_name,street_name
+141 avenue,street_name,street_name
+east 194 street,street_name,street_name
+fornes place,street_name,street_name
+east 166 street,street_name,street_name
+east 119 street,street_name,street_name
+east 171 street,street_name,street_name
+metcalfe street,street_name,street_name
+pittsville avenue,street_name,street_name
+sharrotts road,street_name,street_name
+scholes street,street_name,street_name
+avenue v,street_name,street_name
+linda avenue,street_name,street_name
+fleet place,street_name,street_name
+159 street,street_name,street_name
+easthampton boulevard,street_name,street_name
+magaw place,street_name,street_name
+mother gaston boulevard,street_name,street_name
+east 238 street,street_name,street_name
+atlantic avenue,street_name,street_name
+greenwich street,street_name,street_name
+crossfield avenue,street_name,street_name
+west 186 street,street_name,street_name
+miller field boundary,street_name,street_name
+vestry street,street_name,street_name
+lincoln avenue,street_name,street_name
+olympia boulevard,street_name,street_name
+johnston terrace,street_name,street_name
+hoyt avenue,street_name,street_name
+hhp nb entrance w 236 st,street_name,street_name
+fairlawn loop,street_name,street_name
+63 street,street_name,street_name
+north railroad avenue,street_name,street_name
+markham lane,street_name,street_name
+legion street,street_name,street_name
+116 street,street_name,street_name
+sampson avenue,street_name,street_name
+overing street,street_name,street_name
+magnolia avenue,street_name,street_name
+east 90 street,street_name,street_name
+bushwick place,street_name,street_name
+donley avenue,street_name,street_name
+linton place,street_name,street_name
+west 185 street,street_name,street_name
+east 5 street,street_name,street_name
+church lane,street_name,street_name
+ridgecrest terrace,street_name,street_name
+lois avenue,street_name,street_name
+75 street,street_name,street_name
+bay street,street_name,street_name
+howard circle,street_name,street_name
+avenue z,street_name,street_name
+midland road,street_name,street_name
+lisk avenue,street_name,street_name
+pell street,street_name,street_name
+49 street,street_name,street_name
+east fordham road,street_name,street_name
+east 80 street,street_name,street_name
+2 street,street_name,street_name
+governor road,street_name,street_name
+kramer place,street_name,street_name
+261 street,street_name,street_name
+marion avenue,street_name,street_name
+29 avenue,street_name,street_name
+4 street,street_name,street_name
+f d r drive,street_name,street_name
+holland tunnel exit,street_name,street_name
+demerest road,street_name,street_name
+nevada avenue,street_name,street_name
+east 59 street,street_name,street_name
+lenox avenue,street_name,street_name
+grand central parkway wb et 3,street_name,street_name
+rodman place,street_name,street_name
+de graw street,street_name,street_name
+romer road,street_name,street_name
+noel avenue,street_name,street_name
+west 216 street,street_name,street_name
+avenue of the americas,street_name,street_name
+industry road,street_name,street_name
+south conduit avenue,street_name,street_name
+clarke avenue,street_name,street_name
+east 239 street,street_name,street_name
+west 39 street,street_name,street_name
+40 avenue,street_name,street_name
+east 10 street,street_name,street_name
+cypress avenue,street_name,street_name
+east 40 street,street_name,street_name
+ridge street,street_name,street_name
+kessel street,street_name,street_name
+ursina road,street_name,street_name
+wilcox avenue,street_name,street_name
+maitland avenue,street_name,street_name
+cortelyou avenue,street_name,street_name
+wall street,street_name,street_name
+pratt avenue,street_name,street_name
+106 street,street_name,street_name
+243 street,street_name,street_name
+grenada place,street_name,street_name
+walcott avenue,street_name,street_name
+lipsett avenue,street_name,street_name
+fleet street,street_name,street_name
+cotter avenue,street_name,street_name
+dyer avenue,street_name,street_name
+mc divitt avenue,street_name,street_name
+brighton 1 terrace,street_name,street_name
+beach 70 street,street_name,street_name
+randolph street,street_name,street_name
+west houston street,street_name,street_name
+57 avenue,street_name,street_name
+clearview expwy sb et 6 a,street_name,street_name
+willow street,street_name,street_name
+silver lake park boundary,street_name,street_name
+51 street,street_name,street_name
+washington avenue,street_name,street_name
+kermit place,street_name,street_name
+highview avenue,street_name,street_name
+home avenue,street_name,street_name
+west 148 street,street_name,street_name
+27 avenue,street_name,street_name
+fingerboard road,street_name,street_name
+pond street,street_name,street_name
+wygant place,street_name,street_name
+roder avenue,street_name,street_name
+webb avenue,street_name,street_name
+west 225 street,street_name,street_name
+dorval avenue,street_name,street_name
+265 street,street_name,street_name
+northern boulevard,street_name,street_name
+north ramp viaduct,street_name,street_name
+eddy street,street_name,street_name
+everett avenue,street_name,street_name
+braddock avenue,street_name,street_name
+39 avenue,street_name,street_name
+roe road,street_name,street_name
+fleet walk,street_name,street_name
+thorns lane,street_name,street_name
+walnut avenue,street_name,street_name
+st felix street,street_name,street_name
+curtis street,street_name,street_name
+bay ridge parkway,street_name,street_name
+walker place,street_name,street_name
+fresh pond road,street_name,street_name
+145 road,street_name,street_name
+mill lane,street_name,street_name
+walker street,street_name,street_name
+korean vets parkway exit eb,street_name,street_name
+20 road,street_name,street_name
+moore street,street_name,street_name
+hughes avenue,street_name,street_name
+bleecker street,street_name,street_name
+lux road,street_name,street_name
+van pelt avenue,street_name,street_name
+shenandoah avenue,street_name,street_name
+thames street,street_name,street_name
+sheraden avenue,street_name,street_name
+crocheron avenue,street_name,street_name
+hawthorne street,street_name,street_name
+presley street,street_name,street_name
+edgegrove avenue,street_name,street_name
+marine way,street_name,street_name
+tillotson avenue,street_name,street_name
+linden boulevard,street_name,street_name
+west 42 street,street_name,street_name
+24 avenue,street_name,street_name
+cross bay bridge exit ramp,street_name,street_name
+halsey street,street_name,street_name
+transmanhattan expressway,street_name,street_name
+51 avenue,street_name,street_name
+arthur kill road,street_name,street_name
+142 avenue,street_name,street_name
+forley street,street_name,street_name
+marine parkway br approach,street_name,street_name
+85 drive,street_name,street_name
+reade street,street_name,street_name
+spring street,street_name,street_name
+dawson circle,street_name,street_name
+byron avenue,street_name,street_name
+grand central parkway eb et 3,street_name,street_name
+4 avenue,street_name,street_name
+east 162 street,street_name,street_name
+schley avenue,street_name,street_name
+church street,street_name,street_name
+court street,street_name,street_name
+lahn street,street_name,street_name
+pedestrian overpass,street_name,street_name
+77 street,street_name,street_name
+bklyn bridge exit ramp,street_name,street_name
+merry avenue,street_name,street_name
+east 117 street,street_name,street_name
+69 lane,street_name,street_name
+grnd cntrl parkway entrance eb,street_name,street_name
+travis avenue,street_name,street_name
+60 drive,street_name,street_name
+south 3 street,street_name,street_name
+204 street,street_name,street_name
+lathrop avenue,street_name,street_name
+63 drive,street_name,street_name
+beach 92 street,street_name,street_name
+5 avenue,street_name,street_name
+brighton avenue,street_name,street_name
+ely avenue,street_name,street_name
+harrison street,street_name,street_name
+rensselaer avenue,street_name,street_name
+pleasantview street,street_name,street_name
+stuyvesant place,street_name,street_name
+223 street,street_name,street_name
+west 26 street,street_name,street_name
+cohancy street,street_name,street_name
+bqe wb entrance old fulton st,street_name,street_name
+thompson place,street_name,street_name
+channing road,street_name,street_name
+englewood avenue,street_name,street_name
+85 road,street_name,street_name
+caro street,street_name,street_name
+111 road,street_name,street_name
+bay 28 street,street_name,street_name
+78 crescent,street_name,street_name
+3 street,street_name,street_name
+underhill avenue,street_name,street_name
+east 165 street,street_name,street_name
+mapleton avenue,street_name,street_name
+dobbin street,street_name,street_name
+wakefield avenue,street_name,street_name
+courtney loop,street_name,street_name
+97 avenue,street_name,street_name
+147 street,street_name,street_name
+shirley avenue,street_name,street_name
+barry street,street_name,street_name
+east 143 street,street_name,street_name
+33 avenue,street_name,street_name
+5 street,street_name,street_name
+bessemer street,street_name,street_name
+smyrna avenue,street_name,street_name
+241 street,street_name,street_name
+brielle avenue,street_name,street_name
+52 street,street_name,street_name
+wemple street,street_name,street_name
+summerfield street,street_name,street_name
+thatford avenue,street_name,street_name
+seba avenue,street_name,street_name
+gates avenue,street_name,street_name
+perkiomen avenue,street_name,street_name
+thebes avenue,street_name,street_name
+middleton street,street_name,street_name
+pebble lane,street_name,street_name
+henry hudson parkway nb et 13,street_name,street_name
+van sinderen avenue,street_name,street_name
+onderdonk avenue,street_name,street_name
+235 street,street_name,street_name
+lily pond avenue,street_name,street_name
+new lots avenue,street_name,street_name
+lawrence avenue,street_name,street_name
+wilbur street,street_name,street_name
+beverly road,street_name,street_name
+52 road,street_name,street_name
+forest park drive,street_name,street_name
+108 avenue,street_name,street_name
+west 256 street,street_name,street_name
+waverly avenue,street_name,street_name
+sycamore street,street_name,street_name
+west 43 street,street_name,street_name
+plattsburg street,street_name,street_name
+4 place,street_name,street_name
+herzl street,street_name,street_name
+steuben avenue,street_name,street_name
+deppe place,street_name,street_name
+178 street,street_name,street_name
+morris avenue,street_name,street_name
+lincoln tunnel approach,street_name,street_name
+west 192 street,street_name,street_name
+east 205 street,street_name,street_name
+cortelyou road,street_name,street_name
+glenmore avenue,street_name,street_name
+eldridge street,street_name,street_name
+dellwood road,street_name,street_name
+east 231 street,street_name,street_name
+slayton avenue,street_name,street_name
+wenlock street,street_name,street_name
+holmes lane,street_name,street_name
+new york avenue,street_name,street_name
+249 street,street_name,street_name
+fordham univ boundary,street_name,street_name
+pineapple street,street_name,street_name
+71 street,street_name,street_name
+chatterton avenue,street_name,street_name
+taylor avenue,street_name,street_name
+moffat street,street_name,street_name
+cooper terrace,street_name,street_name
+vineland avenue,street_name,street_name
+liebig avenue,street_name,street_name
+pinewood avenue,street_name,street_name
+west mosholu parkway south,street_name,street_name
+270 street,street_name,street_name
+deepdale avenue,street_name,street_name
+newell street,street_name,street_name
+arkansas avenue,street_name,street_name
+rice avenue,street_name,street_name
+edwin street,street_name,street_name
+beekman place,street_name,street_name
+hooper street,street_name,street_name
+colgate avenue,street_name,street_name
+qn mdtwn tnnl approach,street_name,street_name
+69 road,street_name,street_name
+44 road,street_name,street_name
+160 avenue,street_name,street_name
+east 14 street,street_name,street_name
+75 road,street_name,street_name
+o brien place,street_name,street_name
+starr avenue,street_name,street_name
+west 107 street,street_name,street_name
+elmwood avenue,street_name,street_name
+101 avenue,street_name,street_name
+horatio street,street_name,street_name
+bronx rvr pkwy sb en webster ave,street_name,street_name
+channel avenue,street_name,street_name
+lott place,street_name,street_name
+143 road,street_name,street_name
+196 street,street_name,street_name
+whitman drive,street_name,street_name
+senator street,street_name,street_name
+vassar street,street_name,street_name
+whitney avenue,street_name,street_name
+124 street,street_name,street_name
+merrill street,street_name,street_name
+wyona street,street_name,street_name
+purdy avenue,street_name,street_name
+jacob riis park boundary,street_name,street_name
+thursby avenue,street_name,street_name
+rockaway freeway,street_name,street_name
+beach 86 street,street_name,street_name
+knickerbocker avenue,street_name,street_name
+seguine place,street_name,street_name
+luquer street,street_name,street_name
+grattan street,street_name,street_name
+pelton avenue,street_name,street_name
+143 avenue,street_name,street_name
+east 89 street,street_name,street_name
+swan street,street_name,street_name
+davis street,street_name,street_name
+highland avenue,street_name,street_name
+la salle avenue,street_name,street_name
+marcus garvey boulevard,street_name,street_name
+avenue b,street_name,street_name
+freeman street,street_name,street_name
+tompkins place,street_name,street_name
+3 place,street_name,street_name
+morningside avenue,street_name,street_name
+avenue i,street_name,street_name
+cambria street,street_name,street_name
+manhattan avenue,street_name,street_name
+110 street,street_name,street_name
+richmond avenue,street_name,street_name
+rosedale avenue,street_name,street_name
+elton avenue,street_name,street_name
+wallace avenue,street_name,street_name
+lodovick avenue,street_name,street_name
+tonsor street,street_name,street_name
+157 street,street_name,street_name
+269 street,street_name,street_name
+east 29 street,street_name,street_name
+van dam street,street_name,street_name
+marion street,street_name,street_name
+hollers avenue,street_name,street_name
+mill street,street_name,street_name
+north mada avenue,street_name,street_name
+gansevoort boulevard,street_name,street_name
+oceanview avenue,street_name,street_name
+navy street,street_name,street_name
+irwin place,street_name,street_name
+west 250 street,street_name,street_name
+highlawn avenue,street_name,street_name
+beach 87 street,street_name,street_name
+east 195 street,street_name,street_name
+skidmore lane,street_name,street_name
+east 26 street,street_name,street_name
+east 163 street,street_name,street_name
+st peters place,street_name,street_name
+weirfield street,street_name,street_name
+vaux road,street_name,street_name
+montrose avenue,street_name,street_name
+stafford avenue,street_name,street_name
+broadway,street_name,street_name
+west 30 street,street_name,street_name
+brooklyn queens expressway en sb,street_name,street_name
+louis nine boulevard,street_name,street_name
+bklyn battery tunnel,street_name,street_name
+sanders place,street_name,street_name
+195 street,street_name,street_name
+arlington place,street_name,street_name
+gunther avenue,street_name,street_name
+cromwell circle,street_name,street_name
+deepdale place,street_name,street_name
+west 144 street,street_name,street_name
+beach place,street_name,street_name
+seguine avenue,street_name,street_name
+bathgate avenue,street_name,street_name
+river road,street_name,street_name
+leyden avenue,street_name,street_name
+walton avenue,street_name,street_name
+77 avenue,street_name,street_name
+wandell avenue,street_name,street_name
+florence avenue,street_name,street_name
+quincy avenue,street_name,street_name
+bqe eastbound exit 28 b,street_name,street_name
+belknap street,street_name,street_name
+weehawken street,street_name,street_name
+marne avenue,street_name,street_name
+c p west drive,street_name,street_name
+west 133 street,street_name,street_name
+avenue k,street_name,street_name
+barker street,street_name,street_name
+newberry avenue,street_name,street_name
+west 63 street,street_name,street_name
+manton street,street_name,street_name
+armstrong avenue,street_name,street_name
+wissman avenue,street_name,street_name
+174 street,street_name,street_name
+kaltenmeier lane,street_name,street_name
+fine boulevard,street_name,street_name
+bloomingdale road,street_name,street_name
+riverside drive,street_name,street_name
+west avenue,street_name,street_name
+joralemon street,street_name,street_name
+woodpoint road,street_name,street_name
+ryders alley,street_name,street_name
+east 159 street,street_name,street_name
+suffolk street,street_name,street_name
+west 31 street,street_name,street_name
+seward avenue,street_name,street_name
+beach 73 street,street_name,street_name
+new lane,street_name,street_name
+shore road drive,street_name,street_name
+harvard avenue,street_name,street_name
+review place,street_name,street_name
+van brunt street,street_name,street_name
+kelly boulevard,street_name,street_name
+steinway avenue,street_name,street_name
+west 25 street,street_name,street_name
+ramsey lane,street_name,street_name
+gerritsen avenue,street_name,street_name
+130 avenue,street_name,street_name
+east 161 street,street_name,street_name
+chess loop,street_name,street_name
+west 188 street,street_name,street_name
+narrows road south,street_name,street_name
+west 10 road,street_name,street_name
+west 8 street,street_name,street_name
+jesup place,street_name,street_name
+lydig avenue,street_name,street_name
+78 avenue,street_name,street_name
+east 64 street,street_name,street_name
+west 115 street,street_name,street_name
+west 189 street,street_name,street_name
+west castor place,street_name,street_name
+waverly place,street_name,street_name
+ketcham street,street_name,street_name
+king street,street_name,street_name
+shale street,street_name,street_name
+north 5 street,street_name,street_name
+garden place,street_name,street_name
+corona avenue,street_name,street_name
+stroud avenue,street_name,street_name
+puritan avenue,street_name,street_name
+218 street,street_name,street_name
+conduit boulevard,street_name,street_name
+weaver street,street_name,street_name
+silver beach drive,street_name,street_name
+utah walk,street_name,street_name
+fairfield street,street_name,street_name
+82 road,street_name,street_name
+mulberry avenue,street_name,street_name
+jerome avenue,street_name,street_name
+cherry place,street_name,street_name
+madsen avenue,street_name,street_name
+avenue j,street_name,street_name
+starr street,street_name,street_name
+otto road,street_name,street_name
+fieldstone road,street_name,street_name
+church avenue,street_name,street_name
+246 place,street_name,street_name
+62 road,street_name,street_name
+north railroad street,street_name,street_name
+west 24 street,street_name,street_name
+wingham street,street_name,street_name
+69 avenue,street_name,street_name
+moffett street,street_name,street_name
+kearney street,street_name,street_name
+west 253 street,street_name,street_name
+east gun hill road,street_name,street_name
+trimble road,street_name,street_name
+west 11 road,street_name,street_name
+150 place,street_name,street_name
+nassau street,street_name,street_name
+oak tree place,street_name,street_name
+west 157 street,street_name,street_name
+cable way,street_name,street_name
+patterson avenue,street_name,street_name
+lyman avenue,street_name,street_name
+12 avenue,street_name,street_name
+gowanus expressway eb exit 21,street_name,street_name
+pleasant street,street_name,street_name
+west 262 street,street_name,street_name
+collier avenue,street_name,street_name
+lie wb entrance college pnt blvd,street_name,street_name
+desoto street,street_name,street_name
+marcy avenue,street_name,street_name
+dublin place,street_name,street_name
+266 street,street_name,street_name
+21 street,street_name,street_name
+verrazano bridge approach,street_name,street_name
+grantwood avenue,street_name,street_name
+starlight road,street_name,street_name
+maiden lane,street_name,street_name
+ragazzi lane,street_name,street_name
+mc kibbin street,street_name,street_name
+richmond parkway exit wb,street_name,street_name
+225 street,street_name,street_name
+college point boulevard,street_name,street_name
+47 road,street_name,street_name
+pierrepont place,street_name,street_name
+troutman street,street_name,street_name
+west 141 street,street_name,street_name
+harold avenue,street_name,street_name
+morris street,street_name,street_name
+st marks place,street_name,street_name
+dumont avenue,street_name,street_name
+shore road,street_name,street_name
+sea breeze avenue,street_name,street_name
+longwood avenue,street_name,street_name
+purvis street,street_name,street_name
+93 road,street_name,street_name
+van buren street,street_name,street_name
+joe dimaggio highway,street_name,street_name
+memorial drive,street_name,street_name
+ronald avenue,street_name,street_name
+knox place,street_name,street_name
+wilder avenue,street_name,street_name
+patten street,street_name,street_name
+st pauls avenue,street_name,street_name
+bk battery tnnl exit,street_name,street_name
+105 street,street_name,street_name
+main street,street_name,street_name
+31 street,street_name,street_name
+eton street,street_name,street_name
+foch boulevard,street_name,street_name
+revere place,street_name,street_name
+east 150 street,street_name,street_name
+east 222 street,street_name,street_name
+cortlandt alley,street_name,street_name

@@ -1,0 +1,647 @@
+value,label,count
+00,vehicle_type,1
+013,vehicle_type,1
+1,vehicle_type,1
+12 PA,vehicle_type,1
+15 PA,vehicle_type,1
+16M,vehicle_type,1
+18 WH,vehicle_type,1
+18 Wh,vehicle_type,1
+1S,vehicle_type,1
+2 DOO,vehicle_type,1
+2 dr sedan,vehicle_type,1
+2- to,vehicle_type,1
+2TON,vehicle_type,1
+3-Door,vehicle_type,1
+3-Whe,vehicle_type,1
+3D,vehicle_type,1
+3DC-,vehicle_type,1
+4 dr sedan,vehicle_type,1
+4DR,vehicle_type,1
+4DS,vehicle_type,1
+4DSD,vehicle_type,1
+72000,vehicle_type,1
+994,vehicle_type,1
+ACCES,vehicle_type,1
+ALUMI,vehicle_type,1
+AM,vehicle_type,1
+AMB,vehicle_type,1
+AMBU,vehicle_type,1
+AMBUL,vehicle_type,1
+AMBULANCE,vehicle_type,1
+AMULA,vehicle_type,1
+APPOR,vehicle_type,1
+APURP,vehicle_type,1
+AR,vehicle_type,1
+ARMOR,vehicle_type,1
+ART M,vehicle_type,1
+ASPHA,vehicle_type,1
+ASTRO,vehicle_type,1
+Amb,vehicle_type,1
+Ambul,vehicle_type,1
+Ambulance,vehicle_type,1
+Armored Truck,vehicle_type,1
+B5-44,vehicle_type,1
+BA,vehicle_type,1
+BACK,vehicle_type,1
+BACKH,vehicle_type,1
+BICYCLE,vehicle_type,1
+BK,vehicle_type,1
+BLACK,vehicle_type,1
+BLOCK,vehicle_type,1
+BOB C,vehicle_type,1
+BOBCA,vehicle_type,1
+BOOM,vehicle_type,1
+BOOML,vehicle_type,1
+BOX,vehicle_type,1
+BOX T,vehicle_type,1
+BOXTR,vehicle_type,1
+BR,vehicle_type,1
+BROOM,vehicle_type,1
+BU,vehicle_type,1
+BULLD,vehicle_type,1
+BUMP,vehicle_type,1
+BUS,vehicle_type,1
+BUs,vehicle_type,1
+Backh,vehicle_type,1
+Beverage Truck,vehicle_type,1
+Bike,vehicle_type,1
+Boom,vehicle_type,1
+Box T,vehicle_type,1
+Box Truck,vehicle_type,1
+Bucke,vehicle_type,1
+Bulk Agriculture,vehicle_type,1
+Bus,vehicle_type,1
+C-1,vehicle_type,1
+C0MME,vehicle_type,1
+C1,vehicle_type,1
+CAB,vehicle_type,1
+CAMP,vehicle_type,1
+CAMPE,vehicle_type,1
+CARGO,vehicle_type,1
+CASE,vehicle_type,1
+CAT,vehicle_type,1
+CAT 4,vehicle_type,1
+CAT32,vehicle_type,1
+CATER,vehicle_type,1
+CB,vehicle_type,1
+CB534,vehicle_type,1
+CEMEN,vehicle_type,1
+CHART,vehicle_type,1
+CHURC,vehicle_type,1
+CITY,vehicle_type,1
+CM,vehicle_type,1
+CMIX,vehicle_type,1
+CO,vehicle_type,1
+COM,vehicle_type,1
+COM T,vehicle_type,1
+COMER,vehicle_type,1
+COMME,vehicle_type,1
+COMPA,vehicle_type,1
+CONST,vehicle_type,1
+CONT,vehicle_type,1
+CONV,vehicle_type,1
+COURI,vehicle_type,1
+CRANE,vehicle_type,1
+CRWZK,vehicle_type,1
+Car C,vehicle_type,1
+Cargo,vehicle_type,1
+Carri,vehicle_type,1
+Carry All,vehicle_type,1
+Cat,vehicle_type,1
+Cater,vehicle_type,1
+Chassis Cab,vehicle_type,1
+Chevr,vehicle_type,1
+City,vehicle_type,1
+Cmix,vehicle_type,1
+Com t,vehicle_type,1
+Comme,vehicle_type,1
+Concrete Mixer,vehicle_type,1
+Convertible,vehicle_type,1
+Crane,vehicle_type,1
+D,vehicle_type,1
+D1,vehicle_type,1
+DELIV,vehicle_type,1
+DELV,vehicle_type,1
+DELV.,vehicle_type,1
+DEPT,vehicle_type,1
+DETAC,vehicle_type,1
+DIESE,vehicle_type,1
+DIG-I,vehicle_type,1
+DIRT,vehicle_type,1
+DIRTB,vehicle_type,1
+DOT #,vehicle_type,1
+DP,vehicle_type,1
+DS,vehicle_type,1
+DSNY,vehicle_type,1
+DUMP,vehicle_type,1
+DUMPS,vehicle_type,1
+Deliv,vehicle_type,1
+Dump,vehicle_type,1
+E,vehicle_type,1
+E BIK,vehicle_type,1
+E Bik,vehicle_type,1
+E COM,vehicle_type,1
+E PAS,vehicle_type,1
+E SCO,vehicle_type,1
+E-BIK,vehicle_type,1
+E-Bik,vehicle_type,1
+E-SCO,vehicle_type,1
+E-Sco,vehicle_type,1
+E-bik,vehicle_type,1
+E250,vehicle_type,1
+E3,vehicle_type,1
+E350,vehicle_type,1
+EB,vehicle_type,1
+EBIKE,vehicle_type,1
+EC2,vehicle_type,1
+ELECR,vehicle_type,1
+ELECT,vehicle_type,1
+EMS,vehicle_type,1
+EMS B,vehicle_type,1
+ENCLO,vehicle_type,1
+ENGIN,vehicle_type,1
+EXCAV,vehicle_type,1
+EXPRE,vehicle_type,1
+Elect,vehicle_type,1
+Enclosed Body - Nonremovable Enclosure,vehicle_type,1
+Enclosed Body - Removable Enclosure,vehicle_type,1
+Excav,vehicle_type,1
+FARM,vehicle_type,1
+FB,vehicle_type,1
+FD LA,vehicle_type,1
+FD TR,vehicle_type,1
+FDNY,vehicle_type,1
+FED E,vehicle_type,1
+FEDER,vehicle_type,1
+FEDEX,vehicle_type,1
+FIRE,vehicle_type,1
+FIRE TRUCK,vehicle_type,1
+FIRET,vehicle_type,1
+FLAT,vehicle_type,1
+FLATB,vehicle_type,1
+FLEET,vehicle_type,1
+FLTRL,vehicle_type,1
+FOOD,vehicle_type,1
+FORD,vehicle_type,1
+FORK,vehicle_type,1
+FORKL,vehicle_type,1
+FORTL,vehicle_type,1
+FR,vehicle_type,1
+FRE T,vehicle_type,1
+FREIG,vehicle_type,1
+FRIEG,vehicle_type,1
+Fdny,vehicle_type,1
+Fire,vehicle_type,1
+Firet,vehicle_type,1
+Flat,vehicle_type,1
+Flat Bed,vehicle_type,1
+Flat Rack,vehicle_type,1
+Food,vehicle_type,1
+Fork,vehicle_type,1
+Forkl,vehicle_type,1
+Freig,vehicle_type,1
+G COM,vehicle_type,1
+G OMR,vehicle_type,1
+G PAS,vehicle_type,1
+G Sem,vehicle_type,1
+G TOW,vehicle_type,1
+GARAB,vehicle_type,1
+GARBA,vehicle_type,1
+GAS S,vehicle_type,1
+GG,vehicle_type,1
+GLBEN,vehicle_type,1
+GMC V,vehicle_type,1
+GN,vehicle_type,1
+GOLF,vehicle_type,1
+GOV V,vehicle_type,1
+GOV'T,vehicle_type,1
+GOVER,vehicle_type,1
+GR,vehicle_type,1
+Garba,vehicle_type,1
+Garbage or Refuse,vehicle_type,1
+Gas T,vehicle_type,1
+Glass Rack,vehicle_type,1
+Grain,vehicle_type,1
+HAND,vehicle_type,1
+HARVE,vehicle_type,1
+HI-LO,vehicle_type,1
+HIGHL,vehicle_type,1
+HINO,vehicle_type,1
+HO,vehicle_type,1
+HOE-L,vehicle_type,1
+HORSE,vehicle_type,1
+HOTDO,vehicle_type,1
+Hopper,vehicle_type,1
+ICE C,vehicle_type,1
+INTER,vehicle_type,1
+IP,vehicle_type,1
+JCB40,vehicle_type,1
+JLG B,vehicle_type,1
+JLG L,vehicle_type,1
+JOHN,vehicle_type,1
+JOHND,vehicle_type,1
+Jeep,vehicle_type,1
+JohnD,vehicle_type,1
+KENWO,vehicle_type,1
+LARGE COM VEH(6 OR MORE TIRES),vehicle_type,1
+LF,vehicle_type,1
+LG,vehicle_type,1
+LIFT,vehicle_type,1
+LIGHT,vehicle_type,1
+LIMO,vehicle_type,1
+LIMO/,vehicle_type,1
+LIMOU,vehicle_type,1
+LIVERY VEHICLE,vehicle_type,1
+LL,vehicle_type,1
+LW,vehicle_type,1
+Laund,vehicle_type,1
+Lift,vehicle_type,1
+Lift Boom,vehicle_type,1
+Livestock Rack,vehicle_type,1
+Log,vehicle_type,1
+Lunch Wagon,vehicle_type,1
+MACK,vehicle_type,1
+MAIL,vehicle_type,1
+MAN B,vehicle_type,1
+MAN L,vehicle_type,1
+MB,vehicle_type,1
+MD,vehicle_type,1
+METAL,vehicle_type,1
+MH,vehicle_type,1
+MINI,vehicle_type,1
+MINIV,vehicle_type,1
+MK,vehicle_type,1
+MOPD,vehicle_type,1
+MOPED,vehicle_type,1
+MOPET,vehicle_type,1
+MOTOR,vehicle_type,1
+MOTORCYCLE,vehicle_type,1
+MOVIN,vehicle_type,1
+MS,vehicle_type,1
+MTA B,vehicle_type,1
+MTA b,vehicle_type,1
+MTRIZ,vehicle_type,1
+MV,vehicle_type,1
+Mecha,vehicle_type,1
+Mini,vehicle_type,1
+Minibike,vehicle_type,1
+Minicycle,vehicle_type,1
+Moped,vehicle_type,1
+Mopen,vehicle_type,1
+Motor,vehicle_type,1
+Motorbike,vehicle_type,1
+Motorcycle,vehicle_type,1
+Motorized Home,vehicle_type,1
+Motorscooter,vehicle_type,1
+Movin,vehicle_type,1
+Multi-Wheeled Vehicle,vehicle_type,1
+ND,vehicle_type,1
+NEW Y,vehicle_type,1
+NV CA,vehicle_type,1
+NV150,vehicle_type,1
+NYC,vehicle_type,1
+NYC F,vehicle_type,1
+NYPD,vehicle_type,1
+New Y,vehicle_type,1
+OBJEC,vehicle_type,1
+OFF R,vehicle_type,1
+OIL T,vehicle_type,1
+OLM,vehicle_type,1
+OML/,vehicle_type,1
+OMNIB,vehicle_type,1
+OMS,vehicle_type,1
+OMT,vehicle_type,1
+OP,vehicle_type,1
+Open Body,vehicle_type,1
+P/SH,vehicle_type,1
+PALLE,vehicle_type,1
+PAS,vehicle_type,1
+PASS,vehicle_type,1
+PASSENGER VEHICLE,vehicle_type,1
+PC,vehicle_type,1
+PCH,vehicle_type,1
+PEDIC,vehicle_type,1
+PEDICAB,vehicle_type,1
+PICK-,vehicle_type,1
+PICK-UP TRUCK,vehicle_type,1
+PICKU,vehicle_type,1
+PISH,vehicle_type,1
+PK,vehicle_type,1
+PL,vehicle_type,1
+PM,vehicle_type,1
+POST,vehicle_type,1
+POSTA,vehicle_type,1
+POWER,vehicle_type,1
+PSD,vehicle_type,1
+PU,vehicle_type,1
+PUMPE,vehicle_type,1
+Pallet,vehicle_type,1
+Passe,vehicle_type,1
+Pavin,vehicle_type,1
+Pedicab,vehicle_type,1
+Pick,vehicle_type,1
+Pick-up Truck,vehicle_type,1
+Picku,vehicle_type,1
+Pickup with mounted Camper,vehicle_type,1
+Posta,vehicle_type,1
+R/V,vehicle_type,1
+RAM,vehicle_type,1
+RD/S,vehicle_type,1
+RED T,vehicle_type,1
+REFG,vehicle_type,1
+REP,vehicle_type,1
+RF,vehicle_type,1
+RGS,vehicle_type,1
+RMP V,vehicle_type,1
+ROAD,vehicle_type,1
+ROADS,vehicle_type,1
+RUBBE,vehicle_type,1
+RV,vehicle_type,1
+Refri,vehicle_type,1
+Refrigerated Van,vehicle_type,1
+Rescu,vehicle_type,1
+Road,vehicle_type,1
+S/SP,vehicle_type,1
+SAFET,vehicle_type,1
+SANIT,vehicle_type,1
+SBN,vehicle_type,1
+SC,vehicle_type,1
+SCHOO,vehicle_type,1
+SCISS,vehicle_type,1
+SCOOT,vehicle_type,1
+SCOOTER,vehicle_type,1
+SE,vehicle_type,1
+SEDAN,vehicle_type,1
+SELF,vehicle_type,1
+SELF-,vehicle_type,1
+SEMI,vehicle_type,1
+SEMI-,vehicle_type,1
+SHCOO,vehicle_type,1
+SKATE,vehicle_type,1
+SKID,vehicle_type,1
+SMALL COM VEH(4 TIRES) ,vehicle_type,1
+SP,vehicle_type,1
+SPC,vehicle_type,1
+SPORT UTILITY / STATION WAGON,vehicle_type,1
+SPRIN,vehicle_type,1
+ST,vehicle_type,1
+STAK,vehicle_type,1
+STREE,vehicle_type,1
+SUBUR,vehicle_type,1
+SUDAN,vehicle_type,1
+SW,vehicle_type,1
+SWT,vehicle_type,1
+Sanit,vehicle_type,1
+Schoo,vehicle_type,1
+School Bus,vehicle_type,1
+Scoot,vehicle_type,1
+Sedan,vehicle_type,1
+Self,vehicle_type,1
+Small,vehicle_type,1
+Snow Plow,vehicle_type,1
+Stake or Rack,vehicle_type,1
+Station Wagon/Sport Utility Vehicle,vehicle_type,1
+Stree,vehicle_type,1
+Subn,vehicle_type,1
+T650,vehicle_type,1
+TAN P,vehicle_type,1
+TANDU,vehicle_type,1
+TANK,vehicle_type,1
+TAXI,vehicle_type,1
+THROT,vehicle_type,1
+TK,vehicle_type,1
+TKP,vehicle_type,1
+TL TR,vehicle_type,1
+TLR,vehicle_type,1
+TN,vehicle_type,1
+TOW,vehicle_type,1
+TOW T,vehicle_type,1
+TOWER,vehicle_type,1
+TOWIN,vehicle_type,1
+TR,vehicle_type,1
+TR/KI,vehicle_type,1
+TRA/R,vehicle_type,1
+TRAC,vehicle_type,1
+TRACK,vehicle_type,1
+TRACT,vehicle_type,1
+TRAIL,vehicle_type,1
+TRAIN,vehicle_type,1
+TRANS,vehicle_type,1
+TRIAL,vehicle_type,1
+TRK,vehicle_type,1
+TRL,vehicle_type,1
+TRLR,vehicle_type,1
+TRT,vehicle_type,1
+TRUCK,vehicle_type,1
+TT,vehicle_type,1
+Tanker,vehicle_type,1
+Taxi,vehicle_type,1
+Tlr,vehicle_type,1
+Tow,vehicle_type,1
+Tow T,vehicle_type,1
+Tow Truck,vehicle_type,1
+Tow Truck / Wrecker,vehicle_type,1
+Tow t,vehicle_type,1
+Tr,vehicle_type,1
+Trac,vehicle_type,1
+Tract,vehicle_type,1
+Tractor Truck Diesel,vehicle_type,1
+Tractor Truck Gasoline,vehicle_type,1
+Trail,vehicle_type,1
+Train,vehicle_type,1
+Truck,vehicle_type,1
+U-HAU,vehicle_type,1
+U-Hau,vehicle_type,1
+U-TRU,vehicle_type,1
+UD,vehicle_type,1
+UHAUL,vehicle_type,1
+UNK,vehicle_type,1
+UNKNO,vehicle_type,1
+UNKOW,vehicle_type,1
+UNNKO,vehicle_type,1
+US PO,vehicle_type,1
+US Po,vehicle_type,1
+USPS,vehicle_type,1
+USPST,vehicle_type,1
+UTIL,vehicle_type,1
+UTILI,vehicle_type,1
+UTLL,vehicle_type,1
+Uber,vehicle_type,1
+Unk,vehicle_type,1
+"Unk,",vehicle_type,1
+Unkn,vehicle_type,1
+Unkno,vehicle_type,1
+Us po,vehicle_type,1
+Util,vehicle_type,1
+Utili,vehicle_type,1
+VAN,vehicle_type,1
+VAN A,vehicle_type,1
+VAN C,vehicle_type,1
+VAN F,vehicle_type,1
+VAN T,vehicle_type,1
+VAN W,vehicle_type,1
+VAN/B,vehicle_type,1
+VAN/T,vehicle_type,1
+VC,vehicle_type,1
+VERIZ,vehicle_type,1
+VESPA,vehicle_type,1
+VMS T,vehicle_type,1
+VN,vehicle_type,1
+VT,vehicle_type,1
+Van,vehicle_type,1
+Van (,vehicle_type,1
+Van Camper,vehicle_type,1
+Vanette,vehicle_type,1
+WAGON,vehicle_type,1
+WASTE,vehicle_type,1
+WC,vehicle_type,1
+WD,vehicle_type,1
+WESCO,vehicle_type,1
+WHITE,vehicle_type,1
+WORK,vehicle_type,1
+WORKH,vehicle_type,1
+Wagon,vehicle_type,1
+Well Driller,vehicle_type,1
+White,vehicle_type,1
+Work,vehicle_type,1
+YELLO,vehicle_type,1
+amb,vehicle_type,1
+ambu,vehicle_type,1
+ambul,vehicle_type,1
+anbul,vehicle_type,1
+armor,vehicle_type,1
+axo,vehicle_type,1
+back,vehicle_type,1
+bed,vehicle_type,1
+bobca,vehicle_type,1
+boom,vehicle_type,1
+box,vehicle_type,1
+box t,vehicle_type,1
+boxtr,vehicle_type,1
+bsd,vehicle_type,1
+bus,vehicle_type,1
+bycic,vehicle_type,1
+c7c,vehicle_type,1
+car c,vehicle_type,1
+carri,vehicle_type,1
+case,vehicle_type,1
+cat 3,vehicle_type,1
+cater,vehicle_type,1
+cemen,vehicle_type,1
+city,vehicle_type,1
+com,vehicle_type,1
+comm,vehicle_type,1
+comme,vehicle_type,1
+const,vehicle_type,1
+conta,vehicle_type,1
+conv,vehicle_type,1
+crane,vehicle_type,1
+deliv,vehicle_type,1
+delv,vehicle_type,1
+detac,vehicle_type,1
+dp,vehicle_type,1
+dsny,vehicle_type,1
+dump,vehicle_type,1
+dumps,vehicle_type,1
+e bik,vehicle_type,1
+e-350,vehicle_type,1
+e-BIK,vehicle_type,1
+e-bik,vehicle_type,1
+elect,vehicle_type,1
+fdny,vehicle_type,1
+fire,vehicle_type,1
+firet,vehicle_type,1
+flat,vehicle_type,1
+food,vehicle_type,1
+foor,vehicle_type,1
+ford,vehicle_type,1
+fork,vehicle_type,1
+forkl,vehicle_type,1
+freig,vehicle_type,1
+frieg,vehicle_type,1
+front,vehicle_type,1
+garba,vehicle_type,1
+gator,vehicle_type,1
+gov v,vehicle_type,1
+hi-lo,vehicle_type,1
+hook,vehicle_type,1
+horse,vehicle_type,1
+house,vehicle_type,1
+jeep,vehicle_type,1
+ken,vehicle_type,1
+lift,vehicle_type,1
+mail,vehicle_type,1
+mecha,vehicle_type,1
+mopad,vehicle_type,1
+moped,vehicle_type,1
+mopet,vehicle_type,1
+mot s,vehicle_type,1
+motor,vehicle_type,1
+mta b,vehicle_type,1
+na,vehicle_type,1
+nissa,vehicle_type,1
+nyc b,vehicle_type,1
+nyc d,vehicle_type,1
+nyc f,vehicle_type,1
+nyfd,vehicle_type,1
+oil t,vehicle_type,1
+omnib,vehicle_type,1
+omr,vehicle_type,1
+p/sh,vehicle_type,1
+paylo,vehicle_type,1
+pick,vehicle_type,1
+pick-,vehicle_type,1
+picku,vehicle_type,1
+plow,vehicle_type,1
+posta,vehicle_type,1
+power,vehicle_type,1
+push,vehicle_type,1
+ram,vehicle_type,1
+"red,",vehicle_type,1
+rep,vehicle_type,1
+rv,vehicle_type,1
+sanit,vehicle_type,1
+scaff,vehicle_type,1
+scava,vehicle_type,1
+schoo,vehicle_type,1
+scl,vehicle_type,1
+scoot,vehicle_type,1
+sedan,vehicle_type,1
+semi,vehicle_type,1
+semi-,vehicle_type,1
+small,vehicle_type,1
+speci,vehicle_type,1
+sprin,vehicle_type,1
+stree,vehicle_type,1
+subn,vehicle_type,1
+subur,vehicle_type,1
+tank,vehicle_type,1
+taxi,vehicle_type,1
+tk,vehicle_type,1
+tour,vehicle_type,1
+tow,vehicle_type,1
+tow t,vehicle_type,1
+tr,vehicle_type,1
+track,vehicle_type,1
+tract,vehicle_type,1
+trail,vehicle_type,1
+trash,vehicle_type,1
+trl,vehicle_type,1
+trlr,vehicle_type,1
+truck,vehicle_type,1
+u.s p,vehicle_type,1
+uliti,vehicle_type,1
+unk,vehicle_type,1
+unkno,vehicle_type,1
+us ma,vehicle_type,1
+us po,vehicle_type,1
+usps,vehicle_type,1
+util,vehicle_type,1
+utili,vehicle_type,1
+utlit,vehicle_type,1
+van,vehicle_type,1
+wagon,vehicle_type,1
+white,vehicle_type,1
+work,vehicle_type,1
+yello,vehicle_type,1

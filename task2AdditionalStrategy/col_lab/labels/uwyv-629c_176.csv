@@ -1,0 +1,5388 @@
+value,label,count
+1 AVENUE,street_name,5374
+1 PLACE,street_name,29
+1 STREET,street_name,117
+10 AVENUE,street_name,2708
+10 ST,street_name,4
+10 STREET,street_name,206
+100 AVENUE,street_name,81
+100 DRIVE,street_name,1
+100 ROAD,street_name,1
+100 STREET,street_name,215
+101 AVENUE,street_name,743
+101 ROAD,street_name,1
+101 STREET,street_name,288
+102 AVENUE,street_name,321
+102 ROAD,street_name,65
+102 STREET,street_name,606
+103 AVENUE,street_name,282
+103 DRIVE,street_name,16
+103 ROAD,street_name,27
+103 STREET,street_name,503
+104 AVENUE,street_name,139
+104 STREET,street_name,428
+105 AVENUE,street_name,284
+105 STREET,street_name,147
+106 AVENUE,street_name,193
+106 ROAD,street_name,42
+106 STREET,street_name,170
+107 AVENUE,street_name,375
+107 ROAD,street_name,7
+107 STREET,street_name,197
+108 AVENUE,street_name,150
+108 DRIVE,street_name,20
+108 STREET,street_name,1216
+109 AVENUE,street_name,737
+109 DRIVE,street_name,27
+109 ROAD,street_name,28
+109 STREET,street_name,388
+109-55 VAN WYCK EXPRESSWAY,street_name,1
+11 AVENUE,street_name,297
+11 STREET,street_name,181
+110 AVENUE,street_name,132
+110 ROAD,street_name,73
+110 STREET,street_name,471
+111 AVENUE,street_name,708
+111 ROAD,street_name,41
+111 STREET,street_name,272
+112 AVENUE,street_name,94
+112 PLACE,street_name,2
+112 ROAD,street_name,54
+112 STREET,street_name,388
+113 AVENUE,street_name,89
+113 DRIVE,street_name,72
+113 ROAD,street_name,20
+113 STREET,street_name,467
+114 AVENUE,street_name,24
+114 DRIVE,street_name,22
+114 PLACE,street_name,82
+114 ROAD,street_name,44
+114 STREET,street_name,628
+115 AVENUE,street_name,157
+115 DRIVE,street_name,15
+115 ROAD,street_name,52
+115 STREET,street_name,361
+115 TERRACE,street_name,2
+116 AVENUE,street_name,192
+116 DRIVE,street_name,46
+116 ROAD,street_name,45
+116 STREET,street_name,454
+117 ROAD,street_name,21
+117 STREET,street_name,175
+118 AVENUE,street_name,85
+118 ROAD,street_name,25
+118 STREET,street_name,2019
+119 AVENUE,street_name,154
+119 DRIVE,street_name,3
+119 ROAD,street_name,29
+119 STREET,street_name,15
+12 AVENUE,street_name,263
+12 ROAD,street_name,7
+12 STREET,street_name,588
+120 AVENUE,street_name,113
+120 ROAD,street_name,30
+120 STREET,street_name,608
+121 AVENUE,street_name,18
+121 STREET,street_name,186
+122 AVENUE,street_name,67
+122 PLACE,street_name,30
+122 STREET,street_name,171
+123 AVENUE,street_name,25
+123 STREET,street_name,243
+124 AVENUE,street_name,5
+124 STREET,street_name,233
+125 AVENUE,street_name,35
+125 ST,street_name,1
+125 STREET,street_name,422
+126 AVENUE,street_name,35
+126 STREET,street_name,356
+127 AVENUE,street_name,68
+127 STREET,street_name,172
+128 AVENUE,street_name,25
+128 STREET,street_name,119
+129 AVENUE,street_name,43
+129 STREET,street_name,202
+12TH STREET,street_name,31
+13 AVENUE,street_name,714
+13 STREET,street_name,126
+130 AVENUE,street_name,274
+130 PLACE,street_name,10
+130 ROAD,street_name,3
+130 STREET,street_name,188
+131 AVENUE,street_name,74
+131 STREET,street_name,149
+132 AVENUE,street_name,38
+132 ROAD,street_name,16
+132 STREET,street_name,232
+133 AVENUE,street_name,222
+133 DRIVE,street_name,7
+133 ROAD,street_name,15
+133 STREET,street_name,171
+134 AVENUE,street_name,95
+134 ROAD,street_name,10
+134 STREET,street_name,206
+135 AVENUE,street_name,108
+135 DRIVE,street_name,2
+135 PLACE,street_name,53
+135 ROAD,street_name,5
+135 STREET,street_name,430
+136 AVENUE,street_name,51
+136 ROAD,street_name,47
+136 STREET,street_name,45
+137 AVENUE,street_name,94
+137 ROAD,street_name,35
+137 STREET,street_name,101
+138 AVENUE,street_name,33
+138 PLACE,street_name,66
+138 ROAD,street_name,41
+138 STREET,street_name,204
+139 AVENUE,street_name,47
+139 STREET,street_name,130
+14 AVENUE,street_name,586
+14 PLACE,street_name,13
+14 ROAD,street_name,164
+14 STREET,street_name,474
+140 AVENUE,street_name,264
+140 STREET,street_name,122
+141 AVENUE,street_name,136
+141 ROAD,street_name,10
+141 ST,street_name,1
+141 STREET,street_name,154
+142 AVENUE,street_name,14
+142 PLACE,street_name,29
+142 ROAD,street_name,40
+142 STREET,street_name,133
+143 AVENUE,street_name,61
+143 ROAD,street_name,66
+143 STREET,street_name,169
+144 AVENUE,street_name,121
+144 DRIVE,street_name,31
+144 PLACE,street_name,10
+144 ROAD,street_name,42
+144 STREET,street_name,174
+144 TERRACE,street_name,2
+145 AVENUE,street_name,91
+145 DRIVE,street_name,71
+145 PLACE,street_name,1
+145 ROAD,street_name,48
+145 STREET,street_name,184
+146 AVENUE,street_name,47
+146 DRIVE,street_name,15
+146 PLACE,street_name,8
+146 ROAD,street_name,34
+146 STREET,street_name,226
+146 TERRACE,street_name,13
+147 AVENUE,street_name,144
+147 DRIVE,street_name,33
+147 PLACE,street_name,32
+147 ROAD,street_name,18
+147 STREET,street_name,567
+148 AVENUE,street_name,447
+148 DRIVE,street_name,100
+148 ROAD,street_name,45
+148 STREET,street_name,569
+149 AVENUE,street_name,90
+149 DRIVE,street_name,16
+149 PLACE,street_name,8
+149 ROAD,street_name,47
+149 STREET,street_name,313
+15 AVENUE,street_name,888
+15 DRIVE,street_name,25
+15 ROAD,street_name,16
+15 STREET,street_name,462
+150 AVENUE,street_name,6
+150 PLACE,street_name,64
+150 STREET,street_name,702
+151 AVENUE,street_name,50
+151 STREET,street_name,19
+152 AVENUE,street_name,7
+152 STREET,street_name,45
+153 AVENUE,street_name,77
+153 COURT,street_name,1
+153 LANE,street_name,2
+153 STREET,street_name,780
+154 PLACE,street_name,1
+154 STREET,street_name,99
+155 AVENUE,street_name,76
+155 STREET,street_name,258
+156 AVENUE,street_name,27
+156 STREET,street_name,310
+157 STREET,street_name,260
+158 AVENUE,street_name,3
+158 STREET,street_name,174
+159 AVENUE,street_name,3
+159 DRIVE,street_name,1
+159 ROAD,street_name,1
+159 STREET,street_name,230
+16 AVENUE,street_name,162
+16 ROAD,street_name,7
+16 STREET,street_name,405
+160 STREET,street_name,354
+161 PLACE,street_name,14
+161 STREET,street_name,673
+162 AVENUE,street_name,1
+162 STREET,street_name,183
+163 AVENUE,street_name,1
+163 DRIVE,street_name,1
+163 ROAD,street_name,3
+163 STREET,street_name,353
+164 AVENUE,street_name,17
+164 DRIVE,street_name,2
+164 PLACE,street_name,57
+164 ROAD,street_name,8
+164 STREET,street_name,811
+165 STREET,street_name,764
+166 PLACE,street_name,92
+166 STREET,street_name,220
+167 STREET,street_name,324
+168 PLACE,street_name,43
+168 STREET,street_name,710
+169 PLACE,street_name,14
+169 STREET,street_name,450
+17 AVENUE,street_name,292
+17 ROAD,street_name,32
+17 STREET,street_name,132
+170 STREET,street_name,474
+171 PLACE,street_name,93
+171 STREET,street_name,604
+172 STREET,street_name,232
+173 STREET,street_name,134
+174 PLACE,street_name,2
+174 STREET,street_name,43
+175 PLACE,street_name,4
+175 STREET,street_name,298
+176 PLACE,street_name,6
+176 STREET,street_name,84
+177 PLACE,street_name,8
+177 STREET,street_name,101
+178 PLACE,street_name,8
+178 STREET,street_name,60
+179 PLACE,street_name,106
+179 STREET,street_name,127
+18 AVENUE,street_name,1000
+18 STREET,street_name,432
+180 STREET,street_name,86
+181 PLACE,street_name,4
+181 STREET,street_name,66
+182 PLACE,street_name,14
+182 STREET,street_name,96
+183 PLACE,street_name,8
+183 STREET,street_name,100
+184 PLACE,street_name,8
+184 STREET,street_name,434
+185 STREET,street_name,123
+186 LANE,street_name,62
+186 STREET,street_name,80
+187 PLACE,street_name,4
+187 STREET,street_name,20
+188 STREET,street_name,57
+189 STREET,street_name,50
+19 AVENUE,street_name,502
+19 DRIVE,street_name,4
+19 STREET,street_name,290
+190 LANE,street_name,10
+190 STREET,street_name,109
+191 STREET,street_name,195
+192 STREET,street_name,106
+193 LANE,street_name,3
+193 STREET,street_name,246
+194 STREET,street_name,118
+195 LANE,street_name,1
+195 PLACE,street_name,12
+195 STREET,street_name,980
+196 PLACE,street_name,2
+196 STREET,street_name,128
+197 STREET,street_name,162
+198 STREET,street_name,121
+199 STREET,street_name,138
+2 AVENUE,street_name,7085
+2 PLACE,street_name,20
+2 STREET,street_name,296
+20 AVENUE,street_name,1467
+20 DRIVE,street_name,1
+20 LANE,street_name,198
+20 ROAD,street_name,9
+20 STREET,street_name,274
+200 EAST 94 STREET,street_name,2
+200 STREET,street_name,84
+201 PLACE,street_name,8
+201 STREET,street_name,75
+202 STREET,street_name,155
+203 STREET,street_name,173
+204 STREET,street_name,218
+205 PLACE,street_name,4
+205 STREET,street_name,171
+206 STREET,street_name,19
+207 STREET,street_name,142
+208 PLACE,street_name,3
+208 STREET,street_name,373
+209 STREET,street_name,47
+21 AVENUE,street_name,1694
+21 DRIVE,street_name,112
+21 ROAD,street_name,38
+21 STREET,street_name,438
+210 PLACE,street_name,13
+210 STREET,street_name,202
+211 PLACE,street_name,15
+211 STREET,street_name,102
+212 PLACE,street_name,27
+212 STREET,street_name,195
+213 STREET,street_name,57
+214 PLACE,street_name,51
+214 STREET,street_name,20
+215 PLACE,street_name,35
+215 STREET,street_name,83
+216 STREET,street_name,53
+217 LANE,street_name,17
+217 PLACE,street_name,8
+217 STREET,street_name,185
+218 PLACE,street_name,21
+218 STREET,street_name,176
+219 STREET,street_name,89
+22 AVENUE,street_name,23
+22 DRIVE,street_name,9
+22 ROAD,street_name,16
+22 STREET,street_name,178
+220 PLACE,street_name,12
+220 STREET,street_name,103
+221 PLACE,street_name,13
+221 STREET,street_name,95
+222 STREET,street_name,209
+223 PLACE,street_name,51
+223 STREET,street_name,90
+224 STREET,street_name,161
+225 STREET,street_name,66
+226 STREET,street_name,89
+227 STREET,street_name,85
+228 STREET,street_name,81
+229 DRIVE NORTH,street_name,2
+229 STREET,street_name,70
+23 AVENUE,street_name,967
+23 DRIVE,street_name,6
+23 ROAD,street_name,5
+23 STREET,street_name,670
+23 TERRACE,street_name,2
+230 PLACE,street_name,80
+230 STREET,street_name,38
+231 STREET,street_name,70
+232 STREET,street_name,91
+233 STREET,street_name,39
+234 PLACE,street_name,12
+234 STREET,street_name,35
+235 COURT,street_name,1
+235 STREET,street_name,8
+236 STREET,street_name,9
+237 STREET,street_name,22
+238 STREET,street_name,25
+239 STREET,street_name,6
+24 AVENUE,street_name,1058
+24 ROAD,street_name,11
+24 STREET,street_name,314
+240 STREET,street_name,18
+241 STREET,street_name,39
+242 STREET,street_name,41
+243 STREET,street_name,95
+244 STREET,street_name,27
+245 STREET,street_name,20
+246 CRESCENT,street_name,4
+246 STREET,street_name,20
+247 STREET,street_name,30
+248 STREET,street_name,10
+249 STREET,street_name,70
+25 AVENUE,street_name,297
+25 DRIVE,street_name,20
+25 ROAD,street_name,58
+25 STREET,street_name,4
+250 STREET,street_name,74
+251 STREET,street_name,1
+252 STREET,street_name,20
+253 PLACE,street_name,1
+253 STREET,street_name,20
+254 STREET,street_name,57
+255 STREET,street_name,47
+256 STREET,street_name,62
+257 STREET,street_name,54
+258 STREET,street_name,4
+259 STREET,street_name,10
+26 AVENUE,street_name,269
+26 ROAD,street_name,36
+26 STREET,street_name,88
+260 PLACE,street_name,1
+260 STREET,street_name,42
+261 STREET,street_name,90
+262 PLACE,street_name,9
+262 STREET,street_name,6
+263 STREET,street_name,22
+264 STREET,street_name,1
+265 STREET,street_name,7
+266 STREET,street_name,1
+267 STREET,street_name,2
+268 STREET,street_name,20
+269 STREET,street_name,1
+27 AVENUE,street_name,460
+27 STREET,street_name,665
+270 STREET,street_name,1
+271 STREET,street_name,2
+28 AVENUE,street_name,624
+28 ROAD,street_name,20
+28 STREET,street_name,367
+28TH STREET,street_name,1
+29 AVENUE,street_name,120
+29 STREET,street_name,1075
+3 AVENUE,street_name,6145
+3 PLACE,street_name,84
+3 STREET,street_name,332
+30 AVENUE,street_name,484
+30 DRIVE,street_name,157
+30 PLACE,street_name,1
+30 ROAD,street_name,183
+30 STREET,street_name,686
+31 AVENUE,street_name,996
+31 DRIVE,street_name,192
+31 ROAD,street_name,83
+31 STREET,street_name,592
+32 AVENUE,street_name,328
+32 ROAD,street_name,1
+32 STREET,street_name,831
+33 AVENUE,street_name,37
+33 ROAD,street_name,19
+33 STREET,street_name,1749
+34 AVENUE,street_name,1840
+34 ROAD,street_name,415
+34 STREET,street_name,1172
+35 AVENUE,street_name,1701
+35 STREET,street_name,1317
+36 AVENUE,street_name,134
+36 STREET,street_name,402
+37 AVENUE,street_name,1135
+37 DRIVE,street_name,17
+37 ROAD,street_name,21
+37 STREET,street_name,695
+38 AVENUE,street_name,856
+38 STREET,street_name,532
+39 AVENUE,street_name,431
+39 DRIVE,street_name,2
+39 PLACE,street_name,555
+39 ROAD,street_name,9
+39 STREET,street_name,521
+4 AVENUE,street_name,4131
+4 PLACE,street_name,67
+4 STREET,street_name,56
+40 AVENUE,street_name,58
+40 DRIVE,street_name,4
+40 ROAD,street_name,47
+40 STREET,street_name,1498
+41 AVENUE,street_name,4000
+41 DRIVE,street_name,11
+41 ROAD,street_name,21
+41 STREET,street_name,1799
+42 AVENUE,street_name,421
+42 ROAD,street_name,67
+42 STREET,street_name,1833
+43 AVENUE,street_name,1044
+43 ROAD,street_name,3
+43 STREET,street_name,1908
+44 AVENUE,street_name,92
+44 DRIVE,street_name,268
+44 STREET,street_name,2021
+45 AVENUE,street_name,496
+45 DRIVE,street_name,6
+45 ROAD,street_name,25
+45 STREET,street_name,1497
+46 AVENUE,street_name,170
+46 ROAD,street_name,25
+46 STREET,street_name,1575
+47 AVENUE,street_name,462
+47 ROAD,street_name,277
+47 STREET,street_name,1482
+48 AVENUE,street_name,272
+48 STREET,street_name,1626
+49 AVENUE,street_name,141
+49 STREET,street_name,1355
+5 AVENUE,street_name,5574
+5 STREET,street_name,69
+50 AVENUE,street_name,534
+50 STREET,street_name,1039
+50TH AVENUE,street_name,1
+51 AVENUE,street_name,141
+51 DRIVE,street_name,8
+51 ROAD,street_name,4
+51 STREET,street_name,966
+52 AVENUE,street_name,99
+52 DRIVE,street_name,17
+52 ROAD,street_name,3
+52 STREET,street_name,823
+53 AVENUE,street_name,138
+53 DRIVE,street_name,20
+53 ROAD,street_name,6
+53 STREET,street_name,913
+54 AVENUE,street_name,62
+54 PLACE,street_name,19
+54 STREET,street_name,608
+55 AVENUE,street_name,205
+55 DRIVE,street_name,5
+55 ROAD,street_name,8
+55 STREET,street_name,807
+56 AVENUE,street_name,141
+56 DRIVE,street_name,18
+56 PLACE,street_name,9
+56 ROAD,street_name,40
+56 STREET,street_name,508
+57 AVENUE,street_name,3006
+57 DRIVE,street_name,11
+57 ROAD,street_name,78
+57 STREET,street_name,698
+58 AVENUE,street_name,134
+58 LANE,street_name,4
+58 PLACE,street_name,2
+58 ROAD,street_name,28
+58 STREET,street_name,1236
+59 AVENUE,street_name,196
+59 DRIVE,street_name,53
+59 PLACE,street_name,11
+59 ROAD,street_name,20
+59 STREET,street_name,1216
+6 AVENUE,street_name,1743
+6 STREET,street_name,181
+60 AVENUE,street_name,211
+60 COURT,street_name,1
+60 DRIVE,street_name,33
+60 LANE,street_name,46
+60 PLACE,street_name,62
+60 ROAD,street_name,80
+60 STREET,street_name,2050
+61 AVENUE,street_name,13
+61 ROAD,street_name,18
+61 STREET,street_name,1580
+62 AVENUE,street_name,434
+62 DRIVE,street_name,142
+62 ROAD,street_name,564
+62 STREET,street_name,340
+63 AVENUE,street_name,152
+63 DRIVE,street_name,180
+63 PLACE,street_name,2
+63 ROAD,street_name,108
+63 STREET,street_name,560
+64 AVENUE,street_name,1534
+64 CIRCLE,street_name,8
+64 LANE,street_name,17
+64 PLACE,street_name,52
+64 ROAD,street_name,195
+64 STREET,street_name,892
+65 AVENUE,street_name,102
+65 CRESCENT,street_name,41
+65 PLACE,street_name,578
+65 ROAD,street_name,63
+65 STREET,street_name,1204
+66 AVENUE,street_name,266
+66 DRIVE,street_name,35
+66 PLACE,street_name,37
+66 ROAD,street_name,191
+66 STREET,street_name,643
+67 AVENUE,street_name,558
+67 DRIVE,street_name,343
+67 PLACE,street_name,134
+67 ROAD,street_name,328
+67 STREET,street_name,1001
+68 AVENUE,street_name,115
+68 DRIVE,street_name,384
+68 PLACE,street_name,19
+68 ROAD,street_name,255
+68 STREET,street_name,988
+69 AVENUE,street_name,170
+69 LANE,street_name,32
+69 PLACE,street_name,93
+69 ROAD,street_name,18
+69 STREET,street_name,324
+7 AVENUE,street_name,2701
+7 AVENUE SOUTH,street_name,23
+7 STREET,street_name,131
+70 AVENUE,street_name,225
+70 DRIVE,street_name,9
+70 ROAD,street_name,27
+70 STREET,street_name,510
+71 AVENUE,street_name,449
+71 CRESCENT,street_name,46
+71 PLACE,street_name,10
+71 ROAD,street_name,122
+71 STREET,street_name,796
+72 AVENUE,street_name,207
+72 COURT,street_name,1
+72 DRIVE,street_name,162
+72 PLACE,street_name,41
+72 ROAD,street_name,348
+72 STREET,street_name,882
+73 AVENUE,street_name,340
+73 PLACE,street_name,38
+73 ROAD,street_name,333
+73 STREET,street_name,769
+73 TERRACE,street_name,1
+74 AVENUE,street_name,25
+74 PLACE,street_name,23
+74 STREET,street_name,511
+75 AVENUE,street_name,615
+75 PLACE,street_name,8
+75 ROAD,street_name,178
+75 STREET,street_name,547
+76 AVENUE,street_name,342
+76 DRIVE,street_name,179
+76 ROAD,street_name,92
+76 STREET,street_name,1151
+77 AVENUE,street_name,107
+77 CRESCENT,street_name,6
+77 PLACE,street_name,1
+77 ROAD,street_name,65
+77 STREET,street_name,745
+78 AVENUE,street_name,138
+78 ROAD,street_name,26
+78 STREET,street_name,594
+79 AVENUE,street_name,220
+79 LANE,street_name,1
+79 PLACE,street_name,13
+79 STREET,street_name,629
+8 AVENUE,street_name,2784
+8 STREET,street_name,247
+80 AVENUE,street_name,16
+80 DRIVE,street_name,1
+80 ROAD,street_name,2
+80 STREET,street_name,1139
+81 AVENUE,street_name,12
+81 ROAD,street_name,4
+81 STREET,street_name,1664
+82 AVENUE,street_name,86
+82 DRIVE,street_name,26
+82 PLACE,street_name,1
+82 ROAD,street_name,1
+82 STREET,street_name,782
+83 AVENUE,street_name,433
+83 DRIVE,street_name,12
+83 PLACE,street_name,1
+83 STREET,street_name,894
+84 AVENUE,street_name,134
+84 DRIVE,street_name,316
+84 PLACE,street_name,8
+84 ROAD,street_name,64
+84 STREET,street_name,1232
+85 AVENUE,street_name,219
+85 DRIVE,street_name,256
+85 ROAD,street_name,597
+85 STREET,street_name,1704
+86 AVENUE,street_name,107
+86 DRIVE,street_name,69
+86 ROAD,street_name,110
+86 STREET,street_name,579
+87 AVENUE,street_name,77
+87 DRIVE,street_name,268
+87 ROAD,street_name,98
+87 STREET,street_name,250
+88 AVENUE,street_name,1749
+88 DRIVE,street_name,3
+88 LANE,street_name,11
+88 ROAD,street_name,213
+88 STREET,street_name,623
+89 AVENUE,street_name,782
+89 ROAD,street_name,6
+89 STREET,street_name,684
+9 AVENUE,street_name,3900
+9 STREET,street_name,503
+90 AVE,street_name,56
+90 AVENUE,street_name,614
+90 ROAD,street_name,7
+90 STREET,street_name,600
+91 AVENUE,street_name,412
+91 PLACE,street_name,23
+91 ROAD,street_name,7
+91 STREET,street_name,288
+92 AVENUE,street_name,36
+92 ROAD,street_name,15
+92 STREET,street_name,330
+93 AVENUE,street_name,211
+93 ROAD,street_name,6
+93 STREET,street_name,677
+94 AVENUE,street_name,26
+94 ROAD,street_name,9
+94 STREET,street_name,1538
+95 AVENUE,street_name,503
+95 STREET,street_name,1159
+96 AVENUE,street_name,2
+96 PLACE,street_name,11
+96 STREET,street_name,769
+965 43 STREET,street_name,1
+97 AVENUE,street_name,182
+97 PLACE,street_name,29
+97 STREET,street_name,658
+98 AVENUE,street_name,55
+98 PLACE,street_name,112
+98 STREET,street_name,1145
+99 AVENUE,street_name,121
+99 PLACE,street_name,4
+99 ROAD,street_name,1
+99 STREET,street_name,1162
+AARON LANE,street_name,1
+ABBEY COURT,street_name,4
+ABBOTT STREET,street_name,3
+ABERDEEN ROAD,street_name,1
+ABERDEEN STREET,street_name,20
+ABINGDON AVENUE,street_name,4
+ABINGDON ROAD,street_name,9
+ABINGDON SQUARE,street_name,2
+ACADEMY STREET,street_name,1561
+ACORN STREET,street_name,1
+ADA DRIVE,street_name,52
+ADAM C POWELL BOULEVARD,street_name,6060
+ADAM C POWELL JR BOULEVARD,street_name,89
+ADAM CLAYTON POWELL BOULEVARD,street_name,11
+ADAM CLAYTON POWELL JR BOULEVARD,street_name,4
+ADAM COURT,street_name,2
+ADAMS AVENUE,street_name,5
+ADAMS PLACE,street_name,341
+ADAMS STREET,street_name,91
+ADEE AVENUE,street_name,350
+ADELAIDE AVENUE,street_name,3
+ADELPHI STREET,street_name,203
+ADLER PLACE,street_name,17
+ADMIRAL AVENUE,street_name,19
+ADMIRAL LANE,street_name,5
+ADMIRALTY LOOP,street_name,3
+ADRIAN AVENUE,street_name,816
+AGNES PLACE,street_name,3
+AGUILAR AVENUE,street_name,14
+AINSLIE STREET,street_name,24
+ALABAMA AVENUE,street_name,444
+ALAMEDA AVENUE,street_name,4
+ALAN LOOP,street_name,4
+ALAN PLACE,street_name,1
+ALASKA STREET,street_name,30
+ALBANY AVE,street_name,44
+ALBANY AVENUE,street_name,1589
+ALBANY CRESCENT,street_name,513
+ALBANY STREET,street_name,1
+ALBEE SQUARE,street_name,11
+ALBEMARLE ROAD,street_name,2961
+ALBEMARLE TERRACE,street_name,1
+ALBERMARLE ROAD,street_name,20
+ALBERT COURT,street_name,3
+ALBERT ROAD,street_name,17
+ALBERTA AVENUE,street_name,4
+ALBION PLACE,street_name,7
+ALCOTT PLACE,street_name,45
+ALDEN PARK,street_name,5
+ALDERBROOK ROAD,street_name,1
+ALDERTON STREET,street_name,39
+ALDRICH STREET,street_name,5
+ALDUS STREET,street_name,461
+ALEXANDER AVENUE,street_name,181
+ALLEN PLACE,street_name,1
+ALLEN STREET,street_name,753
+ALLENDALE STREET,street_name,12
+ALLERTON AVENUE,street_name,533
+ALLISON AVENUE,street_name,20
+ALMEDA AVENUE,street_name,203
+ALPINE AVENUE,street_name,5
+ALSTYNE AVENUE,street_name,37
+ALTER AVENUE,street_name,8
+ALTON PLACE,street_name,1
+ALVERSON LOOP,street_name,1
+ALVINE AVENUE,street_name,1
+ALYSIA COURT,street_name,3
+AMADOR STREET,street_name,32
+AMBER STREET,street_name,58
+AMBOY ROAD,street_name,84
+AMBOY STREET,street_name,437
+AMELIA ROAD,street_name,4
+AMERSFORT PLACE,street_name,78
+AMETHYST STREET,street_name,100
+AMHERST STREET,street_name,3
+AMITY PLACE,street_name,2
+AMITY STREET,street_name,35
+AMORY COURT,street_name,7
+AMPERE AVENUE,street_name,12
+AMSTERDAM AVENUE,street_name,10935
+AMUNDSON AVENUE,street_name,64
+ANACONDA STREET,street_name,2
+ANCHOR DRIVE,street_name,3
+ANDERSON AVENUE,street_name,3950
+ANDERSON ROAD,street_name,31
+ANDERSON STREET,street_name,2
+ANDREA PLACE,street_name,9
+ANDREWS AVENUE,street_name,275
+ANDREWS AVENUE NORTH,street_name,866
+ANDREWS AVENUE SOUTH,street_name,1656
+ANDREWS STREET,street_name,22
+ANDROS AVENUE,street_name,27
+ANDROVETTE STREET,street_name,3
+ANKENER AVENUE,street_name,2
+ANN STREET,street_name,95
+ANNADALE ROAD,street_name,15
+ANON,street_name,1
+ANTHONY AVENUE,street_name,1461
+APPLEBY AVENUE,street_name,18
+AQUATIC DRIVE,street_name,1
+AQUEDUCT AVENUE,street_name,35
+AQUEDUCT AVENUE EAST,street_name,226
+AQUEDUCT AVENUE WEST,street_name,492
+ARCADE AVENUE,street_name,6
+ARCADIA AVENUE,street_name,1
+ARCADIA PLACE,street_name,5
+ARCHER AVENUE,street_name,4
+ARCHER ROAD,street_name,127
+ARCHER STREET,street_name,34
+ARDEN AVENUE,street_name,7
+ARDEN STREET,street_name,5149
+ARDMORE AVENUE,street_name,36
+ARDSLEY LOOP,street_name,83
+ARDSLEY STREET,street_name,1
+ARGYLE ROAD,street_name,566
+ARIELLE LANE,street_name,1
+ARION PLACE,street_name,22
+ARION ROAD,street_name,1
+ARKANSAS AVENUE,street_name,1
+ARLEIGH ROAD,street_name,3
+ARLENE STREET,street_name,4
+ARLINGTON AVENUE,street_name,455
+ARLINGTON COURT,street_name,2
+ARLINGTON PLACE,street_name,23
+ARLINGTON TERRACE,street_name,37
+ARLO ROAD,street_name,177
+ARMAND PLACE,street_name,4
+ARMOUR PLACE,street_name,1
+ARMSTRONG AVENUE,street_name,32
+ARNOLD AVENUE,street_name,20
+ARNOLD STREET,street_name,33
+ARNOW AVENUE,street_name,609
+ARNOW PLACE,street_name,4
+ARROWOOD COURT,street_name,1
+ARTHUR AVENUE,street_name,1022
+ARTHUR KILL ROAD,street_name,63
+ARVERNE BOULEVARD,street_name,10
+ARVERNE MEWS DRIVE,street_name,1
+ASCAN AVENUE,street_name,93
+ASCH LOOP,street_name,42
+ASCH LOOP NORTH,street_name,4
+ASH AVENUE,street_name,536
+ASHFORD STREET,street_name,566
+ASHLAND PLACE,street_name,34
+ASHTON DRIVE,street_name,8
+ASHWORTH AVENUE,street_name,1
+ASKE STREET,street_name,11
+ASPEN KNOLLS WAY,street_name,1
+ASPINWALL STREET,street_name,1
+ASTER COURT,street_name,2
+ASTOR AVENUE,street_name,288
+ASTOR PLACE,street_name,1
+ASTORIA BOULEVARD,street_name,367
+ASTORIA BOULEVARD NORTH,street_name,42
+ASTORIA BOULEVARD SOUTH,street_name,18
+ASTORIA PARK SOUTH,street_name,10
+ATARI LANE,street_name,4
+ATKINS AVENUE,street_name,476
+ATLANTIC AVENUE,street_name,2293
+ATTORNEY STREET,street_name,48
+AUBREY AVENUE,street_name,2
+AUDLEY STREET,street_name,14
+AUDOBON AVENUE,street_name,1
+AUDUBON AVENUE,street_name,5168
+AUGUSTA AVENUE,street_name,1
+AUGUSTA COURT,street_name,2
+AUGUSTINA AVENUE,street_name,64
+AURELIA COURT,street_name,71
+AUSTIN PLACE,street_name,26
+AUSTIN STREET,street_name,1433
+AUTUMN AVENUE,street_name,645
+AVA PLACE,street_name,9
+AVENUE A,street_name,1189
+AVENUE B,street_name,623
+AVENUE C,street_name,1120
+AVENUE D,street_name,1802
+AVENUE F,street_name,267
+AVENUE H,street_name,731
+AVENUE I,street_name,809
+AVENUE J,street_name,789
+AVENUE K,street_name,1349
+AVENUE L,street_name,554
+AVENUE M,street_name,339
+AVENUE N,street_name,677
+AVENUE O,street_name,685
+AVENUE OF THE AMERICAS,street_name,23
+AVENUE P,street_name,1171
+AVENUE R,street_name,190
+AVENUE S,street_name,484
+AVENUE ST JOHN,street_name,532
+AVENUE ST JOHNS,street_name,1
+AVENUE T,street_name,451
+AVENUE U,street_name,662
+AVENUE V,street_name,530
+AVENUE W,street_name,376
+AVENUE X,street_name,470
+AVENUE Y,street_name,253
+AVENUE Z,street_name,602
+AVERY AVENUE,street_name,65
+AVON PLACE,street_name,78
+AVON STREET,street_name,41
+AZTEC PLACE,street_name,15
+B 58 STREET,street_name,1
+BABYLON AVENUE,street_name,1
+BADEN PLACE,street_name,5
+BAGLEY AVENUE,street_name,11
+BAILEY AVENUE,street_name,3130
+BAILEY PLACE,street_name,27
+BAINBRIDGE AVENUE,street_name,2233
+BAINBRIDGE STREET,street_name,1297
+BAISLEY AVENUE,street_name,5
+BAISLEY BOULEVARD,street_name,76
+BAKER AVENUE,street_name,86
+BALCOM AVENUE,street_name,117
+BALFOUR PLACE,street_name,28
+BALSAM PLACE,street_name,1
+BALTIC AVENUE,street_name,2
+BALTIC STREET,street_name,160
+BALTIMORE STREET,street_name,4
+BANES COURT,street_name,28
+BANG TERRACE,street_name,1
+BANGOR STREET,street_name,30
+BANK STREET,street_name,320
+BANKER STREET,street_name,5
+BANNER 3 ROAD,street_name,3
+BANNER 3 TERRACE,street_name,6
+BANNER AVENUE,street_name,97
+BANYER PLACE,street_name,51
+BARB STREET,street_name,1
+BARBADOES DRIVE,street_name,1
+BARBEY STREET,street_name,300
+BARCLAY AVENUE,street_name,356
+BARCLAY STREET,street_name,4
+BARD AVENUE,street_name,34
+BARDWELL AVENUE,street_name,1
+BARKER AVENUE,street_name,1111
+BARKER STREET,street_name,79
+BARKLEY AVENUE,street_name,38
+BARLOW AVENUE,street_name,16
+BARLOW DRIVE SOUTH,street_name,1
+BARNES AVENUE,street_name,2793
+BARNETT AVENUE,street_name,1
+BARRETT AVENUE,street_name,30
+BARRETTO STREET,street_name,94
+BARROW STREET,street_name,107
+BARRY STREET,street_name,1
+BARTHOLDI STREET,street_name,372
+BARTLETT AVENUE,street_name,1
+BARTLETT PLACE,street_name,5
+BARTLETT STREET,street_name,6
+BARTOW AVENUE,street_name,22
+BARTOW STREET,street_name,4
+BARUCH DRIVE,street_name,3
+BARUCH PLACE,street_name,1
+BARWELL TERRACE,street_name,1
+BASCOM AVENUE,street_name,30
+BASSFORD AVENUE,street_name,334
+BATCHELDER STREET,street_name,51
+BATH AVENUE,street_name,194
+BATHGATE AVENUE,street_name,835
+BATHGATE STREET,street_name,1
+BATTERY AVENUE,street_name,7
+BATTERY PLACE,street_name,6
+BATTERY ROAD,street_name,6
+BAUGHMAN PLACE,street_name,5
+BAXTER AVENUE,street_name,122
+BAXTER STREET,street_name,142
+BAY 10 STREET,street_name,18
+BAY 11 STREET,street_name,10
+BAY 13 STREET,street_name,41
+BAY 14 STREET,street_name,51
+BAY 16 STREET,street_name,212
+BAY 17 STREET,street_name,86
+BAY 19 STREET,street_name,267
+BAY 20 STREET,street_name,25
+BAY 22 STREET,street_name,56
+BAY 23 STREET,street_name,76
+BAY 24 STREET,street_name,3
+BAY 25 STREET,street_name,60
+BAY 26 STREET,street_name,77
+BAY 28 STREET,street_name,36
+BAY 29 STREET,street_name,309
+BAY 30 STREET,street_name,79
+BAY 31 STREET,street_name,64
+BAY 32 PLACE,street_name,7
+BAY 32 STREET,street_name,69
+BAY 34 STREET,street_name,130
+BAY 35 STREET,street_name,17
+BAY 37 STREET,street_name,190
+BAY 38 STREET,street_name,76
+BAY 40 STREET,street_name,29
+BAY 41 STREET,street_name,8
+BAY 43 STREET,street_name,8
+BAY 44 STREET,street_name,12
+BAY 46 STREET,street_name,16
+BAY 47 STREET,street_name,21
+BAY 49 STREET,street_name,11
+BAY 50 STREET,street_name,19
+BAY 52 STREET,street_name,1
+BAY 53 STREET,street_name,1
+BAY 7 STREET,street_name,12
+BAY 8 STREET,street_name,56
+BAY AVENUE,street_name,8
+BAY CLUB DRIVE,street_name,1
+BAY PARK PLACE,street_name,6
+BAY PARKWAY,street_name,3978
+BAY RIDGE AVENUE,street_name,473
+BAY RIDGE PARKWAY,street_name,405
+BAY STREET,street_name,305
+BAY STREET LANDING,street_name,2
+BAY TERRACE,street_name,13
+BAY VIEW AVENUE,street_name,16
+BAY VIEW PLACE,street_name,3
+BAYARD STREET,street_name,257
+BAYCHESTER AVENUE,street_name,679
+BAYFIELD AVENUE,street_name,24
+BAYONNE COURT,street_name,1
+BAYPORT PLACE,street_name,44
+BAYRIDGE AVENUE,street_name,1
+BAYRIDGE PARKWAY,street_name,1
+BAYSIDE AVENUE,street_name,12
+BAYSIDE LANE,street_name,2
+BAYSWATER AVENUE,street_name,15
+BAYVIEW AVENUE,street_name,16
+BAYVIEW PLACE,street_name,3
+BAYWATER COURT,street_name,1
+BEACH 100 STREET,street_name,281
+BEACH 101 STREET,street_name,23
+BEACH 102 STREET,street_name,17
+BEACH 105 STREET,street_name,1
+BEACH 108 STREET,street_name,5
+BEACH 109 STREET,street_name,5
+BEACH 11 STREET,street_name,3
+BEACH 110 STREET,street_name,6
+BEACH 112 STREET,street_name,4
+BEACH 113 STREET,street_name,69
+BEACH 114 STREET,street_name,40
+BEACH 115 STREET,street_name,186
+BEACH 116 STREET,street_name,23
+BEACH 117 STREET,street_name,319
+BEACH 118 STREET,street_name,101
+BEACH 119 STREET,street_name,93
+BEACH 12 STREET,street_name,7
+BEACH 120 STREET,street_name,70
+BEACH 121 STREET,street_name,32
+BEACH 122 STREET,street_name,5
+BEACH 123 STREET,street_name,5
+BEACH 124 STREET,street_name,16
+BEACH 125 STREET,street_name,37
+BEACH 126 STREET,street_name,2
+BEACH 127 STREET,street_name,4
+BEACH 128 STREET,street_name,14
+BEACH 129 STREET,street_name,6
+BEACH 13 STREET,street_name,54
+BEACH 131 STREET,street_name,1
+BEACH 134 STREET,street_name,1
+BEACH 135 STREET,street_name,1
+BEACH 136 STREET,street_name,1
+BEACH 138 STREET,street_name,2
+BEACH 14 STREET,street_name,76
+BEACH 148 STREET,street_name,1
+BEACH 15 STREET,street_name,263
+BEACH 17 STREET,street_name,373
+BEACH 19 STREET,street_name,760
+BEACH 20 STREET,street_name,96
+BEACH 21 STREET,street_name,33
+BEACH 22 STREET,street_name,167
+BEACH 24 STREET,street_name,118
+BEACH 25 STREET,street_name,160
+BEACH 26 STREET,street_name,217
+BEACH 27 STREET,street_name,182
+BEACH 28 STREET,street_name,135
+BEACH 29 STREET,street_name,216
+BEACH 3 STREET,street_name,4
+BEACH 30 STREET,street_name,47
+BEACH 31 STREET,street_name,219
+BEACH 32 STREET,street_name,214
+BEACH 36 STREET,street_name,60
+BEACH 37 STREET,street_name,4
+BEACH 38 STREET,street_name,12
+BEACH 39 STREET,street_name,4
+BEACH 39TH STREET,street_name,1
+BEACH 4 STREET,street_name,4
+BEACH 40 STREET,street_name,14
+BEACH 42 STREET,street_name,10
+BEACH 43 STREET,street_name,77
+BEACH 44 STREET,street_name,84
+BEACH 45 STREET,street_name,37
+BEACH 46 STREET,street_name,25
+BEACH 47 STREET,street_name,89
+BEACH 48 STREET,street_name,24
+BEACH 5 STREET,street_name,5
+BEACH 51 STREET,street_name,29
+BEACH 53 STREET,street_name,12
+BEACH 54 STREET,street_name,140
+BEACH 56 PLACE,street_name,329
+BEACH 56 STREET,street_name,3
+BEACH 57 STREET,street_name,198
+BEACH 58 STREET,street_name,26
+BEACH 59 STREET,street_name,389
+BEACH 60 STREET,street_name,102
+BEACH 61 STREET,street_name,26
+BEACH 62 STREET,street_name,2
+BEACH 63 STREET,street_name,75
+BEACH 64 STREET,street_name,44
+BEACH 65 STREET,street_name,103
+BEACH 66 STREET,street_name,121
+BEACH 67 STREET,street_name,116
+BEACH 68 STREET,street_name,85
+BEACH 69 STREET,street_name,101
+BEACH 70 STREET,street_name,109
+BEACH 72 STREET,street_name,47
+BEACH 73 STREET,street_name,25
+BEACH 77 STREET,street_name,1
+BEACH 8 STREET,street_name,1
+BEACH 80 STREET,street_name,9
+BEACH 81 STREET,street_name,11
+BEACH 84 STREET,street_name,90
+BEACH 85 STREET,street_name,39
+BEACH 86 STREET,street_name,86
+BEACH 87 STREET,street_name,55
+BEACH 88 STREET,street_name,54
+BEACH 89 STREET,street_name,9
+BEACH 9 STREET,street_name,280
+BEACH 90 STREET,street_name,68
+BEACH 91 STREET,street_name,69
+BEACH 92 STREET,street_name,58
+BEACH 93 STREET,street_name,1
+BEACH 94 STREET,street_name,1
+BEACH 95 STREET,street_name,47
+BEACH 96 STREET,street_name,135
+BEACH 97 STREET,street_name,22
+BEACH 98 STREET,street_name,23
+BEACH 99 STREET,street_name,15
+BEACH AVE,street_name,1
+BEACH AVENUE,street_name,1351
+BEACH BREEZE PLACE,street_name,21
+BEACH CHANNEL DRIVE,street_name,779
+BEACH FRONT ROAD,street_name,5
+BEACH STREET,street_name,83
+BEACH TERRACE,street_name,1
+BEACON AVENUE,street_name,1
+BEACON COURT,street_name,3
+BEACON LANE,street_name,3
+BEACON PLACE,street_name,1
+BEADEL STREET,street_name,8
+BEARD STREET,street_name,1
+BEAUMONT AVENUE,street_name,1252
+BEAUMONT STREET,street_name,3
+BEAVER STREET,street_name,44
+BECK STREET,street_name,803
+BEDELL AVENUE,street_name,2
+BEDELL LANE,street_name,15
+BEDELL STREET,street_name,37
+BEDFORD AVENUE,street_name,7528
+BEDFORD PARK BOULEVARD,street_name,2701
+BEDFORD PLACE,street_name,5
+BEDFORD STREET,street_name,125
+BEECH AVENUE,street_name,216
+BEECH TERRACE,street_name,157
+BEECHWOOD AVENUE,street_name,9
+BEEKMAN AVENUE,street_name,183
+BEEKMAN PLACE,street_name,156
+BEEKMAN STREET,street_name,41
+BEHAN COURT,street_name,11
+BELAIR ROAD,street_name,11
+BELFAST AVENUE,street_name,1
+BELFIELD AVENUE,street_name,1
+BELKNAP STREET,street_name,10
+BELL AVENUE,street_name,2
+BELL BOULEVARD,street_name,607
+BELLA VISTA COURT,street_name,7
+BELLAIRE PLACE,street_name,3
+BELLAMY LOOP,street_name,34
+BELLAMY LOOP SOUTH,street_name,3
+BELLAVISTA COURT,street_name,5
+BELLHAVEN PLACE,street_name,3
+BELMONT AVENUE,street_name,2689
+BELMONT PLACE,street_name,261
+BELVEDERE STREET,street_name,17
+BEMENT AVENUE,street_name,46
+BEMENT COURT,street_name,4
+BENCHLEY PLACE,street_name,73
+BENEDICT AVENUE,street_name,116
+BENEDICT ROAD,street_name,1
+BENHAM STREET,street_name,236
+BENJAMIN DRIVE,street_name,1
+BENNETT AVENUE,street_name,933
+BENNETT COURT,street_name,21
+BENNETT PLACE,street_name,1
+BENNETT STREET,street_name,1
+BENSON AVENUE,street_name,212
+BENSON STREET,street_name,93
+BENTLEY ROAD,street_name,8
+BENTON COURT,street_name,13
+BENTON STREET,street_name,28
+BENZIGER AVENUE,street_name,145
+BERGAN STREET,street_name,1
+BERGEN AVENUE,street_name,137
+BERGEN BEACH PLACE,street_name,1
+BERGEN COURT,street_name,46
+BERGEN COVE,street_name,1
+BERGEN PLACE,street_name,83
+BERGEN STREET,street_name,3082
+BERKELEY PLACE,street_name,88
+BERRIMAN STREET,street_name,402
+BERRY COURT,street_name,1
+BERRY STREET,street_name,292
+BESSEMUND AVENUE,street_name,33
+BETHEL AVENUE,street_name,4
+BETHEL LOOP,street_name,76
+BETHUNE STREET,street_name,10
+BETTS AVENUE,street_name,23
+BETTY COURT,street_name,27
+BEVERLEY ROAD,street_name,74
+BEVERLY ROAD,street_name,2576
+BEVY COURT,street_name,1
+BIALYSTOKER PLACE,street_name,17
+BIDWELL AVENUE,street_name,16
+BILLINGSLEY TERRACE,street_name,213
+BILLOP AVENUE,street_name,20
+BIONIA AVENUE,street_name,4
+BIRCH ROAD,street_name,8
+BIRCHALL AVENUE,street_name,128
+BISHOP STREET,street_name,2
+BISMARK AVENUE,street_name,5
+BLACKFORD AVENUE,street_name,19
+BLACKROCK AVENUE,street_name,218
+BLACKSTONE AVENUE,street_name,156
+BLAIR AVENUE,street_name,19
+BLAKE AVENUE,street_name,718
+BLEECKER STREET,street_name,1892
+BLEEKER STREET,street_name,1
+BLISS TERRACE,street_name,1
+BLONDELL AVENUE,street_name,8
+BLOOMINGDALE ROAD,street_name,11
+BLOSSOM AVENUE,street_name,8
+BLUE SLIP,street_name,7
+BOARDWALK,street_name,27
+BOARDWALK WEST,street_name,1
+BODINE STREET,street_name,25
+BOELSEN CRESCENT,street_name,1
+BOERUM PLACE,street_name,38
+BOERUM STREET,street_name,212
+BOGARDUS PLACE,street_name,398
+BOGARDUS STREET,street_name,2
+BOGART AVENUE,street_name,102
+BOGART STREET,street_name,3
+BOGOTA STREET,street_name,2
+BOKEE COURT,street_name,96
+BOLIVAR STREET,street_name,1
+BOLLER AVENUE,street_name,36
+BOLTON AVENUE,street_name,84
+BOLTON STREET,street_name,762
+BOND STREET,street_name,103
+BONNER PLACE,street_name,268
+BOODY STREET,street_name,2
+BOONE AVENUE,street_name,143
+BOONE STREET,street_name,4
+BOOTH MEMORIAL AVENUE,street_name,55
+BOOTH STREET,street_name,290
+BORDEN AVENUE,street_name,29
+BORINQUEN PLACE,street_name,38
+BORMAN AVENUE,street_name,1
+BOSTON ROAD,street_name,3225
+BOSWORTH STREET,street_name,1
+BOTANICAL SQUARE,street_name,1187
+BOUCK AVENUE,street_name,73
+BOUCK COURT,street_name,2
+BOULDER STREET,street_name,3
+BOULEVARD COURT,street_name,4
+BOUNDARY AVENUE,street_name,13
+BOURTON STREET,street_name,2
+BOW STREET,street_name,1
+BOWEN STREET,street_name,103
+BOWERY,street_name,263
+BOWLING GREEN PLACE,street_name,3
+BOWNE STREET,street_name,770
+BOX STREET,street_name,4
+BOYD AVENUE,street_name,24
+BOYD STREET,street_name,23
+BOYNTON AVENUE,street_name,10236
+BOYNTON PLACE,street_name,15
+BRABANT STREET,street_name,10
+BRADDOCK AVENUE,street_name,38
+BRADEY AVENUE,street_name,1
+BRADFORD AVENUE,street_name,60
+BRADFORD STREET,street_name,861
+BRADHURST AVENUE,street_name,597
+BRADLEY AVENUE,street_name,33
+BRADLEY COURT,street_name,1
+BRADY AVENUE,street_name,70
+BRAGG STREET,street_name,245
+BRAISTED AVENUE,street_name,18
+BRANDT PLACE,street_name,13
+BREHAUT AVENUE,street_name,2
+BREVOORT PLACE,street_name,84
+BREVOORT STREET,street_name,2
+BREWSTER STREET,street_name,1
+BRIAN CRESCENT,street_name,2
+BRIAR PLACE,street_name,25
+BRICK COURT,street_name,1
+BRIDGE COURT,street_name,1
+BRIDGE PARK DRIVE,street_name,1
+BRIDGE STREET,street_name,45
+BRIDGETON STREET,street_name,1
+BRIELLE AVENUE,street_name,114
+BRIGGS AVENUE,street_name,1778
+BRIGHAM STREET,street_name,79
+BRIGHTON 1 COURT,street_name,1
+BRIGHTON 1 LANE,street_name,2
+BRIGHTON 1 PATH,street_name,9
+BRIGHTON 1 PLACE,street_name,40
+BRIGHTON 1 ROAD,street_name,62
+BRIGHTON 1 STREET,street_name,36
+BRIGHTON 1 WALK,street_name,14
+BRIGHTON 10 COURT,street_name,87
+BRIGHTON 10 LANE,street_name,2
+BRIGHTON 10 PATH,street_name,13
+BRIGHTON 10 STREET,street_name,16
+BRIGHTON 10 TERRACE,street_name,3
+BRIGHTON 11 STREET,street_name,98
+BRIGHTON 12 STREET,street_name,1268
+BRIGHTON 13 STREET,street_name,737
+BRIGHTON 14 STREET,street_name,155
+BRIGHTON 15 STREET,street_name,223
+BRIGHTON 2 LANE,street_name,1
+BRIGHTON 2 PLACE,street_name,4
+BRIGHTON 2 STREET,street_name,148
+BRIGHTON 3 COURT,street_name,3
+BRIGHTON 3 PLACE,street_name,8
+BRIGHTON 3 ROAD,street_name,26
+BRIGHTON 3 STREET,street_name,258
+BRIGHTON 4 PLACE,street_name,5
+BRIGHTON 4 STREET,street_name,364
+BRIGHTON 4 TERRACE,street_name,25
+BRIGHTON 5 LANE,street_name,4
+BRIGHTON 5 PLACE,street_name,2
+BRIGHTON 5 STREET,street_name,352
+BRIGHTON 5 WALK,street_name,1
+BRIGHTON 6 COURT,street_name,1
+BRIGHTON 6 STREET,street_name,282
+BRIGHTON 7 STREET,street_name,309
+BRIGHTON 8 COURT,street_name,1
+BRIGHTON 8 PLACE,street_name,1
+BRIGHTON 8 STREET,street_name,152
+BRIGHTON AVENUE,street_name,151
+BRIGHTON BEACH AVENUE,street_name,269
+BRIGHTON COURT,street_name,67
+BRIGHTON STREET,street_name,5
+BRIGHTWATER AVENUE,street_name,147
+BRIGHTWATER COURT,street_name,438
+BRINKERHOFF AVENUE,street_name,77
+BRINSMADE AVENUE,street_name,17
+BRISBIN STREET,street_name,5
+BRISTOL STREET,street_name,1035
+BRISTOW STREET,street_name,474
+BRITTON AVENUE,street_name,213
+BRITTON LANE,street_name,1
+BRITTON STREET,street_name,40
+BROAD STREET,street_name,300
+BROADWAY,street_name,22345
+BROADWAY TERRACE,street_name,333
+BROADWY FRONT,street_name,2
+BROCHER ROAD,street_name,2
+BRONX BOULEVARD,street_name,3239
+BRONX PARK AVENUE,street_name,35
+BRONX PARK EAST,street_name,2567
+BRONX PARK SOUTH,street_name,1319
+BRONX RIVER AVENUE,street_name,404
+BRONXDALE AVENUE,street_name,2241
+BRONXWOOD AVENUE,street_name,775
+BROOK AVENUE,street_name,1317
+BROOK STREET,street_name,134
+BROOKFIELD AVENUE,street_name,2
+BROOKHAVEN AVENUE,street_name,257
+BROOKLYN AVENUE,street_name,3220
+BROOKVILLE BOULEVARD,street_name,122
+BROOME STREET,street_name,1618
+BROUN PLACE,street_name,8
+BROWN PLACE,street_name,66
+BROWN STREET,street_name,20
+BROWNELL STREET,street_name,18
+BROWVALE LANE,street_name,4
+BRUCKNER AVENUE,street_name,3
+BRUCKNER BOULEVARD,street_name,2654
+BRUCKNER EXPRESSWAY,street_name,1
+BRUNER AVENUE,street_name,239
+BRUNSWICK AVENUE,street_name,17
+BRUSH AVENUE,street_name,2
+BRYANT AVENUE,street_name,3221
+BRYSON AVENUE,street_name,12
+BUCHANAN PLACE,street_name,1769
+BUCK STREET,street_name,16
+BUCKINGHAM ROAD,street_name,42
+BUEL AVENUE,street_name,10
+BUFFALO AVENUE,street_name,455
+BUFFALO STREET,street_name,1
+BUHRE AVENUE,street_name,272
+BULWER PLACE,street_name,18
+BUNNECKE COURT,street_name,2
+BURBANK AVENUE,street_name,2
+BURCHELL AVENUE,street_name,55
+BURCHELL ROAD,street_name,3
+BURDEN CRESCENT,street_name,58
+BURDETTE PLACE,street_name,1
+BURGHER AVENUE,street_name,4
+BURKE AVENUE,street_name,557
+BURLING STREET,street_name,25
+BURLINGHAM COURT,street_name,2
+BURNETT PLACE,street_name,5
+BURNETT STREET,street_name,48
+BURNS STREET,street_name,529
+BURNSIDE AVENUE,street_name,2
+BURR AVENUE,street_name,29
+BURTON AVENUE,street_name,2
+BUSH AVENUE,street_name,49
+BUSH STREET,street_name,92
+BUSHWICK AVENUE,street_name,2575
+BUSHWICK AVENUEDUMMY,street_name,1
+BUSSING AVENUE,street_name,31
+BUTLER PLACE,street_name,76
+BUTLER STREET,street_name,65
+BUTLER TERRACE,street_name,13
+BUTTRICK AVENUE,street_name,30
+BYRD STREET,street_name,3
+BYRON AVENUE,street_name,148
+CABRINI BOULEVARD,street_name,1073
+CADMAN PLAZA WEST,street_name,24
+CAESAR PLACE,street_name,6
+CAFFREY AVENUE,street_name,130
+CALAMUS AVENUE,street_name,29
+CALDWELL AVENUE,street_name,34
+CALHOUN AVENUE,street_name,87
+CALLAHAN LANE,street_name,1
+CALLAN AVENUE,street_name,1
+CALLOWAY STREET,street_name,21
+CALYER STREET,street_name,135
+CAMBRELENG AVENUE,street_name,438
+CAMBRIDGE AVENUE,street_name,26
+CAMBRIDGE PLACE,street_name,60
+CAMBRIDGE ROAD,street_name,3
+CAMERON AVENUE,street_name,1
+CAMP ROAD,street_name,1
+CAMP STREET,street_name,1
+CAMPBELL AVENUE,street_name,40
+CAMPUS PLACE,street_name,44
+CAMPUS ROAD,street_name,1
+CANAL AVENUE,street_name,2
+CANAL PLACE,street_name,1
+CANAL STREET,street_name,220
+CANARSIE ROAD,street_name,13
+CANDA AVENUE,street_name,2
+CANDON AVENUE,street_name,3
+CANEY LANE,street_name,53
+CANEY ROAD,street_name,29
+CANNON AVENUE,street_name,6
+CANNON BOULEVARD,street_name,7
+CANNON PLACE,street_name,344
+CANON DRIVE,street_name,2
+CANTON AVENUE,street_name,1
+CANTON COURT,street_name,18
+CAPUCHIN WAY,street_name,6
+CARLISLE PLACE,street_name,126
+CARLTON AVENUE,street_name,411
+CARLTON COURT,street_name,1
+CARLTON PLACE,street_name,1
+CARLTON STREET,street_name,4
+CARMEL COURT,street_name,8
+CARMINE STREET,street_name,232
+CARNEGIE AVENUE,street_name,1
+CAROL PLACE,street_name,1
+CAROLINE STREET,street_name,39
+CAROLL STREET,street_name,8
+CARPENTER AVENUE,street_name,3331
+CARROLL PLACE,street_name,791
+CARROLL STREET,street_name,4732
+CARSON STREET,street_name,8
+CARTER AVENUE,street_name,7
+CARTERET STREET,street_name,1
+CARVER LOOP,street_name,45
+CARY AVENUE,street_name,99
+CASALS PLACE,street_name,96
+CASANOVA STREET,street_name,15
+CASE STREET,street_name,218
+CASLER PLACE,street_name,2
+CASS PLACE,street_name,2
+CASSIDY PLACE,street_name,48
+CASTLE HILL AVENUE,street_name,1149
+CASTLETON AVENUE,street_name,225
+CASWELL AVENUE,street_name,5
+CATALPA AVENUE,street_name,204
+CATAMARAN WAY,street_name,25
+CATHEDRAL PARKWAY,street_name,931
+CATHERINE SLIP,street_name,1
+CATHERINE STREET,street_name,165
+CATON AVENUE,street_name,1285
+CATON PLACE,street_name,44
+CAULDWELL AVENUE,street_name,1250
+CAYUGA AVENUE,street_name,15
+CEBRA AVENUE,street_name,51
+CEDAR AVENUE,street_name,859
+CEDAR GROVE AVENUE,street_name,1
+CEDAR STREET,street_name,26
+CEDAR TERRACE,street_name,1
+CEDARCROFT ROAD,street_name,116
+CEDARVIEW AVENUE,street_name,5
+CEDARWOOD COURT,street_name,1
+CEDRIC ROAD,street_name,6
+CELEBRATION LANE,street_name,4
+CENTER BOULEVARD,street_name,14
+CENTER DRIVE,street_name,1
+CENTER PLACE,street_name,1
+CENTERVILLE AVENUE,street_name,4
+CENTRAL AVENUE,street_name,1302
+CENTRAL PARK NORTH,street_name,688
+CENTRAL PARK SOUTH,street_name,67
+CENTRAL PARK WEST,street_name,658
+CENTRE MARKET PLACE,street_name,4
+CENTRE STREET,street_name,99
+CENTREVILLE STREET,street_name,34
+CHAMBERS STREET,street_name,294
+CHANDLER AVENUE,street_name,3
+CHANDLER STREET,street_name,42
+CHANNEL ROAD,street_name,4
+CHANNING ROAD,street_name,4
+CHAPIN AVENUE,street_name,1
+CHAPIN COURT,street_name,1
+CHAPIN PARKWAY,street_name,20
+CHARLECOTE RIDGE,street_name,17
+CHARLES AVENUE,street_name,43
+CHARLES COURT,street_name,6
+CHARLES LANE,street_name,27
+CHARLES PLACE,street_name,4
+CHARLES STREET,street_name,134
+CHARLOTTE STREET,street_name,7
+CHARLTON STREET,street_name,88
+CHARTER ROAD,street_name,20
+CHATHAM SQUARE,street_name,9
+CHATTERTON AVENUE,street_name,359
+CHAUNCEY STREET,street_name,1460
+CHEEVER PLACE,street_name,16
+CHELSEA STREET,street_name,26
+CHENEY STREET,street_name,12
+CHERRY AVENUE,street_name,145
+CHERRY STREET,street_name,94
+CHERRYWOOD COURT,street_name,4
+CHESBROUGH AVENUE,street_name,2
+CHESTER AVENUE,street_name,85
+CHESTER COURT,street_name,32
+CHESTER PLACE,street_name,3
+CHESTER STREET,street_name,602
+CHESTNUT AVENUE,street_name,14
+CHESTNUT COURT,street_name,9
+CHESTNUT DRIVE NORTH,street_name,9
+CHESTNUT STREET,street_name,420
+CHEVY CHASE STREET,street_name,16
+CHICOT ROAD,street_name,2
+CHISHOLM STREET,street_name,141
+CHITTENDEN AVENUE,street_name,2
+CHRISTIE AVENUE,street_name,5
+CHRISTOPHER AVENUE,street_name,136
+CHRISTOPHER STREET,street_name,724
+CHRYSTIE STREET,street_name,285
+CHURCH AVENUE,street_name,2502
+CHURCH LANE,street_name,1
+CHURCH ROAD,street_name,2
+CHURCH STREET,street_name,16
+CHURCHILL AVENUE,street_name,1
+CICERO AVENUE,street_name,16
+CINCINNATUS AVENUE,street_name,12
+CIRCLE LOOP,street_name,2
+CITY BOULEVARD,street_name,1
+CITY ISLAND AVENUE,street_name,228
+CLAFLIN AVENUE,street_name,1046
+CLARA STREET,street_name,4
+CLAREMONT AVENUE,street_name,471
+CLAREMONT PARKWAY,street_name,247
+CLARENCE AVENUE,street_name,14
+CLARENDON ROAD,street_name,979
+CLARK LANE,street_name,24
+CLARK STREET,street_name,25
+CLARKE AVENUE,street_name,3
+CLARKE PLACE EAST,street_name,702
+CLARKSON AVENUE,street_name,2812
+CLARKSON STREET,street_name,1
+CLASSON AVENUE,street_name,863
+CLAUDE AVENUE,street_name,48
+CLAVER PLACE,street_name,144
+CLAWSON STREET,street_name,4
+CLAY AVENUE,street_name,3754
+CLAY PIT ROAD,street_name,7
+CLAY STREET,street_name,298
+CLEARMONT AVENUE,street_name,2
+CLEARVIEW EXPRESSWAY,street_name,7
+CLEARVIEW EXPRESSWAY SR WEST,street_name,6
+CLERMONT AVENUE,street_name,184
+CLEVELAND AVENUE,street_name,16
+CLEVELAND PLACE,street_name,66
+CLEVELAND STREET,street_name,421
+CLIFF STREET,street_name,20
+CLIFFORD PLACE,street_name,31
+CLIFFSIDE AVENUE,street_name,7
+CLIFTON AVENUE,street_name,27
+CLIFTON PLACE,street_name,844
+CLINTON AVENUE,street_name,2548
+CLINTON PLACE,street_name,132
+CLINTON STREET,street_name,637
+CLINTON TERRACE,street_name,2
+CLINTONVILLE STREET,street_name,10
+CLOSE AVENUE,street_name,71
+CLOVE ROAD,street_name,165
+CLOVER PLACE,street_name,3
+CLOVERDALE BOULEVARD,street_name,13
+CLYDE STREET,street_name,26
+CLYMER STREET,street_name,45
+CO OP CITY BOULEVARD,street_name,6
+CO-OP CITY BOULEVARD,street_name,99
+CODDINGTON AVENUE,street_name,18
+CODWISE PLACE,street_name,16
+COENTIES SLIP,street_name,12
+COFFEY STREET,street_name,18
+COHANCY STREET,street_name,4
+COLBY COURT,street_name,30
+COLDEN AVENUE,street_name,488
+COLDEN STREET,street_name,471
+COLDSPRING ROAD,street_name,1
+COLEMAN STREET,street_name,20
+COLES STREET,street_name,1
+COLFAX AVENUE,street_name,38
+COLFAX STREET,street_name,24
+COLGATE AVENUE,street_name,616
+COLLEGE AVE,street_name,4
+COLLEGE AVENUE,street_name,2464
+COLLEGE PLACE,street_name,7
+COLLEGE POINT BOULEVARD,street_name,158
+COLLFIELD AVENUE,street_name,4
+COLLIER AVENUE,street_name,566
+COLLIS PLACE,street_name,4
+COLLYER AVENUE,street_name,2
+COLON AVENUE,street_name,4
+COLONIAL AVENUE,street_name,79
+COLONIAL ROAD,street_name,591
+COLTON STREET,street_name,3
+COLUMBIA HEIGHTS,street_name,47
+COLUMBIA PLACE,street_name,66
+COLUMBIA STREET,street_name,461
+COLUMBUS AVENUE,street_name,2079
+COLUMBUS CIRCLE,street_name,2
+COLUMBUS PLACE,street_name,20
+COMBS AVENUE,street_name,1
+COMMERCE STREET,street_name,25
+COMMERCIAL STREET,street_name,2
+COMMODORE DRIVE,street_name,7
+COMMONWEALTH AVENUE,street_name,1174
+COMMONWEALTH BOULEVARD,street_name,11
+COMSTOCK AVENUE,street_name,24
+CONCORD AVENUE,street_name,1047
+CONCORD STREET,street_name,84
+CONCOURSE VILLAGE EAST,street_name,384
+CONCOURSE VILLAGE WEST,street_name,514
+CONDUIT BOULEVARD,street_name,1
+CONEY ISLAND AVENUE,street_name,1817
+CONFEDERATION PLACE,street_name,2
+CONFERENCE COURT,street_name,1
+CONFUCIUS PLAZA,street_name,1
+CONGER STREET,street_name,2
+CONGRESS STREET,street_name,7
+CONKLIN AVENUE,street_name,72
+CONNECTICUT STREET,street_name,15
+CONNER STREET,street_name,2
+CONOVER STREET,street_name,106
+CONSELYEA STREET,street_name,21
+CONTINENTAL AVENUE,street_name,105
+CONTINENTAL PLACE,street_name,4
+CONVENT AVENUE,street_name,1849
+COOK STREET,street_name,15
+COOKE STREET,street_name,1
+COOLIDGE AVENUE,street_name,22
+COOMBS STREET,street_name,17
+COONLEY COURT,street_name,5
+COOPER AVENUE,street_name,57
+COOPER PLACE,street_name,11
+COOPER SQUARE,street_name,100
+COOPER STREET,street_name,1614
+COOPER TERRACE,street_name,3
+COPLEY STREET,street_name,3
+CORBETT ROAD,street_name,12
+CORBIN AVENUE,street_name,2
+CORBIN PLACE,street_name,136
+CORLEAR AVENUE,street_name,86
+CORNAGA AVENUE,street_name,195
+CORNELIA AVENUE,street_name,6
+CORNELIA STREET,street_name,673
+CORNELL AVENUE,street_name,1
+CORNELL LANE,street_name,3
+CORNELL PLACE,street_name,1
+CORNISH AVENUE,street_name,2
+CORONA AVENUE,street_name,430
+CORPORAL KENNEDY STREET,street_name,24
+CORPORAL STONE STREET,street_name,14
+CORPRL KENNEDY STREET,street_name,67
+CORRELL AVENUE,street_name,8
+CORSA AVENUE,street_name,213
+CORSO COURT,street_name,2
+CORSON AVENUE,street_name,68
+CORTELYOU AVENUE,street_name,29
+CORTELYOU ROAD,street_name,1717
+CORTLANDT STREET,street_name,8
+CORYN COURT,street_name,2
+COSTER STREET,street_name,355
+COTTAGE PLACE,street_name,12
+COTTER AVENUE,street_name,2
+COUCH PLACE,street_name,3
+COUNTRY CLUB ROAD,street_name,2
+COUNTRY DRIVE NORTH,street_name,4
+COUNTRY DRIVE WEST,street_name,3
+COUNTRY POINT CIRCLE,street_name,1
+COUNTRY POINTE CIRCLE,street_name,4
+COUNTRY WOODS LANE,street_name,1
+COURSEN PLACE,street_name,159
+COURT SQUARE,street_name,8
+COURT STREET,street_name,319
+COURTLANDT AVENUE,street_name,1083
+COURTNEY LOOP,street_name,3
+COVE COURT,street_name,3
+COVENTRY ROAD,street_name,3
+COVERLY AVENUE,street_name,1
+COVERT STREET,street_name,434
+COVINGTON CIRCLE,street_name,4
+COWEN PLACE,street_name,2
+COX PLACE,street_name,42
+COYLE STREET,street_name,214
+COZINE AVENUE,street_name,290
+CRAFT AVENUE,street_name,29
+CRAFTON AVENUE,street_name,3
+CRAIG AVENUE,street_name,4
+CRANBERRY COURT,street_name,1
+CRANBERRY STREET,street_name,9
+CRANDALL AVENUE,street_name,5
+CRANFORD AVENUE,street_name,311
+CRANFORD STREET,street_name,3
+CRANSTON STREET,street_name,4
+CRAWFORD AVENUE,street_name,9
+CRESCENT AVENUE,street_name,73
+CRESCENT STREET,street_name,1977
+CRESSKILL PLACE,street_name,15
+CREST ROAD,street_name,36
+CRESTON AVENUE,street_name,7422
+CRESTWATER COURT,street_name,2
+CROCHERON AVENUE,street_name,192
+CROES AVENUE,street_name,600
+CROFT COURT,street_name,1
+CROFT PLACE,street_name,31
+CROMWELL AVENUE,street_name,796
+CRONSTON AVENUE,street_name,12
+CROOKE AVENUE,street_name,658
+CROPSEY AVENUE,street_name,1095
+CROSBY AVENUE,street_name,100
+CROSBY STREET,street_name,9
+CROSS BAY BOULEVARD,street_name,82
+CROSS BAY PARKWAY,street_name,2
+CROSS BRONX EXPRESSWAY,street_name,486
+CROSS BRONX SERVICE ROAD SOUTH,street_name,74
+CROSS BX SERVICE ROAD NORTH,street_name,31
+CROSS BX SERVICE ROAD SOUTH,street_name,1
+CROSS ISLAND PARKWAY,street_name,1
+CROSS ISLAND PARKWAY SR SOUTH,street_name,4
+CROSS ISLE PARKWAY SR NORTH,street_name,7
+CROSS STREET,street_name,6
+CROSSFIELD AVENUE,street_name,1
+CROTON LOOP,street_name,41
+CROTONA AVENUE,street_name,3113
+CROTONA PARK EAST,street_name,592
+CROTONA PARK NO,street_name,23
+CROTONA PARK NORTH,street_name,936
+CROTONA PARK SOUTH,street_name,58
+CROTONA PARKWAY,street_name,877
+CROTONA PLACE,street_name,49
+CROWELL AVENUE,street_name,2
+CROWN STREET,street_name,4058
+CRUGER AVENUE,street_name,4140
+CRYSTAL STREET,street_name,121
+CUBA AVENUE,street_name,8
+CUMBERLAND STREET,street_name,292
+CUMBERLAND WALK,street_name,1
+CUMMING STREET,street_name,158
+CUNARD PLACE,street_name,1
+CURRIE AVENUE,street_name,1
+CURTIS PLACE,street_name,215
+CURTIS STREET,street_name,15
+CURZON ROAD,street_name,2
+CUTHBERT ROAD,street_name,3
+CYPRESS AVENUE,street_name,288
+CYPRESS COURT,street_name,16
+CYPRESS HILLS STREET,street_name,3
+CYRUS AVENUE,street_name,1
+CYRUS PLACE,street_name,79
+DAFFODIL COURT,street_name,1
+DAFFODIL LANE,street_name,4
+DAHILL ROAD,street_name,636
+DAHLGREN PLACE,street_name,21
+DAHLIA AVENUE,street_name,13
+DAKOTA PLACE,street_name,2
+DALEHAM STREET,street_name,1
+DALIAN COURT,street_name,5
+DALNY ROAD,street_name,8
+DALTON AVENUE,street_name,1
+DALY AVENUE,street_name,1130
+DANA COURT,street_name,30
+DANFORTH STREET,street_name,17
+DANIEL LOW TERRACE,street_name,375
+DANIEL STREET,street_name,9
+DANIELLA COURT,street_name,12
+DANIELS STREET,street_name,12
+DANK COURT,street_name,13
+DARCEY AVENUE,street_name,2
+DARE COURT,street_name,5
+DARLINGTON AVENUE,street_name,6
+DARNELL LANE,street_name,5
+DARROW PLACE,street_name,26
+DARTMOUTH LOOP,street_name,14
+DARTMOUTH STREET,street_name,225
+DAVENPORT AVENUE,street_name,6
+DAVID STREET,street_name,3
+DAVIDSON AVENUE,street_name,6912
+DAVIDSON COURT,street_name,1
+DAVIDSON STREET,street_name,7
+DAVIES ROAD,street_name,12
+DAVIS AVENUE,street_name,140
+DAVIS COURT,street_name,2
+DAVIS STREET,street_name,1
+DAWSON CIRCLE,street_name,4
+DAWSON COURT,street_name,3
+DAWSON STREET,street_name,253
+DE COSTA AVENUE,street_name,16
+DE GRAW STREET,street_name,16
+DE GROOT PLACE,street_name,30
+DE HART AVENUE,street_name,22
+DE KALB AVENUE,street_name,3163
+DE LAVALL AVENUE,street_name,7
+DE REIMER AVENUE,street_name,191
+DE RUYTER PLACE,street_name,4
+DE SALES PLACE,street_name,79
+DE SOTA ROAD,street_name,6
+DE WITT AVENUE,street_name,183
+DEAN AVENUE,street_name,18
+DEAN STREET,street_name,1945
+DEBBIE STREET,street_name,2
+DEBEVOISE AVENUE,street_name,58
+DEBEVOISE STREET,street_name,2
+DEBS PLACE,street_name,39
+DECATUR AVENUE,street_name,7131
+DECATUR STREET,street_name,1774
+DECKER AVENUE,street_name,14
+DEEMS AVENUE,street_name,3
+DEERFIELD ROAD,street_name,41
+DEFOE PLACE,street_name,19
+DEKALB AVENUE,street_name,2413
+DEKRUIF PLACE WEST,street_name,119
+DELAFIELD AVENUE,street_name,32
+DELANCEY PLACE,street_name,41
+DELANCEY STREET,street_name,173
+DELANOY AVENUE,street_name,2
+DELAVAN STREET,street_name,3
+DELAWARE AVENUE,street_name,11
+DELEVAN STREET,street_name,79
+DELMAR AVENUE,street_name,2
+DELMAR LOOP,street_name,56
+DEMEYER STREET,street_name,5
+DEMOND COURT,street_name,1
+DEMOPOLIS AVENUE,street_name,3
+DENIS STREET,street_name,4
+DENMAN STREET,street_name,533
+DENNETT PLACE,street_name,1
+DENNIS STREET,street_name,13
+DEPEW AVENUE,street_name,1
+DEPPE PLACE,street_name,8
+DEREIMER AVENUE,street_name,37
+DESARC ROAD,street_name,3
+DESBROSSES STREET,street_name,2
+DESMOND COURT,street_name,1
+DETROIT AVENUE,street_name,1
+DEVOE STREET,street_name,233
+DEVOE TERRACE,street_name,233
+DEVON LOOP,street_name,4
+DEVONSHIRE ROAD,street_name,10
+DEWEY AVENUE,street_name,24
+DEWEY PLACE,street_name,11
+DEWHURST STREET,street_name,1
+DEWITT AVENUE,street_name,16
+DEWITT PLACE,street_name,38
+DEXTER COURT,street_name,6
+DEY STREET,street_name,2
+DEYO STREET,street_name,2
+DIAMOND STREET,street_name,96
+DICKENS STREET,street_name,133
+DICKIE AVENUE,street_name,1
+DICTUM COURT,street_name,6
+DIERAUF STREET,street_name,2
+DIETERLE CRESCENT,street_name,1
+DIGBY PLACE,street_name,1
+DIGNEY AVENUE,street_name,235
+DIKEMAN STREET,street_name,109
+DILLON STREET,street_name,81
+DINSMORE AVENUE,street_name,142
+DINSMORE STREET,street_name,1
+DITMARS BOULEVARD,street_name,212
+DITMARS STREET,street_name,45
+DITMAS AVENUE,street_name,425
+DIVISION AVENUE,street_name,158
+DIVISION STREET,street_name,134
+DIX AVENUE,street_name,788
+DIXON AVENUE,street_name,6
+DOBBIN STREET,street_name,2
+DODWORTH STREET,street_name,9
+DOE PLACE,street_name,10
+DOGWOOD DRIVE,street_name,3
+DOMAIN STREET,street_name,2
+DONCASTER PLACE,street_name,6
+DONGAN AVENUE,street_name,51
+DONGAN HILLS AVENUE,street_name,3
+DONGAN PLACE,street_name,543
+DONGAN STREET,street_name,24
+DONIZETTI PLACE,street_name,41
+DONLEY AVENUE,street_name,13
+DONNA COURT,street_name,9
+DOOLEY STREET,street_name,4
+DORAN AVENUE,street_name,5
+DORCHESTER ROAD,street_name,740
+DORIS STREET,street_name,14
+DORMANS ROAD,street_name,16
+DOROTHEA PLACE,street_name,3
+DORSET STREET,street_name,5
+DORSEY STREET,street_name,44
+DOSCHER STREET,street_name,139
+DOTY AVENUE,street_name,4
+DOUGLAS AVENUE,street_name,23
+DOUGLASS STREET,street_name,45
+DOUGLASTON PARKWAY,street_name,316
+DOVER GREEN,street_name,4
+DOVER STREET,street_name,2
+DOWNING STREET,street_name,235
+DOYERS STREET,street_name,4
+DR M L KING JR BOULEVARD,street_name,8922
+DR MARTIN L KING BOULEVARD,street_name,211
+DRAPER PLACE,street_name,2
+DREISER LOOP,street_name,43
+DREW STREET,street_name,628
+DREYER AVENUE,street_name,1
+DRIGGS AVENUE,street_name,547
+DRUMGOOLE ROAD WEST,street_name,17
+DRY HARBOR ROAD,street_name,79
+DRYSDALE STREET,street_name,4
+DUANE COURT,street_name,2
+DUANE STREET,street_name,37
+DUBOIS AVENUE,street_name,22
+DUDLEY AVENUE,street_name,13
+DUFFIELD STREET,street_name,148
+DUMFRIES PLACE,street_name,1
+DUMONT AVE,street_name,54
+DUMONT AVENUE,street_name,733
+DUNBAR STREET,street_name,6
+DUNCAN STREET,street_name,22
+DUNCOMB AVENUE,street_name,12
+DUNE STREET,street_name,2
+DUNHAM PLACE,street_name,21
+DUNKIRK STREET,street_name,18
+DUNLOP AVENUE,street_name,15
+DUNNE COURT,street_name,10
+DUNTON AVENUE,street_name,6
+DUNTON STREET,street_name,32
+DUPONT STREET,street_name,88
+DURANT AVENUE,street_name,11
+DURLAND PLACE,street_name,33
+DURYEA AVENUE,street_name,30
+DURYEA COURT,street_name,2
+DURYEA PLACE,street_name,7
+DUTCH STREET,street_name,7
+DWIGHT AVENUE,street_name,57
+DWIGHT PLACE,street_name,1
+DWIGHT STREET,street_name,54
+DYCKMAN STREET,street_name,184
+DYRE AVENUE,street_name,94
+E 231 ST,street_name,64
+E MOSHOLU PARKWAY N,street_name,30
+EADIE PLACE,street_name,1
+EAGLE AVENUE,street_name,600
+EAGLE STREET,street_name,49
+EARHART LANE,street_name,13
+EAST 1 STREET,street_name,355
+EAST 10 STREET,street_name,2118
+EAST 100 STREET,street_name,618
+EAST 101 STREET,street_name,340
+EAST 102 STREET,street_name,754
+EAST 103 STREET,street_name,874
+EAST 104 STREET,street_name,829
+EAST 105 STREET,street_name,851
+EAST 106 STREET,street_name,903
+EAST 107 STREET,street_name,857
+EAST 108 STREET,street_name,826
+EAST 109 STREET,street_name,962
+EAST 11 STREET,street_name,1102
+EAST 110 STREET,street_name,625
+EAST 111 STREET,street_name,1174
+EAST 112 STREET,street_name,403
+EAST 114 STREET,street_name,284
+EAST 115 STREET,street_name,1622
+EAST 116 STREET,street_name,1868
+EAST 117 STREET,street_name,1776
+EAST 118 STREET,street_name,910
+EAST 119 STREET,street_name,1308
+EAST 12 STREET,street_name,3274
+EAST 120 STREET,street_name,269
+EAST 121 STREET,street_name,142
+EAST 122 STREET,street_name,516
+EAST 123 STREET,street_name,192
+EAST 124 STREET,street_name,292
+EAST 125 STREET,street_name,472
+EAST 126 STREET,street_name,1297
+EAST 127 STREET,street_name,68
+EAST 128 STREET,street_name,586
+EAST 129 STREET,street_name,307
+EAST 13 STREET,street_name,2163
+EAST 130 STREET,street_name,431
+EAST 131 STREET,street_name,276
+EAST 132 STREET,street_name,506
+EAST 133 STREET,street_name,22
+EAST 134 STREET,street_name,203
+EAST 135 STREET,street_name,245
+EAST 136 STREET,street_name,263
+EAST 137 STREET,street_name,461
+EAST 138 STREET,street_name,2259
+EAST 139 STREET,street_name,888
+EAST 14 STREET,street_name,2653
+EAST 14 STREET ,street_name,6
+EAST 140 STREET,street_name,387
+EAST 141 STREET,street_name,637
+EAST 142 STREET,street_name,410
+EAST 142ND STREET,street_name,7
+EAST 143 STREET,street_name,100
+EAST 144 STREET,street_name,548
+EAST 145 STREET,street_name,237
+EAST 146 STREET,street_name,419
+EAST 147 STREET,street_name,263
+EAST 148 STREET,street_name,961
+EAST 149 STREET,street_name,908
+EAST 149TH STREET,street_name,4
+EAST 15 STREET,street_name,717
+EAST 150 STREET,street_name,190
+EAST 151 STREET,street_name,571
+EAST 152 STREET,street_name,417
+EAST 153 STREET,street_name,1020
+EAST 154 STREET,street_name,166
+EAST 155 STREET,street_name,189
+EAST 156 STREET,street_name,1345
+EAST 157 STREET,street_name,151
+EAST 158 STREET,street_name,410
+EAST 159 STREET,street_name,558
+EAST 16 STREET,street_name,1706
+EAST 160 STREET,street_name,320
+EAST 161 STREET,street_name,993
+EAST 162 STREET,street_name,1210
+EAST 163 STREET,street_name,3348
+EAST 164 STREET,street_name,890
+EAST 165 STREET,street_name,1266
+EAST 166 STREET,street_name,703
+EAST 167 STREET,street_name,1266
+EAST 168 STREET,street_name,1444
+EAST 169 STREET,street_name,2047
+EAST 17 STREET,street_name,2973
+EAST 170 STREET,street_name,974
+EAST 171 STREET,street_name,421
+EAST 172 STREET,street_name,1707
+EAST 173 STREET,street_name,874
+EAST 174 STREET,street_name,758
+EAST 175 STREET,street_name,1274
+EAST 176 STREET,street_name,2318
+EAST 176 STRET,street_name,3
+EAST 177 STREET,street_name,660
+EAST 178 STREET,street_name,2316
+EAST 179 STREET,street_name,1384
+EAST 179TH ST.,street_name,11
+EAST 18 STREET,street_name,4421
+EAST 180 STREET,street_name,2193
+EAST 181 STREET,street_name,1265
+EAST 182 STREET,street_name,1915
+EAST 183 STREET,street_name,973
+EAST 184 STREET,street_name,781
+EAST 185 STREET,street_name,181
+EAST 186 STREET,street_name,64
+EAST 187 STREET,street_name,2213
+EAST 188 STREET,street_name,916
+EAST 189 STREET,street_name,600
+EAST 19 STREET,street_name,4934
+EAST 190 STREET,street_name,587
+EAST 191 STREET,street_name,214
+EAST 193 STREET,street_name,567
+EAST 194 STREET,street_name,849
+EAST 195 STREET,street_name,64
+EAST 196 STREET,street_name,1458
+EAST 197 STREET,street_name,579
+EAST 198 STREET,street_name,704
+EAST 199 STREET,street_name,750
+EAST 2 STREET,street_name,1773
+EAST 20 STREET,street_name,294
+EAST 201 STREET,street_name,1220
+EAST 202 STREET,street_name,597
+EAST 203 STREET,street_name,901
+EAST 204 STREET,street_name,329
+EAST 205 STREET,street_name,733
+EAST 206 STREET,street_name,349
+EAST 207 STREET,street_name,231
+EAST 208 STREET,street_name,738
+EAST 209 STREET,street_name,577
+EAST 21 STREET,street_name,5751
+EAST 210 STREET,street_name,51
+EAST 211 STREET,street_name,255
+EAST 212 STREET,street_name,145
+EAST 213 STREET,street_name,785
+EAST 214 ST,street_name,16
+EAST 214 STREET,street_name,1068
+EAST 214TH STREET,street_name,49
+EAST 215 STREET,street_name,667
+EAST 216 STREET,street_name,405
+EAST 217 STREET,street_name,545
+EAST 218 STREET,street_name,252
+EAST 219 STREET,street_name,319
+EAST 22 STREET,street_name,2029
+EAST 220 STREET,street_name,711
+EAST 221 STREET,street_name,566
+EAST 222 STREET,street_name,760
+EAST 223 STREET,street_name,722
+EAST 224 STREET,street_name,1303
+EAST 225 STREET,street_name,751
+EAST 226 STREET,street_name,538
+EAST 227 STREET,street_name,355
+EAST 228 STREET,street_name,1275
+EAST 229 DRIVE NORTH,street_name,3
+EAST 229 STREET,street_name,318
+EAST 23 STREET,street_name,1206
+EAST 230 STREET,street_name,867
+EAST 231 STREET,street_name,680
+EAST 232 STREET,street_name,428
+EAST 233 STREET,street_name,1154
+EAST 234 STREET,street_name,1215
+EAST 235 STREET,street_name,374
+EAST 236 STREET,street_name,406
+EAST 237 STREET,street_name,551
+EAST 238 STREET,street_name,60
+EAST 239 STREET,street_name,45
+EAST 24 STREET,street_name,394
+EAST 240 STREET,street_name,34
+EAST 241 STREET,street_name,141
+EAST 242 STREET,street_name,1083
+EAST 243 STREET,street_name,401
+EAST 25 STREET,street_name,537
+EAST 26 STREET,street_name,1245
+EAST 27 STREET,street_name,1931
+EAST 27TH STREET,street_name,13
+EAST 28 STREET,street_name,815
+EAST 29 STREET,street_name,1216
+EAST 3 STREET,street_name,1721
+EAST 30 STREET,street_name,457
+EAST 31 STREET,street_name,1366
+EAST 32 STREET,street_name,620
+EAST 33 STREET,street_name,425
+EAST 34 STREET,street_name,1847
+EAST 35 STREET,street_name,1071
+EAST 36 STREET,street_name,611
+EAST 37 STREET,street_name,546
+EAST 38 STREET,street_name,309
+EAST 39 STREET,street_name,522
+EAST 4 STREET,street_name,915
+EAST 40 STREET,street_name,97
+EAST 41 STREET,street_name,185
+EAST 42 STREET,street_name,154
+EAST 43 STREET,street_name,175
+EAST 44 STREET,street_name,190
+EAST 45 STREET,street_name,449
+EAST 46 STREET,street_name,1082
+EAST 47 STREET,street_name,19
+EAST 48 STREET,street_name,541
+EAST 49 STREET,street_name,1166
+EAST 5 STREET,street_name,1341
+EAST 50 STREET,street_name,866
+EAST 51 STREET,street_name,1301
+EAST 52 STREET,street_name,2392
+EAST 53 PLACE,street_name,24
+EAST 53 STREET,street_name,1380
+EAST 54 STREET,street_name,1096
+EAST 55 STREET,street_name,617
+EAST 56 STREET,street_name,560
+EAST 57 PLACE,street_name,3
+EAST 57 STREET,street_name,358
+EAST 58 STREET,street_name,390
+EAST 59 STREET,street_name,395
+EAST 6 STREET,street_name,1264
+EAST 60 ST,street_name,1
+EAST 60 STREET,street_name,933
+EAST 61 STREET,street_name,442
+EAST 62 STREET,street_name,229
+EAST 63 STREET,street_name,305
+EAST 64 STREET,street_name,282
+EAST 65 STREET,street_name,322
+EAST 66 STREET,street_name,311
+EAST 67 STREET,street_name,77
+EAST 68 STREET,street_name,128
+EAST 69 STREET,street_name,454
+EAST 7 STREET,street_name,2077
+EAST 70 STREET,street_name,289
+EAST 71 STREET,street_name,262
+EAST 72 STREET,street_name,281
+EAST 73 STREET,street_name,702
+EAST 74 STREET,street_name,514
+EAST 75 STREET,street_name,460
+EAST 76 STREET,street_name,270
+EAST 77 STREET,street_name,486
+EAST 78 STREET,street_name,732
+EAST 79 STREET,street_name,499
+EAST 8 STREET,street_name,954
+EAST 80 STREET,street_name,508
+EAST 81 STREET,street_name,1034
+EAST 82 STREET,street_name,1056
+EAST 83 STREET,street_name,1241
+EAST 84 STREET,street_name,955
+EAST 85 STREET,street_name,784
+EAST 86 STREET,street_name,696
+EAST 87 STREET,street_name,754
+EAST 88 STREET,street_name,1383
+EAST 89 STREET,street_name,895
+EAST 9 STREET,street_name,1111
+EAST 90 STREET,street_name,396
+EAST 91 STREET,street_name,876
+EAST 92 STREET,street_name,1902
+EAST 93 STREET,street_name,1412
+EAST 94 STREET,street_name,2233
+EAST 95 STREET,street_name,1346
+EAST 96 STREET,street_name,2517
+EAST 97 STREET,street_name,151
+EAST 98 STREET,street_name,1655
+EAST 99 STREET,street_name,348
+EAST 99TH STREET,street_name,5
+EAST 9TH STREET,street_name,9
+EAST AVENUE,street_name,64
+EAST BAY AVENUE,street_name,1
+EAST BROADWAY,street_name,484
+EAST BURNSIDE AVENUE,street_name,267
+EAST CLARKE PLACE,street_name,93
+EAST END AVENUE,street_name,104
+EAST FORDHAM ROAD,street_name,37
+EAST GUN HILL ROAD,street_name,1399
+EAST HOUSTON STREET,street_name,254
+EAST KINGSBRIDGE ROAD,street_name,462
+EAST LOOP ROAD,street_name,4
+EAST MACON AVENUE,street_name,2
+EAST MOSHOLU PARKWAY NORTH,street_name,2518
+EAST MOSHOLU PARKWAY SOUTH,street_name,855
+EAST MT EDEN AVENUE,street_name,103
+EAST MT EDEN PARKWAY,street_name,3
+EAST NEW YORK AVENUE,street_name,1251
+EAST RIVER,street_name,1
+EAST SCRANTON AVENUE,street_name,5
+EAST TREMONT AVENUE,street_name,5264
+EAST WILLISTON AVENUE,street_name,10
+EASTBURN AVENUE,street_name,780
+EASTCHESTER ROAD,street_name,425
+EASTERN PARKWAY,street_name,9211
+EASTERN PARKWAY EXTENSION,street_name,748
+EATON COURT,street_name,2
+EATON PLACE,street_name,5
+EBBITTS STREET,street_name,167
+EBONY COURT,street_name,3
+EBONY STREET,street_name,5
+ECHO PLACE,street_name,316
+ECKFORD AVENUE,street_name,4
+ECKFORD STREET,street_name,203
+EDENWALD AVENUE,street_name,99
+EDGAR TERRACE,street_name,2
+EDGECOMBE AVENUE,street_name,2418
+EDGEGROVE AVENUE,street_name,12
+EDGEMERE AVENUE,street_name,6
+EDGERTON BOULEVARD,street_name,1
+EDGERTON ROAD,street_name,3
+EDGEVIEW LANE,street_name,1
+EDGEWATER PARK,street_name,1
+EDGEWATER STREET,street_name,12
+EDGEWOOD AVENUE,street_name,61
+EDGEWOOD STREET,street_name,38
+EDISON AVENUE,street_name,314
+EDISON STREET,street_name,10
+EDMORE AVENUE,street_name,13
+EDSON AVENUE,street_name,207
+EDWARD L GRANT HIGHWAY,street_name,572
+EDWARDS AVENUE,street_name,113
+EFFINGHAM AVENUE,street_name,2
+EGBERT AVENUE,street_name,5
+EGGERT PLACE,street_name,116
+EGMONT PLACE,street_name,20
+EINSTEIN LOOP,street_name,15
+EINSTEIN LOOP NORTH,street_name,12
+ELBE AVENUE,street_name,1
+ELBERTSON STREET,street_name,455
+ELDER AVENUE,street_name,1657
+ELDERT LANE,street_name,897
+ELDERT STREET,street_name,471
+ELDERTS LANE,street_name,51
+ELDRIDGE AVENUE,street_name,2
+ELDRIDGE STREET,street_name,917
+ELGAR PLACE,street_name,78
+ELIOT AVENUE,street_name,91
+ELIZABETH AVENUE,street_name,53
+ELIZABETH ROAD,street_name,3
+ELIZABETH STREET,street_name,502
+ELK DRIVE,street_name,535
+ELKMONT AVENUE,street_name,1
+ELLERY STREET,street_name,180
+ELLIOT PLACE,street_name,1392
+ELLIS AVENUE,street_name,480
+ELLIS AVEUE,street_name,43
+ELLISON AVENUE,street_name,21
+ELLSWORTH AVENUE,street_name,11
+ELLSWORTH PLACE,street_name,1
+ELLWELL CRESCENT,street_name,1
+ELLWOOD STREET,street_name,1436
+ELM AVENUE,street_name,41
+ELM PLACE,street_name,87
+ELM STREET,street_name,90
+ELMHURST AVENUE,street_name,10175
+ELMIRA AVENUE,street_name,1
+ELMIRA LOOP,street_name,71
+ELMWOOD AVENUE,street_name,156
+ELMWOOD PARK DRIVE,street_name,18
+ELSMERE PLACE,street_name,558
+ELSON STREET,street_name,4
+ELTINGE STREET,street_name,1
+ELTINGVILLE BOULEVARD,street_name,8
+ELTON AVENUE,street_name,143
+ELTON STREET,street_name,1436
+ELVERTON AVENUE,street_name,4
+ELVIN STREET,street_name,5
+ELY AVENUE,street_name,275
+ELY STREET,street_name,9
+EMERALD STREET,street_name,45
+EMERIC COURT,street_name,3
+EMERSON AVENUE,street_name,9
+EMERSON DRIVE,street_name,1
+EMERSON PLACE,street_name,26
+EMMONS AVENUE,street_name,513
+EMPIRE BOULEVARD,street_name,1853
+ENDEAVOR PLACE,street_name,6
+ENDOR AVENUE,street_name,2
+ENGERT AVENUE,street_name,53
+ENGLAND THRUWAY SR,street_name,6
+ENRIGHT ROAD,street_name,14
+ERASMUS STREET,street_name,858
+ERASTINA PLACE,street_name,1
+ERDMAN PLACE,street_name,22
+ERICSON PLACE,street_name,466
+ERICSSON PLACE,street_name,1
+ERICSSON STREET,street_name,8
+ERIKA LOOP,street_name,7
+ERSKINE PLACE,street_name,27
+ESCANABA AVENUE,street_name,1
+ESPLANADE,street_name,100
+ESPLANADE GDNS PLAZA,street_name,168
+ESSEX DRIVE,street_name,5
+ESSEX STREET,street_name,1142
+ESTATES LANE,street_name,3
+ETNA STREET,street_name,377
+EUCLID AVENUE,street_name,424
+EVAN PLACE,street_name,2
+EVANS STREET,street_name,3
+EVELETH ROAD,street_name,25
+EVELYN PLACE,street_name,146
+EVERDELL AVENUE,street_name,73
+EVERDELL STREET,street_name,5
+EVERETT AVENUE,street_name,1
+EVERETT PLACE,street_name,1
+EVERGREEN AVENUE,street_name,2541
+EVERGREEN STREET,street_name,1
+EXCELSIOR AVENUE,street_name,11
+EXCHANGE PLACE,street_name,15
+EXETER STREET,street_name,10
+EXTERIOR STREET,street_name,17
+F D R DRIVE,street_name,17
+FABER STREET,street_name,9
+FABER TERRACE,street_name,2
+FAHY AVENUE,street_name,20
+FAILE STREET,street_name,1096
+FAIRBANKS AVENUE,street_name,7
+FAIRBURY AVENUE,street_name,6
+FAIRFAX AVENUE,street_name,12
+FAIRFIELD AVENUE,street_name,42
+FAIRMOUNT AVENUE,street_name,2
+FAIRMOUNT PLACE,street_name,981
+FAIRVIEW AVENUE,street_name,1078
+FAIRVIEW PLACE,street_name,32
+FAIRWAY AVENUE,street_name,9
+FALCON AVENUE,street_name,53
+FALMOUTH STREET,street_name,220
+FANCHER PLACE,street_name,1
+FANCHON PLACE,street_name,1
+FANNING STREET,street_name,7
+FAR ROCKAWAY BOULEVARD,street_name,62
+FARADAY AVENUE,street_name,21
+FARMERS BOULEVARD,street_name,538
+FARRAGUT AVENUE,street_name,2
+FARRAGUT ROAD,street_name,383
+FARRINGTON ST,street_name,3
+FARRINGTON STREET,street_name,19
+FATHER CAPODANNO BOULEVARD,street_name,1
+FATHER ZEISER PLACE,street_name,131
+FAYETTE AVENUE,street_name,1
+FAYETTE STREET,street_name,24
+FDR DRIVE,street_name,1
+FEARN PLACE,street_name,1
+FEATHERBED LANE,street_name,874
+FEDERAL PLACE,street_name,5
+FENIMORE STREET,street_name,669
+FENTON AVENUE,street_name,494
+FENWAY CIRCLE,street_name,4
+FERN AVENUE,street_name,6
+FERN PLACE,street_name,19
+FERNDALE AVENUE,street_name,66
+FERNDALE COURT,street_name,1
+FERNSIDE PLACE,street_name,25
+FIEDLER AVENUE,street_name,5
+FIELD PLACE,street_name,41
+FIELD STREET,street_name,2
+FIELDSTON ROAD,street_name,361
+FIELDSTON TERRACE,street_name,89
+FIELDSTONE ROAD,street_name,5
+FIELDSTONE TERRACE,street_name,1
+FIFTH AVENUE,street_name,256
+FIGUREA AVENUE,street_name,3
+FILIPE LANE,street_name,3
+FILLMORE AVENUE,street_name,11
+FILLMORE PLACE,street_name,2
+FILLMORE STREET,street_name,220
+FINDLAY AVENUE,street_name,2057
+FINGERBOARD ROAD,street_name,18
+FINLEY AVENUE,street_name,7
+FIRST AVENUE,street_name,32
+FIRTH ROAD,street_name,4
+FIRWOOD PLACE,street_name,2
+FISH AVENUE,street_name,284
+FISHER AVENUE,street_name,1
+FISKE AVENUE,street_name,1
+FISKE PLACE,street_name,3
+FITCHETT STREET,street_name,3
+FLAGG COURT,street_name,1
+FLAGG PLACE,street_name,1
+FLAGSHIP CIRCLE,street_name,1
+FLATBUSH AVENUE,street_name,3882
+FLATBUSH AVENUE EXTENSION,street_name,9
+FLATLAND AVENUE,street_name,2
+FLATLANDS 1 STREET,street_name,25
+FLATLANDS 2 STREET,street_name,28
+FLATLANDS 3 STREET,street_name,6
+FLATLANDS 4 STREET,street_name,3
+FLATLANDS 5 STREET,street_name,3
+FLATLANDS 6 STREET,street_name,6
+FLATLANDS 7 STREET,street_name,6
+FLATLANDS 8 STREET,street_name,4
+FLATLANDS 9 STREET,street_name,18
+FLATLANDS AVENUE,street_name,300
+FLEET COURT,street_name,31
+FLEET PLACE,street_name,2
+FLEET STREET,street_name,5
+FLETCHER PLACE,street_name,23
+FLETCHER STREET,street_name,1
+FLORIDA AVENUE,street_name,2
+FLOYD STREET,street_name,4
+FLUSHING AVENUE,street_name,604
+FOCH AVENUE,street_name,4
+FOCH BOULEVARD,street_name,141
+FOLSOM PLACE,street_name,1
+FOOTHILL AVENUE,street_name,5
+FORBELL STREET,street_name,248
+FORD PLACE,street_name,1
+FORD STREET,street_name,31
+FORDHAM HILL OVAL,street_name,4
+FORDHAM PLACE,street_name,13
+FORDHAM STREET,street_name,7
+FOREST AVENUE,street_name,739
+FOREST GREEN,street_name,1
+FOREST HILL ROAD,street_name,4
+FOREST PARKWAY,street_name,213
+FOREST STREET,street_name,4
+FORLEY STREET,street_name,126
+FORREST STREET,street_name,23
+FORSYTH STREET,street_name,407
+FORT GREENE PLACE,street_name,5
+FORT PLACE,street_name,8
+FORT WASHINGTON AVENUE,street_name,4
+FOSTER AVENUE,street_name,2891
+FOSTER ROAD,street_name,4
+FOUNTAIN AVENUE,street_name,407
+FOWLER AVENUE,street_name,75
+FOX HILL TERRACE,street_name,1
+FOX LANE,street_name,1
+FOX STREET,street_name,1013
+FR CAPODANNO BOULEVARD,street_name,228
+FRAME PLACE,street_name,228
+FRANCESCA LANE,street_name,1
+FRANCINE COURT,street_name,2
+FRANCIS LEWIS BOULEVARD,street_name,266
+FRANKFORT STREET,street_name,2
+FRANKLIN AVENUE,street_name,3561
+FRANKLIN LANE,street_name,4
+FRANKLIN STREET,street_name,549
+FRANKTON STREET,street_name,9
+FRASER STREET,street_name,5
+FREAN STREET,street_name,5
+FREDERICK DOUGAL BOULEVARD,street_name,21
+FREDERICK DOUGLAS BOULEVARD,street_name,29
+FREDERICK DOUGLASS BOULEVARD,street_name,4857
+FREDERICK DOUGLASS BOULEVARDUMMY,street_name,1
+FREEBORN STREET,street_name,12
+FREEDOM AVENUE,street_name,5
+FREEDOM PLACE,street_name,1
+FREEDOM PLACE SOUTH,street_name,1
+FREEMAN STREET,street_name,395
+FREEPORT LOOP,street_name,62
+FREMONT AVENUE,street_name,1
+FRESH MEADOW LANE,street_name,6
+FRESH POND ROAD,street_name,683
+FRIEL PLACE,street_name,3
+FRIENDSHIP LANE,street_name,1
+FRISBY AVENUE,street_name,276
+FRISCO AVENUE,street_name,28
+FRONT STREET,street_name,32
+FROST STREET,street_name,46
+FT CHARLES PLACE,street_name,57
+FT GEORGE AVENUE,street_name,357
+FT GEORGE HILL,street_name,11
+FT GREENE PLACE,street_name,115
+FT HAMILTON PARKWAY,street_name,997
+FT HILL CIRCLE,street_name,2
+FT HILL PLACE,street_name,1
+FT INDEPENDENCE STREET,street_name,483
+FT WASHINGTON AVENUE,street_name,5366
+FTELEY AVENUE,street_name,726
+FULLER COURT,street_name,1
+FULLER STREET,street_name,24
+FULTON AVENUE,street_name,1513
+FULTON STREET,street_name,6467
+FURMAN AVENUE,street_name,1032
+FURMAN STREET,street_name,2
+FURMANVILLE AVENUE,street_name,2
+FUTURITY PLACE,street_name,1
+GABRIEL DRIVE,street_name,10
+GADSEN PLACE,street_name,43
+GAIN COURT,street_name,7
+GALE PLACE,street_name,14
+GALLOWAY AVENUE,street_name,3
+GALWAY AVENUE,street_name,15
+GANSEVOORT BOULEVARD,street_name,14
+GANSEVOORT STREET,street_name,1
+GARDEN PLACE,street_name,3
+GARDEN STREET,street_name,739
+GARDENIA LANE,street_name,2
+GARDNER AVENUE,street_name,1
+GARFIELD AVENUE,street_name,1
+GARFIELD PLACE,street_name,162
+GARFIELD STREET,street_name,137
+GARIBALDI AVENUE,street_name,5
+GARLAND COURT,street_name,1
+GARNET STREET,street_name,12
+GARRETSON AVENUE,street_name,7
+GARRETT PLACE,street_name,3
+GARRETT STREET,street_name,1
+GARRISON AVENUE,street_name,95
+GARY COURT,street_name,27
+GARY PLACE,street_name,3
+GATES AVENUE,street_name,3587
+GATES PLACE,street_name,725
+GATEWAY BOULEVARD,street_name,209
+GATEWAY DRIVE,street_name,5
+GATLING PLACE,street_name,20
+GAULDY AVENUE,street_name,2
+GAY STREET,street_name,15
+GELSTON AVENUE,street_name,317
+GENESEE AVENUE,street_name,1
+GENEVA LOOP,street_name,179
+GEO COURT,street_name,1
+GEORGE STREET,street_name,449
+GEORGETOWN LANE,street_name,4
+GEORGIA AVENUE,street_name,553
+GEORGIA ROAD,street_name,1
+GERALD COURT,street_name,3
+GERALD H CHAMBERS SQUARE,street_name,226
+GERANIUM AVENUE,street_name,76
+GERARD AVENUE,street_name,5347
+GERRITSEN AVENUE,street_name,138
+GERRY STREET,street_name,182
+GERSON COURT,street_name,14
+GERVIL STREET,street_name,12
+GETTYSBURG STREET,street_name,4
+GETZ AVENUE,street_name,9
+GIACOMO LANE,street_name,1
+GIBSON AVENUE,street_name,10
+GIFFORD AVENUE,street_name,45
+GIFFORDS LANE,street_name,12
+GILBERT PLACE,street_name,56
+GILDERSLEEVE AVENUE,street_name,44
+GILES PLACE,street_name,648
+GILLESPIE AVENUE,street_name,103
+GILLMORE COURT,street_name,1
+GILLMORE STREET,street_name,16
+GILMORE COURT,street_name,3
+GIORDAN COURT,street_name,3
+GIPSON STREET,street_name,254
+GIRARD STREET,street_name,1
+GIVAN AVENUE,street_name,58
+GLADWIN STREET,street_name,1
+GLASSBORO AVENUE,street_name,76
+GLEANE STREET,street_name,204
+GLEASON AVENUE,street_name,710
+GLEBE AVENUE,street_name,135
+GLEN AVENUE,street_name,19
+GLEN STREET,street_name,241
+GLENDALE COURT,street_name,10
+GLENMORE AVENUE,street_name,857
+GLENWOOD ROAD,street_name,890
+GLENWOOD STREET,street_name,1
+GLENZ ESTATE,street_name,2
+GLORIA COURT,street_name,2
+GLOVER STREET,street_name,58
+GODWIN TERRACE,street_name,1114
+GOETHALS AVENUE,street_name,13
+GOETHALS ROAD NORTH,street_name,9
+GOLD AVENUE,street_name,9
+GOLD ROAD,street_name,11
+GOLD STREET,street_name,81
+GOLDSMITH STREET,street_name,11
+GOODALL STREET,street_name,9
+GOODRIDGE AVENUE,street_name,2
+GOODWIN PLACE,street_name,88
+GORDON STREET,street_name,227
+GORGE ROAD,street_name,1
+GORSLINE STREET,street_name,12
+GOTHAM AVENUE,street_name,2
+GOTHAM ROAD,street_name,5
+GOTHIC DRIVE,street_name,2
+GOULDEN AVENUE,street_name,1
+GOUVERNEUR AVENUE,street_name,460
+GOUVERNEUR PLACE,street_name,36
+GOVERNOR ROAD,street_name,1
+GOWER STREET,street_name,5
+GR CONCOURSE,street_name,1
+GRACE AVENUE,street_name,178
+GRACE COURT,street_name,206
+GRACIE SQUARE,street_name,11
+GRAFF AVENUE,street_name,7
+GRAFTON STREET,street_name,614
+GRAHAM AVENUE,street_name,734
+GRAHAM STREET,street_name,1
+GRAMERCY PARK,street_name,142
+GRAMERCY PARK SOUTH,street_name,3
+GRANADA PLACE,street_name,13
+GRAND AVENUE,street_name,5342
+GRAND CENTRAL PARKWAY,street_name,159
+GRAND CENTRAL PARKWAY NORTH,street_name,15
+GRAND CENTRAL PARKWAY SOUTH,street_name,6
+GRAND CENTRAL PARKWAY SR SOUTH,street_name,15
+GRAND CENTRL PARKWAY,street_name,68
+GRAND CONCOURSE,street_name,28283
+GRAND ST EXTENSION,street_name,1
+GRAND STREET,street_name,1869
+GRAND STREET EXTENSION,street_name,2
+GRANDCONCOURSE,street_name,3
+GRANDVIEW AVENUE,street_name,244
+GRANDVIEW PLACE,street_name,52
+GRANGER STREET,street_name,75
+GRANITE AVENUE,street_name,9
+GRANITE STREET,street_name,243
+GRANT AVENUE,street_name,1879
+GRANT SQUARE,street_name,53
+GRANT STREET,street_name,10
+GRANTWOOD AVENUE,street_name,1
+GRASSMERE TERRACE,street_name,170
+GRATTAN STREET,street_name,222
+GRAVES STREET,street_name,2
+GRAVESEND NECK ROAD,street_name,153
+GRAVETT ROAD,street_name,5
+GRAY COURT,street_name,1
+GRAYSON STREET,street_name,1
+GREAT JONES STREET,street_name,3
+GREAT KILLS ROAD,street_name,6
+GREAVES AVENUE,street_name,1
+GREAVES LANE,street_name,2
+GREELEY AVENUE,street_name,25
+GREEN STREET,street_name,201
+GREEN VALLEY ROAD,street_name,24
+GREENCROFT AVENUE,street_name,2
+GREENE AVE,street_name,1
+GREENE AVENUE,street_name,2581
+GREENE STREET,street_name,90
+GREENFIELD AVENUE,street_name,6
+GREENFIELD COURT,street_name,6
+GREENLEAF AVENUE,street_name,17
+GREENPOINT AV BR OVR NEWTOWN CRK,street_name,1
+GREENPOINT AVENUE,street_name,479
+GREENWAY TERRACE,street_name,127
+GREENWICH AVENUE,street_name,121
+GREENWICH STREET,street_name,204
+GREENWOOD AVENUE,street_name,173
+GRENADA PLACE,street_name,6
+GRENFELL STREET,street_name,6
+GREYSTONE AVENUE,street_name,492
+GRIMSBY STREET,street_name,11
+GRISSOM AVENUE,street_name,2
+GRISWOLD AVENUE,street_name,13
+GROSVENOR STREET,street_name,1
+GROTE STREET,street_name,54
+GROTON STREET,street_name,2
+GROVE AVENUE,street_name,17
+GROVE STREET,street_name,1075
+GUERLAIN STREET,street_name,25
+GUERNSEY STREET,street_name,124
+GUIDER AVENUE,street_name,19
+GUILFORD STREET,street_name,1
+GUION PLACE,street_name,1
+GUN HILL ROAD,street_name,1
+GUNTHER AVENUE,street_name,189
+GUNTHER PLACE,street_name,25
+GUNTON PLACE,street_name,3
+GURLEY AVENUE,street_name,1
+GUY BREWER BOULEVARD,street_name,1
+GUY R BREWER BOULEVARD,street_name,575
+GUYON AVENUE,street_name,15
+HAIGHT AVENUE,street_name,101
+HAIGHT STREET,street_name,4
+HALE AVENUE,street_name,153
+HALL PLACE,street_name,148
+HALL STREET,street_name,132
+HALPERIN AVENUE,street_name,29
+HALPIN AVENUE,street_name,1
+HALSEY STREET,street_name,2149
+HAMDEN AVENUE,street_name,8
+HAMILTON AVENUE,street_name,120
+HAMILTON PLACE,street_name,1146
+HAMILTON STREET,street_name,25
+HAMILTON TERRACE,street_name,276
+HAMMELS BOULEVARD,street_name,3
+HAMMERSLEY AVENUE,street_name,40
+HAMPDEN PLACE,street_name,77
+HAMPTON GREEN,street_name,3
+HAMPTON PLACE,street_name,6
+HAMPTON STREET,street_name,614
+HANCOCK STREET,street_name,2496
+HANK PLACE,street_name,1
+HANNIBAL STREET,street_name,7
+HANOVER AVENUE,street_name,5
+HANOVER AVENUE ,street_name,2
+HANOVER SQUARE,street_name,11
+HANSON PLACE,street_name,52
+HARATIO STREET,street_name,1
+HARBOR DRIVE,street_name,1
+HARBOR LOOP,street_name,49
+HARBOR ROAD,street_name,145
+HARBOR VIEW TERRACE,street_name,1
+HARBOUR COURT,street_name,2
+HARDING AVENUE,street_name,93
+HARDING PARK,street_name,61
+HARDY STREET,street_name,5
+HARING STREET,street_name,85
+HARLEM RIVER DRIVE,street_name,1
+HARMAN STREET,street_name,1800
+HAROLD STREET,street_name,11
+HARPER AVENUE,street_name,53
+HARPER COURT,street_name,23
+HARPER STREET,street_name,1
+HARRINGTON AVENUE,street_name,26
+HARRISON AVENUE,street_name,996
+HARRISON PLACE,street_name,73
+HARRISON STREET,street_name,185
+HARROD AVENUE,street_name,147
+HARROW STREET,street_name,2
+HART AVENUE,street_name,2
+HART BOULEVARD,street_name,17
+HART PLACE,street_name,3
+HART STREET,street_name,1295
+HARTFORD AVENUE,street_name,2
+HARTMAN LANE,street_name,38
+HARWAY AVENUE,street_name,79
+HASKIN STREET,street_name,2
+HASPEL STREET,street_name,4
+HASSOCK STREET,street_name,21
+HATFIELD PLACE,street_name,5
+HATTING PLACE,street_name,11
+HAUGHWOUT AVENUE,street_name,5
+HAVEMEYER AVENUE,street_name,96
+HAVEMEYER STREET,street_name,311
+HAVEN AVENUE,street_name,718
+HAVEN PLAZA,street_name,75
+HAVILAND AVENUE,street_name,640
+HAWKINS STREET,street_name,3
+HAWKSTONE STREET,street_name,37
+HAWTHORNE AVENUE,street_name,17
+HAWTHORNE STREET,street_name,3343
+HAWTREE STREET,street_name,20
+HAYWOOD ROAD,street_name,1
+HAZEL COURT,street_name,22
+HAZEN STREET,street_name,20
+HEALY AVENUE,street_name,170
+HEATH AVENUE,street_name,1707
+HEATHER COURT,street_name,1
+HEBERTON AVENUE,street_name,180
+HECKER STREET,street_name,4
+HEENAN AVENUE,street_name,1
+HEGEMAN AVENUE,street_name,1526
+HEINZ AVENUE,street_name,1
+HELL GATE CIRCLE,street_name,7
+HELLGATE CIRCLE,street_name,1
+HELLS GATE CIRCLE,street_name,10
+HEMLOCK COURT,street_name,2
+HEMLOCK STREET,street_name,330
+HEMPSTEAD AVENUE,street_name,156
+HENDERSON AVENUE,street_name,120
+HENDRICKS AVENUE,street_name,189
+HENDRICKSON PLACE,street_name,8
+HENDRICKSON STREET,street_name,14
+HENDRIX STREET,street_name,532
+HENLEY ROAD,street_name,15
+HENNESSY PLACE,street_name,99
+HENRY HUDSON PARKWAY,street_name,11
+HENRY HUDSON PARKWAY EAST,street_name,188
+HENRY HUDSON PARKWAY WEST,street_name,254
+HENRY STREET,street_name,1209
+HENWOOD PLACE,street_name,84
+HERBERT STREET,street_name,27
+HERING AVENUE,street_name,138
+HERKIMER COURT,street_name,12
+HERKIMER PLACE,street_name,59
+HERKIMER STREET,street_name,2387
+HERMANY AVENUE,street_name,31
+HERON LANE,street_name,2
+HERRICK AVENUE,street_name,5
+HERSCHELL STREET,street_name,24
+HERZL STREET,street_name,565
+HESSLER AVENUE,street_name,7
+HESTER STREET,street_name,635
+HETT AVENUE,street_name,31
+HEUSDEN STREET,street_name,2
+HEWES STREET,street_name,206
+HEWITT AVENUE,street_name,1
+HEWITT PLACE,street_name,19
+HEYSON ROAD,street_name,22
+HEYWARD STREET,street_name,10
+HIAWATHA AVENUE,street_name,5
+HICKORY AVENUE,street_name,21
+HICKS STREET,street_name,296
+HIGH STREET,street_name,1
+HIGHLAND AVENUE,street_name,371
+HIGHLAND BOULEVARD,street_name,339
+HIGHLAND LANE,street_name,2
+HIGHLAND PLACE,street_name,309
+HIGHLAWN AVENUE,street_name,39
+HIGHVIEW AVENUE,street_name,9
+HILBURN AVENUE,street_name,12
+HILL AVENUE,street_name,265
+HILL STREET,street_name,320
+HILLCREST AVENUE,street_name,14
+HILLDALE COURT,street_name,1
+HILLMAN AVENUE,street_name,24
+HILLMEYER AVENUE,street_name,28
+HILLSIDE AVENUE,street_name,3293
+HILLSIDE TERRACE,street_name,6
+HILLVIEW PLACE,street_name,1
+HILLYER STREET,street_name,7
+HIMROD STREET,street_name,899
+HINCKLEY PLACE,street_name,135
+HINSDALE AVENUE,street_name,1
+HINSDALE STREET,street_name,743
+HINTON STREET,street_name,4
+HOBART AVENUE,street_name,702
+HOBART STREET,street_name,10
+HOE AVENUE,street_name,1683
+HOFFMAN STREET,street_name,619
+HOLBERNT COURT,street_name,8
+HOLCOMB AVENUE,street_name,2
+HOLDEN BOULEVARD,street_name,1
+HOLDRIDGE AVENUE,street_name,6
+HOLIDAY WAY,street_name,1
+HOLLAND AVE,street_name,2
+HOLLAND AVENUE,street_name,3589
+HOLLERS AVENUE,street_name,45
+HOLLIS AVENUE,street_name,252
+HOLLIS COURT BOULEVARD,street_name,25
+HOLLIS CT BOULEVARD,street_name,11
+HOLLY AVENUE,street_name,82
+HOLLY STREET,street_name,1
+HOLLYWOOD AVENUE,street_name,72
+HOLMES LANE,street_name,9
+HOLSMAN ROAD,street_name,1
+HOLT PLACE,street_name,1
+HOME STREET,street_name,511
+HOMECREST AVENUE,street_name,2143
+HOMER AVENUE,street_name,47
+HONE AVENUE,street_name,229
+HONEYWELL AVENUE,street_name,626
+HOOK CREEK BOULEVARD,street_name,166
+HOOKCREEK BOULEVARD,street_name,3
+HOOKER PLACE,street_name,34
+HOOPER STREET,street_name,303
+HOOVER AVENUE,street_name,75
+HOPE LANE,street_name,1
+HOPE STREET,street_name,18
+HOPKINS STREET,street_name,18
+HOPKINSON AVENUE,street_name,391
+HOR HARDING EXPRESSWAY SR NORTH,street_name,289
+HOR HARDING EXPRESSWAY SR SOUTH,street_name,76
+HORACE HARDING EXPRE,street_name,1
+HORACE HARDING EXPRESSWAY,street_name,1496
+HORACE HARDING EXPRESSWAY N SR,street_name,11
+HORACE HARDING EXPRESSWAY SR N,street_name,1
+HORATIO STREET,street_name,266
+HORNELL LOOP,street_name,93
+HORTON STREET,street_name,1
+HOSMER AVENUE,street_name,20
+HOUSEMAN AVENUE,street_name,5
+HOUSTON LANE,street_name,1
+HOUSTON STREET,street_name,4
+HOWARD AVENUE,street_name,1714
+HOWARD STREET,street_name,5
+HOWE AVENUE,street_name,62
+HOWTON AVENUE,street_name,1
+HOXIE STREET,street_name,8
+HOYT AVENUE,street_name,5
+HOYT AVENUE SOUTH,street_name,107
+HOYT STREET,street_name,61
+HUBBARD PLACE,street_name,38
+HUBBARD STREET,street_name,2
+HUBERT STREET,street_name,3
+HUDSON AVENUE,street_name,3
+HUDSON MANOR TERRACE,street_name,58
+HUDSON STREET,street_name,578
+HUGHES AVENUE,street_name,2346
+HUGUENOT AVENUE,street_name,10
+HULL AVENUE,street_name,2660
+HULL STREET,street_name,730
+HUMBOLDT STREET,street_name,196
+HUMPHREYS STREET,street_name,52
+HUNGRY HARBOR ROAD,street_name,6
+HUNT AVENUE,street_name,186
+HUNTER AVENUE,street_name,44
+HUNTER STREET,street_name,9
+HUNTERFLY PLACE,street_name,7
+HUNTERS POINT AVENUE,street_name,6
+HUNTINGTON AVENUE,street_name,201
+HUNTINGTON STREET,street_name,24
+HUNTS POINT AVENUE,street_name,714
+HURON PLACE,street_name,4
+HURON STREET,street_name,160
+HUSSON AVENUE,street_name,19
+HUSSON STREET,street_name,39
+HUTCH RIVER PARKWAY,street_name,7
+HUTCH RIVER PARKWAY EAST,street_name,205
+HUTCHINSON RIV PARKWAY,street_name,69
+HUTCHINSON RIVER PARKWAY,street_name,17
+HUXLEY AVENUE,street_name,29
+HUXLEY STREET,street_name,62
+HYGEIA PLACE,street_name,28
+HYLAN BOULEVARD,street_name,148
+HYLAN BOULEVARD NORTH,street_name,4
+IBSEN AVENUE,street_name,2
+ILION AVENUE,street_name,6
+ILYSSA WAY,street_name,4
+IMPERIAL COURT,street_name,5
+INDEPENDENCE AVENUE,street_name,109
+INDIA STREET,street_name,354
+INDIAN ROAD,street_name,3
+INGRAHAM STREET,street_name,9
+INGRAM AVENUE,street_name,6
+INNIS STREET,street_name,13
+INTERVALE AVE,street_name,1
+INTERVALE AVENUE,street_name,1006
+INWOOD AVENUE,street_name,112
+INWOOD STREET,street_name,149
+IONIA AVENUE,street_name,4
+IRELAND STREET,street_name,2
+IRIS COURT,street_name,2
+IRONWOOD STREET,street_name,1
+IRVINE STREET,street_name,29
+IRVING AVENUE,street_name,966
+IRVING PLACE,street_name,133
+IRWIN AVENUE,street_name,145
+IRWIN PLACE,street_name,13
+ISABELLA AVENUE,street_name,1
+ISELIN AVENUE,street_name,1
+ISHAM STREET,street_name,724
+ISLINGTON STREET,street_name,3
+ISMAY STREET,street_name,1
+ITHACA STREET,street_name,187
+IVAN COURT,street_name,3
+JACKSON AVENUE,street_name,1055
+JACKSON PLACE,street_name,2
+JACKSON STREET,street_name,102
+JACOBUS PLACE,street_name,505
+JAKE COURT,street_name,13
+JAMAICA AVENUE,street_name,2832
+JAMES COURT,street_name,1
+JAMES STREET,street_name,23
+JANE STREET,street_name,137
+JANET PLACE,street_name,1
+JANSEN STREET,street_name,3
+JARDINE PLACE,street_name,28
+JARVIS AVENUE,street_name,26
+JASMINE AVENUE,street_name,6
+JASPER STREET,street_name,2
+JAVA STREET,street_name,107
+JAY AVENUE,street_name,5
+JAY STREET,street_name,77
+JAYDEE COURT,street_name,16
+JEFFERSON AVE,street_name,4
+JEFFERSON AVENUE,street_name,1910
+JEFFERSON PLACE,street_name,114
+JEFFERSON STREET,street_name,1344
+JENNIFER PLACE,street_name,5
+JENNINGS STREET,street_name,454
+JERICHO TURNPIKE,street_name,3
+JEROME AVENUE,street_name,2730
+JEROME ROAD,street_name,3
+JEROME STREET,street_name,514
+JERSEY STREET,street_name,454
+JESUP AVENUE,street_name,1387
+JESUP PLACE,street_name,168
+JEWEL AVENUE,street_name,122
+JEWEL STREET,street_name,15
+JEWETT AVENUE,street_name,159
+JODIE COURT,street_name,111
+JOHANNA LANE,street_name,4
+JOHN STREET,street_name,279
+JOHNSON AVE,street_name,1
+JOHNSON AVENUE,street_name,177
+JOHNSON STREET,street_name,2
+JONES STREET,street_name,52
+JORALEMON STREET,street_name,87
+JORDAN AVENUE,street_name,8
+JORDAN STREET,street_name,36
+JOSEPH AVENUE,street_name,4
+JOSEPH LANE,street_name,1
+JOSEPHINE STREET,street_name,1
+JOUENEAY STREET,street_name,2
+JOURNEAY STREET,street_name,3
+JUDGE STREET,street_name,192
+JULES DRIVE,street_name,22
+JULIANA PLACE,street_name,1
+JULIE COURT,street_name,1
+JUMEL STREET,street_name,2
+JUMEL TERRACE,street_name,91
+JUNCTION BOULEVARD,street_name,181
+JUNIPER AVENUE,street_name,7
+JUNIPER BLVD SOUTH,street_name,2
+JUNIPER VALLEY ROAD,street_name,2
+JUNIUS STREET,street_name,98
+JUNO STREET,street_name,8
+JUPITER LANE,street_name,1
+JUSTICE AVENUE,street_name,16
+KANE PLACE,street_name,67
+KANE STREET,street_name,23
+KAPPOCK STREET,street_name,122
+KARWEG PLACE,street_name,2
+KATAN AVENUE,street_name,19
+KATAN LOOP,street_name,2
+KATHLEEN COURT,street_name,8
+KATHY PLACE,street_name,6
+KATONAH AVENUE,street_name,31
+KAUFMAN PLACE,street_name,8
+KEAP STREET,street_name,124
+KEARNEY AVENUE,street_name,15
+KEARNEY STREET,street_name,18
+KEATING PLACE,street_name,20
+KEATS STREET,street_name,1
+KEEL COURT,street_name,6
+KEESEVILLE AVENUE,street_name,3
+KELL AVENUE,street_name,16
+KELLY BOULEVARD,street_name,7
+KELLY STREET,street_name,1015
+KELVIN AVENUE,street_name,3
+KEMBALL AVENUE,street_name,1
+KENILWORTH AVENUE,street_name,2
+KENILWORTH PLACE,street_name,504
+KENMARE STREET,street_name,1
+KENMORE ROAD,street_name,2
+KENMORE TERRACE,street_name,1
+KENNELWORTH PLACE,street_name,26
+KENNINGTON STREET,street_name,2
+KENO AVENUE,street_name,1
+KENSINGTON AVENUE,street_name,1
+KENT AVENUE,street_name,225
+KENT STREET,street_name,87
+KENWOOD AVENUE,street_name,2
+KEPLER AVENUE,street_name,6
+KERMIT AVENUE,street_name,3
+KERMIT PLACE,street_name,1
+KESSEL STREET,street_name,9
+KETCHAM STREET,street_name,115
+KEUNE COURT,street_name,1
+KEW FOREST LANE,street_name,39
+KEW GARDENS ROAD,street_name,274
+KIELY PLACE,street_name,24
+KILDARE ROAD,street_name,2
+KILLARNEY STREET,street_name,3
+KIMBALL STREET,street_name,8
+KIMBERLY LANE,street_name,69
+KIMBERLY PLACE,street_name,25
+KING AVENUE,street_name,3
+KING STREET,street_name,90
+KINGDOM AVENUE,street_name,1
+KINGS BRIDGE TERRACE,street_name,1
+KINGS COLLEGE PLACE,street_name,59
+KINGS HIGHWAY,street_name,4591
+KINGS PLACE,street_name,5
+KINGSBRIDGE AVENUE,street_name,1461
+KINGSBRIDGE TERRACE,street_name,1260
+KINGSBURY AVENUE,street_name,10
+KINGSHIGWY,street_name,1
+KINGSLAND AVENUE,street_name,535
+KINGSLEY PLACE,street_name,10
+KINGSTON AVENUE,street_name,1339
+KINGSTON PLACE,street_name,47
+KINSELLA STREET,street_name,4
+KIRSHON AVENUE,street_name,1
+KISSEL AVENUE,street_name,11
+KISSENA BOULEVARD,street_name,1100
+KISWICK STREET,street_name,3
+KLONDIKE AVENUE,street_name,15
+KNAPP STREET,street_name,44
+KNEELAND AVENUE,street_name,4
+KNICKERBOCK AVENUE,street_name,1
+KNICKERBOCKER AVENUE,street_name,1328
+KNOLLS CRESCENT,street_name,12
+KNOX PLACE,street_name,746
+KNOX STREET,street_name,1
+KOSCIUSKO STREET,street_name,1
+KOSCIUSZKO STREET,street_name,1058
+KOSSUTH AVENUE,street_name,198
+KOSSUTH PLACE,street_name,11
+KRIER PLACE,street_name,3
+KRISSA COURT,street_name,15
+KUNATH AVENUE,street_name,4
+LA FONTAINE AVENUE,street_name,179
+LA GRANGE PLACE,street_name,1
+LA GUARDIA PLACE,street_name,30
+LA SALLE AVENUE,street_name,27
+LA SALLE STREET,street_name,45
+LABURNUM AVENUE,street_name,18
+LACOMBE AVENUE,street_name,167
+LACONIA AVENUE,street_name,213
+LAFAYETTE AVENUE,street_name,3719
+LAFAYETTE STREET,street_name,132
+LAFONTAINE AVENUE,street_name,30
+LAGUNA LANE,street_name,1
+LAIGHT STREET,street_name,1
+LAKE AVENUE,street_name,78
+LAKE PLACE,street_name,4
+LAKE STREET,street_name,71
+LAKEVIEW BLVD EAST,street_name,1
+LAKEVIEW LANE,street_name,1
+LAKEVIEW PLACE,street_name,7
+LAKEWOOD AVENUE,street_name,157
+LAMBERT STREET,street_name,1
+LAMOKA AVENUE,street_name,8
+LAMONT AVENUE,street_name,421
+LAMONT COURT,street_name,2
+LAMPED LOOP,street_name,10
+LAMPORT BOULEVARD,street_name,1
+LANCASTER AVENUE,street_name,11
+LANDER AVENUE,street_name,2
+LANDER STREET,street_name,36
+LANDING ROAD,street_name,6
+LANE AVENUE,street_name,10
+LANGDALE STREET,street_name,27
+LANGERE PLACE,street_name,1
+LANGHAM STREET,street_name,2
+LANGSTON AVENUE,street_name,9
+LANSING AVENUE,street_name,12
+LARCH COURT,street_name,1
+LARUE AVENUE,street_name,29
+LASALLE STREET,street_name,6
+LATHAM LANE,street_name,12
+LATHROP AVENUE,street_name,2
+LATIMER PLACE,street_name,1
+LATOURETTE LANE,street_name,1
+LATOURETTE STREET,street_name,11
+LATTING STREET,street_name,13
+LAUREL AVENUE,street_name,242
+LAUREL HILL BOULEVARD,street_name,19
+LAUREL HILL TERRACE,street_name,203
+LAURELTON PARKWAY,street_name,8
+LAURIE AVENUE,street_name,1
+LAWN COURT,street_name,1
+LAWRENCE AVENUE,street_name,199
+LAWRENCE STREET,street_name,147
+LAWTON AVENUE,street_name,5
+LAWTON STREET,street_name,8
+LAX AVENUE,street_name,14
+LAYTON AVENUE,street_name,79
+LAYTON STREET,street_name,276
+LEAVITT STREET,street_name,21
+LEBANON STREET,street_name,115
+LEE AVENUE,street_name,139
+LEE COURT,street_name,5
+LEEDS STREET,street_name,1
+LEFFERTS AVENUE,street_name,2184
+LEFFERTS BOULEVARD,street_name,826
+LEFFERTS PLACE,street_name,491
+LEGGETT AVENUE,street_name,426
+LEGGETT PLACE,street_name,2
+LEGION PLACE,street_name,1
+LEGION STREET,street_name,643
+LEITH ROAD,street_name,1
+LELAND AVENUE,street_name,1339
+LENEVAR AVENUE,street_name,4
+LENHART STREET,street_name,3
+LENOX AVENUE,street_name,3659
+LENOX ROAD,street_name,3820
+LEONA STREET,street_name,3
+LEONARD STREET,street_name,174
+LERER LANE,street_name,1
+LEROY STREET,street_name,114
+LESLIE ROAD,street_name,12
+LESTER COURT,street_name,1
+LESTER STREET,street_name,3
+LEVERETT AVENUE,street_name,14
+LEVERICH STREET,street_name,9
+LEVIT AVENUE,street_name,1
+LEWIS AVENUE,street_name,479
+LEWIS PLACE,street_name,1
+LEWISTON STREET,street_name,2
+LEWMAY ROAD,street_name,138
+LEXINGTON AVENUE,street_name,4342
+LIBBY PLACE,street_name,4
+LIBERTY AVENUE,street_name,1604
+LIBERTY STREET,street_name,13
+LIBRARY AVENUE,street_name,10
+LIEBIG AVENUE,street_name,7
+LIGHT STREET,street_name,207
+LIGHTHOUSE COURT,street_name,2
+LIGHTNER AVENUE,street_name,9
+LINCOLN AVENUE,street_name,2558
+LINCOLN PLACE,street_name,4266
+LINCOLN ROAD,street_name,1436
+LINCOLN STREET,street_name,16
+LINCOLN WALK,street_name,1
+LINDEN AVENUE,street_name,4
+LINDEN BOULEVARD,street_name,9125
+LINDEN PLACE,street_name,22
+LINDEN STREET,street_name,1846
+LINDENWOOD ROAD,street_name,5
+LINWOOD AVENUE,street_name,23
+LINWOOD STREET,street_name,449
+LION STREET,street_name,2
+LIPSETT AVENUE,street_name,4
+LISBON PLACE,street_name,4
+LISK AVENUE,street_name,20
+LISPENARD STREET,street_name,2
+LITHONIA AVENUE,street_name,1
+LITTLE CLOVE ROAD,street_name,10
+LITTLE NECK PARKWAY,street_name,81
+LITTLE WEST 12 STREET,street_name,1
+LITTLEFIELD AVENUE,street_name,1
+LITTLENECK PARKWAY,street_name,2
+LIVERPOOL STREET,street_name,193
+LIVINGSTON AVENUE,street_name,14
+LIVINGSTON STREET,street_name,129
+LIVONIA AVENUE,street_name,323
+LLEWELLYN PLACE,street_name,2
+LLOYD ROAD,street_name,7
+LOCKE AVENUE,street_name,4
+LOCKE STREET,street_name,20
+LOCKMAN AVENUE,street_name,34
+LOCKMAN LOOP,street_name,20
+LOCKMAN PLACE,street_name,8
+LOCKWOOD COURT,street_name,2
+LOCUST AVENUE,street_name,34
+LOCUST MANOR LANE,street_name,1
+LOCUST STREET,street_name,148
+LODOVICK AVENUE,street_name,2
+LOGAN AVENUE,street_name,56
+LOGAN STREET,street_name,552
+LOMBARD COURT,street_name,1
+LOMBARDY STREET,street_name,2
+LONG POND LANE,street_name,8
+LONG STREET,street_name,41
+LONGDALE STREET,street_name,9
+LONGFELLOW AVENUE,street_name,1554
+LONGSTREET AVENUE,street_name,333
+LONGVIEW ROAD,street_name,1
+LONGWOOD AVENUE,street_name,439
+LORETTA ROAD,street_name,76
+LORETTO STREET,street_name,1
+LORI DRIVE,street_name,1
+LORILLARD PLACE,street_name,454
+LORIMER STREET,street_name,1443
+LORING AVENUE,street_name,247
+LORING PLACE,street_name,574
+LORING PLACE NORTH,street_name,839
+LORING PLACE SOUTH,street_name,337
+LORRAINE LOOP,street_name,4
+LORRAINE STREET,street_name,6
+LOTT AVENUE,street_name,503
+LOTT PLACE,street_name,10
+LOTT STREET,street_name,56
+LOUBET STREET,street_name,2
+LOUIS NINE BOULEVARD,street_name,75
+LOUIS PLACE,street_name,6
+LOUIS STREET,street_name,1
+LOUISA STREET,street_name,29
+LOUISIANA AVENUE,street_name,127
+LOUISIANNA AVENUE,street_name,1
+LOVE LANE,street_name,1
+LOWE COURT,street_name,9
+LOWELL STREET,street_name,253
+LOWERRE PLACE,street_name,113
+LUCAS STREET,street_name,5
+LUCILLE AVENUE,street_name,6
+LUCY LOOP,street_name,14
+LUDLAM PLACE,street_name,2
+LUDLOW STREET,street_name,508
+LUDLUM AVENUE,street_name,8
+LUDWIG LANE,street_name,64
+LUKE COURT,street_name,11
+LUQUER STREET,street_name,78
+LURTING AVENUE,street_name,606
+LUX ROAD,street_name,3
+LYDIG AVENUE,street_name,190
+LYMAN AVENUE,street_name,13
+LYMAN PLACE,street_name,147
+LYMAN STREET,street_name,7
+LYME AVENUE,street_name,47
+LYNBROOK AVENUE,street_name,1
+LYNCH STREET,street_name,10
+LYNDALE AVENUE,street_name,1
+LYNDALE LANE,street_name,4
+LYNHURST AVENUE,street_name,6
+LYNN STREET,street_name,2
+LYON AVENUE,street_name,87
+LYVERE STREET,street_name,173
+MAC DONOUGH STREET,street_name,1708
+MAC DOUGAL STREET,street_name,863
+MACDONOUGH STREET,street_name,3
+MACDOUGAL STREET,street_name,21
+MACE AVENUE,street_name,649
+MACE STREET,street_name,1
+MACKAY PLACE,street_name,243
+MACKENZIE STREET,street_name,2
+MACLAY AVENUE,street_name,51
+MACNISH STREET,street_name,95
+MACOMBS PLACE,street_name,257
+MACOMBS ROAD,street_name,1112
+MACON STREET,street_name,1494
+MACORMAC PLACE,street_name,7
+MACY PLACE,street_name,26
+MADISON AVENUE,street_name,1488
+MADISON PLACE,street_name,10
+MADISON STREET,street_name,4135
+MADSEN AVENUE,street_name,7
+MAGAW PLACE,street_name,277
+MAGENTA STREET,street_name,440
+MAGNOLIA COURT,street_name,4
+MAHAN AVENUE,street_name,89
+MAIDEN LANE,street_name,28
+MAIN STREET,street_name,615
+MAINE AVENUE,street_name,3
+MAITLAND AVENUE,street_name,11
+MAJOR AVENUE,street_name,1
+MALBA DRIVE,street_name,1
+MALBONE STREET,street_name,1
+MALCOLM X BOULEVARD,street_name,1477
+MALCOM X BOULEVARD,street_name,48
+MALDEN PLACE,street_name,143
+MALLORY AVENUE,street_name,9
+MALONE AVENUE,street_name,6
+MALTA STREET,street_name,78
+MANGIN AVENUE,street_name,35
+MANH COLLEGE PARKWAY,street_name,334
+MANHATTAN AVENUE,street_name,3361
+MANHATTAN COLLEGE PARKWAY,street_name,2
+MANHATTAN COURT,street_name,18
+MANHATTAN STREET,street_name,1
+MANIDA STREET,street_name,545
+MANILA AVENUE,street_name,1
+MANILLA STREET,street_name,8
+MANN AVENUE,street_name,4
+MANNING STREET,street_name,1
+MANOR AVENUE,street_name,699
+MANOR ROAD,street_name,44
+MANSE STREET,street_name,7
+MANSION STREET,street_name,10
+MANTON STREET,street_name,8
+MAPES AVENUE,street_name,307
+MAPLE AVENUE,street_name,268
+MAPLE PARKWAY,street_name,17
+MAPLE STREET,street_name,1348
+MAPLE TERRACE,street_name,2
+MAPLETON AVENUE,street_name,4
+MARATHON PARKWAY,street_name,4
+MARBLE HILL AVENUE,street_name,1198
+MARCONI PLACE,street_name,40
+MARCONI STREET,street_name,2
+MARCUS GARVEY BOULEVARD,street_name,932
+MARCY AVENUE,street_name,760
+MARCY PLACE,street_name,745
+MARENGO STREET,street_name,6
+MARGARET PLACE,street_name,6
+MARGINAL ST EAST,street_name,11
+MARGINAL ST WEST,street_name,34
+MARIE STREET,street_name,6
+MARINE AVENUE,street_name,294
+MARINE STREET,street_name,2
+MARINE WAY,street_name,2
+MARINERS LANE,street_name,3
+MARION AVENUE,street_name,3106
+MARION STREET,street_name,522
+MARISA COURT,street_name,3
+MARKET STREET,street_name,363
+MARKHAM LANE,street_name,38
+MARLBOROUGH COURT,street_name,2
+MARLBOROUGH ROAD,street_name,317
+MARMION AVENUE,street_name,1666
+MARNE AVENUE,street_name,6
+MAROLLA PLACE,street_name,11
+MARS PLACE,street_name,1
+MARSDEN STREET,street_name,43
+MARSHALL DRIVE,street_name,7
+MARTENCE STREET,street_name,1
+MARTENSE AVENUE,street_name,69
+MARTENSE COURT,street_name,2
+MARTENSE STREET,street_name,1065
+MARTHA AVENUE,street_name,24
+MARTIN AVENUE,street_name,1
+MARTIN COURT,street_name,18
+MARTIN L KING BOULEVARD,street_name,29
+MARTIN L KING JR BOULEVARD,street_name,1
+MARTIN L KING PLACE,street_name,18
+MARTIN LUTHER KING JR PLACE,street_name,1
+MARTIN LUTHER KING PLACE,street_name,57
+MARTINEAU STREET,street_name,1
+MARVIN STREET,street_name,1
+MARY STREET,street_name,1
+MARYLAND AVENUE,street_name,32
+MASON AVENUE,street_name,1
+MASPETH AVENUE,street_name,53
+MATHEWSON COURT,street_name,2
+MATHIAS AVENUE,street_name,14
+MATILDA AVENUE,street_name,525
+MATTHEW PLACE,street_name,1
+MATTHEWS AVENUE,street_name,716
+MATTHEWS PLACE,street_name,14
+MAUJER STREET,street_name,526
+MAURICE AVENUE,street_name,19
+MAXIE COURT,street_name,3
+MAY PLACE,street_name,1
+MAYBERRY PROMENADE,street_name,1
+MAYBURY COURT,street_name,1
+MAYDA ROAD,street_name,20
+MAYFAIR DRIVE NORTH,street_name,8
+MAYFLOWER AVENUE,street_name,371
+MAZEAU STREET,street_name,5
+MAZZA COURT,street_name,1
+MC BRIDE STREET,street_name,181
+MC CLANCY PLACE,street_name,3
+MC CLEAN AVENUE,street_name,54
+MC CLELLAN STREET,street_name,406
+MC CORMICK PLACE,street_name,3
+MC DERMOTT AVENUE,street_name,3
+MC DONALD AVENUE,street_name,504
+MC FARLAND AVENUE,street_name,20
+MC GRAW AVENUE,street_name,383
+MC GUINESS BOULEVARD,street_name,2
+MC GUINNESS BOULEVARD,street_name,107
+MC INTOSH STREET,street_name,18
+MC KEE AVENUE,street_name,1
+MC KEEVER PLACE,street_name,541
+MC KIBBIN COURT,street_name,3
+MC KIBBIN STREET,street_name,25
+MC KINLEY AVENUE,street_name,93
+MC LAUGHLIN STREET,street_name,3
+MC OWEN AVENUE,street_name,47
+MC VEIGH AVENUE,street_name,5
+MCBRIDE STREET,street_name,66
+MCCLANCY PLACE,street_name,4
+MCCLELLAN STREET,street_name,1
+MCDONALD AVENUE,street_name,12
+MCDONOUGH STREET,street_name,2
+MCKINLEY AVENUE,street_name,9
+MEAD STREET,street_name,58
+MEADOW DRIVE,street_name,11
+MEADOW LANE,street_name,1
+MEADOW PLACE,street_name,3
+MEADOW ROAD,street_name,5
+MEAGHER AVENUE,street_name,17
+MEDINA STREET,street_name,2
+MEEHAN AVENUE,street_name,7
+MEEKER AVENUE,street_name,250
+MELBA STREET,street_name,30
+MELBOURNE AVENUE,street_name,76
+MELISSA COURT,street_name,1
+MELROSE AVENUE,street_name,620
+MELROSE LANE,street_name,4
+MELROSE PLACE,street_name,1
+MELROSE STREET,street_name,384
+MELVILLE STREET,street_name,147
+MELVIN AVENUE,street_name,1
+MELYN PLACE,street_name,5
+MEMPHIS AVENUE,street_name,14
+MENAHAN STREET,street_name,1111
+MENTONE AVENUE,street_name,26
+MERCER STREET,street_name,65
+MERIDIAN BOULEVARD,street_name,2
+MERIDIAN BOULEVARD ,street_name,1
+MERLE PLACE,street_name,66
+MERMAID AVENUE,street_name,400
+MERMAID LANE,street_name,5
+MERRIAM AVENUE,street_name,1517
+MERRICK BOULEVARD,street_name,886
+MERRILL AVENUE,street_name,1
+MERRILL STREET,street_name,60
+MERRITT AVENUE,street_name,3
+MERRY AVENUE,street_name,2
+MERRYMOUNT STREET,street_name,11
+MERSEREAU AVENUE,street_name,10
+MESEROLE AVENUE,street_name,170
+MESEROLE STREET,street_name,374
+METCALF AVENUE,street_name,299
+METCALFE STREET,street_name,58
+METROPOLITAN AVENUE,street_name,3369
+METROPOLITAN OVAL,street_name,646
+METROTECH CENTER,street_name,12
+MEXICO STREET,street_name,22
+MEYER AVENUE,street_name,26
+MIAMI COURT,street_name,1
+MICHAEL COURT,street_name,1
+MICHAEL PLACE,street_name,1
+MICHELLE COURT,street_name,4
+MICIELI PLACE,street_name,2
+MICKARDAN COURT,street_name,1
+MICKLE AVENUE,street_name,127
+MIDDAGH STREET,street_name,6
+MIDDLE LOOP ROAD,street_name,2
+MIDDLETON STREET,street_name,19
+MIDDLETOWN ROAD,street_name,110
+MIDLAND AVENUE,street_name,32
+MIDLAND PARKWAY,street_name,80
+MIDWOOD STREET,street_name,735
+MILBANK ROAD,street_name,4
+MILBURN STREET,street_name,20
+MILDRED AVENUE,street_name,2
+MILES AVENUE,street_name,41
+MILFORD STREET,street_name,694
+MILL AVENUE,street_name,21
+MILL LANE,street_name,6
+MILL ROAD,street_name,336
+MILLENNIUM LOOP,street_name,2
+MILLER AVENUE,street_name,2032
+MILLS AVENUE,street_name,1
+MILTON AVENUE,street_name,2
+MILTON STREET,street_name,53
+MIMOSA LANE,street_name,1
+MINERVA PLACE,street_name,110
+MINETTA LANE,street_name,4
+MINETTA STREET,street_name,6
+MINFORD PLACE,street_name,131
+MINNA STREET,street_name,5
+MINNIEFORD AVENUE,street_name,4
+MIRIAM STREET,street_name,58
+MITCHEL LANE,street_name,8
+MITCHELL LANE,street_name,1
+MITCHELL PLACE,street_name,52
+MOFFAT STREET,street_name,270
+MOHEGAN AVENUE,street_name,739
+MOLINE STREET,street_name,6
+MONACO PLACE,street_name,29
+MONAHAN AVENUE,street_name,10
+MONITOR STREET,street_name,39
+MONROE AVENUE,street_name,1344
+MONROE PLACE,street_name,51
+MONROE STREET,street_name,1140
+MONSEY PLACE,street_name,1
+MONTAGUE STREET,street_name,229
+MONTAGUE TERRACE,street_name,6
+MONTANA PLACE,street_name,1
+MONTAUK AVENUE,street_name,735
+MONTAUK COURT,street_name,8
+MONTAUK STREET,street_name,28
+MONTEREY AVENUE,street_name,330
+MONTEREY STREET,street_name,38
+MONTGOMERY AVENUE,street_name,805
+MONTGOMERY PLACE,street_name,15
+MONTGOMERY STREET,street_name,3856
+MONTICELLO AVENUE,street_name,183
+MONTIETH STREET,street_name,1
+MONTREAL AVENUE,street_name,7
+MONTROSE AVENUE,street_name,291
+MOONLIGHT COURT,street_name,6
+MOORE STREET,street_name,21
+MORELAND STREET,street_name,32
+MORGAN AVENUE,street_name,269
+MORGAN LANE,street_name,2
+MORNING STAR ROAD,street_name,35
+MORNINGSIDE AVENUE,street_name,1000
+MORNINGSIDE DRIVE,street_name,43
+MORNINGSTAR ROAD,street_name,90
+MORRIS AVENUE,street_name,13033
+MORRIS PARK AVENUE,street_name,927
+MORRIS STREET,street_name,3
+MORRISON AVE,street_name,12
+MORRISON AVENUE,street_name,1996
+MORROW STREET,street_name,2
+MORTON STREET,street_name,239
+MOSEL AVENUE,street_name,11
+MOSEL LOOP,street_name,1
+MOSELY AVENUE,street_name,2
+MOSHOLU AVENUE,street_name,40
+MOSS PLACE,street_name,1
+MOTHER GASTON BOULEVARD,street_name,614
+MOTT AVENUE,street_name,603
+MOTT STREET,street_name,1095
+MOULTRIE STREET,street_name,1
+MOUNT MORRIS PARK WEST,street_name,1
+MOUNT OLIVET CRESCENT,street_name,2
+MOUNTAINVIEW AVENUE,street_name,3
+MT EDEN PARKWAY,street_name,9
+MT HOPE PLACE,street_name,1277
+MT MORRIS PARK WEST,street_name,221
+MT OLIVET CRESCENT,street_name,5
+MULBACH COURT,street_name,7
+MULBERRY AVENUE,street_name,9
+MULBERRY CIRCLE,street_name,2
+MULBERRY STREET,street_name,880
+MULFORD AVENUE,street_name,49
+MULINER AVENUE,street_name,86
+MUNDY AVENUE,street_name,3
+MUNDY LANE,street_name,36
+MURDOCK AVENUE,street_name,211
+MURDOCK COURT,street_name,49
+MURRAY COURT,street_name,4
+MURRAY STREET,street_name,60
+MYRTLE AVENUE,street_name,1665
+N D PERLMAN PLACE,street_name,3
+NADAL PLACE,street_name,15
+NAGLE AVENUE,street_name,2534
+NAMEOKE AVENUE,street_name,39
+NAMEOKE STREET,street_name,205
+NANCY LANE,street_name,2
+NAPLES TERRACE,street_name,825
+NARROWS AVENUE,street_name,25
+NARROWS ROAD NORTH,street_name,34
+NARROWS ROAD SOUTH,street_name,24
+NASBY PLACE,street_name,9
+NASHVILLE BOULEVARD,street_name,79
+NASSAU AVENUE,street_name,175
+NASSAU STREET,street_name,38
+NAT COURT,street_name,1
+NATICK STREET,street_name,1
+NATIONAL DRIVE,street_name,9
+NATIONAL STREET,street_name,18
+NAUGHTON AVENUE,street_name,13
+NAUTILUS AVENUE,street_name,62
+NAVIGATOR COURT,street_name,1
+NAVY PIER COURT,street_name,29
+NEAL DOW AVENUE,street_name,1
+NECK ROAD,street_name,1
+NECKAR AVENUE,street_name,4
+NEEDHAM AVENUE,street_name,195
+NEGUNDO AVENUE,street_name,2
+NEHRING AVENUE,street_name,8
+NEILL AVENUE,street_name,191
+NEILSON STREET,street_name,399
+NELLIS STREET,street_name,44
+NELSON AVENUE,street_name,2465
+NELSON STREET,street_name,101
+NEPONSIT AVENUE,street_name,1
+NEPTON STREET,street_name,9
+NEPTUNE AVENUE,street_name,735
+NEPTUNE COURT,street_name,8
+NEPTUNE LANE,street_name,12
+NEPTUNE STREET,street_name,4
+NEREID AVENUE,street_name,726
+NETHERLAND AVENUE,street_name,459
+NEVINS STREET,street_name,69
+NEW DORP LANE,street_name,5
+NEW DORP PLAZA,street_name,2
+NEW ENGLAND THRUWAY,street_name,22
+NEW ENGLAND THRUWY SERINCE ROAD,street_name,9
+NEW ENGLAND THRWY,street_name,1
+NEW HAVEN AVENUE,street_name,659
+NEW JERSEY AVENUE,street_name,810
+NEW LANE,street_name,7
+NEW LOTS AVENUE,street_name,1040
+NEW MONTROSE AVENUE,street_name,5
+NEW STREET,street_name,9
+NEW UTRECHT AVENUE,street_name,304
+NEW YORK AVENUE,street_name,5459
+NEWARK AVENUE,street_name,6
+NEWBERRY AVENUE,street_name,6
+NEWBOLD AVENUE,street_name,689
+NEWBURG STREET,street_name,22
+NEWEL STREET,street_name,106
+NEWHALL AVENUE,street_name,8
+NEWKIRK AVENUE,street_name,3814
+NEWMAN AVENUE,street_name,44
+NEWPORT AVENUE,street_name,3
+NEWPORT STREET,street_name,284
+NEWTON STREET,street_name,51
+NEWTOWN AVENUE,street_name,263
+NEWTOWN ROAD,street_name,37
+NICHOLAS AVENUE,street_name,56
+NICHOLAS STREET,street_name,3
+NICHOLS AVENUE,street_name,123
+NICOLLS AVENUE,street_name,31
+NICOLOSI DRIVE,street_name,1
+NIPPON AVENUE,street_name,3
+NIXON COURT,street_name,74
+NOAH COURT,street_name,2
+NOBLE AVENUE,street_name,756
+NOBLE STREET,street_name,26
+NOEL AVENUE,street_name,1
+NOLL STREET,street_name,40
+NOME AVENUE,street_name,3
+NORFOLK STREET,street_name,335
+NORMA PLACE,street_name,9
+NORMAL ROAD,street_name,13
+NORMAN AVENUE,street_name,95
+NORMAN STREET,street_name,67
+NORTH 1 STREET,street_name,84
+NORTH 10 STREET,street_name,20
+NORTH 11 STREET,street_name,23
+NORTH 12 STREET,street_name,2
+NORTH 3 STREET,street_name,6
+NORTH 4 PLACE,street_name,9
+NORTH 4 STREET,street_name,38
+NORTH 5 STREET,street_name,76
+NORTH 6 PLACE,street_name,8
+NORTH 6 STREET,street_name,232
+NORTH 7 STREET,street_name,3121
+NORTH 8 STREET,street_name,200
+NORTH 9 STREET,street_name,56
+NORTH BURGHER AVENUE,street_name,217
+NORTH CONDUIT AVENUE,street_name,122
+NORTH DRIVE,street_name,1
+NORTH EDO COURT,street_name,1
+NORTH ELLIOTT PLACE,street_name,25
+NORTH ELLIOTT WALK,street_name,1
+NORTH END AVENUE,street_name,13
+NORTH GANNON AVENUE,street_name,13
+NORTH HENRY STREET,street_name,29
+NORTH MADA AVENUE,street_name,1
+NORTH MOORE STREET,street_name,64
+NORTH OAK DRIVE,street_name,10
+NORTH OXFORD STREET,street_name,28
+NORTH RAILROAD AVENUE,street_name,12
+NORTH STREET,street_name,44
+NORTHEN BOULEVARD,street_name,4
+NORTHERN BOULEVARD,street_name,1373
+NORTHFIELD AVENUE,street_name,6
+NORTON AVENUE,street_name,22
+NORTON DRIVE,street_name,7
+NORWALK AVENUE,street_name,1
+NORWAY AVENUE,street_name,17
+NORWICH STREET,street_name,3
+NORWOOD AVENUE,street_name,78
+NOSTRAND AVENUE,street_name,7553
+NOVA COURT,street_name,1
+NUGENT AVENUE,street_name,9
+NUGENT STREET,street_name,7
+NUNZIE COURT,street_name,1
+NURGE AVENUE,street_name,4
+OAK AVENUE,street_name,14
+OAK LANE,street_name,1
+OAK POINT AVENUE,street_name,3
+OAK STREET,street_name,18
+OAK TERRACE,street_name,44
+OAKDALE STREET,street_name,11
+OAKLAND AVENUE,street_name,3
+OAKLAND PLACE,street_name,154
+OAKLEY STREET,street_name,79
+OAKVILLE STREET,street_name,14
+OBRIEN AVENUE,street_name,25
+OCEAN AVENUE,street_name,15648
+OCEAN AVENUE NORTH,street_name,3
+OCEAN AVENUEDUMMY0,street_name,1
+OCEAN COURT,street_name,30
+OCEAN CREST BOULEVARD,street_name,61
+OCEAN PARKWAY,street_name,8325
+OCEAN PROMENADE,street_name,98
+OCEAN TERRACE,street_name,4
+OCEAN VIEW AVENUE,street_name,168
+OCEANA DRIVE EAST,street_name,32
+OCEANA DRIVE WEST,street_name,32
+OCEANA TERRACE,street_name,1
+OCEANIA STREET,street_name,3
+OCEANIC AVENUE,street_name,8
+ODELL STREET,street_name,177
+ODER AVENUE,street_name,19
+ODONNELL ROAD,street_name,1
+OGDEN AVENUE,street_name,2483
+OHM AVENUE,street_name,1
+OLCOTT STREET,street_name,17
+OLD BEACH 88 STREET,street_name,5
+OLD BROADWAY,street_name,125
+OLD FULTON STREET,street_name,7
+OLD KINGSBRIDGE ROAD,street_name,26
+OLD MILL ROAD,street_name,9
+OLD SOUTH ROAD,street_name,1
+OLD TOWN ROAD,street_name,1
+OLD WOODPOINT ROAD,street_name,1
+OLINVILLE AVENUE,street_name,3396
+OLIVE STREET,street_name,15
+OLIVER PLACE,street_name,93
+OLIVER STREET,street_name,93
+OLMSTEAD AVENUE,street_name,647
+OLYMPIA BOULEVARD,street_name,23
+ONDERDONK AVENUE,street_name,389
+ONEIDA AVENUE,street_name,8
+ONEIL PLACE,street_name,6
+ONTARIO AVENUE,street_name,1
+OPAL COURT,street_name,1
+OPENVIEW LANE,street_name,4
+ORANGE AVENUE,street_name,12
+ORANGE STREET,street_name,8
+ORCHARD STREET,street_name,654
+ORIENT AVENUE,street_name,12
+ORIENTAL BOULEVARD,street_name,31
+ORINOCO PLACE,street_name,11
+ORLANDO STREET,street_name,4
+ORLOFF AVENUE,street_name,817
+ORMOND PLACE,street_name,2
+ORMSBY AVENUE,street_name,2
+OSBORN STREET,street_name,209
+OSBORNE PLACE,street_name,572
+OSBOURNE PLACE,street_name,1
+OSGOOD AVENUE,street_name,431
+OSGOOD STREET,street_name,1
+OSMAN PLACE,street_name,53
+OSWEGO STREET,street_name,4
+OTIS AVENUE,street_name,75
+OTSEGO STREET,street_name,2
+OTTO ROAD,street_name,1
+OUTERBRIDGE AVENUE,street_name,1
+OUTLOOK AVENUE,street_name,25
+OVERING STREET,street_name,207
+OVERLOOK TERRACE,street_name,188
+OVID PLACE,street_name,10
+OVINGTON AVENUE,street_name,749
+OWLS HEAD COURT,street_name,45
+OXFORD AVENUE,street_name,486
+OXFORD PLACE,street_name,70
+OXFORD STREET,street_name,2
+PACIFIC AVENUE,street_name,13
+PACIFIC STREET,street_name,3778
+PACKARD STREET,street_name,2
+PAERDEGAT 10 STREET,street_name,1
+PAERDEGAT 11 STREET,street_name,16
+PAERDEGAT 12 STREET,street_name,7
+PAERDEGAT 13 STREET,street_name,6
+PAERDEGAT 14 STREET,street_name,42
+PAERDEGAT 15 STREET,street_name,57
+PAERDEGAT 2 STREET,street_name,24
+PAERDEGAT 3 STREET,street_name,39
+PAERDEGAT 4 STREET,street_name,11
+PAERDEGAT 5 STREET,street_name,14
+PAERDEGAT 6 STREET,street_name,9
+PAERDEGAT 7 STREET,street_name,1
+PAERDEGAT 8 STREET,street_name,9
+PAERDEGAT 9 STREET,street_name,33
+PALADINO AVENUE,street_name,4
+PALERMO STREET,street_name,1
+PALISADE AVENUE,street_name,58
+PALISADE PLACE,street_name,233
+PALMER AVENUE,street_name,211
+PALMETTO STREET,street_name,719
+PALO ALTO STREET,street_name,10
+PARADE PLACE,street_name,264
+PARIS COURT,street_name,7
+PARK AVENUE,street_name,3343
+PARK AVENUE SOUTH,street_name,247
+PARK CIRCLE,street_name,8
+PARK CRESCENT,street_name,11
+PARK DRIVE EAST,street_name,22
+PARK HILL AVENUE,street_name,919
+PARK HILL COURT,street_name,36
+PARK HILL LANE,street_name,3
+PARK LANE,street_name,2
+PARK LANE SOUTH,street_name,194
+PARK PLACE,street_name,4358
+PARK ROW,street_name,93
+PARK STREET,street_name,27
+PARK TERRACE EAST,street_name,330
+PARK TERRACE WEST,street_name,149
+PARKCHESTER ROAD,street_name,195
+PARKER STREET,street_name,248
+PARKHILL AVENUE,street_name,863
+PARKINSON AVENUE,street_name,13
+PARKSIDE AVENUE,street_name,1607
+PARKSIDE PLACE,street_name,348
+PARKVIEW AVENUE,street_name,16
+PARKVIEW LOOP,street_name,6
+PARKVILLE AVENUE,street_name,268
+PARKWAY COURT,street_name,1
+PARROTT PLACE,street_name,17
+PARSONS BOULEVARD,street_name,1702
+PATCHEN AVENUE,street_name,890
+PATCHIN PLACE,street_name,5
+PATRICIA LANE,street_name,5
+PATTERSON AVENUE,street_name,47
+PAUL AVENUE,street_name,36
+PAULDING AVENUE,street_name,1038
+PAUW STREET,street_name,33
+PAYSON AVENUE,street_name,444
+PEARL STREET,street_name,53
+PEARSALL AVENUE,street_name,51
+PEARSALL STREET,street_name,2
+PEARSON STREET,street_name,15
+PEBBLE LANE,street_name,1
+PECK AVENUE,street_name,22
+PECK SLIP,street_name,2
+PECONIC STREET,street_name,26
+PELHAM BAY PARK WEST,street_name,1
+PELHAM PARKWAY,street_name,25
+PELHAM PARKWAY NORTH,street_name,978
+PELHAM PARKWAY SOUTH,street_name,1313
+PELICAN CIRCLE,street_name,5
+PELL STREET,street_name,108
+PELTON AVENUE,street_name,20
+PEMBERTON AVENUE,street_name,1
+PEMBROKE AVENUE,street_name,1
+PENDLETON PLACE,street_name,4
+PENELOPE AVENUE,street_name,4
+PENFIELD STREET,street_name,518
+PENN AVENUE,street_name,1
+PENN STREET,street_name,60
+PENNSYLVAN AVENUE,street_name,1
+PENNSYLVANIA AVENUE,street_name,2226
+PENNYFIELD AVENUE,street_name,27
+PENROD STREET,street_name,18
+PERCIVAL PLACE,street_name,3
+PERONA LANE,street_name,1
+PERRY AVENUE,street_name,3931
+PERRY STREET,street_name,403
+PERSHING CRESCENT,street_name,117
+PERSHING STREET,street_name,2
+PETER AVENUE,street_name,1
+PETER COOPER ROAD,street_name,82
+PETRUS AVENUE,street_name,2
+PETTIT AVENUE,street_name,28
+PHEASANT LANE,street_name,9
+PHELAN PLACE,street_name,676
+PHELAN PLACEDUMMY,street_name,1
+PHILIP AVENUE,street_name,30
+PHLOX PLACE,street_name,112
+PHROANE AVENUE,street_name,19
+PIAVE AVENUE,street_name,4
+PIEDMONT AVENUE,street_name,1
+PIERCE AVENUE,street_name,58
+PIERCE STREET,street_name,4
+PIERPONT PLACE,street_name,7
+PIERREPONT STREET,street_name,241
+PIKE STREET,street_name,16
+PILCHER STREET,street_name,2
+PILGRIM AVENUE,street_name,54
+PILLING STREET,street_name,59
+PILOT STREET,street_name,39
+PINE PLACE,street_name,9
+PINE STREET,street_name,461
+PINEAPPLE STREET,street_name,95
+PINEGROVE STREET,street_name,37
+PINEHURST AVENUE,street_name,829
+PINEVILLE LANE,street_name,4
+PINEWOOD AVENUE,street_name,1
+PINSON STREET,street_name,52
+PIONEER STREET,street_name,4
+PITKIN AVENUE,street_name,2131
+PITMAN AVENUE,street_name,27
+PITNEY AVENUE,street_name,2
+PITT STREET,street_name,271
+PITTSVILLE AVENUE,street_name,1
+PLAINVIEW AVENUE,street_name,14
+PLANK ROAD,street_name,3
+PLATT STREET,street_name,1
+PLATTWOOD AVENUE,street_name,19
+PLAZA PLACE,street_name,1
+PLAZA ST EAST,street_name,75
+PLAZA ST WEST,street_name,4
+PLEASANT AVENUE,street_name,571
+PLEASANT PLACE,street_name,32
+PLEASANT PLAINS AVENUE,street_name,3
+PLEASANT VALLEY AVENUE,street_name,1
+PLEASANTVIEW STREET,street_name,2
+PLIMPTON AVENUE,street_name,374
+PLOUGHMANS BUSH,street_name,2
+PLUMB 1 STREET,street_name,12
+PLUNKETT AVENUE,street_name,1
+PLYMOUTH AVENUE,street_name,63
+PLYMOUTH ROAD,street_name,8
+PLYMOUTH STREET,street_name,5
+POI COURT,street_name,4
+POINT BREEZE PLACE,street_name,19
+POLAND PLACE,street_name,2
+POLAR STREET,street_name,2
+POLHEMAS AVENUE,street_name,1
+POMPEII AVENUE,street_name,1
+POMPEII ROAD,street_name,1
+POND PLACE,street_name,51
+POND WAY,street_name,34
+PONTIAC STREET,street_name,13
+POPHAM AVENUE,street_name,643
+POPLAR AVENUE,street_name,40
+POPLAR LANE,street_name,2
+POPLAR STREET,street_name,24
+POPLE AVENUE,street_name,37
+POPPENHUSEN AVENUE,street_name,21
+PORT LANE,street_name,3
+PORT RICHMOND AVENUE,street_name,63
+PORTAGE AVENUE,street_name,1
+PORTER AVENUE,street_name,10
+PORTLAND PLACE,street_name,39
+PORTSMOUTH AVENUE,street_name,3
+POST AVENUE,street_name,2469
+POST ROAD,street_name,19
+POUCH TERRACE,street_name,4
+POWELL AVENUE,street_name,684
+POWELL STREET,street_name,185
+POWELLS COVE BOULEVARD,street_name,68
+POWERS AVENUE,street_name,29
+POWERS STREET,street_name,107
+POYER STREET,street_name,2
+PRALL AVENUE,street_name,1
+PRATT AVENUE,street_name,83
+PRENTISS AVENUE,street_name,1
+PRESCOTT PLACE,street_name,1
+PRESENTATION CIRCLE,street_name,1
+PRESIDENT STREET,street_name,3829
+PRESTON COURT,street_name,6
+PRICES LANE,street_name,1
+PRIMROSE PLACE,street_name,65
+PRINCE STREET,street_name,635
+PRINCESS LANE,street_name,1
+PRINCETON STREET,street_name,17
+PROSPECT AVENUE,street_name,4957
+PROSPECT PARK SOUTHWEST,street_name,79
+PROSPECT PARK WEST,street_name,409
+PROSPECT PLACE,street_name,3785
+PROSPECT STREET,street_name,21
+PUGSLEY AVENUE,street_name,161
+PULASKI AVENUE,street_name,64
+PULASKI STREET,street_name,1001
+PURCELL STREET,street_name,4
+PURDY STREET,street_name,209
+PURITAN AVENUE,street_name,4
+PURROY PLACE,street_name,2
+PURVES STREET,street_name,46
+PUTNAM AVENUE,street_name,2580
+PUTNAM AVENUE WEST,street_name,16
+QUAIL LANE,street_name,3
+QUARRY ROAD,street_name,1
+QUAY STREET,street_name,1
+QUEEN STREET,street_name,6
+QUEENS BLVD,street_name,2
+QUEENS BOULEVARD,street_name,1362
+QUEENS MIDTOWN EXPRESSWAY,street_name,2
+QUEENS PLAZA NORTH,street_name,5
+QUEENS PLAZA SOUTH,street_name,1
+QUEENS STREET,street_name,1
+QUENCER ROAD,street_name,5
+QUENTIN ROAD,street_name,652
+QUIMBY AVENUE,street_name,95
+QUINCE AVENUE,street_name,31
+QUINCY AVENUE,street_name,41
+QUINCY STREET,street_name,1390
+QUINLAN AVENUE,street_name,5
+QUINN STREET,street_name,73
+QUINTARD STREET,street_name,1
+RACAL COURT,street_name,17
+RADCLIFF AVENUE,street_name,181
+RADDE PLACE,street_name,29
+RADFORD STREET,street_name,11
+RADNOR ROAD,street_name,1
+RALEIGH PLACE,street_name,9
+RALPH AVENUE,street_name,996
+RAMAPO AVENUE,street_name,1
+RAMBLE ROAD,street_name,1
+RAMONA AVENUE,street_name,10
+RANDALL AVE,street_name,1
+RANDALL AVENUE,street_name,121
+RANDALLS ISLAND,street_name,2
+RANGE STREET,street_name,1
+RANSOM STREET,street_name,10
+RAPELYE STREET,street_name,32
+RARITAN AVENUE,street_name,4
+RATHBUN AVENUE,street_name,19
+RAU COURT,street_name,10
+RAVENHURST AVENUE,street_name,4
+RAWLINS AVENUE,street_name,3
+RAYFIELD COURT,street_name,4
+READE STREET,street_name,21
+RECTOR PLACE,street_name,20
+RECTOR STREET,street_name,4
+RED HOOK LANE,street_name,1
+REDDING STREET,street_name,1
+REDFERN AVENUE,street_name,9
+REDFIELD STREET,street_name,1
+REDWOOD LOOP,street_name,3
+REEDER STREET,street_name,2
+REEDS MILL LANE,street_name,40
+REEVE PLACE,street_name,1
+REEVES AVENUE,street_name,2
+REGAL WALK,street_name,2
+REGAN AVENUE,street_name,4
+REGENT PLACE,street_name,229
+REGINA AVENUE,street_name,8
+REGIS DRIVE,street_name,8
+REID AVENUE,street_name,4
+REINHART ROAD,street_name,1
+REISS PLACE,street_name,113
+REMINGTON STREET,street_name,53
+REMSEN AVENUE,street_name,421
+REMSEN PLACE,street_name,2
+REMSEN STREET,street_name,118
+RENE COURT,street_name,1
+RENO AVENUE,street_name,1
+RENSSELAER AVENUE,street_name,1
+RENWICK STREET,street_name,3
+RESEARCH AVENUE,street_name,13
+RESERVOIR AVENUE,street_name,365
+RESERVOIR OVAL EAST,street_name,43
+RESERVOIR OVAL WEST,street_name,310
+RESERVOIR PLACE,street_name,135
+REV JAMES A POLITE AVENUE,street_name,87
+REV JAMES A. POLITE AVENUE,street_name,1
+REV JAMES POLITE AVENUE,street_name,873
+REVERE AVENUE,street_name,70
+REVERE PLACE,street_name,8
+REVERE STREET,street_name,6
+REVEREND JARVIS DRIVE,street_name,6
+REVIEW AVENUE,street_name,8
+REVIEW PLACE,street_name,481
+REVILLE STREET,street_name,2
+REYNOLDS AVENUE,street_name,5
+REYNOLDS STREET,street_name,6
+RHETT AVENUE,street_name,1
+RHINE AVENUE,street_name,6
+RHINELANDER AVENUE,street_name,218
+RICARD STREET,street_name,2
+RICE AVENUE,street_name,1
+RICHARD AVENUE,street_name,5
+RICHARD LANE,street_name,99
+RICHARDS STREET,street_name,39
+RICHARDSON AVENUE,street_name,232
+RICHARDSON STREET,street_name,81
+RICHMAN PLAZA,street_name,1192
+RICHMOND AVENUE,street_name,97
+RICHMOND COURT,street_name,2
+RICHMOND HILL ROAD,street_name,136
+RICHMOND PLAZA,street_name,2
+RICHMOND ROAD,street_name,134
+RICHMOND STREET,street_name,81
+RICHMOND TERRACE,street_name,449
+RIDGE AVENUE,street_name,1
+RIDGE BOULEVARD,street_name,2329
+RIDGE STREET,street_name,84
+RIDGECREST AVENUE,street_name,1
+RIDGECREST TERRACE,street_name,2
+RIDGEDALE STREET,street_name,15
+RIDGEFIELD AVENUE,street_name,3
+RIDGEWOOD AVENUE,street_name,297
+RIDGEWOOD PLACE,street_name,13
+RIEDEL AVENUE,street_name,2
+RITTER PLACE,street_name,272
+RIVER AVENUE,street_name,6
+RIVER PLACE,street_name,8
+RIVER TERRACE,street_name,7
+RIVERDALE AVENUE,street_name,1086
+RIVERSIDE BOULEVARD,street_name,15
+RIVERSIDE DRIVE,street_name,6712
+RIVERSIDE DRIVE WEST,street_name,167
+RIVERSIDE HOSP SHOP & STORAGE,street_name,1
+RIVERSIDE LANE,street_name,1
+RIVERTON STREET,street_name,14
+RIVIERA COURT,street_name,1
+RIVINGTON AVENUE,street_name,1
+RIVINGTON STREET,street_name,1025
+ROACKAWAY PARKWAY,street_name,1
+ROANOKE STREET,street_name,1
+ROBERTS AVENUE,street_name,190
+ROBERTSON PLACE,street_name,3
+ROBERTSON STREET,street_name,10
+ROBIN COURT,street_name,24
+ROBIN LANE,street_name,1
+ROBIN ROAD,street_name,11
+ROBINSON AVENUE,street_name,26
+ROBINSON STREET,street_name,14
+ROCCO COURT,street_name,2
+ROCHAMBEAU AVENUE,street_name,2705
+ROCHELLE PLACE,street_name,3
+ROCHESTER AVENUE,street_name,1179
+ROCKAWAY AVENUE,street_name,826
+ROCKAWAY BEACH BLVD.,street_name,1
+ROCKAWAY BEACH BOULEVARD,street_name,367
+ROCKAWAY BOULEVARD,street_name,460
+ROCKAWAY FREEWAY,street_name,9
+ROCKAWAY PARKWAY,street_name,5472
+ROCKAWAY STREET,street_name,2
+ROCKEFELLER PLAZA,street_name,1
+ROCKLAND AVENUE,street_name,42
+ROCKNE STREET,street_name,5
+ROCKVILLE AVENUE,street_name,3
+ROCKWELL AVENUE,street_name,2
+ROCKWELL PLACE,street_name,3
+ROCKY HILL ROAD,street_name,8
+RODER AVENUE,street_name,1
+RODNEY STREET,street_name,52
+ROE STREET,street_name,8
+ROEBLING AVENUE,street_name,106
+ROEBLING STREET,street_name,90
+ROFF STREET,street_name,18
+ROGERS AVENUE,street_name,4108
+ROGERS PLACE,street_name,80
+ROHR PLACE,street_name,1
+ROLLING HILL GREEN,street_name,2
+ROMA AVENUE,street_name,11
+ROMBOUTS AVENUE,street_name,19
+ROME AVENUE,street_name,3
+ROME DRIVE,street_name,2
+RONALD AVENUE,street_name,2
+ROOSEVELT AVENUE,street_name,1052
+ROOSEVELT PLACE,street_name,38
+ROPES AVENUE,street_name,3
+ROSE AVENUE,street_name,13
+ROSE STREET,street_name,15
+ROSECLIFF ROAD,street_name,4
+ROSEDALE AVENUE,street_name,738
+ROSEWOOD PLACE,street_name,5
+ROSEWOOD STREET,street_name,76
+ROSITA ROAD,street_name,7
+ROSS AVENUE,street_name,10
+ROSS STREET,street_name,574
+ROSSVILLE AVENUE,street_name,6
+ROST PLACE,street_name,7
+ROWLAND STREET,street_name,155
+ROYCE PLACE,street_name,46
+ROYCE STREET,street_name,13
+RUBIE PLAZA,street_name,5
+RUBY STREET,street_name,76
+RUDD PLACE,street_name,1
+RUDYARD STREET,street_name,3
+RUGBY AVENUE,street_name,1
+RUGBY ROAD,street_name,247
+RUMPLER COURT,street_name,16
+RUMSON ROAD,street_name,1
+RUPERT AVENUE,street_name,2
+RUSCOE STREET,street_name,79
+RUSSEK DRIVE,street_name,1
+RUSSELL STREET,street_name,74
+RUSTIC PLACE,street_name,1
+RUTGERS SLIP,street_name,117
+RUTGERS STREET,street_name,33
+RUTH STREET,street_name,3
+RUTLAND ROAD,street_name,1623
+RUTLEDGE AVENUE,street_name,6
+RUTLEDGE STREET,street_name,4
+RYDER AVENUE,street_name,2
+RYDER STREET,street_name,31
+RYER AVENUE,street_name,2338
+RYERSON STREET,street_name,86
+SABRE STREET,street_name,3
+SACKETT AVENUE,street_name,4
+SACKETT STREET,street_name,283
+SACKMAN STREET,street_name,225
+SAGAMORE AVENUE,street_name,1
+SAGAMORE STREET,street_name,91
+SAGE STREET,street_name,1
+SAINT MARKS PLACE,street_name,1
+SAMANTHA LANE,street_name,3
+SAMPSON AVENUE,street_name,18
+SAND LANE,street_name,42
+SANDALWOOD DRIVE,street_name,17
+SANDERS PLACE,street_name,18
+SANDFORD STREET,street_name,1
+SANDGAP STREET,street_name,2
+SANDRA LANE,street_name,22
+SANDS PLACE,street_name,15
+SANDS STREET,street_name,21
+SANDY DUNE WAY,street_name,2
+SANDY LANE,street_name,2
+SANFORD AVENUE,street_name,2863
+SANFORD STREET,street_name,1
+SANTA MONICA LANE,street_name,3
+SANTIAGO STREET,street_name,1
+SAPPHIRE STREET,street_name,18
+SARATOGA AVENUE,street_name,932
+SATTERLEE STREET,street_name,1
+SAULL STREET,street_name,75
+SAULTELL AVENUE,street_name,10
+SAUNDERS STREET,street_name,708
+SAXON AVENUE,street_name,12
+SAYRES AVENUE,street_name,35
+SCARBORO AVENUE,street_name,1
+SCHAEFER STREET,street_name,629
+SCHENCK AVENUE,street_name,301
+SCHENCK COURT,street_name,1
+SCHENCK STREET,street_name,15
+SCHENECTADY AVENUE,street_name,2315
+SCHERMERHORN STREET,street_name,94
+SCHIEFFELIN AVENUE,street_name,38
+SCHIEFFELIN PLACE,street_name,9
+SCHLEY AVENUE,street_name,34
+SCHNECTADY AVENUE,street_name,4
+SCHOFIELD STREET,street_name,8
+SCHOHARIE STREET,street_name,11
+SCHOLES STREET,street_name,273
+SCHOOL ROAD,street_name,5
+SCHORR PLACE,street_name,2
+SCHROEDERS AVENUE,street_name,133
+SCHURZ AVENUE,street_name,30
+SCHUYLER PLACE,street_name,2
+SCOTT A GADELL PLACE,street_name,64
+SCOTT AVENUE,street_name,11
+SCRANTON AVENUE,street_name,3
+SCREVIN AVENUE,street_name,11
+SCRIBNER AVENUE,street_name,106
+SCRIBNER LANE,street_name,5
+SEA BREEZE AVENUE,street_name,103
+SEA CREST LANE,street_name,1
+SEA GATE AVENUE,street_name,38
+SEA GRASS LANE,street_name,1
+SEABRING STREET,street_name,5
+SEABURY PLACE,street_name,62
+SEACREST LANE,street_name,8
+SEAFOAM STREET,street_name,4
+SEAGIRT AVENUE,street_name,672
+SEAGIRT BOULEVARD,street_name,727
+SEAMAN AVENUE,street_name,2976
+SEASPRAY AVENUE,street_name,4
+SEAVER AVENUE,street_name,7
+SEAVIEW AVENUE,street_name,187
+SEAVIEW COURT,street_name,19
+SEBA AVENUE,street_name,4
+SECOND AVENUE,street_name,114
+SECOR AVENUE,street_name,121
+SEDDON STREET,street_name,210
+SEDGEWICK AVENUE,street_name,1
+SEDGWICK AVENUE,street_name,7417
+SEELEY LANE,street_name,4
+SEELEY STREET,street_name,27
+SEGUINE AVENUE,street_name,2
+SEGUINE LOOP,street_name,3
+SEGUINE PLACE,street_name,2
+SEIDMAN AVENUE,street_name,9
+SEIGEL COURT,street_name,2
+SEIGEL STREET,street_name,56
+SELDIN AVENUE,street_name,1
+SELFRIDGE STREET,street_name,15
+SELOVER ROAD,street_name,48
+SELWYN AVENUE,street_name,1720
+SEMINOLE AVENUE,street_name,20
+SEMINOLE STREET,street_name,1
+SENATOR STREET,street_name,296
+SENECA AVENUE,street_name,1000
+SENECA STREET,street_name,8
+SERRELL AVENUE,street_name,6
+SETH COURT,street_name,1
+SETON AVENUE,street_name,292
+SETON PLACE,street_name,1
+SEWARD AVENUE,street_name,408
+SEXTON PLACE,street_name,56
+SEYMOUR AVENUE,street_name,396
+SHAINA COURT,street_name,1
+SHAKESPEARE AVENUE,street_name,1006
+SHALER AVENUE,street_name,3
+SHARON AVENUE,street_name,11
+SHARPE AVENUE,street_name,35
+SHARROTTS LANE,street_name,2
+SHARROTTS ROAD,street_name,1
+SHAUGHNESSY LANE,street_name,1
+SHEEPSHEAD BAY ROAD,street_name,71
+SHEFFIELD AVENUE,street_name,648
+SHEFIELD AVENUE,street_name,1
+SHELL ROAD,street_name,84
+SHELLEY AVENUE,street_name,7
+SHEPARD AVENUE,street_name,3
+SHEPERD AVE,street_name,4
+SHEPHARD AVENUE,street_name,2
+SHEPHERD AVENUE,street_name,298
+SHERADEN AVENUE,street_name,45
+SHERIDAN AVENUE,street_name,7080
+SHERIDAN COURT,street_name,1
+SHERIDAN EXPRESSWAY SR,street_name,11
+SHERIDAN SQUARE,street_name,3
+SHERLOCK PLACE,street_name,15
+SHERMAN AVENUE,street_name,5326
+SHERMAN STREET,street_name,1
+SHIEL AVENUE,street_name,5
+SHIFT PLACE,street_name,1
+SHORE AVENUE,street_name,38
+SHORE BOULEVARD,street_name,234
+SHORE DRIVE,street_name,1
+SHORE FRONT PARKWAY,street_name,2750
+SHORE FRONY PARKWAY,street_name,20
+SHORE PARKWAY,street_name,688
+SHORE PARKWAY SR NORTH,street_name,268
+SHORE PARKWAY SR SOUTH,street_name,138
+SHORE ROAD,street_name,4697
+SHORE ROAD LANE,street_name,1
+SHOREFRONT PARKWAY,street_name,2
+SHOTWELL AVENUE,street_name,11
+SICKLES STREET,street_name,618
+SIDEVIEW AVENUE,street_name,1
+SIDNEY PLACE,street_name,41
+SIDWAY PLACE,street_name,9
+SIEGFRIED PLACE,street_name,1
+SIGNAL HILL ROAD,street_name,1
+SILVER LAKE ROAD,street_name,35
+SILVER ROAD,street_name,247
+SILVER STREET,street_name,40
+SIMMONS LANE,street_name,3
+SIMONSON AVENUE,street_name,40
+SIMONSON PLACE,street_name,29
+SIMONSON STREET,street_name,3
+SIMPSON STREET,street_name,447
+SINCLAIR AVENUE,street_name,33
+SIXTH AVENUE,street_name,3
+SKIDMORE AVENUE,street_name,24
+SKIDMORE PLACE,street_name,1
+SKILLMAN AVENUE,street_name,508
+SKILLMAN STREET,street_name,76
+SKINNER LANE,street_name,13
+SKY LANE,street_name,3
+SKYLINE DRIVE,street_name,1
+SLAIGHT STREET,street_name,81
+SLATER BOULEVARD,street_name,17
+SLOAN PLACE,street_name,8
+SLOAN STREET,street_name,1
+SLOANE AVENUE,street_name,1
+SLOSSON AVENUE,street_name,3
+SLOSSON TERRACE,street_name,206
+SMART STREET,street_name,32
+SMITH COURT,street_name,1
+SMITH PLACE,street_name,1
+SMITH STREET,street_name,110
+SMITH TERRACE,street_name,1
+SNEDEN AVENUE,street_name,2
+SNEDIKER AVENUE,street_name,416
+SNYDER AVENUE,street_name,1027
+SOMERS STREET,street_name,317
+SOMMERS LANE,street_name,3
+SONIA COURT,street_name,2
+SOUNDVIEW AVENUE,street_name,337
+SOUNDVIEW LANE,street_name,2
+SOUTH 1 STREET,street_name,458
+SOUTH 10 STREET,street_name,7
+SOUTH 11 STREET,street_name,539
+SOUTH 2 STREET,street_name,972
+SOUTH 3 STREET,street_name,1426
+SOUTH 4 STREET,street_name,903
+SOUTH 5 STREET,street_name,436
+SOUTH 6 STREET,street_name,39
+SOUTH 8 STREET,street_name,264
+SOUTH 9 STREET,street_name,115
+SOUTH AVENUE,street_name,138
+SOUTH CONDUIT AVENUE,street_name,58
+SOUTH ELLIOTT PLACE,street_name,163
+SOUTH END AVENUE,street_name,103
+SOUTH GANNON AVENUE,street_name,2
+SOUTH GOFF AVENUE,street_name,1
+SOUTH MANN AVENUE,street_name,1
+SOUTH OAK DRIVE,street_name,112
+SOUTH OXFORD STREET,street_name,78
+SOUTH PINEHURST AVENUE,street_name,172
+SOUTH PORTLAND AVENUE,street_name,111
+SOUTH RAILROAD AVENUE,street_name,6
+SOUTH RAILROAD STREET,street_name,4
+SOUTH ROAD,street_name,232
+SOUTH STREET,street_name,33
+SOUTH WILLIAM STREET,street_name,8
+SOUTHERN BOULEVARD,street_name,4814
+SOUTHGATE COURT,street_name,17
+SOUTHGATE PLAZA,street_name,1
+SOUTHGATE STREET,street_name,2
+SPARKILL AVENUE,street_name,1
+SPARTAN AVENUE,street_name,35
+SPENCER AVENUE,street_name,10
+SPENCER COURT,street_name,53
+SPENCER DRIVE,street_name,1
+SPENCER PLACE,street_name,121
+SPENCER STREET,street_name,99
+SPIRIT LANE,street_name,2
+SPOFFORD AVENUE,street_name,409
+SPRAGUE AVENUE,street_name,8
+SPRING STREET,street_name,616
+SPRINGFIELD BOULEVARD,street_name,361
+SPRINGFIELD LANE,street_name,21
+SPRITZ ROAD,street_name,3
+SPRUCE AVENUE,street_name,4
+SPRUCE LANE,street_name,2
+SPRUCE STREET,street_name,5
+ST ADALBERT PLACE,street_name,1
+ST ANDREWS PLACE,street_name,6
+ST ANN'S AVENUE,street_name,1
+ST ANNS AVENUE,street_name,1092
+ST CHARLES PLACE,street_name,16
+ST EDWARDS STREET,street_name,3
+ST FELIX AVENUE,street_name,3
+ST FELIX STREET,street_name,65
+ST FRANCIS PLACE,street_name,8
+ST GEORGE ROAD,street_name,2
+ST GEORGES CRESCENT,street_name,28
+ST JAMES AVENUE,street_name,210
+ST JAMES PLACE,street_name,235
+ST JOHN PLACE,street_name,48
+ST JOHNS AVENUE,street_name,5
+ST JOHNS PLACE,street_name,5544
+ST JOHNS ROAD,street_name,12
+ST JOSEPHS AVENUE,street_name,1
+ST JUDES PLACE,street_name,1
+ST LAWRENCE AVENUE,street_name,604
+ST LUKES PLACE,street_name,2
+ST MARKS AVENUE,street_name,4699
+ST MARKS PLACE,street_name,1394
+ST MARYS AVENUE,street_name,94
+ST MARYS STREET,street_name,69
+ST NICHLAS TERRACE,street_name,1
+ST NICHOLAS AVENUE,street_name,12391
+ST NICHOLAS PLACE,street_name,1629
+ST NICHOLAS TERRACE,street_name,1040
+ST OUEN STREET,street_name,37
+ST PAUL AVENUE,street_name,17
+ST PAULS AVENUE,street_name,123
+ST PAULS COURT,street_name,594
+ST PAULS PLACE,street_name,616
+ST PETERS AVENUE,street_name,48
+ST RAYMOND AVENUE,street_name,117
+ST STEPHENS PLACE,street_name,1
+ST THERESA AVENUE,street_name,83
+ST. ALBANS PLACE,street_name,1
+ST. MARKS AVENUE,street_name,4
+STACK DRIVE,street_name,5
+STADIUM AVENUE,street_name,77
+STAFFORD AVENUE,street_name,11
+STAGE LANE,street_name,12
+STAGG STREET,street_name,221
+STALIE COURT,street_name,1
+STANHOPE STREET,street_name,729
+STANLEY AVENUE,street_name,287
+STANTON ROAD,street_name,1
+STANTON STREET,street_name,1009
+STANWIX STREET,street_name,2
+STARBUCK STREET,street_name,8
+STARLING AVENUE,street_name,429
+STARR AVENUE,street_name,6
+STARR STREET,street_name,522
+STATE STREET,street_name,275
+STATION ROAD,street_name,10
+STATION SQUARE,street_name,1
+STEARNS STREET,street_name,2
+STEBBINS AVENUE,street_name,52
+STECHER STREET,street_name,1
+STEDMAN PLACE,street_name,16
+STEELE AVENUE,street_name,6
+STEINWAY AVENUE,street_name,24
+STEINWAY STREET,street_name,659
+STELL PLACE,street_name,2
+STEPHEN LOOP,street_name,1
+STEPHEN STREET,street_name,122
+STEPHENS AVENUE,street_name,15
+STEPHENS COURT,street_name,3
+STERLING PLACE,street_name,4127
+STERLING STREET,street_name,659
+STEUBEN AVENUE,street_name,143
+STEUBEN STREET,street_name,210
+STEWART AVENUE,street_name,3
+STEWART STREET,street_name,45
+STICKNEY PLACE,street_name,8
+STILLWELL AVENUE,street_name,303
+STOBE AVENUE,street_name,1
+STOCKHOLM STREET,street_name,860
+STOCKTON STREET,street_name,64
+STODDARD PLACE,street_name,795
+STONE AVENUE,street_name,2
+STONE LANE,street_name,1
+STONE STREET,street_name,6
+STONEHAM STREET,street_name,1
+STORY AVENUE,street_name,340
+STRANG AVENUE,street_name,45
+STRATFORD AVENUE,street_name,2573
+STRATFORD ROAD,street_name,214
+STRATTON STREET,street_name,1
+STRAUSS STREET,street_name,577
+STRICKLAND AVENUE,street_name,7
+STRONG AVENUE,street_name,7
+STRONG PLACE,street_name,13
+STRONG STREET,street_name,305
+STRONGHURST AVENUE,street_name,3
+STROUD AVENUE,street_name,3
+STRYKER COURT,street_name,1
+STRYKER STREET,street_name,43
+STUART STREET,street_name,12
+STUDIO LANE,street_name,2
+STUYVESANT AVENUE,street_name,745
+STUYVESANT OVAL,street_name,609
+STUYVESANT PLACE,street_name,130
+STUYVESANT STREET,street_name,64
+SUFFOLK AVENUE,street_name,1
+SUFFOLK DRIVE,street_name,2
+SUFFOLK STREET,street_name,195
+SULLIVAN PLACE,street_name,883
+SULLIVAN ROAD,street_name,3
+SULLIVAN STREET,street_name,339
+SUMMER STREET,street_name,3
+SUMMERFIELD STREET,street_name,435
+SUMMIT AVENUE,street_name,919
+SUMMIT COURT,street_name,1
+SUMMIT PLACE,street_name,2
+SUMMIT STREET,street_name,22
+SUMNER AVENUE,street_name,3
+SUMNER PLACE,street_name,1
+SUMPTER STREET,street_name,727
+SUNBURY ROAD,street_name,1
+SUNNYSIDE AVENUE,street_name,286
+SUNNYSIDE COURT,street_name,12
+SUNNYSIDE STREET,street_name,3
+SUNRISE COURT,street_name,4
+SUNSET AVENUE,street_name,3
+SUNSET BOULEVARD,street_name,2
+SUPERIOR RD OV BELT CROSS IS PY,street_name,1
+SURF AVENUE,street_name,368
+SURF DRIVE,street_name,2
+SURFSIDE PLAZA,street_name,1
+SUSAN COURT,street_name,1
+SUTPHIN BOULEVARD,street_name,697
+SUTTER AVENUE,street_name,1167
+SUTTER PLACE,street_name,1
+SUTTON PLACE,street_name,11
+SUTTON PLACE SOUTH,street_name,9
+SUTTON STREET,street_name,76
+SUYDAM PLACE,street_name,14
+SUYDAM STREET,street_name,744
+SWAIM AVENUE,street_name,1
+SWAN STREET,street_name,16
+SWEETBROOK ROAD,street_name,1
+SWEETWATER AVENUE,street_name,1
+SWINTON AVENUE,street_name,28
+SYLVA LANE,street_name,4
+SYLVAN AVENUE,street_name,4
+SYLVAN TERRACE,street_name,1
+SYLVIA STREET,street_name,4
+TAAFFE PLACE,street_name,315
+TABB PLACE,street_name,5
+TABOR COURT,street_name,8
+TAFT AVENUE,street_name,90
+TAHOE STREET,street_name,14
+TAIPEI COURT,street_name,14
+TALBOT STREET,street_name,132
+TANGLEWOOD DRIVE,street_name,1
+TAPSCOTT STREET,street_name,413
+TARGEE STREET,street_name,255
+TARLEE PLACE,street_name,1
+TARRYTOWN AVENUE,street_name,1
+TAXTER PLACE,street_name,10
+TAYLOR AVENUE,street_name,2066
+TAYLOR STREET,street_name,67
+TEHAMA STREET,street_name,93
+TELLER AVENUE,street_name,1038
+TEN EYCK STREET,street_name,198
+TENBROECK AVENUE,street_name,81
+TENNIS COURT,street_name,234
+TENNYSON DRIVE,street_name,1
+TERRACE COURT,street_name,4
+TERRACE PLACE,street_name,4
+TERRACE VIEW AVENUE,street_name,170
+TESSA COURT,street_name,17
+THAMES STREET,street_name,68
+THATFORD AVENUE,street_name,214
+THAYER STREET,street_name,876
+THERIOT AVENUE,street_name,209
+THIERIOT AVENUE,street_name,1129
+THIRD AVENUE,street_name,33
+THISTLE COURT,street_name,1
+THOLLEN STREET,street_name,1
+THOMAS BOYLAND STREET,street_name,204
+THOMAS PLACE,street_name,1
+THOMAS S BOULAND STREET,street_name,1
+THOMAS S BOYLAND STREET,street_name,366
+THOMAS STREET,street_name,7
+THOMPSON AVENUE,street_name,2
+THOMPSON PLACE,street_name,1
+THOMPSON STREET,street_name,1086
+THORNTON PLACE,street_name,29
+THORNYCROFT AVENUE,street_name,1
+THROGMORTON AVENUE,street_name,1
+THROGS NECK BOULEVARD,street_name,26
+THROGS NECK EXPRESSWAY,street_name,24
+THROOP AVE,street_name,2
+THROOP AVENUE,street_name,796
+THURSBY AVENUE,street_name,16
+THURSTON STREET,street_name,17
+THWAITES PLACE,street_name,163
+TIBBETT AVENUE,street_name,18
+TIEBOUT AVENUE,street_name,4300
+TIEMANN AVENUE,street_name,129
+TIEMANN PLACE,street_name,638
+TIER STREET,street_name,1
+TIERNEY PLACE,street_name,3
+TIFFANY PLACE,street_name,99
+TIFFANY STREET,street_name,173
+TILDEN AVENUE,street_name,286
+TILDEN STREET,street_name,151
+TILLARY STREET,street_name,3
+TILLOTSON AVENUE,street_name,63
+TIMBER RIDGE DRIVE,street_name,3
+TIMPSON PLACE,street_name,274
+TINTON AVENUE,street_name,1690
+TIOGA STREET,street_name,2
+TITUS AVENUE,street_name,14
+TOMLINSON AVENUE,street_name,43
+TOMPKINS AVENUE,street_name,1461
+TOMPKINS CIRCLE,street_name,6
+TOMPKINS COURT,street_name,21
+TOMPKINS PLACE,street_name,3
+TOMPKINS STREET,street_name,40
+TONE LANE,street_name,1
+TOPPING AVENUE,street_name,883
+TORRY AVENUE,street_name,9
+TOWNSEND AVENUE,street_name,2120
+TRAFALGAR PLACE,street_name,10
+TRANTOR PLACE,street_name,212
+TRATMAN AVENUE,street_name,540
+TRAVIS AVENUE,street_name,28
+TREADWELL AVENUE,street_name,39
+TRINA LANE,street_name,2
+TRINITY AVENUE,street_name,744
+TRINITY PLACE,street_name,8
+TROSSACH ROAD,street_name,7
+TROTTING COURSE LANE,street_name,12
+TROUTMAN STREET,street_name,755
+TROUTVILLE ROAD,street_name,9
+TROY AVENUE,street_name,1040
+TRUCKELMANS LANE,street_name,1
+TRUMAN STREET,street_name,1
+TRUMBULL PLACE,street_name,6
+TRUXTON STREET,street_name,49
+TRYON AVENUE,street_name,303
+TRYON PLACE,street_name,3
+TUCKAHOE AVENUE,street_name,3
+TUCKERTON STREET,street_name,1
+TUDOR CITY PLACE,street_name,219
+TUDOR PLACE,street_name,27
+TUDOR ROAD,street_name,1
+TURIN DRIVE,street_name,1
+TURNBULL AVENUE,street_name,53
+TURNER PLACE,street_name,228
+TURNEUR AVENUE,street_name,9
+TUSKEGEE AIRMAN WAY,street_name,1
+TWIN OAK DRIVE,street_name,1
+TWIN PINES DRIVE,street_name,18
+TYLER AVENUE,street_name,1
+TYNDALE STREET,street_name,9
+TYNDALL AVENUE,street_name,6
+TYSEN STREET,street_name,12
+TYSENS LANE,street_name,213
+UNDERCLIFF AVENUE,street_name,1339
+UNDERHILL AVENUE,street_name,599
+UNION AVENUE,street_name,1541
+UNION COURT,street_name,5
+UNION HALL STREET,street_name,107
+UNION PORT ROAD,street_name,1
+UNION SQUARE,street_name,4
+UNION SQUARE SOUTH,street_name,1
+UNION STREET,street_name,4081
+UNION TURNPIKE,street_name,441
+UNIONPORT ROAD,street_name,1016
+UNIVERSITY AVENUE,street_name,4035
+UNIVERSITY PLACE,street_name,239
+UNIVERSITY PLAZA,street_name,3
+UPTON STREET,street_name,1
+URSINA ROAD,street_name,3
+USS IOWA CIRCLE,street_name,1
+UTAH STREET,street_name,1
+UTICA AVENUE,street_name,861
+UTOPIA COURT,street_name,1
+UTOPIA PARKWAY,street_name,74
+UXBRIDGE STREET,street_name,1
+VALENTINE AVENUE,street_name,5521
+VALLES AVENUE,street_name,23
+VAN ALLEN AVENUE,street_name,2
+VAN BRUNT STREET,street_name,240
+VAN BUREN STREET,street_name,809
+VAN CLEEF STREET,street_name,66
+VAN CORLEAR PLACE,street_name,9
+VAN CORTLANDT AVENUE,street_name,4
+VAN CORTLANDT AVENUE EAST,street_name,59
+VAN CORTLANDT AVENUE WEST,street_name,431
+VAN CORTLANDT PARK EAST,street_name,46
+VAN CORTLANDT PARK SOUTH,street_name,47
+VAN DAM STREET,street_name,17
+VAN DOREN STREET,street_name,20
+VAN DUZER STREET,street_name,285
+VAN HOESEN AVENUE,street_name,1
+VAN HORN STREET,street_name,11
+VAN KLEECK STREET,street_name,219
+VAN LOON STREET,street_name,8
+VAN NAME AVENUE,street_name,12
+VAN NEST AVENUE,street_name,371
+VAN NOSTRAND COURT,street_name,2
+VAN PELT AVENUE,street_name,80
+VAN RIPER STREET,street_name,6
+VAN SICKLEN STREET,street_name,58
+VAN SICLEN AVE,street_name,7
+VAN SICLEN AVENUE,street_name,828
+VAN SICLEN STREET,street_name,10
+VAN SINDEREN AVENUE,street_name,15
+VAN TUYL STREET,street_name,45
+VAN WYCK AVENUE,street_name,1
+VAN WYCK EXPRESSWAY,street_name,95
+VAN WYCK EXPRESSWAY SR EAST,street_name,35
+VAN WYCK EXPRESSWAY SR WEST,street_name,102
+VANBUREN STREET,street_name,1
+VANDALIA AVENUE,street_name,266
+VANDAM STREET,street_name,1
+VANDERBILT AVENUE,street_name,712
+VANDERBILT STREET,street_name,7
+VANDERVEER PLACE,street_name,3
+VANDERVEER STREET,street_name,126
+VARET STREET,street_name,77
+VARIAN AVENUE,street_name,3
+VARICK AVENUE,street_name,8
+VARICK STREET,street_name,32
+VASSAR STREET,street_name,11
+VASWANI AVENUE,street_name,28
+VAUGHAN STREET,street_name,1
+VEDDER AVENUE,street_name,11
+VELTMAN AVENUE,street_name,4
+VENUS PLACE,street_name,1
+VERA STREET,street_name,7
+VERMILYEA AVENUE,street_name,2488
+VERMONT AVENUE,street_name,42
+VERMONT COURT,street_name,19
+VERMONT STREET,street_name,1038
+VERNON AVENUE,street_name,2158
+VERNON BOULEVARD,street_name,203
+VERONA PLACE,street_name,19
+VERONA STREET,street_name,20
+VERONICA PLACE,street_name,56
+VESTRY STREET,street_name,3
+VETERANS AVENUE,street_name,4
+VETERANS ROAD WEST,street_name,1
+VICTOR STREET,street_name,194
+VICTORIA DRIVE,street_name,2
+VICTORIA ROAD,street_name,12
+VICTORY BOULEVARD,street_name,527
+VIETOR AVENUE,street_name,200
+VILLA AVENUE,street_name,1193
+VILLA NOVA STREET,street_name,1
+VILLAGE LANE,street_name,3
+VILLAGE ROAD,street_name,90
+VILLAGE ROAD EAST,street_name,3
+VILLAGE ROAD NORTH,street_name,4
+VILLAGE ROAD SOUTH,street_name,5
+VINCENT AVENUE,street_name,26
+VINELAND AVENUE,street_name,6
+VIREO AVENUE,street_name,307
+VIRGIL PLACE,street_name,78
+VIRGINIA AVENUE,street_name,286
+VIRGINIA PLACE,street_name,3
+VISITATION PLACE,street_name,113
+VISTA AVENUE,street_name,1
+VLEIGH PLACE,street_name,8
+VOGEL AVENUE,street_name,2
+VOORHEES AVENUE,street_name,1
+VOORHIES AVENUE,street_name,170
+VREELAND AVENUE,street_name,9
+VREELAND STREET,street_name,34
+VULCAN STREET,street_name,30
+VYSE AVENUE,street_name,1727
+WADSWORTH AVENUE,street_name,3440
+WADSWORTH TERRACE,street_name,1311
+WAGNER STREET,street_name,4
+WAINWRIGHT AVENUE,street_name,5
+WAKEFIELD AVENUE,street_name,2
+WAKEMAN PLACE,street_name,6
+WALBROOKE AVENUE,street_name,1
+WALCOTT AVENUE,street_name,3
+WALDO AVENUE,street_name,177
+WALDRON AVENUE,street_name,2
+WALDRON STREET,street_name,133
+WALES AVENUE,street_name,296
+WALKER DRIVE,street_name,2
+WALKER STREET,street_name,22
+WALL STREET,street_name,110
+WALLABOUT STREET,street_name,218
+WALLACE AVENUE,street_name,4953
+WALLOON STREET,street_name,15
+WALNUT STREET,street_name,5
+WALTHAM STREET,street_name,67
+WALTON AVENUE,street_name,9720
+WALTON STREET,street_name,61
+WALWORTH STREET,street_name,1
+WANDEL AVENUE,street_name,3
+WANDELL AVENUE,street_name,8
+WARD AVENUE,street_name,701
+WARDS MEADOW LOOP,street_name,1
+WARDWELL AVENUE,street_name,1
+WARING AVENUE,street_name,399
+WARREN STREET,street_name,267
+WARWICK CRESCENT,street_name,8
+WARWICK STREET,street_name,345
+WASHINGTON AVE,street_name,1
+WASHINGTON AVENUE,street_name,6239
+WASHINGTON PARK,street_name,108
+WASHINGTON SQUARE NORTH,street_name,11
+WASHINGTON SQUARE SOUTH,street_name,1
+WASHINGTON SQUARE VILLAGE,street_name,30
+WASHINGTON SQUARE WEST,street_name,4
+WASHINGTON STREET,street_name,287
+WASHINGTON TERRACE,street_name,4
+WATCHOGUE ROAD,street_name,17
+WATER STREET,street_name,368
+WATERBURY AVENUE,street_name,59
+WATERBURY STREET,street_name,1
+WATERLOO PLACE,street_name,64
+WATERS EDGE DRIVE,street_name,1
+WATERS PLACE,street_name,4
+WATERSIDE PLAZA,street_name,42
+WATERSIDE STREET,street_name,1
+WATERSTONE DRIVE,street_name,1
+WATERVIEW COURT,street_name,2
+WATJEAN COURT,street_name,8
+WATKINS AVENUE,street_name,2
+WATKINS STREET,street_name,310
+WATSON AVENUE,street_name,294
+WATSON PLACE,street_name,36
+WATTS STREET,street_name,2
+WAVE STREET,street_name,1
+WAVECREST STREET,street_name,3
+WAVERLY AVENUE,street_name,101
+WAVERLY PLACE,street_name,174
+WAYNE AVENUE,street_name,147
+WAYNE STREET,street_name,13
+WEBB AVENUE,street_name,4512
+WEBERS COURT,street_name,2
+WEBSTER AVENUE,street_name,3458
+WEBSTER PLACE,street_name,1
+WEED AVENUE,street_name,3
+WEEHAWKEN STREET,street_name,2
+WEEKS AVENUE,street_name,1091
+WEIHER COURT,street_name,11
+WEINER STREET,street_name,1
+WEIRFIELD STREET,street_name,261
+WELDON STREET,street_name,80
+WELLBROOK AVENUE,street_name,3
+WELLER AVENUE,street_name,4
+WELLER LANE,street_name,25
+WELLING COURT,street_name,25
+WELLINGTON COURT,street_name,90
+WELLMAN AVENUE,street_name,7
+WENNER PLACE,street_name,36
+WENTWORTH AVENUE,street_name,1
+WEST 1 STREET,street_name,826
+WEST 10 STREET,street_name,774
+WEST 100 STREET,street_name,118
+WEST 101 STREET,street_name,366
+WEST 102 STREET,street_name,580
+WEST 103 STREET,street_name,581
+WEST 104 STREET,street_name,874
+WEST 105 STREET,street_name,332
+WEST 106 STREET,street_name,585
+WEST 107 STREET,street_name,1771
+WEST 108 STREET,street_name,582
+WEST 109 STREET,street_name,997
+WEST 11 ROAD,street_name,3
+WEST 11 STREET,street_name,537
+WEST 110 STREET,street_name,83
+WEST 111 STREET,street_name,1720
+WEST 112 STREET,street_name,467
+WEST 113 STREET,street_name,550
+WEST 114 STREET,street_name,317
+WEST 115 STREET,street_name,405
+WEST 116 STREET,street_name,1129
+WEST 117 STREET,street_name,402
+WEST 118 STREET,street_name,692
+WEST 119 STREET,street_name,730
+WEST 12 STREET,street_name,538
+WEST 120 STREET,street_name,476
+WEST 121 STREET,street_name,553
+WEST 122 STREET,street_name,971
+WEST 123 STREET,street_name,864
+WEST 124 STREET,street_name,421
+WEST 125 STREET,street_name,922
+WEST 126 STREET,street_name,497
+WEST 127 STREET,street_name,1071
+WEST 128 STREET,street_name,490
+WEST 129 STREET,street_name,1290
+WEST 13 STREET,street_name,293
+WEST 130 STREET,street_name,753
+WEST 131 STREET,street_name,637
+WEST 132 STREET,street_name,547
+WEST 133 STREET,street_name,1267
+WEST 133RD STREET,street_name,3
+WEST 134 STREET,street_name,1157
+WEST 135 STREET,street_name,3197
+WEST 136 STREET,street_name,1758
+WEST 137 STREET,street_name,1807
+WEST 137TH ST,street_name,12
+WEST 138 STREET,street_name,1828
+WEST 139 STREET,street_name,2909
+WEST 14 STREET,street_name,808
+WEST 140 STREET,street_name,1300
+WEST 141 STREET,street_name,3495
+WEST 142 STREET,street_name,2082
+WEST 143 STREET,street_name,1061
+WEST 144 STREET,street_name,1681
+WEST 145 STREET,street_name,2412
+WEST 146 STREET,street_name,1238
+WEST 147 STREET,street_name,2222
+WEST 148 STREET,street_name,1077
+WEST 149 STREET,street_name,1603
+WEST 15 PLACE,street_name,2
+WEST 15 STREET,street_name,567
+WEST 150 STREET,street_name,1629
+WEST 151 STREET,street_name,1938
+WEST 152 STREET,street_name,1460
+WEST 153 STREET,street_name,417
+WEST 154 STREET,street_name,520
+WEST 155 STREET,street_name,200
+WEST 156 STREET,street_name,1027
+WEST 157 STREET,street_name,681
+WEST 158 STREET,street_name,1218
+WEST 159 STREET,street_name,1336
+WEST 16 STREET,street_name,948
+WEST 160 STREET,street_name,1294
+WEST 161 STREET,street_name,1157
+WEST 162 STREET,street_name,1595
+WEST 163 STREET,street_name,598
+WEST 164 STREET,street_name,1002
+WEST 165 STREET,street_name,371
+WEST 166 STREET,street_name,212
+WEST 167 STREET,street_name,392
+WEST 168 STREET,street_name,423
+WEST 169 STREET,street_name,624
+WEST 17 STREET,street_name,531
+WEST 170 STREET,street_name,1345
+WEST 170TH STREET,street_name,25
+WEST 171 STREET,street_name,811
+WEST 172 STREET,street_name,1844
+WEST 173 STREET,street_name,770
+WEST 174 STREET,street_name,777
+WEST 175 STREET,street_name,648
+WEST 176 STREET,street_name,454
+WEST 177 STREET,street_name,1537
+WEST 178 STREET,street_name,794
+WEST 179 STREET,street_name,1154
+WEST 18 STREET,street_name,172
+WEST 180 STREET,street_name,1542
+WEST 181 STREET,street_name,1329
+WEST 182 STREET,street_name,1076
+WEST 183 STREET,street_name,1532
+WEST 184 STREET,street_name,1054
+WEST 185 STREET,street_name,168
+WEST 186 STREET,street_name,871
+WEST 187 STREET,street_name,998
+WEST 188 STREET,street_name,727
+WEST 189 STREET,street_name,948
+WEST 19 STREET,street_name,418
+WEST 190 STREET,street_name,807
+WEST 191 STREET,street_name,678
+WEST 192 STREET,street_name,675
+WEST 193 STREET,street_name,284
+WEST 195 STREET,street_name,234
+WEST 196 STREET,street_name,170
+WEST 197 STREET,street_name,691
+WEST 2 STREET,street_name,283
+WEST 20 STREET,street_name,375
+WEST 202 STREET,street_name,1
+WEST 204 STREET,street_name,1340
+WEST 205 STREET,street_name,248
+WEST 206 STREET,street_name,36
+WEST 207 STREET,street_name,598
+WEST 21 STREET,street_name,787
+WEST 211 STREET,street_name,357
+WEST 212 STREET,street_name,692
+WEST 213 STREET,street_name,335
+WEST 214 STREET,street_name,112
+WEST 215 STREET,street_name,134
+WEST 217 STREET,street_name,1
+WEST 218 STREET,street_name,329
+WEST 22 STREET,street_name,746
+WEST 225 STREET,street_name,320
+WEST 227 STREET,street_name,23
+WEST 228 STREET,street_name,214
+WEST 23 STREET,street_name,817
+WEST 230 STREET,street_name,357
+WEST 231 STREET,street_name,84
+WEST 232 STREET,street_name,211
+WEST 233 STREET,street_name,78
+WEST 234 STREET,street_name,5
+WEST 235 STREET,street_name,74
+WEST 236 STREET,street_name,72
+WEST 237 STREET,street_name,6
+WEST 238 STREET,street_name,715
+WEST 239 STREET,street_name,66
+WEST 23RD,street_name,6
+WEST 24 STREET,street_name,1277
+WEST 240 STREET,street_name,45
+WEST 242 STREET,street_name,816
+WEST 246 STREET,street_name,91
+WEST 25 STREET,street_name,626
+WEST 250 STREET,street_name,1
+WEST 251 STREET,street_name,113
+WEST 252 STREET,street_name,11
+WEST 254 STREET,street_name,2
+WEST 256 STREET,street_name,15
+WEST 259 STREET,street_name,17
+WEST 26 STREET,street_name,167
+WEST 260 STREET,street_name,4
+WEST 261 STREET,street_name,11
+WEST 263 STREET,street_name,2
+WEST 27 STREET,street_name,633
+WEST 28 STREET,street_name,519
+WEST 29 STREET,street_name,388
+WEST 3 STREET,street_name,322
+WEST 30 STREET,street_name,968
+WEST 31 STREET,street_name,229
+WEST 32 STREET,street_name,6
+WEST 33 STREET,street_name,163
+WEST 34 STREET,street_name,112
+WEST 35 STREET,street_name,242
+WEST 36 STREET,street_name,458
+WEST 37 STREET,street_name,174
+WEST 38 STREET,street_name,51
+WEST 39 STREET,street_name,262
+WEST 4 STREET,street_name,1005
+WEST 40 STREET,street_name,126
+WEST 41 STREET,street_name,28
+WEST 42 STREET,street_name,760
+WEST 43 STREET,street_name,282
+WEST 44 STREET,street_name,415
+WEST 45 STREET,street_name,1305
+WEST 46 STREET,street_name,1095
+WEST 47 STREET,street_name,1236
+WEST 48 STREET,street_name,965
+WEST 49 STREET,street_name,714
+WEST 5 STREET,street_name,691
+WEST 50 STREET,street_name,484
+WEST 51 STREET,street_name,1148
+WEST 52 STREET,street_name,494
+WEST 53 STREET,street_name,196
+WEST 54 STREET,street_name,287
+WEST 55 STREET,street_name,862
+WEST 56 STREET,street_name,367
+WEST 57 STREET,street_name,457
+WEST 58 STREET,street_name,763
+WEST 59 STREET,street_name,39
+WEST 6 STREET,street_name,367
+WEST 60 STREET,street_name,20
+WEST 61 STREET,street_name,7
+WEST 62 STREET,street_name,12
+WEST 63 STREET,street_name,95
+WEST 64 STREET,street_name,230
+WEST 65 STREET,street_name,74
+WEST 66 STREET,street_name,1
+WEST 67 STREET,street_name,16
+WEST 68 STREET,street_name,216
+WEST 69 STREET,street_name,235
+WEST 7 STREET,street_name,717
+WEST 70 STREET,street_name,140
+WEST 71 STREET,street_name,804
+WEST 72 STREET,street_name,1028
+WEST 73 STREET,street_name,502
+WEST 74 STREET,street_name,253
+WEST 75 STREET,street_name,766
+WEST 76 STREET,street_name,531
+WEST 77 STREET,street_name,248
+WEST 78 STREET,street_name,113
+WEST 79 STREET,street_name,135
+WEST 8 STREET,street_name,531
+WEST 80 STREET,street_name,490
+WEST 81 STREET,street_name,237
+WEST 82 STREET,street_name,561
+WEST 83 STREET,street_name,1069
+WEST 84 STREET,street_name,369
+WEST 85 STREET,street_name,326
+WEST 86 STREET,street_name,881
+WEST 87 STREET,street_name,659
+WEST 88 STREET,street_name,513
+WEST 89 STREET,street_name,686
+WEST 9 STREET,street_name,206
+WEST 90 STREET,street_name,168
+WEST 91 STREET,street_name,166
+WEST 92 STREET,street_name,323
+WEST 93 STREET,street_name,532
+WEST 94 STREET,street_name,821
+WEST 95 STREET,street_name,671
+WEST 96 STREET,street_name,937
+WEST 97 STREET,street_name,642
+WEST 98 STREET,street_name,112
+WEST 99 STREET,street_name,400
+WEST AVENUE,street_name,111
+WEST BROADWAY,street_name,63
+WEST BUCHANAN STREET,street_name,3
+WEST BURNSIDE AVENUE,street_name,275
+WEST END AVENUE,street_name,3315
+WEST FARMS ROAD,street_name,385
+WEST FINGERBOARD ROAD,street_name,17
+WEST FORDHAM ROAD,street_name,195
+WEST GUN HILL ROAD,street_name,187
+WEST HOUSTON STREET,street_name,179
+WEST KINGSBRIDGE ROAD,street_name,908
+WEST MOSHOLU PARKWAY NORTH,street_name,540
+WEST MOSHOLU PARKWAY SOUTH,street_name,362
+WEST MT EDEN AVENUE,street_name,10
+WEST STREET,street_name,335
+WEST TERRACE,street_name,1
+WEST TREMONT AVENUE,street_name,826
+WEST WASHINGTON PLACE,street_name,17
+WESTBOURNE AVENUE,street_name,1
+WESTBROOK AVENUE,street_name,27
+WESTBURY COURT,street_name,447
+WESTCHESTER AVENUE,street_name,1451
+WESTCHESTER SQUARE,street_name,80
+WESTCOTT BOULEVARD,street_name,9
+WESTERVELT AVENUE,street_name,231
+WESTGATE STREET,street_name,2
+WESTMINSTER ROAD,street_name,490
+WESTSIDE AVENUE,street_name,5
+WETHEROLE STREET,street_name,446
+WEXFORD TERRACE,street_name,64
+WHARTON PLACE,street_name,1
+WHEATLEY STREET,street_name,2
+WHEELER AVENUE,street_name,778
+WHEELING AVENUE,street_name,2
+WHIPPLE STREET,street_name,61
+WHITAKER PLACE,street_name,2
+WHITE OAK COURT,street_name,2
+WHITE PLACE,street_name,7
+WHITE PLACE ROAD,street_name,1
+WHITE PLAINS AVENUE,street_name,1
+WHITE PLAINS ROAD,street_name,4548
+WHITE STREET,street_name,33
+WHITEHALL PLACE,street_name,1
+WHITEHALL STREET,street_name,1
+WHITEHALL TERRACE,street_name,6
+WHITELAW STREET,street_name,25
+WHITEPLAINS ROAD,street_name,8
+WHITESTONE EXPRESSWAY,street_name,4
+WHITESTONE PARKWAY ST EAST,street_name,3
+WHITMAN DRIVE,street_name,3
+WHITNEY AVENUE,street_name,474
+WHITNEY PLACE,street_name,6
+WICKHAM AVENUE,street_name,214
+WICKLOW PLACE,street_name,1
+WILBUR STREET,street_name,1
+WILCOX AVENUE,street_name,18
+WILD AVENUE,street_name,4
+WILDER AVENUE,street_name,176
+WILKINS AVENUE,street_name,1
+WILKINSON AVENUE,street_name,481
+WILLARD AVENUE,street_name,1
+WILLET AVENUE,street_name,9
+WILLETS POINT BOULEVARD,street_name,40
+WILLETT AVENUE,street_name,93
+WILLIAM STREET,street_name,131
+WILLIAMS AVENUE,street_name,774
+WILLIAMS COURT,street_name,1
+WILLIAMSBDG ROAD,street_name,1
+WILLIAMSBRIDGE ROAD,street_name,1189
+WILLIAMSON AVENUE,street_name,7
+WILLIS AVENUE,street_name,933
+WILLMOHR STREET,street_name,1144
+WILLOUGHBY AVENUE,street_name,1558
+WILLOUGHBY STREET,street_name,62
+WILLOW AVENUE,street_name,21
+WILLOW DRIVE,street_name,1
+WILLOW LANE,street_name,31
+WILLOW PLACE,street_name,1
+WILLOW ROAD EAST,street_name,3
+WILLOW ROAD WEST,street_name,78
+WILLOW STREET,street_name,83
+WILLOWBROOK COURT,street_name,3
+WILLOWBROOK ROAD,street_name,27
+WILLOWWOOD LANE,street_name,10
+WILSON AVENUE,street_name,1810
+WILSON STREET,street_name,23
+WILSON TERRACE,street_name,10
+WILTON COURT,street_name,2
+WIMAN AVENUE,street_name,10
+WIMAN PLACE,street_name,1
+WINANT AVENUE,street_name,1
+WINANT STREET,street_name,6
+WINCHESTER AVENUE,street_name,2
+WINCHESTER BOULEVARD,street_name,74
+WINDHAM LOOP,street_name,11
+WINDING WD LOOP,street_name,1
+WINDING WOOD LOOP,street_name,1
+WINDING WOODS LOOP,street_name,8
+WINDOM AVENUE,street_name,11
+WINDSOR PLACE,street_name,5
+WINDSOR ROAD,street_name,3
+WINFIELD AVENUE,street_name,1
+WINHAM AVENUE,street_name,10
+WINTER AVENUE,street_name,79
+WINTHROP PLACE,street_name,6
+WINTHROP STREET,street_name,2318
+WIRT AVENUE,street_name,5
+WISSMAN AVENUE,street_name,17
+WITHERS STREET,street_name,77
+WITTHOFF STREET,street_name,15
+WOLCOTT STREET,street_name,17
+WOLKOFF LANE,street_name,2
+WOLVERINE STREET,street_name,1
+WOOD AVENUE,street_name,6
+WOOD ROAD,street_name,278
+WOODBINE AVENUE,street_name,1
+WOODBINE STREET,street_name,938
+WOODCREST ROAD,street_name,1
+WOODCUTTERS LANE,street_name,15
+WOODDALE AVENUE,street_name,1
+WOODHAVEN BOULEVARD,street_name,424
+WOODHAVEN COURT,street_name,3
+WOODHULL AVENUE,street_name,312
+WOODHULL STREET,street_name,8
+WOODLAND AVENUE,street_name,1
+WOODPOINT ROAD,street_name,28
+WOODROSE LANE,street_name,5
+WOODROW ROAD,street_name,11
+WOODRUFF AVENUE,street_name,745
+WOODRUFF LANE,street_name,1
+WOODSIDE AVENUE,street_name,320
+WOODSTOCK AVENUE,street_name,2
+WOODVALE AVENUE,street_name,1
+WOODWARD AVENUE,street_name,528
+WOODYCREST AVENUE,street_name,2215
+WOOLEY AVENUE,street_name,1
+WOOLLEY AVENUE,street_name,12
+WOOSTER STREET,street_name,23
+WORLD TRADE CENTER,street_name,1
+WORTH STREET,street_name,3
+WORTMAN AVENUE,street_name,46
+WRIGHT AVENUE,street_name,23
+WRIGHT STREET,street_name,36
+WYATT STREET,street_name,273
+WYCKOFF AVENUE,street_name,986
+WYCKOFF STREET,street_name,132
+WYONA STREET,street_name,1052
+WYTHE AVENUE,street_name,78
+WYTHE PLACE,street_name,451
+XENIA STREET,street_name,33
+YACHT CLUB COVE,street_name,2
+YALE STREET,street_name,4
+YATES AVENUE,street_name,124
+YATES ROAD,street_name,22
+YELLOWSTONE BOULEVARD,street_name,905
+YETMAN AVENUE,street_name,3
+YORK AVENUE,street_name,1069
+YORK STREET,street_name,11
+YOUNG AVENUE,street_name,21
+YOUNG STREET,street_name,14
+ZACHARY COURT,street_name,2
+ZEREGA AVE,street_name,3
+ZEREGA AVENUE,street_name,447
+ZION STREET,street_name,1
+ZOE STREET,street_name,3
+ZOLLER ROAD,street_name,7
+ZULETTE AVENUE,street_name,4

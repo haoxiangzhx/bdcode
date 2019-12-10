@@ -1,0 +1,278 @@
+value,label,count
+6bc botanical garden,address,address
+100 centre st,address,address
+100 gold street,address,address
+137 centre street ,address,address
+22 reade st,address,address
+49 51 chambers street ,address,address
+111 centre st,address,address
+115 chrystie st,address,address
+346 broadway,address,address
+227th st. plgd,address,address
+1 centre street,address,address
+100 centre street ,address,address
+2 lafayette st ,address,address
+"alley springfield, picnic and athletic",address,address
+125 st. bid,address,address
+280 broadway,address,address
+60 lafayette st,address,address
+80 centre st,address,address
+96th st train station under our supervision,address,address
+van cortlandt stadium,building_name,building_name
+cadman plaza,building_name,building_name
+asser levy rec ctr,building_name,building_name
+hamilton fish recreation center,building_name,building_name
+inwood hill nature center,building_name,building_name
+lbh rec center,building_name,building_name
+greenbelt rec ctr,building_name,building_name
+skyview shopping plaza,building_name,building_name
+metropolitan rec ctr ,building_name,building_name
+west bronx rec. ctr,building_name,building_name
+brownsville rec ctr,building_name,building_name
+fort hamilton sr. center,building_name,building_name
+chelsea rec center,building_name,building_name
+rec center 54,building_name,building_name
+al oerter rec center ,building_name,building_name
+passerelle aquatics,building_name,building_name
+greenbelt nature center,building_name,building_name
+kingsbridge heights community center,building_name,building_name
+al smith rec ctr,building_name,building_name
+college of mt. st. vincent,college_name,college_name
+fordham university,college_name,college_name
+e tremont ave university ave,street_name,college_name
+mullaly,location_type,location_type
+olinville,location_type,location_type
+brower,location_type,location_type
+nursery,location_type,location_type
+hansboro,location_type,location_type
+highbridge,location_type,location_type
+metrotech,location_type,location_type
+desalvio,location_type,location_type
+bensonhurst,location_type,location_type
+boerum,location_type,location_type
+fab,location_type,location_type
+kelly,location_type,location_type
+underhill,location_type,location_type
+graniteville,location_type,location_type
+bronx botanical gardens,park_playground,park_playground
+bronx county courthouse,park_playground,park_playground
+bronx park,park_playground,park_playground
+bronx zoo,park_playground,park_playground
+isla verde garden,park_playground,park_playground
+little green garden 3 large lower expanse,park_playground,park_playground
+noble playground,park_playground,park_playground
+sachkera plgd – parks,park_playground,park_playground
+seton falls park,park_playground,park_playground
+spuyton duyvil plgd,park_playground,park_playground
+van cortlandt park ,park_playground,park_playground
+woodlawn tennis,park_playground,park_playground
+bushwick inlet field,park_playground,park_playground
+columbus park,park_playground,park_playground
+harry chapin plgd,park_playground,park_playground
+manhattan beach +bbq,park_playground,park_playground
+mcgorlick park,park_playground,park_playground
+palato plgd,park_playground,park_playground
+pierrepont park,park_playground,park_playground
+salt marsh,park_playground,park_playground
+underwood playground,park_playground,park_playground
+bennett park,park_playground,park_playground
+chelsea waterside park field,park_playground,park_playground
+coleman square playground,park_playground,park_playground
+john jay park,park_playground,park_playground
+lincoln square,park_playground,park_playground
+morris jumel ecological garden,park_playground,park_playground
+pier 25,park_playground,park_playground
+pier 40 dog run,park_playground,park_playground
+pier 40 roof,park_playground,park_playground
+pleasant village community garden,park_playground,park_playground
+vesuvio playground,park_playground,park_playground
+buzz o'rourke playground,park_playground,park_playground
+forest park,park_playground,park_playground
+glendale playground,park_playground,park_playground
+kissena park,park_playground,park_playground
+mcdonald park,park_playground,park_playground
+berry homes ballfield,park_playground,park_playground
+cloves lake,park_playground,park_playground
+macarthur park,park_playground,park_playground
+tottenville pool,park_playground,park_playground
+west brighton pool,park_playground,park_playground
+wolfe's pond,park_playground,park_playground
+edith community garden 830 elton tenants assoc.,park_playground,park_playground
+muskrat playground,park_playground,park_playground
+new hoe avenue garden,park_playground,park_playground
+river garden,park_playground,park_playground
+rosehill park parks,park_playground,park_playground
+skate park at allerton,park_playground,park_playground
+southwest plgd – parks,park_playground,park_playground
+"van cortlandt ballfield, tennis and picnic",park_playground,park_playground
+virginia park,park_playground,park_playground
+vogue community garden,park_playground,park_playground
+waring plgd,park_playground,park_playground
+commodore berry,park_playground,park_playground
+marine park ,park_playground,park_playground
+mccarren park ,park_playground,park_playground
+n. 5th st. pier,park_playground,park_playground
+new vision garden,park_playground,park_playground
+park slope,park_playground,park_playground
+prospect park ,park_playground,park_playground
+battery park city,park_playground,park_playground
+bryant park,park_playground,park_playground
+carrie mccracken garden truce,park_playground,park_playground
+chelsea waterside park playground,park_playground,park_playground
+east river park dsny partnership,park_playground,park_playground
+father dumo square,park_playground,park_playground
+foley square dsny partnership,park_playground,park_playground
+harlem river ballfield,park_playground,park_playground
+harrison st basketball court,park_playground,park_playground
+hudson river park,park_playground,park_playground
+jacob javits playground,park_playground,park_playground
+maggie's garden,park_playground,park_playground
+mobilization for change community garden,park_playground,park_playground
+payson playground,park_playground,park_playground
+pier 45,park_playground,park_playground
+pier 57,park_playground,park_playground
+union square ,park_playground,park_playground
+washington square park,park_playground,park_playground
+west 124th street community garden,park_playground,park_playground
+west 4th st. courts plgd,park_playground,park_playground
+b.c.c.a. mini park and garden,park_playground,park_playground
+brookville park,park_playground,park_playground
+byrne park,park_playground,park_playground
+cunningham tennis courts,park_playground,park_playground
+flushing meadows pool,park_playground,park_playground
+george eagle carr community garden,park_playground,park_playground
+phil rizzuto park ,park_playground,park_playground
+travers park,park_playground,park_playground
+william simmons community garden club,park_playground,park_playground
+corporal thompson playground,park_playground,park_playground
+faber pool,park_playground,park_playground
+greenbelt park ,park_playground,park_playground
+prall playground,park_playground,park_playground
+bradley playground,park_playground,park_playground
+bronx park playground at lydig,park_playground,park_playground
+concrete plant park,park_playground,park_playground
+family group garden,park_playground,park_playground
+hunt's point riverside park plgd parks,park_playground,park_playground
+las casitas communitiy garden,park_playground,park_playground
+mill pond,park_playground,park_playground
+river park,park_playground,park_playground
+sunflower garden girasol,park_playground,park_playground
+a better community garden,park_playground,park_playground
+carroll park,park_playground,park_playground
+cuyler gore park,park_playground,park_playground
+park slope playground ,park_playground,park_playground
+red gate garden,park_playground,park_playground
+red hook park,park_playground,park_playground
+shore road plgd,park_playground,park_playground
+st. nicholas olive street garden,park_playground,park_playground
+sternberg park,park_playground,park_playground
+"triple r relaxation, reflection, revenue victoria garden",park_playground,park_playground
+battery park dsny partnership,park_playground,park_playground
+bleecker st. playground,park_playground,park_playground
+bryant park bryant park corp.,park_playground,park_playground
+city hall park ,park_playground,park_playground
+columbus park dsny partnership,park_playground,park_playground
+hamilton fish,park_playground,park_playground
+high line park,park_playground,park_playground
+imagination playground,park_playground,park_playground
+mccaffry plgd – parks,park_playground,park_playground
+our little green acres garden eight,park_playground,park_playground
+parks council success garden p.s. 175 i.s. 275,park_playground,park_playground
+rucker park parks,park_playground,park_playground
+times square,park_playground,park_playground
+verdi square,park_playground,park_playground
+alley pond environmental,park_playground,park_playground
+baisley pond park,park_playground,park_playground
+elmhurst park,park_playground,park_playground
+juniper valley park,park_playground,park_playground
+marie curie playground,park_playground,park_playground
+playground for all children,park_playground,park_playground
+pomonok playground,park_playground,park_playground
+rocket park ,park_playground,park_playground
+socrates park,park_playground,park_playground
+lyons pool,park_playground,park_playground
+mahony playground,park_playground,park_playground
+midland beach,park_playground,park_playground
+silver lake dog run,park_playground,park_playground
+south beach,park_playground,park_playground
+walker park,park_playground,park_playground
+willowbrook park,park_playground,park_playground
+bryant hill community garden,park_playground,park_playground
+crotona park ,park_playground,park_playground
+echo park,park_playground,park_playground
+french charley playground,park_playground,park_playground
+hornaday community garden volky flower garden,park_playground,park_playground
+"orchard beach picnic areas, basketball ct, pelham playground, nature center, boathouse",park_playground,park_playground
+quarry ballfield parks,park_playground,park_playground
+city line park,park_playground,park_playground
+cobble hill park,park_playground,park_playground
+david marcus plgd,park_playground,park_playground
+herbal garden,park_playground,park_playground
+mt. prospect plgd,park_playground,park_playground
+squibb park,park_playground,park_playground
+sunset park,park_playground,park_playground
+underhill playground,park_playground,park_playground
+chelsea park,park_playground,park_playground
+jackson square,park_playground,park_playground
+morningside park,park_playground,park_playground
+pier 25 mini golf skate park,park_playground,park_playground
+pier 25 playground,park_playground,park_playground
+pier 40,park_playground,park_playground
+pier 84 44 st park building,park_playground,park_playground
+riverside park plgd @ 83rd st.,park_playground,park_playground
+seward park,park_playground,park_playground
+tompkins square park,park_playground,park_playground
+washington market playground,park_playground,park_playground
+a.r.r.o.w. field house,park_playground,park_playground
+addabo park,park_playground,park_playground
+astoria park,park_playground,park_playground
+bland playground,park_playground,park_playground
+charybdis plgd,park_playground,park_playground
+crocheron park,park_playground,park_playground
+flushing meadows corona park,park_playground,park_playground
+hoffman park,park_playground,park_playground
+queens zoo,park_playground,park_playground
+rainey park,park_playground,park_playground
+rockaway beach ,park_playground,park_playground
+sunnyside garden park,park_playground,park_playground
+cedar grove beach,park_playground,park_playground
+dematti playground,park_playground,park_playground
+john m. d'amato field,park_playground,park_playground
+silver lake tennis,park_playground,park_playground
+parks academy,school_name,school_name
+gregory's garden p.s. 158 memorial garden,park_playground,site_name
+grand central,site_name,site_name
+clove lake garage complex,site_name,site_name
+brooklyn war memorial,site_name,site_name
+whitehall ferry terminal,site_name,site_name
+fashion bid,site_name,site_name
+staten island ferry terminal,site_name,site_name
+myrtle ave bid,site_name,site_name
+burke bridge,street_name,street_name
+e 174 st manor ave,street_name,street_name
+vernon throop avenue block assoc.,street_name,street_name
+bayard st baxter st,street_name,street_name
+courtyard west ,street_name,street_name
+austin e,street_name,street_name
+e tremont ave bruckner blvd,street_name,street_name
+"pelham bay ball field, north picnic area",street_name,street_name
+ucc united community centers youth farm east new york farms,street_name,street_name
+34th st,street_name,street_name
+broadway park place,street_name,street_name
+dsny main office worth st,street_name,street_name
+wall street water front,street_name,street_name
+west end avenuw,street_name,street_name
+arthur ave e 187 st,street_name,street_name
+e 176 st marmion ave,street_name,street_name
+bellevue south,street_name,street_name
+centre st chambers st,street_name,street_name
+park row beekman street,street_name,street_name
+promenade south,street_name,street_name
+steinway st,street_name,street_name
+150 st,street_name,street_name
+e gun hill rd bronxwood ave,street_name,street_name
+hub 3rd ave,street_name,street_name
+southern blvd e 173 st,street_name,street_name
+south oxport ,street_name,street_name
+broadway murray st,street_name,street_name
+wall street south front,street_name,street_name

@@ -1,0 +1,69 @@
+value,label,count
+2 dr sedan,vehicle_type,1
+4 dr sedan,vehicle_type,1
+4DSD,vehicle_type,1
+AM,vehicle_type,1
+AMBULANCE,vehicle_type,1
+Ambulance,vehicle_type,1
+BICYCLE,vehicle_type,1
+BOAT,vehicle_type,1
+BU,vehicle_type,1
+BUS,vehicle_type,1
+Beverage Truck,vehicle_type,1
+Bike,vehicle_type,1
+Box Truck,vehicle_type,1
+Bus,vehicle_type,1
+CB,vehicle_type,1
+CM,vehicle_type,1
+CONV,vehicle_type,1
+Carry All,vehicle_type,1
+Concrete Mixer,vehicle_type,1
+Convertible,vehicle_type,1
+DP,vehicle_type,1
+DS,vehicle_type,1
+Deliv,vehicle_type,1
+Dump,vehicle_type,1
+FB,vehicle_type,1
+FDNY,vehicle_type,1
+FIRE TRUCK,vehicle_type,1
+Fire,vehicle_type,1
+GG,vehicle_type,1
+Garbage or Refuse,vehicle_type,1
+LARGE COM VEH(6 OR MORE TIRES),vehicle_type,1
+LIVERY VEHICLE,vehicle_type,1
+LL,vehicle_type,1
+MD,vehicle_type,1
+MOTORCYCLE,vehicle_type,1
+Moped,vehicle_type,1
+Motorcycle,vehicle_type,1
+Motorscooter,vehicle_type,1
+PASSENGER VEHICLE,vehicle_type,1
+PEDICAB,vehicle_type,1
+PICK-,vehicle_type,1
+PICK-UP TRUCK,vehicle_type,1
+PK,vehicle_type,1
+Pick-up Truck,vehicle_type,1
+RF,vehicle_type,1
+SCOOTER,vehicle_type,1
+SMALL COM VEH(4 TIRES) ,vehicle_type,1
+SPORT UTILITY / STATION WAGON,vehicle_type,1
+SPRIN,vehicle_type,1
+Sedan,vehicle_type,1
+Station Wagon/Sport Utility Vehicle,vehicle_type,1
+TAXI,vehicle_type,1
+TK,vehicle_type,1
+TN,vehicle_type,1
+TOYOT,vehicle_type,1
+TR,vehicle_type,1
+TRAIL,vehicle_type,1
+TT,vehicle_type,1
+Taxi,vehicle_type,1
+Tow Truck / Wrecker,vehicle_type,1
+Tractor Truck Diesel,vehicle_type,1
+Tractor Truck Gasoline,vehicle_type,1
+VAN,vehicle_type,1
+VN,vehicle_type,1
+Van,vehicle_type,1
+White,vehicle_type,1
+trail,vehicle_type,1
+us po,vehicle_type,1

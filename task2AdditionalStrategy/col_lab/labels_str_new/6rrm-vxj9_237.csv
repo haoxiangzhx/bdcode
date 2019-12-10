@@ -1,0 +1,299 @@
+value,label,count
+grass strip along bqe promenade at pierrepont street,address,address
+franklin d. roosevelt boardwalk and beach,address,address
+park at st. james place and oliver street,address,address
+leif ericson park and square,park_playground,address
+grass strip along bqe promenade between remsen and montague streets,address,address
+p.s. 18 and patterson houses playground,park_playground,address
+metropolitan pool and public bath,park_playground,address
+memorial park at richmond road and new dorp lane,address,address
+triangle at east 10th street and stuyvesant place,address,address
+memorial circle on rockaway beach boulevard between beach 120th and beach 121st streets,address,address
+highbridge recreation center and park,park_playground,address
+brownsville recreation center and playground,park_playground,address
+"memorial grass strip at east 138th street, grand concourse, and major deegan boulevard",address,address
+mall on 18th avenue between 126th and 127th streets,address,address
+"louis valentino, jr. park and pier",park_playground,address
+sitting area on 1st avenue between east 41st and 42nd streets,address,address
+park strip along bruckner boulevard at morrison avenue,address,address
+sitting area along grand central parkway at 78th avenue,address,address
+williamsburg bridge plaza and playground,address,address
+park avenue center plots,building_name,building_name
+hammarskjold plaza,building_name,building_name
+cherry mall,building_name,building_name
+bell boulevard malls,building_name,building_name
+flushing park center plots,building_name,building_name
+owen f. dolen golden age center,building_name,building_name
+schiff parkway center plots,building_name,building_name
+captain roald amundsen plaza,building_name,building_name
+queens village veterans plaza,building_name,building_name
+grand army plaza,building_name,building_name
+broadway center plots,building_name,building_name
+lincoln center plaza,building_name,building_name
+s. parkes cadman plaza,building_name,building_name
+crotona parkway malls,building_name,building_name
+vietnam veterans plaza,building_name,building_name
+louis armstrong memorial cultural center,building_name,building_name
+greenstreet,location_type,location_type
+benjamin gladstone square,park_playground,park_playground
+tompkinsville park,park_playground,park_playground
+crotona park,park_playground,park_playground
+willowbrook park,park_playground,park_playground
+sutton place park,park_playground,park_playground
+hermon a. macneil park,park_playground,park_playground
+william e. kelly memorial park,park_playground,park_playground
+graham square,park_playground,park_playground
+joyce kilmer park,park_playground,park_playground
+macombs dam park,park_playground,park_playground
+rufus king park,park_playground,park_playground
+nicholas lia memorial park,park_playground,park_playground
+straus park,park_playground,park_playground
+hanover square park,park_playground,park_playground
+kissena corridor park,park_playground,park_playground
+madison square park,park_playground,park_playground
+jacob joffe park,park_playground,park_playground
+a. philip randolph square,park_playground,park_playground
+sakura park,park_playground,park_playground
+grant square gore,park_playground,park_playground
+st. mary's park,park_playground,park_playground
+east harlem art park,park_playground,park_playground
+lawrence c. thompson memorial park,park_playground,park_playground
+morningside park,park_playground,park_playground
+underhill gore park,park_playground,park_playground
+general george j. lawrence square,park_playground,park_playground
+hines park,park_playground,park_playground
+isham park,park_playground,park_playground
+rose hill park,park_playground,park_playground
+cooper park,park_playground,park_playground
+claremont park,park_playground,park_playground
+memorial gore,park_playground,park_playground
+mcnally park,park_playground,park_playground
+marcus garvey park,park_playground,park_playground
+woodrow wilson square,park_playground,park_playground
+william f. moore park,park_playground,park_playground
+tappen park,park_playground,park_playground
+queensbridge park,park_playground,park_playground
+highbridge park,park_playground,park_playground
+linden park,park_playground,park_playground
+daniel carter beard memorial square,park_playground,park_playground
+henry hudson park,park_playground,park_playground
+van nest memorial park,park_playground,park_playground
+j. wesley drumm park,park_playground,park_playground
+forest park,park_playground,park_playground
+asser levy seaside park,park_playground,park_playground
+pulaski park,park_playground,park_playground
+jacob riis park,park_playground,park_playground
+j.j. byrne memorial park,park_playground,park_playground
+faber park,park_playground,park_playground
+keltch memorial park,park_playground,park_playground
+lithuania square,park_playground,park_playground
+roosevelt square,park_playground,park_playground
+greeley square,park_playground,park_playground
+reverend matthew j. crosson memorial park,park_playground,park_playground
+heisser square park,park_playground,park_playground
+foley square t. paine park,park_playground,park_playground
+wards island park,park_playground,park_playground
+highland park,park_playground,park_playground
+astoria park,park_playground,park_playground
+bennett park,park_playground,park_playground
+varian house park,park_playground,park_playground
+juniper valley park,park_playground,park_playground
+corporal fufidio square,park_playground,park_playground
+seward park,park_playground,park_playground
+fort tryon park,park_playground,park_playground
+peter minuit park,park_playground,park_playground
+hero park,park_playground,park_playground
+denis p. gorman memorial park,park_playground,park_playground
+cunningham park,park_playground,park_playground
+gerritsen beach park,park_playground,park_playground
+hamilton fish park,park_playground,park_playground
+coney island beach,park_playground,park_playground
+verdi square,park_playground,park_playground
+frank s. hackett park,park_playground,park_playground
+dr. ronald mcnair park,park_playground,park_playground
+abingdon park,park_playground,park_playground
+church square,park_playground,park_playground
+carl schurz park,park_playground,park_playground
+anthony r. gaeta park,park_playground,park_playground
+captain tilly park,park_playground,park_playground
+david j. o'connell square,park_playground,park_playground
+saratoga square park,park_playground,park_playground
+riverside park,park_playground,park_playground
+corporal leonard square,park_playground,park_playground
+crames square,park_playground,park_playground
+thomas f. smith park,park_playground,park_playground
+seton falls park,park_playground,park_playground
+carl r. sohncke square,park_playground,park_playground
+john paul jones park,park_playground,park_playground
+herald square,park_playground,park_playground
+rockaway beach,park_playground,park_playground
+ralph j. bunche park,park_playground,park_playground
+juan pablo duarte square,park_playground,park_playground
+lady moody square,park_playground,park_playground
+marconi memorial field,park_playground,park_playground
+east river esplanade,park_playground,park_playground
+union square park,park_playground,park_playground
+bowling green,park_playground,park_playground
+brooklyn botanical garden,park_playground,park_playground
+bryant park,park_playground,park_playground
+damrosch park,park_playground,park_playground
+calvary cemetery veterans park,park_playground,park_playground
+alley park,park_playground,park_playground
+e.r. squibb park,park_playground,park_playground
+columbus square,park_playground,park_playground
+mccarren park,park_playground,park_playground
+milestone park,park_playground,park_playground
+john golden park,park_playground,park_playground
+richard tucker park,park_playground,park_playground
+alfred e. smith park,park_playground,park_playground
+mclaughlin park,park_playground,park_playground
+"vincent daniels, jr. park",park_playground,park_playground
+brower park,park_playground,park_playground
+tompkins square park,park_playground,park_playground
+poe park,park_playground,park_playground
+jackson square park,park_playground,park_playground
+frederick johnson park,park_playground,park_playground
+catholic war veterans square,park_playground,park_playground
+george p. ryan square,park_playground,park_playground
+marine park bklyn,park_playground,park_playground
+chelsea park,park_playground,park_playground
+thomas jefferson park,park_playground,park_playground
+fidelity memorial park,park_playground,park_playground
+woodside memorial park,park_playground,park_playground
+bensonhurst park,park_playground,park_playground
+harold w. cohn memorial square,park_playground,park_playground
+de witt clinton park,park_playground,park_playground
+alexander hamilton square,park_playground,park_playground
+broad channel park,park_playground,park_playground
+alben memorial square,park_playground,park_playground
+father demo square,park_playground,park_playground
+central park,park_playground,park_playground
+mitchel square,park_playground,park_playground
+stuyvesant park,park_playground,park_playground
+baisley pond park,park_playground,park_playground
+lieutenant frank mcconnell memorial park,park_playground,park_playground
+borough hall park,park_playground,park_playground
+city hall park,park_playground,park_playground
+theodore roosevelt park,park_playground,park_playground
+prospect park,park_playground,park_playground
+christopher park,park_playground,park_playground
+peter detmold park,park_playground,park_playground
+battery park,park_playground,park_playground
+graham square park,park_playground,park_playground
+van cortlandt park,park_playground,park_playground
+major john w. mark park,park_playground,park_playground
+mckinley square,park_playground,park_playground
+john jay park,park_playground,park_playground
+kissena park,park_playground,park_playground
+louis cuvillier park,park_playground,park_playground
+freedom square,park_playground,park_playground
+general worth square,park_playground,park_playground
+betsy head park,park_playground,park_playground
+peter chappetto memorial square,park_playground,park_playground
+marine park,park_playground,park_playground
+st. vartan's park,park_playground,park_playground
+devoe park,park_playground,park_playground
+pelham bay park,park_playground,park_playground
+fraser square,park_playground,park_playground
+roger morris park,park_playground,park_playground
+sergeant colyer square,park_playground,park_playground
+norelli hargreaves memorial square,park_playground,park_playground
+columbus park,park_playground,park_playground
+fort washington park,park_playground,park_playground
+lieutenant clinton l. whiting square,park_playground,park_playground
+monsignor mcgolrick park,park_playground,park_playground
+admiral park,park_playground,park_playground
+captain william c. dermody square,park_playground,park_playground
+pleasant plains memorial park,park_playground,park_playground
+jackie robinson park,park_playground,park_playground
+father duffy square,park_playground,park_playground
+veterans park,park_playground,park_playground
+berry playground,park_playground,park_playground
+kimlau square,park_playground,park_playground
+bowne park,park_playground,park_playground
+zion park,park_playground,park_playground
+inwood hill park,park_playground,park_playground
+fulton park,park_playground,park_playground
+sheridan square viewing garden,park_playground,park_playground
+gravesend park,park_playground,park_playground
+dreier offerman park,park_playground,park_playground
+wayanda park,park_playground,park_playground
+fort greene park,park_playground,park_playground
+captain tilly memorial park,park_playground,park_playground
+dante park,park_playground,park_playground
+randalls island park,park_playground,park_playground
+raymond m. o'connor field,park_playground,park_playground
+shalom square,park_playground,park_playground
+mt. prospect park,park_playground,park_playground
+weeping beech park,park_playground,park_playground
+carroll park,park_playground,park_playground
+pigeon park,park_playground,park_playground
+kosciusko pool,park_playground,park_playground
+captain malcolm a. rafferty square,park_playground,park_playground
+luis r. lopez park,park_playground,park_playground
+hancock park,park_playground,park_playground
+annadale park,park_playground,park_playground
+rainey park playground,park_playground,park_playground
+father giorgio square,park_playground,park_playground
+st. catherine's park,park_playground,park_playground
+red hook park,park_playground,park_playground
+athens square park,park_playground,park_playground
+sergeant charles j. johnson square,park_playground,park_playground
+rockaway park,park_playground,park_playground
+silver lake park,park_playground,park_playground
+washington square park,park_playground,park_playground
+mckenna square,park_playground,park_playground
+gorman memorial park,park_playground,park_playground
+mccarthy square,park_playground,park_playground
+city island park,park_playground,park_playground
+john j. carty park,park_playground,park_playground
+private edward f. gordon square,park_playground,park_playground
+todd memorial square,park_playground,park_playground
+bronx park,park_playground,park_playground
+joseph rodman drake park,park_playground,park_playground
+flushing meadows corona park,park_playground,park_playground
+randolph walker park,park_playground,park_playground
+soho square,park_playground,park_playground
+bicentennial veterans memorial park,park_playground,park_playground
+cobble hill park,park_playground,park_playground
+bellevue south park,park_playground,park_playground
+pier a,park_playground,park_playground
+east river park,park_playground,park_playground
+cohn square,park_playground,park_playground
+fort independence park,park_playground,park_playground
+gerald macdonald memorial park,park_playground,park_playground
+st. james park,park_playground,park_playground
+meucci square,park_playground,park_playground
+frank frontera park,park_playground,park_playground
+james j. walker park,park_playground,park_playground
+francis lewis park,park_playground,park_playground
+lafayette square,park_playground,park_playground
+schmul park,park_playground,park_playground
+clove lakes park,park_playground,park_playground
+sunset park,park_playground,park_playground
+conference house park,park_playground,park_playground
+richard s. newcombe square,park_playground,park_playground
+fredrick johnson park,park_playground,park_playground
+high rock park,park_playground,park_playground
+maurice a. fitzgerald park,park_playground,park_playground
+colonel david marcus memorial playground,park_playground,site_name
+clarence t. barrett memorial,site_name,site_name
+bill brown memorial playground,park_playground,site_name
+astoria park war memorial,site_name,site_name
+michael j. mahoney memorial playground,park_playground,site_name
+webster memorial playground,park_playground,site_name
+eastern parkway extension,street_name,street_name
+leo ehrenreich austin street playground,park_playground,street_name
+henry hudson parkway,street_name,street_name
+public place,street_name,street_name
+bronx river parkway,street_name,street_name
+clearview expressway,street_name,street_name
+harlem river driveway,street_name,street_name
+pelham parkway houses playground,park_playground,street_name
+jackie robinson parkway,street_name,street_name
+mosholu parkway,street_name,street_name
+east river 60th street pavilion,street_name,street_name
+pelham parkway,street_name,street_name
+leonard circle,street_name,street_name
+park avenue center plots 59th to 96th streets,street_name,street_name
+gowanus parkway,street_name,street_name

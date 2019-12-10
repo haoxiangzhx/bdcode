@@ -1,0 +1,6638 @@
+value,label,count
+BMW  ,car_make,1
+  CADA,car_make,1
+  FORD,car_make,1
+  MC,car_make,1
+  NA,car_make,1
+ 4DR,car_make,1
+ BENZ,car_make,1
+ BUICK,car_make,1
+ CAR,car_make,1
+ CHEVY,car_make,1
+ CHYSL,car_make,1
+ COLT,car_make,1
+ DODGE,car_make,1
+ EEP,car_make,1
+ FORD,car_make,1
+ GMC,car_make,1
+ HEVY,car_make,1
+ HYUND,car_make,1
+ JEEP,car_make,1
+ JEG,car_make,1
+ LEXUS,car_make,1
+ MACK,car_make,1
+ MAXIM,car_make,1
+ MERCE,car_make,1
+ N/A,car_make,1
+ NA,car_make,1
+ NEON,car_make,1
+ NISAN,car_make,1
+ NISSA,car_make,1
+ NONE,car_make,1
+ ODGE,car_make,1
+ OLDS,car_make,1
+ ONDA,car_make,1
+ OYOTA,car_make,1
+ PONT.,car_make,1
+ PONTI,car_make,1
+ STVY,car_make,1
+ SUDAN,car_make,1
+ SUV,car_make,1
+ UICK,car_make,1
+ UV,car_make,1
+ VAN,car_make,1
+#,car_make,1
+',car_make,1
+''BOX',car_make,1
+'NA',car_make,1
+*,car_make,1
++,car_make,1
+.,car_make,1
+..,car_make,1
+.BUICK,car_make,1
+.CHEVY,car_make,1
+.EGACY,car_make,1
+.MW,car_make,1
+.N/A,car_make,1
+.NA,car_make,1
+.OLDS,car_make,1
+/A,car_make,1
+00,car_make,1
+00000,car_make,1
+01FORD,car_make,1
+02BMW,car_make,1
+09 FOR,car_make,1
+0LDS,car_make,1
+1 BMW,car_make,1
+1 MAN,car_make,1
+1 SUV ,car_make,1
+1 WHIT,car_make,1
+10 CAR,car_make,1
+10 VEH,car_make,1
+10CARS,car_make,1
+11 CAR,car_make,1
+12 PAS,car_make,1
+15 CAS,car_make,1
+15 PAS,car_make,1
+15CARS,car_make,1
+17FT,car_make,1
+18 PAS,car_make,1
+18 WHE,car_make,1
+18 WHL,car_make,1
+18',car_make,1
+18WHEL,car_make,1
+1950,car_make,1
+1950'S,car_make,1
+1960,car_make,1
+1965,car_make,1
+1980 N,car_make,1
+1982,car_make,1
+1984,car_make,1
+1986 T,car_make,1
+1988,car_make,1
+1989,car_make,1
+1990,car_make,1
+1991,car_make,1
+1994,car_make,1
+1995,car_make,1
+1995 T,car_make,1
+1996,car_make,1
+1996 F,car_make,1
+1996 T,car_make,1
+1997,car_make,1
+1997 H,car_make,1
+1999,car_make,1
+1999 C,car_make,1
+1999 H,car_make,1
+2,car_make,1
+2 / 4,car_make,1
+2 ABAN,car_make,1
+2 BICY,car_make,1
+2 BIKE,car_make,1
+2 BMW,car_make,1
+2 BOAT,car_make,1
+2 BUSE,car_make,1
+2 CABS,car_make,1
+2 CARS,car_make,1
+2 DOOR,car_make,1
+2 DR,car_make,1
+2 FORD,car_make,1
+2 GMC,car_make,1
+2 LINC,car_make,1
+2 MOTO,car_make,1
+2 MVAN,car_make,1
+2 OLD,car_make,1
+2 OR 3,car_make,1
+2 PORS,car_make,1
+2 SUDA,car_make,1
+2 TRAI,car_make,1
+2 VAN,car_make,1
+2 VANS,car_make,1
+2 VEH.,car_make,1
+2 VEHC,car_make,1
+2 VEHS,car_make,1
+2/FORD,car_make,1
+20,car_make,1
+20 VEH,car_make,1
+2000,car_make,1
+2000 B,car_make,1
+2000 F,car_make,1
+2000 H,car_make,1
+2001,car_make,1
+2001 C,car_make,1
+2002,car_make,1
+2002 L,car_make,1
+2002 N,car_make,1
+2003,car_make,1
+2003 F,car_make,1
+2003 H,car_make,1
+2003 N,car_make,1
+2003/,car_make,1
+2004,car_make,1
+2004 D,car_make,1
+2005,car_make,1
+2005 C,car_make,1
+2005 D,car_make,1
+2006,car_make,1
+2006 C,car_make,1
+2007,car_make,1
+2007 C,car_make,1
+2008,car_make,1
+2008 M,car_make,1
+2009 H,car_make,1
+2009 N,car_make,1
+2009?,car_make,1
+2010,car_make,1
+2010 A,car_make,1
+2010 H,car_make,1
+2011,car_make,1
+2011 F,car_make,1
+2011 T,car_make,1
+2012,car_make,1
+2014 C,car_make,1
+2014 T,car_make,1
+2015,car_make,1
+2019 B,car_make,1
+20CARS,car_make,1
+240 S,car_make,1
+240 SX,car_make,1
+25 FOO,car_make,1
+2500,car_make,1
+26 FT,car_make,1
+2660 M,car_make,1
+280Z,car_make,1
+2913,car_make,1
+2CAMRY,car_make,1
+2CARS,car_make,1
+2D,car_make,1
+2DR,car_make,1
+2TRUCK,car_make,1
+3,car_make,1
+3 BIKE,car_make,1
+3 BRAN,car_make,1
+3 CARS,car_make,1
+3 CHEV,car_make,1
+3 MOTO,car_make,1
+3 PUSH,car_make,1
+3 TRUC,car_make,1
+3 VEH,car_make,1
+3 WHEE,car_make,1
+300,car_make,1
+300 M,car_make,1
+300 TE,car_make,1
+300CX,car_make,1
+300M,car_make,1
+300SE,car_make,1
+300Z,car_make,1
+300ZX,car_make,1
+30YRD,car_make,1
+32 V N,car_make,1
+320,car_make,1
+323 BM,car_make,1
+328I,car_make,1
+330,car_make,1
+335X1,car_make,1
+370Z,car_make,1
+380SL,car_make,1
+3TRUCK,car_make,1
+4,car_make,1
+4 ABAN,car_make,1
+4 BY 4,car_make,1
+4 CARS,car_make,1
+4 DOOR,car_make,1
+4 RUNN,car_make,1
+4 VEHI,car_make,1
+4 WHEE,car_make,1
+4-DOOR,car_make,1
+4/ROW,car_make,1
+4136,car_make,1
+435O,car_make,1
+4900 D,car_make,1
+4BY4,car_make,1
+4D,car_make,1
+4DOOR,car_make,1
+4DR,car_make,1
+4RUNER,car_make,1
+4RUNNE,car_make,1
+4TH FL,car_make,1
+4TRUCK,car_make,1
+4TURIS,car_make,1
+4VAN,car_make,1
+4WD,car_make,1
+4X4,car_make,1
+4X4 FO,car_make,1
+4X4 JE,car_make,1
+4X4 SP,car_make,1
+4X4 TR,car_make,1
+4X437L,car_make,1
+5  VEH,car_make,1
+5 CAR,car_make,1
+5 CARS,car_make,1
+5 PEDI,car_make,1
+528,car_make,1
+53 FT,car_make,1
+53',car_make,1
+53' TR,car_make,1
+550,car_make,1
+560SEC,car_make,1
+6 CARS,car_make,1
+60S CH,car_make,1
+626,car_make,1
+6WHEEL,car_make,1
+7 CARS,car_make,1
+7 TON,car_make,1
+70'S,car_make,1
+740BMW,car_make,1
+745,car_make,1
+750   ,car_make,1
+8 CARS,car_make,1
+8 VEH,car_make,1
+80S VW,car_make,1
+929,car_make,1
+93 2QT,car_make,1
+96 GMC,car_make,1
+98,car_make,1
+99 HON,car_make,1
+99' 98,car_make,1
+99PONT,car_make,1
+>20,car_make,1
+?,car_make,1
+? FORD,car_make,1
+??,car_make,1
+??    ,car_make,1
+???,car_make,1
+????,car_make,1
+?????,car_make,1
+??????,car_make,1
+?FORD?,car_make,1
+?REPOR,car_make,1
+A,car_make,1
+A BMW,car_make,1
+A BOAT,car_make,1
+A FEW,car_make,1
+A FORD,car_make,1
+A GMC,car_make,1
+A LOT,car_make,1
+A MEAT,car_make,1
+A MOTO,car_make,1
+A SMAL,car_make,1
+A-RIDE,car_make,1
+A.M.C,car_make,1
+A.M.C.,car_make,1
+A/A,car_make,1
+A/K,car_make,1
+AAAAAA,car_make,1
+AACURA,car_make,1
+ABANDO,car_make,1
+ABONAV,car_make,1
+ABONDO,car_make,1
+ABOUT,car_make,1
+ABULAN,car_make,1
+ABULET,car_make,1
+ACADIA,car_make,1
+ACC,car_make,1
+ACCARA,car_make,1
+ACCARD,car_make,1
+ACCENT,car_make,1
+ACCESS,car_make,1
+ACCLAI,car_make,1
+ACCLIA,car_make,1
+ACCOR,car_make,1
+ACCORA,car_make,1
+ACCORD,car_make,1
+ACCORN,car_make,1
+ACCRA,car_make,1
+ACCRU,car_make,1
+ACCRUE,car_make,1
+ACCU,car_make,1
+ACCUA,car_make,1
+ACCUR,car_make,1
+ACCURA,car_make,1
+ACCURE,car_make,1
+ACCURI,car_make,1
+ACCURS,car_make,1
+ACCURU,car_make,1
+ACESS,car_make,1
+ACHIVA,car_make,1
+ACL TR,car_make,1
+ACORA,car_make,1
+ACORD,car_make,1
+ACQURA,car_make,1
+ACRA,car_make,1
+ACREA,car_make,1
+ACRUA,car_make,1
+ACRUCA,car_make,1
+ACU,car_make,1
+ACUA,car_make,1
+ACUARA,car_make,1
+ACUDA,car_make,1
+ACUEA,car_make,1
+ACUIA,car_make,1
+ACUR,car_make,1
+ACURA,car_make,1
+ACURA ,car_make,1
+ACURA-,car_make,1
+ACURA=,car_make,1
+ACURA?,car_make,1
+ACURAB,car_make,1
+ACURAQ,car_make,1
+ACURCA,car_make,1
+ACURE,car_make,1
+ACURED,car_make,1
+ACURIA,car_make,1
+ACURRA,car_make,1
+ACURS,car_make,1
+ACUURA,car_make,1
+AD377,car_make,1
+ADACI,car_make,1
+ADANDE,car_make,1
+ADI,car_make,1
+ADUE,car_make,1
+ADUI,car_make,1
+AEGIS,car_make,1
+AERO,car_make,1
+AEROS,car_make,1
+AEROSE,car_make,1
+AEROST,car_make,1
+AEROTE,car_make,1
+AFFINI,car_make,1
+AFINIT,car_make,1
+AHONDA,car_make,1
+AIROAD,car_make,1
+AIRTRO,car_make,1
+AIUDI,car_make,1
+AKIA,car_make,1
+AKIRA,car_make,1
+AKIRA ,car_make,1
+ALANTR,car_make,1
+ALBANY,car_make,1
+ALDEY,car_make,1
+ALDI,car_make,1
+ALEGRA,car_make,1
+ALERO,car_make,1
+ALEXA,car_make,1
+ALEXI,car_make,1
+ALEXIS,car_make,1
+ALEXU,car_make,1
+ALEXUS,car_make,1
+ALFA,car_make,1
+ALFA R,car_make,1
+ALFA-R,car_make,1
+ALFARO,car_make,1
+ALFRO,car_make,1
+ALIANC,car_make,1
+ALL,car_make,1
+ALL CA,car_make,1
+ALL KI,car_make,1
+ALL MA,car_make,1
+ALL TY,car_make,1
+ALLERO,car_make,1
+ALLIAN,car_make,1
+ALLSTA,car_make,1
+ALMITA,car_make,1
+ALMOBI,car_make,1
+ALNTRA,car_make,1
+ALOT,car_make,1
+ALP RO,car_make,1
+ALPA,car_make,1
+ALPHA,car_make,1
+ALPINA,car_make,1
+ALPINE,car_make,1
+ALSMOB,car_make,1
+ALT,car_make,1
+ALTA,car_make,1
+ALTAIA,car_make,1
+ALTAMA,car_make,1
+ALTAME,car_make,1
+ALTEC,car_make,1
+ALTEED,car_make,1
+ALTEMA,car_make,1
+ALTERM,car_make,1
+ALTEZA,car_make,1
+ALTIMA,car_make,1
+ALTIMI,car_make,1
+ALTIMU,car_make,1
+ALTINE,car_make,1
+ALTIUM,car_make,1
+ALTIVA,car_make,1
+ALTMA,car_make,1
+ALTMIA,car_make,1
+ALTMUM,car_make,1
+ALTOMB,car_make,1
+ALUM,car_make,1
+ALUMIN,car_make,1
+ALUMIT,car_make,1
+ALXIS,car_make,1
+AM,car_make,1
+AMADA,car_make,1
+AMB,car_make,1
+AMBASS,car_make,1
+AMBUL,car_make,1
+AMBULA,car_make,1
+AMBULE,car_make,1
+AMC,car_make,1
+AMER,car_make,1
+AMERIC,car_make,1
+AMF,car_make,1
+AMG,car_make,1
+AMIGO,car_make,1
+AMON,car_make,1
+AMOTOR,car_make,1
+AMW,car_make,1
+AN,car_make,1
+ANCLAV,car_make,1
+ANGURA,car_make,1
+ANNON,car_make,1
+ANO,car_make,1
+ANOM,car_make,1
+ANON,car_make,1
+ANONBL,car_make,1
+ANONE,car_make,1
+ANONYM,car_make,1
+ANTIQU,car_make,1
+ANVOY,car_make,1
+ANY,car_make,1
+APACHE,car_make,1
+APALA,car_make,1
+APRILA,car_make,1
+APRILI,car_make,1
+APRILL,car_make,1
+APV,car_make,1
+AQUA,car_make,1
+AQURA,car_make,1
+AQURIA,car_make,1
+ARC,car_make,1
+ARCUR,car_make,1
+AREOST,car_make,1
+ARESTA,car_make,1
+ARGOSI,car_make,1
+ARGOSY,car_make,1
+ARLENS,car_make,1
+ARMADA,car_make,1
+ARMORE,car_make,1
+ARMY,car_make,1
+AROEA,car_make,1
+AROMER,car_make,1
+AROOWS,car_make,1
+AROSTA,car_make,1
+ARROW,car_make,1
+ARROWS,car_make,1
+ARTIC,car_make,1
+ARUCA,car_make,1
+ARURA,car_make,1
+ASBEST,car_make,1
+ASCRO,car_make,1
+ASPEN,car_make,1
+ASPHAL,car_make,1
+ASRO,car_make,1
+ASSHOL,car_make,1
+ASSORT,car_make,1
+ASST.,car_make,1
+ASTA,car_make,1
+ASTEK,car_make,1
+ASTIC,car_make,1
+ASTOR,car_make,1
+ASTR,car_make,1
+ASTRA,car_make,1
+ASTRAL,car_make,1
+ASTRO,car_make,1
+ASTRO ,car_make,1
+ASTROV,car_make,1
+ASUBI,car_make,1
+ASUSU,car_make,1
+ASUZU,car_make,1
+ATARIS,car_make,1
+ATIC C,car_make,1
+ATLANT,car_make,1
+ATLIMA,car_make,1
+ATOMA,car_make,1
+ATOR,car_make,1
+ATRO,car_make,1
+ATROS,car_make,1
+ATTAWA,car_make,1
+ATV,car_make,1
+AUARA,car_make,1
+AUCI,car_make,1
+AUCRA,car_make,1
+AUCURA,car_make,1
+AUD I,car_make,1
+AUDAI,car_make,1
+AUDE,car_make,1
+AUDI,car_make,1
+AUDI ,car_make,1
+AUDI  ,car_make,1
+AUDI -,car_make,1
+AUDI 4,car_make,1
+AUDI 6,car_make,1
+AUDI 7,car_make,1
+AUDI 8,car_make,1
+AUDI A,car_make,1
+AUDI Q,car_make,1
+AUDI S,car_make,1
+AUDI T,car_make,1
+AUDI-,car_make,1
+AUDI.,car_make,1
+AUDIA,car_make,1
+AUDIA4,car_make,1
+AUDIA7,car_make,1
+AUDIA8,car_make,1
+AUDIE,car_make,1
+AUDIG7,car_make,1
+AUDII,car_make,1
+AUDII ,car_make,1
+AUDIO,car_make,1
+AUDIQ5,car_make,1
+AUDIS,car_make,1
+AUDIS4,car_make,1
+AUDIT,car_make,1
+AUDO,car_make,1
+AUDRY,car_make,1
+AUDSI,car_make,1
+AUDU,car_make,1
+AUDUI,car_make,1
+AUDY,car_make,1
+AUFI A,car_make,1
+AUID,car_make,1
+AUIDA,car_make,1
+AUIDI,car_make,1
+AUIDO,car_make,1
+AULTIM,car_make,1
+AURA,car_make,1
+AURA  ,car_make,1
+AURA R,car_make,1
+AURARA,car_make,1
+AUREY,car_make,1
+AURI,car_make,1
+AURORA,car_make,1
+AUROUA,car_make,1
+AUSI,car_make,1
+AUSTIN,car_make,1
+AUTI,car_make,1
+AUTO,car_make,1
+AUTOMO,car_make,1
+AUTSOM,car_make,1
+AUTTO,car_make,1
+AUTUMA,car_make,1
+AV,car_make,1
+AVALAC,car_make,1
+AVALAN,car_make,1
+AVALNC,car_make,1
+AVALON,car_make,1
+AVATIO,car_make,1
+AVE,car_make,1
+AVENGE,car_make,1
+AVEO,car_make,1
+AVEOLS,car_make,1
+AVEOLT,car_make,1
+AVIATO,car_make,1
+AVION,car_make,1
+AVIS,car_make,1
+AVOLON,car_make,1
+AWD,car_make,1
+AWIA,car_make,1
+AX,car_make,1
+AXIOM,car_make,1
+AZCI,car_make,1
+AZTEC,car_make,1
+AZU ZU,car_make,1
+AZUZI,car_make,1
+AZUZU,car_make,1
+AZUZZ,car_make,1
+B & W,car_make,1
+B M W,car_make,1
+B&M,car_make,1
+B&W,car_make,1
+B&W FO,car_make,1
+B.M.W,car_make,1
+B.M.W.,car_make,1
+B.W.,car_make,1
+B/A,car_make,1
+B/C,car_make,1
+B/M/W,car_make,1
+BACCIO,car_make,1
+BACKHO,car_make,1
+BACKPA,car_make,1
+BACO,car_make,1
+BADGE,car_make,1
+BAEWOO,car_make,1
+BAF,car_make,1
+BAF TR,car_make,1
+BAKKER,car_make,1
+BALINE,car_make,1
+BALOMI,car_make,1
+BANG,car_make,1
+BARETA,car_make,1
+BARETT,car_make,1
+BARON,car_make,1
+BARRET,car_make,1
+BARTH,car_make,1
+BATAVU,car_make,1
+BAVADA,car_make,1
+BAY,car_make,1
+BAYLIN,car_make,1
+BCKHOE,car_make,1
+BE,car_make,1
+BEAMER,car_make,1
+BEANZ,car_make,1
+BEATER,car_make,1
+BEATLE,car_make,1
+BECAB,car_make,1
+BEEMER,car_make,1
+BEENZ,car_make,1
+BEETLE,car_make,1
+BEIGE,car_make,1
+BEINZ,car_make,1
+BELAIR,car_make,1
+BELMON,car_make,1
+BELVAD,car_make,1
+BEME,car_make,1
+BEMZ,car_make,1
+BEN,car_make,1
+BEN-JO,car_make,1
+BENDS,car_make,1
+BENI,car_make,1
+BENS,car_make,1
+BENT,car_make,1
+BENTLE,car_make,1
+BENTLY,car_make,1
+BENTUR,car_make,1
+BENTZ,car_make,1
+BENX,car_make,1
+BENZ,car_make,1
+BENZ  ,car_make,1
+BENZ C,car_make,1
+BENZ M,car_make,1
+BENZ O,car_make,1
+BENZ S,car_make,1
+BENZ-,car_make,1
+BENZ/B,car_make,1
+BENZE,car_make,1
+BENZED,car_make,1
+BENZS,car_make,1
+BERETA,car_make,1
+BERETT,car_make,1
+BERGMA,car_make,1
+BERING,car_make,1
+BERINS,car_make,1
+BERRET,car_make,1
+BESPA,car_make,1
+BESTA,car_make,1
+BEUIC,car_make,1
+BEULL,car_make,1
+BEWICK,car_make,1
+BEZ,car_make,1
+BG,car_make,1
+BIAGIO,car_make,1
+BICK,car_make,1
+BICKE,car_make,1
+BICYC,car_make,1
+BICYC.,car_make,1
+BICYCL,car_make,1
+BIG BU,car_make,1
+BIG GR,car_make,1
+BIG MA,car_make,1
+BIG RE,car_make,1
+BIG RI,car_make,1
+BIG T,car_make,1
+BIG TO,car_make,1
+BIG TR,car_make,1
+BIGBOX,car_make,1
+BIGOR,car_make,1
+BIGTEX,car_make,1
+BIGVAN,car_make,1
+BIKE,car_make,1
+BIKE ,car_make,1
+BIKE  ,car_make,1
+BIKE A,car_make,1
+BIKE-,car_make,1
+BIKES,car_make,1
+BILLS,car_make,1
+BILTRI,car_make,1
+BIRD,car_make,1
+BISHI,car_make,1
+BIUCK,car_make,1
+BIUIC?,car_make,1
+BK,car_make,1
+BKE15,car_make,1
+BKE16,car_make,1
+BKE17,car_make,1
+BLACK,car_make,1
+BLAZA,car_make,1
+BLAZER,car_make,1
+BLAZR,car_make,1
+BLKCAR,car_make,1
+BLMW,car_make,1
+BLOCK,car_make,1
+BLUE,car_make,1
+BLUE B,car_make,1
+BLUE D,car_make,1
+BLUE M,car_make,1
+BLUE P,car_make,1
+BLUE T,car_make,1
+BLUE/B,car_make,1
+BLUEBI,car_make,1
+BLUETO,car_make,1
+BLUIT,car_make,1
+BLVD,car_make,1
+BLZ,car_make,1
+BMB,car_make,1
+BMC,car_make,1
+BME,car_make,1
+BMN,car_make,1
+BMQ,car_make,1
+BMS,car_make,1
+BMV,car_make,1
+BMV 32,car_make,1
+BMV745,car_make,1
+BMW,car_make,1
+BMW ,car_make,1
+BMW   ,car_make,1
+BMW  `,car_make,1
+BMW (S,car_make,1
+BMW -,car_make,1
+BMW 3,car_make,1
+BMW 3-,car_make,1
+BMW 32,car_make,1
+BMW 33,car_make,1
+BMW 3I,car_make,1
+BMW 4,car_make,1
+BMW 42,car_make,1
+BMW 5,car_make,1
+BMW 5-,car_make,1
+BMW 52,car_make,1
+BMW 53,car_make,1
+BMW 54,car_make,1
+BMW 55,car_make,1
+BMW 62,car_make,1
+BMW 65,car_make,1
+BMW 7,car_make,1
+BMW 74,car_make,1
+BMW 75,car_make,1
+BMW 76,car_make,1
+BMW ?,car_make,1
+BMW AN,car_make,1
+BMW AU,car_make,1
+BMW CA,car_make,1
+BMW CO,car_make,1
+BMW E3,car_make,1
+BMW GR,car_make,1
+BMW I3,car_make,1
+BMW I8,car_make,1
+BMW LI,car_make,1
+BMW M5,car_make,1
+BMW MI,car_make,1
+BMW OR,car_make,1
+BMW S5,car_make,1
+BMW SE,car_make,1
+BMW SL,car_make,1
+BMW SU,car_make,1
+BMW TR,car_make,1
+BMW X,car_make,1
+BMW X%,car_make,1
+BMW X1,car_make,1
+BMW X3,car_make,1
+BMW X5,car_make,1
+BMW X6,car_make,1
+BMW XI,car_make,1
+BMW Z3,car_make,1
+BMW Z4,car_make,1
+BMW-,car_make,1
+BMW.,car_make,1
+BMW/,car_make,1
+BMW/ME,car_make,1
+BMW321,car_make,1
+BMW323,car_make,1
+BMW325,car_make,1
+BMW328,car_make,1
+BMW330,car_make,1
+BMW335,car_make,1
+BMW35I,car_make,1
+BMW525,car_make,1
+BMW528,car_make,1
+BMW530,car_make,1
+BMW540,car_make,1
+BMW550,car_make,1
+BMW735,car_make,1
+BMW740,car_make,1
+BMW745,car_make,1
+BMW750,car_make,1
+BMW?,car_make,1
+BMWCK,car_make,1
+BMWE,car_make,1
+BMWI,car_make,1
+BMWMX5,car_make,1
+BMWSIL,car_make,1
+BMWSUV,car_make,1
+BMWW,car_make,1
+BMWX3,car_make,1
+BMWX5,car_make,1
+BMW`,car_make,1
+BMX,car_make,1
+BMX 5S,car_make,1
+BMX X3,car_make,1
+BMX X5,car_make,1
+BMY,car_make,1
+BNW,car_make,1
+BOAT,car_make,1
+BOAT ,car_make,1
+BOAT  ,car_make,1
+BOAT A,car_make,1
+BOAT O,car_make,1
+BOAT T,car_make,1
+BOAT/J,car_make,1
+BOAT/T,car_make,1
+BOATS,car_make,1
+BOB CA,car_make,1
+BOBCAT,car_make,1
+BODGE,car_make,1
+BODY,car_make,1
+BOLSUA,car_make,1
+BOLTWA,car_make,1
+BONA,car_make,1
+BONAVI,car_make,1
+BONN,car_make,1
+BONNER,car_make,1
+BONNEV,car_make,1
+BONNIV,car_make,1
+BONNY,car_make,1
+BONOVI,car_make,1
+BONVIL,car_make,1
+BOOM,car_make,1
+BOOTED,car_make,1
+BOREEM,car_make,1
+BOSTON,car_make,1
+BOTTY,car_make,1
+BOUNDE,car_make,1
+BOW,car_make,1
+BOX,car_make,1
+BOX   ,car_make,1
+BOX CA,car_make,1
+BOX T,car_make,1
+BOX TK,car_make,1
+BOX TR,car_make,1
+BOXCAR,car_make,1
+BOXTER,car_make,1
+BOXTRU,car_make,1
+BRABUS,car_make,1
+BRANCO,car_make,1
+BRAVAD,car_make,1
+BRAVAV,car_make,1
+BRCO,car_make,1
+BREAD,car_make,1
+BREEZE,car_make,1
+BRETA,car_make,1
+BRI-MA,car_make,1
+BRICK,car_make,1
+BRITIS,car_make,1
+BRO,car_make,1
+BROKEN,car_make,1
+BRONCO,car_make,1
+BROOGH,car_make,1
+BROOKV,car_make,1
+BROOME,car_make,1
+BROWN,car_make,1
+BRU,car_make,1
+BRUCE,car_make,1
+BRUCK,car_make,1
+BRUICK,car_make,1
+BRUKE,car_make,1
+BRULIN,car_make,1
+BRUNO,car_make,1
+BRUNT,car_make,1
+BRUT,car_make,1
+BS,car_make,1
+BT,car_make,1
+BTW,car_make,1
+BUCATI,car_make,1
+BUCIK,car_make,1
+BUCK,car_make,1
+BUCKWI,car_make,1
+BUDDY,car_make,1
+BUDGET,car_make,1
+BUDJET,car_make,1
+BUELL,car_make,1
+BUGATI,car_make,1
+BUGGIE,car_make,1
+BUGGY,car_make,1
+BUIC,car_make,1
+BUICK,car_make,1
+BUICK ,car_make,1
+BUICK?,car_make,1
+BUICKA,car_make,1
+BUICKB,car_make,1
+BUICKD,car_make,1
+BUICKE,car_make,1
+BUICKQ,car_make,1
+BUICKS,car_make,1
+BUICKW,car_make,1
+BUICL,car_make,1
+BUIIC,car_make,1
+BUIICK,car_make,1
+BUIK,car_make,1
+BUIKE,car_make,1
+BUILL,car_make,1
+BUILT,car_make,1
+BUISNE,car_make,1
+BUKE,car_make,1
+BUKIT,car_make,1
+BULDO,car_make,1
+BULLDO,car_make,1
+BULLET,car_make,1
+BUNCH,car_make,1
+BUR,car_make,1
+BURCK,car_make,1
+BURG,car_make,1
+BURICK,car_make,1
+BURIT,car_make,1
+BURKE,car_make,1
+BURN,car_make,1
+BURND,car_make,1
+BURNED,car_make,1
+BURNT,car_make,1
+BURNUP,car_make,1
+BURUAL,car_make,1
+BUS,car_make,1
+BUS WI,car_make,1
+BUS!,car_make,1
+BUSES,car_make,1
+BUUICK,car_make,1
+BUWIC,car_make,1
+BUWICK,car_make,1
+BV,car_make,1
+BV 350,car_make,1
+BV350,car_make,1
+BW,car_make,1
+BWETT,car_make,1
+BWICK,car_make,1
+BWM,car_make,1
+BWM X5,car_make,1
+BWW,car_make,1
+BWX X5,car_make,1
+BX,car_make,1
+BYCYCL,car_make,1
+C,car_make,1
+C. VIC,car_make,1
+C.CART,car_make,1
+C230,car_make,1
+C230 M,car_make,1
+C300,car_make,1
+C320 B,car_make,1
+CA,car_make,1
+CAB,car_make,1
+CABERL,car_make,1
+CABIN,car_make,1
+CABS,car_make,1
+CAD,car_make,1
+CAD'C,car_make,1
+CAD.,car_make,1
+CADA,car_make,1
+CADA L,car_make,1
+CADAIL,car_make,1
+CADAL,car_make,1
+CADALA,car_make,1
+CADALC,car_make,1
+CADALI,car_make,1
+CADALL,car_make,1
+CADAVA,car_make,1
+CADCI,car_make,1
+CADD,car_make,1
+CADDAL,car_make,1
+CADDDY,car_make,1
+CADDI,car_make,1
+CADDIA,car_make,1
+CADDIC,car_make,1
+CADDIE,car_make,1
+CADDIL,car_make,1
+CADDT,car_make,1
+CADDY,car_make,1
+CADDY ,car_make,1
+CADELA,car_make,1
+CADELI,car_make,1
+CADELL,car_make,1
+CADI,car_make,1
+CADI.,car_make,1
+CADIAC,car_make,1
+CADIAL,car_make,1
+CADIC,car_make,1
+CADICA,car_make,1
+CADIE,car_make,1
+CADIIL,car_make,1
+CADIL,car_make,1
+CADIL;,car_make,1
+CADILA,car_make,1
+CADILC,car_make,1
+CADILI,car_make,1
+CADILL,car_make,1
+CADL.,car_make,1
+CADLAC,car_make,1
+CADLC,car_make,1
+CADLIC,car_make,1
+CADLLC,car_make,1
+CADLLI,car_make,1
+CADY,car_make,1
+CADY C,car_make,1
+CADYBY,car_make,1
+CADYE,car_make,1
+CADYLA,car_make,1
+CAILAC,car_make,1
+CAILLA,car_make,1
+CAL,car_make,1
+CALAIS,car_make,1
+CALALA,car_make,1
+CALDIC,car_make,1
+CALIAS,car_make,1
+CALIC,car_make,1
+CALICA,car_make,1
+CALIDL,car_make,1
+CALLAC,car_make,1
+CALLAD,car_make,1
+CALLEV,car_make,1
+CALLI,car_make,1
+CALLIA,car_make,1
+CALLIC,car_make,1
+CALVER,car_make,1
+CAM,car_make,1
+CAMACH,car_make,1
+CAMAR,car_make,1
+CAMAR0,car_make,1
+CAMARA,car_make,1
+CAMARI,car_make,1
+CAMARO,car_make,1
+CAMARR,car_make,1
+CAMARY,car_make,1
+CAMBA,car_make,1
+CAMBRA,car_make,1
+CAMBRI,car_make,1
+CAMBRY,car_make,1
+CAMERA,car_make,1
+CAMERE,car_make,1
+CAMERI,car_make,1
+CAMERO,car_make,1
+CAMERY,car_make,1
+CAMINO,car_make,1
+CAMIRI,car_make,1
+CAMIY,car_make,1
+CAMMAR,car_make,1
+CAMMER,car_make,1
+CAMP,car_make,1
+CAMPCT,car_make,1
+CAMPER,car_make,1
+CAMR,car_make,1
+CAMRAN,car_make,1
+CAMRAY,car_make,1
+CAMRE,car_make,1
+CAMREY,car_make,1
+CAMRI,car_make,1
+CAMRO,car_make,1
+CAMRY,car_make,1
+CAMRY ,car_make,1
+CAMRYN,car_make,1
+CAN,car_make,1
+CAN AM,car_make,1
+CAN NO,car_make,1
+CAN'T,car_make,1
+CANAM,car_make,1
+CANDAL,car_make,1
+CANDIL,car_make,1
+CANIVA,car_make,1
+CANNOT,car_make,1
+CANT T,car_make,1
+CANTER,car_make,1
+CAPRI,car_make,1
+CAPRIC,car_make,1
+CAPRIS,car_make,1
+CAPROI,car_make,1
+CAPV,car_make,1
+CAR,car_make,1
+CAR   ,car_make,1
+CAR &,car_make,1
+CAR CA,car_make,1
+CAR CO,car_make,1
+CAR CR,car_make,1
+CAR DO,car_make,1
+CAR IS,car_make,1
+CAR TR,car_make,1
+CAR'S,car_make,1
+CARA,car_make,1
+CARALA,car_make,1
+CARAV,car_make,1
+CARAVA,car_make,1
+CARAVN,car_make,1
+CARCOV,car_make,1
+CARD,car_make,1
+CARDI,car_make,1
+CARDIL,car_make,1
+CARGO,car_make,1
+CARGOV,car_make,1
+CARI,car_make,1
+CARIBA,car_make,1
+CARIVA,car_make,1
+CARLO,car_make,1
+CARMIG,car_make,1
+CARMO,car_make,1
+CARMRY,car_make,1
+CARMY,car_make,1
+CARN,car_make,1
+CARNIV,car_make,1
+CAROLA,car_make,1
+CAROLI,car_make,1
+CAROLL,car_make,1
+CAROVA,car_make,1
+CARPR,car_make,1
+CARRAV,car_make,1
+CARRIE,car_make,1
+CARS,car_make,1
+CARS ,car_make,1
+CART,car_make,1
+CARTER,car_make,1
+CARVA,car_make,1
+CARVAM,car_make,1
+CARVAN,car_make,1
+CARVAV,car_make,1
+CARVEN,car_make,1
+CARVER,car_make,1
+CARVET,car_make,1
+CARVLI,car_make,1
+CARVO,car_make,1
+CASE,car_make,1
+CASE  ,car_make,1
+CASEWA,car_make,1
+CASILL,car_make,1
+CASSON,car_make,1
+CAT,car_make,1
+CATA,car_make,1
+CATAIC,car_make,1
+CATAL,car_make,1
+CATALA,car_make,1
+CATALC,car_make,1
+CATALI,car_make,1
+CATALL,car_make,1
+CATALO,car_make,1
+CATEL,car_make,1
+CATENA,car_make,1
+CATEPI,car_make,1
+CATER,car_make,1
+CATERA,car_make,1
+CATERP,car_make,1
+CATIL,car_make,1
+CATILA,car_make,1
+CATILL,car_make,1
+CATIPI,car_make,1
+CATLAK,car_make,1
+CATLIC,car_make,1
+CATOLA,car_make,1
+CATOLO,car_make,1
+CATTAL,car_make,1
+CATTEP,car_make,1
+CATTI,car_make,1
+CAV,car_make,1
+CAVALI,car_make,1
+CAVALL,car_make,1
+CAVERL,car_make,1
+CAVIC,car_make,1
+CAVIEL,car_make,1
+CAVILE,car_make,1
+CAVLIR,car_make,1
+CAVOR,car_make,1
+CAWOSA,car_make,1
+CAYENN,car_make,1
+CB360,car_make,1
+CBR,car_make,1
+CCADDY,car_make,1
+CDILAC,car_make,1
+CDILLC,car_make,1
+CDLLAC,car_make,1
+CDLLC,car_make,1
+CDLLC ,car_make,1
+CEARRA,car_make,1
+CEDAL,car_make,1
+CEDAN,car_make,1
+CEHEVY,car_make,1
+CEHVI,car_make,1
+CELCIA,car_make,1
+CELEBR,car_make,1
+CELECA,car_make,1
+CELEKA,car_make,1
+CELICA,car_make,1
+CELLIC,car_make,1
+CELTIC,car_make,1
+CENTRA,car_make,1
+CENTRI,car_make,1
+CENTRU,car_make,1
+CENTRY,car_make,1
+CENTUR,car_make,1
+CETRA,car_make,1
+CETRAL,car_make,1
+CEVER,car_make,1
+CEVY,car_make,1
+CF600,car_make,1
+CFMOTO,car_make,1
+CFREIG,car_make,1
+CH,car_make,1
+CH6,car_make,1
+CHAMP,car_make,1
+CHAMPI,car_make,1
+CHANCE,car_make,1
+CHAPA,car_make,1
+CHARA,car_make,1
+CHARCO,car_make,1
+CHARG,car_make,1
+CHARGE,car_make,1
+CHARGR,car_make,1
+CHARTE,car_make,1
+CHAS,car_make,1
+CHASIS,car_make,1
+CHAUE,car_make,1
+CHAV,car_make,1
+CHAVE,car_make,1
+CHAVEY,car_make,1
+CHAVLE,car_make,1
+CHAVRY,car_make,1
+CHAVY,car_make,1
+CHE,car_make,1
+CHEAVY,car_make,1
+CHEBRO,car_make,1
+CHEBY,car_make,1
+CHECK,car_make,1
+CHECRO,car_make,1
+CHECY,car_make,1
+CHEE,car_make,1
+CHEEKE,car_make,1
+CHEEKO,car_make,1
+CHEERI,car_make,1
+CHEERK,car_make,1
+CHEERO,car_make,1
+CHEK,car_make,1
+CHEK.,car_make,1
+CHEKEE,car_make,1
+CHEKER,car_make,1
+CHEKOE,car_make,1
+CHELEV,car_make,1
+CHENEY,car_make,1
+CHEO,car_make,1
+CHEOKE,car_make,1
+CHEOKI,car_make,1
+CHEORA,car_make,1
+CHEORK,car_make,1
+CHER,car_make,1
+CHERAK,car_make,1
+CHERE,car_make,1
+CHEREC,car_make,1
+CHEREK,car_make,1
+CHEREQ,car_make,1
+CHERER,car_make,1
+CHEREV,car_make,1
+CHERI,car_make,1
+CHERIK,car_make,1
+CHERKE,car_make,1
+CHERO,car_make,1
+CHEROC,car_make,1
+CHEROE,car_make,1
+CHEROK,car_make,1
+CHEROL,car_make,1
+CHEROO,car_make,1
+CHEROQ,car_make,1
+CHEROV,car_make,1
+CHERRI,car_make,1
+CHERRO,car_make,1
+CHERRY,car_make,1
+CHERSL,car_make,1
+CHERV,car_make,1
+CHERVE,car_make,1
+CHERVL,car_make,1
+CHERVO,car_make,1
+CHERY,car_make,1
+CHERYL,car_make,1
+CHERYS,car_make,1
+CHESLE,car_make,1
+CHESYL,car_make,1
+CHEUY,car_make,1
+CHEV,car_make,1
+CHEV  ,car_make,1
+CHEV S,car_make,1
+CHEV T,car_make,1
+CHEV Y,car_make,1
+CHEV-,car_make,1
+CHEV.,car_make,1
+CHEV?,car_make,1
+CHEVAL,car_make,1
+CHEVE,car_make,1
+CHEVE ,car_make,1
+CHEVEI,car_make,1
+CHEVEL,car_make,1
+CHEVEO,car_make,1
+CHEVER,car_make,1
+CHEVET,car_make,1
+CHEVEY,car_make,1
+CHEVI,car_make,1
+CHEVIE,car_make,1
+CHEVIO,car_make,1
+CHEVL,car_make,1
+CHEVLA,car_make,1
+CHEVLE,car_make,1
+CHEVLO,car_make,1
+CHEVLR,car_make,1
+CHEVLT,car_make,1
+CHEVO,car_make,1
+CHEVOL,car_make,1
+CHEVOR,car_make,1
+CHEVOT,car_make,1
+CHEVOY,car_make,1
+CHEVR,car_make,1
+CHEVRE,car_make,1
+CHEVRI,car_make,1
+CHEVRL,car_make,1
+CHEVRO,car_make,1
+CHEVRY,car_make,1
+CHEVT,car_make,1
+CHEVTO,car_make,1
+CHEVVY,car_make,1
+CHEVY,car_make,1
+CHEVY ,car_make,1
+CHEVY-,car_make,1
+CHEVY.,car_make,1
+CHEVY/,car_make,1
+CHEVY?,car_make,1
+CHEVYA,car_make,1
+CHEVYB,car_make,1
+CHEVYE,car_make,1
+CHEVYL,car_make,1
+CHEVYR,car_make,1
+CHEVYT,car_make,1
+CHEVYW,car_make,1
+CHEVYY,car_make,1
+CHEVY`,car_make,1
+CHEWY,car_make,1
+CHEY,car_make,1
+CHEY I,car_make,1
+CHEYL,car_make,1
+CHEYV,car_make,1
+CHEYVE,car_make,1
+CHEYY,car_make,1
+CHHRYL,car_make,1
+CHIANO,car_make,1
+CHIEWI,car_make,1
+CHINA,car_make,1
+CHINOO,car_make,1
+CHISLE,car_make,1
+CHISTL,car_make,1
+CHLTS,car_make,1
+CHOPPE,car_make,1
+CHR,car_make,1
+CHRE,car_make,1
+CHRELE,car_make,1
+CHRESL,car_make,1
+CHREST,car_make,1
+CHREV,car_make,1
+CHREVL,car_make,1
+CHREVO,car_make,1
+CHREYL,car_make,1
+CHRIEL,car_make,1
+CHRIS,car_make,1
+CHRIS*,car_make,1
+CHRISH,car_make,1
+CHRISL,car_make,1
+CHRIST,car_make,1
+CHRKEE,car_make,1
+CHRL,car_make,1
+CHRLER,car_make,1
+CHRLYL,car_make,1
+CHRLYS,car_make,1
+CHROKE,car_make,1
+CHRS,car_make,1
+CHRSL,car_make,1
+CHRSLE,car_make,1
+CHRSLR,car_make,1
+CHRSLY,car_make,1
+CHRSTL,car_make,1
+CHRSY,car_make,1
+CHRSYL,car_make,1
+CHRVY,car_make,1
+CHRY,car_make,1
+CHRYCL,car_make,1
+CHRYER,car_make,1
+CHRYES,car_make,1
+CHRYL,car_make,1
+CHRYLE,car_make,1
+CHRYLR,car_make,1
+CHRYLS,car_make,1
+CHRYR,car_make,1
+CHRYS,car_make,1
+CHRYS ,car_make,1
+CHRYS.,car_make,1
+CHRYSA,car_make,1
+CHRYSE,car_make,1
+CHRYSL,car_make,1
+CHRYSR,car_make,1
+CHRYSS,car_make,1
+CHRYST,car_make,1
+CHRYSY,car_make,1
+CHRYT,car_make,1
+CHRYT.,car_make,1
+CHRYUS,car_make,1
+CHSLER,car_make,1
+CHSTLR,car_make,1
+CHSTRL,car_make,1
+CHSYL,car_make,1
+CHSYLE,car_make,1
+CHSYLR,car_make,1
+CHURCH,car_make,1
+CHV,car_make,1
+CHVELO,car_make,1
+CHVERO,car_make,1
+CHVERY,car_make,1
+CHVEY,car_make,1
+CHVORL,car_make,1
+CHVRLT,car_make,1
+CHVROL,car_make,1
+CHVY,car_make,1
+CHWVY,car_make,1
+CHY,car_make,1
+CHY300,car_make,1
+CHYERS,car_make,1
+CHYEVE,car_make,1
+CHYL,car_make,1
+CHYLER,car_make,1
+CHYLSE,car_make,1
+CHYR,car_make,1
+CHYREL,car_make,1
+CHYRLE,car_make,1
+CHYRLS,car_make,1
+CHYRS,car_make,1
+CHYRSE,car_make,1
+CHYRSL,car_make,1
+CHYRST,car_make,1
+CHYS,car_make,1
+CHYSEL,car_make,1
+CHYSL,car_make,1
+CHYSLA,car_make,1
+CHYSLE,car_make,1
+CHYSLR,car_make,1
+CHYST,car_make,1
+CHYSTE,car_make,1
+CHYSTL,car_make,1
+CI,car_make,1
+CIAO,car_make,1
+CICRA,car_make,1
+CIERA,car_make,1
+CIERRA,car_make,1
+CION,car_make,1
+CIRRUS,car_make,1
+CITATI,car_make,1
+CITI B,car_make,1
+CITIBI,car_make,1
+CITLAS,car_make,1
+CITRO,car_make,1
+CITRON,car_make,1
+CITY B,car_make,1
+CIVC,car_make,1
+CIVI,car_make,1
+CIVIC,car_make,1
+CIVIL,car_make,1
+CL500,car_make,1
+CL55,car_make,1
+CLARK,car_make,1
+CLAS,car_make,1
+CLASSI,car_make,1
+CLEMET,car_make,1
+CLEV,car_make,1
+CLK,car_make,1
+CLK500,car_make,1
+CLOTHI,car_make,1
+CLUB,car_make,1
+CLUGAR,car_make,1
+CMC SI,car_make,1
+CMPACT,car_make,1
+CMW740,car_make,1
+CNEVY,car_make,1
+CNTNR.,car_make,1
+CNTNTL,car_make,1
+CO,car_make,1
+COACH,car_make,1
+COACHM,car_make,1
+COARG,car_make,1
+COBALT,car_make,1
+COBB,car_make,1
+COBRA,car_make,1
+COGER,car_make,1
+COGUAR,car_make,1
+COGUR,car_make,1
+COLBAL,car_make,1
+COLEMA,car_make,1
+COLT,car_make,1
+COLUMB,car_make,1
+COM,car_make,1
+COMARA,car_make,1
+COMARO,car_make,1
+COMERO,car_make,1
+COMM,car_make,1
+COMM V,car_make,1
+COMM.,car_make,1
+COMMAC,car_make,1
+COMMAN,car_make,1
+COMMAR,car_make,1
+COMME,car_make,1
+COMMER,car_make,1
+COMMON,car_make,1
+COMMUT,car_make,1
+COMPAC,car_make,1
+COMPAQ,car_make,1
+COMPAS,car_make,1
+COMPCT,car_make,1
+COMRES,car_make,1
+CONCOR,car_make,1
+CONOLI,car_make,1
+CONQUE,car_make,1
+CONST,car_make,1
+CONSTR,car_make,1
+CONT,car_make,1
+CONT.,car_make,1
+CONTAI,car_make,1
+CONTI,car_make,1
+CONTIA,car_make,1
+CONTIE,car_make,1
+CONTIN,car_make,1
+CONTNR,car_make,1
+CONTOU,car_make,1
+CONVER,car_make,1
+COOGER,car_make,1
+COOP,car_make,1
+COOPER,car_make,1
+COPCO,car_make,1
+COPPER,car_make,1
+COR,car_make,1
+CORA  ,car_make,1
+CORCEC,car_make,1
+CORCHE,car_make,1
+CORCIS,car_make,1
+CORISC,car_make,1
+CORLLA,car_make,1
+CORNA,car_make,1
+CORO,car_make,1
+COROAL,car_make,1
+COROL,car_make,1
+COROLA,car_make,1
+COROLL,car_make,1
+CORONA,car_make,1
+CORRAD,car_make,1
+CORROL,car_make,1
+CORSIC,car_make,1
+CORT,car_make,1
+CORV,car_make,1
+CORVAR,car_make,1
+CORVE,car_make,1
+CORVET,car_make,1
+COTOUR,car_make,1
+COUCH,car_make,1
+COUGAR,car_make,1
+COUGER,car_make,1
+COULDN,car_make,1
+COUNTR,car_make,1
+COUP,car_make,1
+COUPE,car_make,1
+COVER,car_make,1
+COVER ,car_make,1
+COVERD,car_make,1
+COVERE,car_make,1
+COVERT,car_make,1
+COVET,car_make,1
+COVRED,car_make,1
+CQ40,car_make,1
+CRAMER,car_make,1
+CRANE,car_make,1
+CRANE-,car_make,1
+CRASHE,car_make,1
+CRAVAN,car_make,1
+CRAZY,car_make,1
+CREME,car_make,1
+CRESAD,car_make,1
+CRESCN,car_make,1
+CRESID,car_make,1
+CRESIT,car_make,1
+CRESPA,car_make,1
+CRESS,car_make,1
+CRESSI,car_make,1
+CREST,car_make,1
+CRESTL,car_make,1
+CRHSY,car_make,1
+CRHY,car_make,1
+CRHYLE,car_make,1
+CRHYS,car_make,1
+CRHYSL,car_make,1
+CRHYST,car_make,1
+CRI,car_make,1
+CRISHM,car_make,1
+CRISLE,car_make,1
+CRISLR,car_make,1
+CRIST,car_make,1
+CRISTL,car_make,1
+CRLIZE,car_make,1
+CRN,car_make,1
+CROGR,car_make,1
+CROSLE,car_make,1
+CROSSF,car_make,1
+CROUGE,car_make,1
+CROWM,car_make,1
+CROWN,car_make,1
+CROWN ,car_make,1
+CROWNE,car_make,1
+CROWNV,car_make,1
+CRSLER,car_make,1
+CRSTLE,car_make,1
+CRSTYL,car_make,1
+CRSYER,car_make,1
+CRSYL,car_make,1
+CRSYLE,car_make,1
+CRSYLR,car_make,1
+CRT,car_make,1
+CRUEGR,car_make,1
+CRUGAR,car_make,1
+CRUGER,car_make,1
+CRUISE,car_make,1
+CRUIZE,car_make,1
+CRUSER,car_make,1
+CRUSH,car_make,1
+CRUSIE,car_make,1
+CRUZE,car_make,1
+CRUZER,car_make,1
+CRV,car_make,1
+CRV   ,car_make,1
+CRWN,car_make,1
+CRWN V,car_make,1
+CRWNVC,car_make,1
+CRX,car_make,1
+CRY,car_make,1
+CRY300,car_make,1
+CRYCLE,car_make,1
+CRYL,car_make,1
+CRYLAR,car_make,1
+CRYLER,car_make,1
+CRYLS,car_make,1
+CRYLSE,car_make,1
+CRYLST,car_make,1
+CRYRSL,car_make,1
+CRYS,car_make,1
+CRYS.,car_make,1
+CRYSAL,car_make,1
+CRYSEL,car_make,1
+CRYSER,car_make,1
+CRYSH,car_make,1
+CRYSHL,car_make,1
+CRYSL,car_make,1
+CRYSL.,car_make,1
+CRYSLA,car_make,1
+CRYSLE,car_make,1
+CRYSLI,car_make,1
+CRYSLO,car_make,1
+CRYSLR,car_make,1
+CRYSLT,car_make,1
+CRYSLY,car_make,1
+CRYST,car_make,1
+CRYSTA,car_make,1
+CRYSTE,car_make,1
+CRYSTL,car_make,1
+CRYSTR,car_make,1
+CRYSTT,car_make,1
+CRYTLE,car_make,1
+CRYTSL,car_make,1
+CSHMAN,car_make,1
+CSR-25,car_make,1
+CTAPLR,car_make,1
+CTS,car_make,1
+CUBE,car_make,1
+CUGAR,car_make,1
+CUGER,car_make,1
+CULTLA,car_make,1
+CUPDEV,car_make,1
+CURA,car_make,1
+CURGAR,car_make,1
+CURGER,car_make,1
+CURVET,car_make,1
+CUSH,car_make,1
+CUSHMA,car_make,1
+CUSHNA,car_make,1
+CUSTMA,car_make,1
+CUSTOM,car_make,1
+CUTLAS,car_make,1
+CUTLER,car_make,1
+CUTLES,car_make,1
+CUTLIS,car_make,1
+CUTLUS,car_make,1
+CV,car_make,1
+CVEY,car_make,1
+CVHEVY,car_make,1
+CWNVIC,car_make,1
+CX-150,car_make,1
+CYCL,car_make,1
+CYCLE,car_make,1
+CYCLES,car_make,1
+CYRESL,car_make,1
+CYRIST,car_make,1
+CYRLER,car_make,1
+CYRS,car_make,1
+CYRSLE,car_make,1
+CYRST,car_make,1
+CYRSTA,car_make,1
+CYRSTL,car_make,1
+CYRUS,car_make,1
+CYRYSL,car_make,1
+CYSELI,car_make,1
+CYSLER,car_make,1
+CYSTER,car_make,1
+CYSTLA,car_make,1
+CYSTLE,car_make,1
+CYSTLR,car_make,1
+CYSTRA,car_make,1
+CYSTRL,car_make,1
+CYTRAL,car_make,1
+D,car_make,1
+D/CARA,car_make,1
+D/K,car_make,1
+D/MINI,car_make,1
+D/N,car_make,1
+D0DGE,car_make,1
+DADGE,car_make,1
+DADWOO,car_make,1
+DAEBO,car_make,1
+DAEW,car_make,1
+DAEWAO,car_make,1
+DAEWO,car_make,1
+DAEWOO,car_make,1
+DAF,car_make,1
+DAHATS,car_make,1
+DAHOO,car_make,1
+DAIHAT,car_make,1
+DAIWOO,car_make,1
+DAKA,car_make,1
+DAKATO,car_make,1
+DAKOTA,car_make,1
+DALANI,car_make,1
+DALLI,car_make,1
+DALTA,car_make,1
+DAMAGE,car_make,1
+DAME,car_make,1
+DAMONT,car_make,1
+DANALI,car_make,1
+DANE,car_make,1
+DANGER,car_make,1
+DANOKA,car_make,1
+DANRAN,car_make,1
+DANTSU,car_make,1
+DAPOH,car_make,1
+DARANO,car_make,1
+DARCEY,car_make,1
+DARK B,car_make,1
+DARSUN,car_make,1
+DASTUN,car_make,1
+DASUN,car_make,1
+DAT,car_make,1
+DATS,car_make,1
+DATSAN,car_make,1
+DATSON,car_make,1
+DATSUB,car_make,1
+DATSUM,car_make,1
+DATSUN,car_make,1
+DATSUZ,car_make,1
+DATZ,car_make,1
+DAU LE,car_make,1
+DAUTSH,car_make,1
+DAVIDS,car_make,1
+DAWOO,car_make,1
+DAWOOD,car_make,1
+DAY BO,car_make,1
+DAYTON,car_make,1
+DAYWOO,car_make,1
+DAZDA,car_make,1
+DDGE,car_make,1
+DEAWOO,car_make,1
+DECLIN,car_make,1
+DEEP,car_make,1
+DEISEL,car_make,1
+DELEHI,car_make,1
+DELIVE,car_make,1
+DELORE,car_make,1
+DELSOL,car_make,1
+DELTA,car_make,1
+DELUXE,car_make,1
+DENAGR,car_make,1
+DENALI,car_make,1
+DENALL,car_make,1
+DENAWI,car_make,1
+DENLAI,car_make,1
+DENTED,car_make,1
+DENVIL,car_make,1
+DERAGO,car_make,1
+DERAND,car_make,1
+DERANG,car_make,1
+DERBY,car_make,1
+DERELI,car_make,1
+DESPA,car_make,1
+DETACH,car_make,1
+DEVILE,car_make,1
+DEVILL,car_make,1
+DEWOOD,car_make,1
+DGDGE,car_make,1
+DIAHT,car_make,1
+DIAMAN,car_make,1
+DIAMEN,car_make,1
+DIAMO,car_make,1
+DIAMON,car_make,1
+DIDGE,car_make,1
+DIESEL,car_make,1
+DIFERE,car_make,1
+DIFFER,car_make,1
+DIGGER,car_make,1
+DILVER,car_make,1
+DINALI,car_make,1
+DINT K,car_make,1
+DIODGE,car_make,1
+DIPLOM,car_make,1
+DIRT,car_make,1
+DIRT B,car_make,1
+DIRTBI,car_make,1
+DISABL,car_make,1
+DISCO,car_make,1
+DISCOV,car_make,1
+DISSAN,car_make,1
+DISVA,car_make,1
+DK,car_make,1
+DK-2,car_make,1
+DMC,car_make,1
+DMONTI,car_make,1
+DMV,car_make,1
+DMW,car_make,1
+DMX,car_make,1
+DO NOT,car_make,1
+DOAGE,car_make,1
+DOBGE,car_make,1
+DOD,car_make,1
+DOD-2,car_make,1
+DODAGE,car_make,1
+DODDGE,car_make,1
+DODE,car_make,1
+DODG,car_make,1
+DODGE,car_make,1
+DODGE ,car_make,1
+DODGE-,car_make,1
+DODGE/,car_make,1
+DODGE?,car_make,1
+DODGEA,car_make,1
+DODGEC,car_make,1
+DODGEE,car_make,1
+DODGEN,car_make,1
+DODGEP,car_make,1
+DODGEQ,car_make,1
+DODGER,car_make,1
+DODGEV,car_make,1
+DODGEW,car_make,1
+DODGE`,car_make,1
+DODGGE,car_make,1
+DODGR,car_make,1
+DODOGE,car_make,1
+DODSON,car_make,1
+DODTON,car_make,1
+DOES,car_make,1
+DOESNT,car_make,1
+DOEWOO,car_make,1
+DOG,car_make,1
+DOGDE,car_make,1
+DOGDGE,car_make,1
+DOGE,car_make,1
+DOGE C,car_make,1
+DOGE R,car_make,1
+DOGE W,car_make,1
+DOGED,car_make,1
+DOGER,car_make,1
+DOGGE,car_make,1
+DOGGIE,car_make,1
+DOGUE,car_make,1
+DOLLAR,car_make,1
+DOLLY,car_make,1
+DON'T,car_make,1
+DONNA,car_make,1
+DONO,car_make,1
+DONOT,car_make,1
+DONT K,car_make,1
+DONTKN,car_make,1
+DONTNO,car_make,1
+DONZA,car_make,1
+DOODGE,car_make,1
+DOOGE,car_make,1
+DORADO,car_make,1
+DORANG,car_make,1
+DORGE,car_make,1
+DORITO,car_make,1
+DORSEY,car_make,1
+DOSGE,car_make,1
+DOT,car_make,1
+DOT TR,car_make,1
+DOTSAN,car_make,1
+DOTSON,car_make,1
+DOTSUN,car_make,1
+DOUCH,car_make,1
+DOUCHE,car_make,1
+DOUDGE,car_make,1
+DOUG,car_make,1
+DOUGE,car_make,1
+DOZER,car_make,1
+DRANGO,car_make,1
+DRIVER,car_make,1
+DSNY,car_make,1
+DT466,car_make,1
+DT466E,car_make,1
+DTRUCK,car_make,1
+DTS,car_make,1
+DU,car_make,1
+DUB,car_make,1
+DUCATI,car_make,1
+DUCATT,car_make,1
+DUCCI,car_make,1
+DUCH,car_make,1
+DUCHE,car_make,1
+DUCHT,car_make,1
+DUCKAT,car_make,1
+DUDE,car_make,1
+DUG,car_make,1
+DUKATI,car_make,1
+DUMBO,car_make,1
+DUMP,car_make,1
+DUMP  ,car_make,1
+DUMP T,car_make,1
+DUMPER,car_make,1
+DUMPST,car_make,1
+DUMPTR,car_make,1
+DUNALI,car_make,1
+DURA,car_make,1
+DURA M,car_make,1
+DURA S,car_make,1
+DURAN,car_make,1
+DURANG,car_make,1
+DUSCH,car_make,1
+DUSH,car_make,1
+DUSTER,car_make,1
+DUTCH,car_make,1
+DW,car_make,1
+DYNA,car_make,1
+DYNAHO,car_make,1
+E 350,car_make,1
+E BIKE,car_make,1
+E-250,car_make,1
+E-BIKE,car_make,1
+E150,car_make,1
+E320,car_make,1
+E350,car_make,1
+E350 B,car_make,1
+E350 F,car_make,1
+E350 S,car_make,1
+E350.,car_make,1
+E420 M,car_make,1
+E450,car_make,1
+E50,car_make,1
+E500,car_make,1
+E550,car_make,1
+EA,car_make,1
+EAGLE,car_make,1
+EAST,car_make,1
+EAST T,car_make,1
+EBIKE,car_make,1
+EBIKES,car_make,1
+EC CAD,car_make,1
+ECHO,car_make,1
+ECLIP,car_make,1
+ECLIPS,car_make,1
+ECLISP,car_make,1
+ECO,car_make,1
+ECO ON,car_make,1
+ECOLAD,car_make,1
+ECOLIN,car_make,1
+ECON,car_make,1
+ECONLI,car_make,1
+ECONO,car_make,1
+ECONOL,car_make,1
+ECONOM,car_make,1
+ECONOV,car_make,1
+ED J H,car_make,1
+ED J.H,car_make,1
+EDGE,car_make,1
+EFLX,car_make,1
+EGALE,car_make,1
+EHRDAR,car_make,1
+EITSUB,car_make,1
+EL CAM,car_make,1
+EL DOR,car_make,1
+ELANTE,car_make,1
+ELANTR,car_make,1
+ELAUNC,car_make,1
+ELCAMI,car_make,1
+ELCIP,car_make,1
+ELCLIP,car_make,1
+ELCONA,car_make,1
+ELDERD,car_make,1
+ELDERO,car_make,1
+ELDOR,car_make,1
+ELDORA,car_make,1
+ELDORD,car_make,1
+ELEC,car_make,1
+ELECTI,car_make,1
+ELECTR,car_make,1
+ELEGAN,car_make,1
+ELEKTR,car_make,1
+ELEMEN,car_make,1
+ELENTR,car_make,1
+ELEXIS,car_make,1
+ELITE,car_make,1
+EMBOY,car_make,1
+EMC,car_make,1
+EMGCY,car_make,1
+EMPALA,car_make,1
+EMPALL,car_make,1
+EMPARL,car_make,1
+EMPLIA,car_make,1
+EMPOWE,car_make,1
+EMS,car_make,1
+EMT,car_make,1
+ENBOY,car_make,1
+ENCORE,car_make,1
+ENDEVO,car_make,1
+ENFINI,car_make,1
+ENGINE,car_make,1
+ENGLE,car_make,1
+ENKNOW,car_make,1
+ENOEAV,car_make,1
+ENTEGR,car_make,1
+ENTERP,car_make,1
+ENTREP,car_make,1
+ENVOY,car_make,1
+ENZHOU,car_make,1
+EQUIME,car_make,1
+EQUINO,car_make,1
+EQUINX,car_make,1
+EQUIPM,car_make,1
+EQUNOX,car_make,1
+ES 300,car_make,1
+ESCA,car_make,1
+ESCAL,car_make,1
+ESCALA,car_make,1
+ESCALD,car_make,1
+ESCALL,car_make,1
+ESCAPE,car_make,1
+ESCAPS,car_make,1
+ESCILA,car_make,1
+ESCLA,car_make,1
+ESCLAD,car_make,1
+ESCLDE,car_make,1
+ESCLIP,car_make,1
+ESCLIS,car_make,1
+ESCOLA,car_make,1
+ESCORT,car_make,1
+ESCSLA,car_make,1
+ESTATE,car_make,1
+ESTEEM,car_make,1
+ESTRO,car_make,1
+ETC,car_make,1
+ETM,car_make,1
+EUDI,car_make,1
+EUICK,car_make,1
+EURO,car_make,1
+EURO N,car_make,1
+EURO31,car_make,1
+EUROR,car_make,1
+EUROST,car_make,1
+EVERY,car_make,1
+EVO,car_make,1
+EX,car_make,1
+EX AMB,car_make,1
+EXCAL,car_make,1
+EXCAVA,car_make,1
+EXCERA,car_make,1
+EXCURS,car_make,1
+EXECUT,car_make,1
+EXP,car_make,1
+EXPADI,car_make,1
+EXPE,car_make,1
+EXPED,car_make,1
+EXPEDI,car_make,1
+EXPENS,car_make,1
+EXPI.,car_make,1
+EXPID,car_make,1
+EXPIDI,car_make,1
+EXPITI,car_make,1
+EXPL,car_make,1
+EXPLER,car_make,1
+EXPLO.,car_make,1
+EXPLOE,car_make,1
+EXPLOR,car_make,1
+EXPO,car_make,1
+EXPO.,car_make,1
+EXPOLE,car_make,1
+EXPOR,car_make,1
+EXPRES,car_make,1
+EXTEC,car_make,1
+EXTERA,car_make,1
+EXTRA,car_make,1
+EXUDA,car_make,1
+EZ PAS,car_make,1
+EZZU,car_make,1
+F,car_make,1
+F 250,car_make,1
+F ESCA,car_make,1
+F EXPL,car_make,1
+F FORD,car_make,1
+F VAN,car_make,1
+F-150,car_make,1
+F-350,car_make,1
+F. SUV,car_make,1
+F1 50,car_make,1
+F150,car_make,1
+F250,car_make,1
+F350,car_make,1
+F50,car_make,1
+F550,car_make,1
+F9RD,car_make,1
+FAAD,car_make,1
+FAB,car_make,1
+FACADE,car_make,1
+FAGO,car_make,1
+FALCON,car_make,1
+FALT B,car_make,1
+FAMILY,car_make,1
+FAOPAO,car_make,1
+FARD  ,car_make,1
+FASHIO,car_make,1
+FD,car_make,1
+FD EXP,car_make,1
+FD TOR,car_make,1
+FDNY,car_make,1
+FDORD,car_make,1
+FDOUT,car_make,1
+FE145,car_make,1
+FED EX,car_make,1
+FED X,car_make,1
+FEDEX,car_make,1
+FEETJO,car_make,1
+FEIDER,car_make,1
+FEIGHT,car_make,1
+FEPIA,car_make,1
+FERIO,car_make,1
+FERO,car_make,1
+FERRAR,car_make,1
+FEUGO,car_make,1
+FEW,car_make,1
+FFOCUS,car_make,1
+FFORD,car_make,1
+FIA,car_make,1
+FIAT,car_make,1
+FIDLER,car_make,1
+FIERO,car_make,1
+FIESTA,car_make,1
+FIFTH,car_make,1
+FININI,car_make,1
+FINITY,car_make,1
+FIORE,car_make,1
+FIRAM,car_make,1
+FIRD,car_make,1
+FIRE,car_make,1
+FIRE B,car_make,1
+FIREB,car_make,1
+FIREBD,car_make,1
+FIREBE,car_make,1
+FIREBI,car_make,1
+FIREBR,car_make,1
+FIRENZ,car_make,1
+FISHIN,car_make,1
+FIT,car_make,1
+FIVE V,car_make,1
+FIYAT,car_make,1
+FKLT,car_make,1
+FL60,car_make,1
+FL70,car_make,1
+FLAIR,car_make,1
+FLAT,car_make,1
+FLAT B,car_make,1
+FLATB,car_make,1
+FLATBD,car_make,1
+FLATBE,car_make,1
+FLATLI,car_make,1
+FLEETW,car_make,1
+FLINER,car_make,1
+FLOVER,car_make,1
+FLTBD,car_make,1
+FLTBED,car_make,1
+FLY,car_make,1
+FLY E-,car_make,1
+FLY-9,car_make,1
+FLYE A,car_make,1
+FLYING,car_make,1
+FOCUS,car_make,1
+FOD,car_make,1
+FODR,car_make,1
+FOED,car_make,1
+FOERD,car_make,1
+FOND,car_make,1
+FOOD,car_make,1
+FOOD C,car_make,1
+FOOD S,car_make,1
+FOOD T,car_make,1
+FOODCA,car_make,1
+FOODTR,car_make,1
+FOR,car_make,1
+FOR D,car_make,1
+FOR EX,car_make,1
+FOR GO,car_make,1
+FOR RA,car_make,1
+FOR SA,car_make,1
+FORCUS,car_make,1
+FORCVE,car_make,1
+FORD,car_make,1
+FORD ,car_make,1
+FORD  ,car_make,1
+FORD (,car_make,1
+FORD *,car_make,1
+FORD -,car_make,1
+FORD /,car_make,1
+FORD 1,car_make,1
+FORD 2,car_make,1
+FORD 3,car_make,1
+FORD 4,car_make,1
+FORD ?,car_make,1
+FORD A,car_make,1
+FORD B,car_make,1
+FORD C,car_make,1
+FORD D,car_make,1
+FORD E,car_make,1
+FORD F,car_make,1
+FORD G,car_make,1
+FORD H,car_make,1
+FORD I,car_make,1
+FORD J,car_make,1
+FORD L,car_make,1
+FORD M,car_make,1
+FORD N,car_make,1
+FORD O,car_make,1
+FORD P,car_make,1
+FORD R,car_make,1
+FORD S,car_make,1
+FORD T,car_make,1
+FORD U,car_make,1
+FORD V,car_make,1
+FORD W,car_make,1
+FORD X,car_make,1
+FORD(?,car_make,1
+FORD-,car_make,1
+FORD- ,car_make,1
+FORD.,car_make,1
+FORD/,car_make,1
+FORD/C,car_make,1
+FORD/N,car_make,1
+FORD/T,car_make,1
+FORD15,car_make,1
+FORD35,car_make,1
+FORD:,car_make,1
+FORD?,car_make,1
+FORD??,car_make,1
+FORDBL,car_make,1
+FORDE,car_make,1
+FORDEX,car_make,1
+FORDGO,car_make,1
+FORDK,car_make,1
+FORDLL,car_make,1
+FORDN,car_make,1
+FORDOL,car_make,1
+FORDRE,car_make,1
+FORDS,car_make,1
+FORDS ,car_make,1
+FORDSE,car_make,1
+FORDSV,car_make,1
+FORDTA,car_make,1
+FORDTK,car_make,1
+FORDUR,car_make,1
+FORDV8,car_make,1
+FORDVA,car_make,1
+FORDVN,car_make,1
+FORDWH,car_make,1
+FORDXL,car_make,1
+FORD`,car_make,1
+FORD``,car_make,1
+FORE,car_make,1
+FORED,car_make,1
+FOREIG,car_make,1
+FOREIN,car_make,1
+FOREST,car_make,1
+FOREXP,car_make,1
+FOREZA,car_make,1
+FORF,car_make,1
+FORGOT,car_make,1
+FORIEG,car_make,1
+FORK,car_make,1
+FORK L,car_make,1
+FORKLF,car_make,1
+FORKLI,car_make,1
+FORMER,car_make,1
+FORMUL,car_make,1
+FORS,car_make,1
+FORS M,car_make,1
+FORT,car_make,1
+FOTRD,car_make,1
+FOUR,car_make,1
+FOUR C,car_make,1
+FOUR W,car_make,1
+FOX,car_make,1
+FPRD,car_make,1
+FR LIN,car_make,1
+FRAIT,car_make,1
+FRAME,car_make,1
+FRANKL,car_make,1
+FRD,car_make,1
+FRD EX,car_make,1
+FREDLI,car_make,1
+FREEPO,car_make,1
+FREGHT,car_make,1
+FREID,car_make,1
+FREIGH,car_make,1
+FREIGT,car_make,1
+FREITL,car_make,1
+FRELIN,car_make,1
+FRERO,car_make,1
+FREU,car_make,1
+FREUHO,car_make,1
+FRIEG,car_make,1
+FRIEGH,car_make,1
+FRIEGT,car_make,1
+FRIGH,car_make,1
+FRIGHL,car_make,1
+FRIGHT,car_make,1
+FRKLFT,car_make,1
+FROD,car_make,1
+FRONT,car_make,1
+FRONTI,car_make,1
+FRORD,car_make,1
+FROS,car_make,1
+FRS,car_make,1
+FRTLNR,car_make,1
+FRU,car_make,1
+FRUEHA,car_make,1
+FRUHAU,car_make,1
+FRUHUE,car_make,1
+FRUIT,car_make,1
+FSA,car_make,1
+FT 466,car_make,1
+FUDGE,car_make,1
+FUEGO,car_make,1
+FUEL,car_make,1
+FUEL T,car_make,1
+FUFO,car_make,1
+FUJI,car_make,1
+FULL,car_make,1
+FULL S,car_make,1
+FURY,car_make,1
+FUSE,car_make,1
+FUSION,car_make,1
+FUSO,car_make,1
+FUSO  ,car_make,1
+FX,car_make,1
+FZ6R,car_make,1
+G AM,car_make,1
+G M,car_make,1
+G M C,car_make,1
+G MARQ,car_make,1
+G.DANE,car_make,1
+G.M.,car_make,1
+G.M.C.,car_make,1
+G.O,car_make,1
+G.P.,car_make,1
+G.T.S,car_make,1
+G/C,car_make,1
+G/M,car_make,1
+G/M/C,car_make,1
+G20,car_make,1
+G20T,car_make,1
+G35,car_make,1
+G35X,car_make,1
+G37,car_make,1
+G450,car_make,1
+GA,car_make,1
+GALAIN,car_make,1
+GALAMP,car_make,1
+GALAN,car_make,1
+GALANT,car_make,1
+GALAXY,car_make,1
+GALENT,car_make,1
+GALLAN,car_make,1
+GALLAT,car_make,1
+GALLNT,car_make,1
+GALONT,car_make,1
+GAMMA,car_make,1
+GANDAM,car_make,1
+GARBAG,car_make,1
+GARELL,car_make,1
+GARREN,car_make,1
+GARY,car_make,1
+GAUMAN,car_make,1
+GC,car_make,1
+GCM,car_make,1
+GD PRI,car_make,1
+GE,car_make,1
+GEEP,car_make,1
+GEL,car_make,1
+GENERA,car_make,1
+GENESI,car_make,1
+GENIE,car_make,1
+GENSIS,car_make,1
+GENUIN,car_make,1
+GEO,car_make,1
+GEO PR,car_make,1
+GEO TR,car_make,1
+GEO/PR,car_make,1
+GEOPRI,car_make,1
+GERMAN,car_make,1
+GETTA,car_make,1
+GFC,car_make,1
+GFORD,car_make,1
+GGMC,car_make,1
+GIANT,car_make,1
+GILITY,car_make,1
+GILLIG,car_make,1
+GIMMY,car_make,1
+GIO,car_make,1
+GISGO,car_make,1
+GITANE,car_make,1
+GLADIA,car_make,1
+GLANT,car_make,1
+GLC,car_make,1
+GM,car_make,1
+GM    ,car_make,1
+GM  ?,car_make,1
+GM AST,car_make,1
+GM CHV,car_make,1
+GM CUT,car_make,1
+GM PON,car_make,1
+GM SAV,car_make,1
+GM TER,car_make,1
+GM VAN,car_make,1
+GMA,car_make,1
+GMAC,car_make,1
+GMC,car_make,1
+GMC   ,car_make,1
+GMC  C,car_make,1
+GMC (2,car_make,1
+GMC 25,car_make,1
+GMC 35,car_make,1
+GMC 97,car_make,1
+GMC AC,car_make,1
+GMC AR,car_make,1
+GMC AS,car_make,1
+GMC BO,car_make,1
+GMC C5,car_make,1
+GMC CH,car_make,1
+GMC DA,car_make,1
+GMC DE,car_make,1
+GMC EN,car_make,1
+GMC GR,car_make,1
+GMC JE,car_make,1
+GMC JI,car_make,1
+GMC MI,car_make,1
+GMC ON,car_make,1
+GMC PI,car_make,1
+GMC SA,car_make,1
+GMC SI,car_make,1
+GMC SU,car_make,1
+GMC TO,car_make,1
+GMC TR,car_make,1
+GMC UC,car_make,1
+GMC UK,car_make,1
+GMC VA,car_make,1
+GMC WH,car_make,1
+GMC YU,car_make,1
+GMC-,car_make,1
+GMC.,car_make,1
+GMC. O,car_make,1
+GMC/EN,car_make,1
+GMC150,car_make,1
+GMC350,car_make,1
+GMC?,car_make,1
+GMCBOX,car_make,1
+GMCCOL,car_make,1
+GMCENV,car_make,1
+GMCSUV,car_make,1
+GMCT,car_make,1
+GMCVAN,car_make,1
+GMCVY,car_make,1
+GMENVO,car_make,1
+GMETRO,car_make,1
+GMH,car_make,1
+GMO SA,car_make,1
+GMS,car_make,1
+GMT,car_make,1
+GMV,car_make,1
+GMV550,car_make,1
+GMW,car_make,1
+GMZ,car_make,1
+GNC,car_make,1
+GNC   ,car_make,1
+GNC TR,car_make,1
+GO,car_make,1
+GO 4,car_make,1
+GO CAR,car_make,1
+GO-4,car_make,1
+GO-4 I,car_make,1
+GOASTA,car_make,1
+GODGE,car_make,1
+GOGEO,car_make,1
+GOLANT,car_make,1
+GOLD,car_make,1
+GOLD C,car_make,1
+GOLF,car_make,1
+GOLF C,car_make,1
+GOMETR,car_make,1
+GONDA,car_make,1
+GONDA ,car_make,1
+GOPRY,car_make,1
+GORD,car_make,1
+GORDY,car_make,1
+GPRIX,car_make,1
+GR AM,car_make,1
+GR CHE,car_make,1
+GR MAR,car_make,1
+GRADAM,car_make,1
+GRAN,car_make,1
+GRAN C,car_make,1
+GRAN M,car_make,1
+GRAN P,car_make,1
+GRANAD,car_make,1
+GRANAM,car_make,1
+GRANAN,car_make,1
+GRAND,car_make,1
+GRANDA,car_make,1
+GRANDC,car_make,1
+GRANDM,car_make,1
+GRANDP,car_make,1
+GRANDS,car_make,1
+GRANMA,car_make,1
+GRANPR,car_make,1
+GRAPRE,car_make,1
+GRAY,car_make,1
+GRAY 4,car_make,1
+GRAY A,car_make,1
+GRAY H,car_make,1
+GRAY S,car_make,1
+GRD AM,car_make,1
+GRD CH,car_make,1
+GRDCAR,car_make,1
+GRDMAR,car_make,1
+GREAT,car_make,1
+GREEN,car_make,1
+GREMLI,car_make,1
+GREY,car_make,1
+GREY/B,car_make,1
+GRIM72,car_make,1
+GRN CH,car_make,1
+GRNDAM,car_make,1
+GRNPRI,car_make,1
+GROOM,car_make,1
+GROVE,car_make,1
+GROVER,car_make,1
+GRULAN,car_make,1
+GRUMAN,car_make,1
+GRUMM,car_make,1
+GRUMMA,car_make,1
+GRUMMN,car_make,1
+GRUMUN,car_make,1
+GRUNNA,car_make,1
+GS,car_make,1
+GS300,car_make,1
+GS350,car_make,1
+GSM SA,car_make,1
+GT,car_make,1
+GT MUS,car_make,1
+GTE,car_make,1
+GTI,car_make,1
+GTS,car_make,1
+GX37,car_make,1
+GY TOY,car_make,1
+H,car_make,1
+H DAVI,car_make,1
+H ELAN,car_make,1
+H.D.,car_make,1
+H/ACCO,car_make,1
+H/CIV,car_make,1
+H/CIVI,car_make,1
+H/L,car_make,1
+HAILY,car_make,1
+HALAL,car_make,1
+HAMMER,car_make,1
+HAND T,car_make,1
+HANDA,car_make,1
+HANDAI,car_make,1
+HANDAR,car_make,1
+HANDAY,car_make,1
+HANDI,car_make,1
+HANDRA,car_make,1
+HANDYA,car_make,1
+HANGIN,car_make,1
+HARAC,car_make,1
+HARD T,car_make,1
+HARDLY,car_make,1
+HARLEY,car_make,1
+HARTLE,car_make,1
+HATCH,car_make,1
+HATCHB,car_make,1
+HAUL,car_make,1
+HAULER,car_make,1
+HAULIN,car_make,1
+HAULMA,car_make,1
+HAUNDA,car_make,1
+HAUNDI,car_make,1
+HAWKE,car_make,1
+HBN607,car_make,1
+HC,car_make,1
+HCRAFT,car_make,1
+HD,car_make,1
+HDCIVI,car_make,1
+HE,car_make,1
+HEARSE,car_make,1
+HEAVY,car_make,1
+HELT,car_make,1
+HEMI,car_make,1
+HERTZ,car_make,1
+HEVY,car_make,1
+HHONDA,car_make,1
+HHR LT,car_make,1
+HI,car_make,1
+HI DO,car_make,1
+HI END,car_make,1
+HI LOW,car_make,1
+HIDA,car_make,1
+HIDDEN,car_make,1
+HIGH,car_make,1
+HIGHLA,car_make,1
+HIGLAN,car_make,1
+HILOW,car_make,1
+HINDA,car_make,1
+HINDEA,car_make,1
+HINDS,car_make,1
+HINO,car_make,1
+HINO33,car_make,1
+HIONDA,car_make,1
+HISSAN,car_make,1
+HISTOR,car_make,1
+HITCH,car_make,1
+HIUNDA,car_make,1
+HLMARK,car_make,1
+HMC,car_make,1
+HNDA,car_make,1
+HNDYAI,car_make,1
+HOBDA,car_make,1
+HODA,car_make,1
+HODA P,car_make,1
+HODA V,car_make,1
+HODNA,car_make,1
+HOFFA,car_make,1
+HOINDA,car_make,1
+HOLDIN,car_make,1
+HOLLY,car_make,1
+HOLMES,car_make,1
+HOMDA,car_make,1
+HOME,car_make,1
+HON,car_make,1
+HON DA,car_make,1
+HONA,car_make,1
+HONADA,car_make,1
+HOND,car_make,1
+HOND98,car_make,1
+HONDA,car_make,1
+HONDA ,car_make,1
+HONDA',car_make,1
+HONDA-,car_make,1
+HONDA.,car_make,1
+HONDA/,car_make,1
+HONDA?,car_make,1
+HONDAA,car_make,1
+HONDAB,car_make,1
+HONDAC,car_make,1
+HONDAD,car_make,1
+HONDAE,car_make,1
+HONDAF,car_make,1
+HONDAG,car_make,1
+HONDAI,car_make,1
+HONDAQ,car_make,1
+HONDAR,car_make,1
+HONDAS,car_make,1
+HONDAY,car_make,1
+HONDA`,car_make,1
+HONDDA,car_make,1
+HONDE,car_make,1
+HONDEI,car_make,1
+HONDER,car_make,1
+HONDEY,car_make,1
+HONDI,car_make,1
+HONDIA,car_make,1
+HONDO,car_make,1
+HONDS,car_make,1
+HONDSA,car_make,1
+HONDY,car_make,1
+HONDYA,car_make,1
+HONEA,car_make,1
+HONFA,car_make,1
+HONHA,car_make,1
+HONHDA,car_make,1
+HONNA,car_make,1
+HONNDA,car_make,1
+HONSA,car_make,1
+HONUDA,car_make,1
+HORIZO,car_make,1
+HORNET,car_make,1
+HORSE,car_make,1
+HOT DO,car_make,1
+HOT SH,car_make,1
+HOTMA,car_make,1
+HOTROD,car_make,1
+HOTSHO,car_make,1
+HOUDA,car_make,1
+HOUNDA,car_make,1
+HOUNDI,car_make,1
+HOUSE,car_make,1
+HOV,car_make,1
+HOYDA,car_make,1
+HOYUND,car_make,1
+HPNDA,car_make,1
+HU,car_make,1
+HUANDA,car_make,1
+HUANDI,car_make,1
+HUDAN,car_make,1
+HUDI,car_make,1
+HUFFY,car_make,1
+HUGE T,car_make,1
+HUGO,car_make,1
+HUINDA,car_make,1
+HULK,car_make,1
+HUM,car_make,1
+HUMDY,car_make,1
+HUMMA,car_make,1
+HUMMER,car_make,1
+HUN,car_make,1
+HUN   ,car_make,1
+HUNADA,car_make,1
+HUND,car_make,1
+HUND&I,car_make,1
+HUNDA,car_make,1
+HUNDA1,car_make,1
+HUNDAE,car_make,1
+HUNDAI,car_make,1
+HUNDAO,car_make,1
+HUNDAR,car_make,1
+HUNDAY,car_make,1
+HUNDE,car_make,1
+HUNDI,car_make,1
+HUNDIA,car_make,1
+HUNDRA,car_make,1
+HUNDY,car_make,1
+HUNDYA,car_make,1
+HUNDYI,car_make,1
+HUNYDA,car_make,1
+HURRIC,car_make,1
+HURSE,car_make,1
+HURYCA,car_make,1
+HUSKY,car_make,1
+HUY,car_make,1
+HUYAND,car_make,1
+HUYANI,car_make,1
+HUYDA,car_make,1
+HUYNDA,car_make,1
+HUYNDI,car_make,1
+HUYUND,car_make,1
+HY,car_make,1
+HY SIN,car_make,1
+HYAN  ,car_make,1
+HYAND,car_make,1
+HYANDA,car_make,1
+HYANDI,car_make,1
+HYANDU,car_make,1
+HYANUD,car_make,1
+HYAUDI,car_make,1
+HYAUND,car_make,1
+HYBIRD,car_make,1
+HYBRID,car_make,1
+HYD,car_make,1
+HYDA,car_make,1
+HYDAI,car_make,1
+HYDAND,car_make,1
+HYDANI,car_make,1
+HYDAUI,car_make,1
+HYDAYU,car_make,1
+HYDI,car_make,1
+HYDIA,car_make,1
+HYDNAI,car_make,1
+HYDNUI,car_make,1
+HYDR,car_make,1
+HYDRA,car_make,1
+HYDRAI,car_make,1
+HYDUA,car_make,1
+HYDUAI,car_make,1
+HYDUAN,car_make,1
+HYDUIA,car_make,1
+HYDUND,car_make,1
+HYDUNI,car_make,1
+HYDYNA,car_make,1
+HYHAND,car_make,1
+HYIDAI,car_make,1
+HYINDA,car_make,1
+HYLAND,car_make,1
+HYMAHA,car_make,1
+HYMAN,car_make,1
+HYN,car_make,1
+HYNADA,car_make,1
+HYNAND,car_make,1
+HYND,car_make,1
+HYND*,car_make,1
+HYNDA,car_make,1
+HYNDAI,car_make,1
+HYNDAU,car_make,1
+HYNDAY,car_make,1
+HYNDEI,car_make,1
+HYNDI,car_make,1
+HYNDIA,car_make,1
+HYNDUI,car_make,1
+HYNUND,car_make,1
+HYONDA,car_make,1
+HYOSUN,car_make,1
+HYSTER,car_make,1
+HYU,car_make,1
+HYUADA,car_make,1
+HYUAND,car_make,1
+HYUDAI,car_make,1
+HYUDHI,car_make,1
+HYUDIA,car_make,1
+HYUDNA,car_make,1
+HYUDON,car_make,1
+HYUN,car_make,1
+HYUNA,car_make,1
+HYUNAD,car_make,1
+HYUNAI,car_make,1
+HYUND,car_make,1
+HYUNDA,car_make,1
+HYUNDE,car_make,1
+HYUNDI,car_make,1
+HYUNDY,car_make,1
+HYUNFD,car_make,1
+I,car_make,1
+I DON',car_make,1
+I DONT,car_make,1
+I J30,car_make,1
+I KNOW,car_make,1
+I ZUZU,car_make,1
+I30,car_make,1
+I35,car_make,1
+IAM NO,car_make,1
+IAWO,car_make,1
+IC,car_make,1
+ICE CR,car_make,1
+ICECRE,car_make,1
+IDK,car_make,1
+IEAY15,car_make,1
+IEUZ,car_make,1
+IFIN,car_make,1
+IFININ,car_make,1
+IFINIT,car_make,1
+IFINNI,car_make,1
+IFINTY,car_make,1
+IFNITY,car_make,1
+IFTY,car_make,1
+IHONDA,car_make,1
+IINFIN,car_make,1
+IIZUSU,car_make,1
+IKEA,car_make,1
+IKEYA,car_make,1
+ILLEGA,car_make,1
+ILLEST,car_make,1
+ILLUMI,car_make,1
+IMPAL,car_make,1
+IMPALA,car_make,1
+IMPALE,car_make,1
+IMPALL,car_make,1
+IMPARL,car_make,1
+IMPELA,car_make,1
+IMPERA,car_make,1
+IMPERI,car_make,1
+IMPLA,car_make,1
+IMPLY,car_make,1
+IMPOLA,car_make,1
+IMPOLL,car_make,1
+IMPORT,car_make,1
+IMPREZ,car_make,1
+IMPULS,car_make,1
+IN'TNL,car_make,1
+INCHON,car_make,1
+INCOL,car_make,1
+INF,car_make,1
+INF   ,car_make,1
+INFANE,car_make,1
+INFANI,car_make,1
+INFEN,car_make,1
+INFENI,car_make,1
+INFFIN,car_make,1
+INFI,car_make,1
+INFIAI,car_make,1
+INFIFI,car_make,1
+INFIIN,car_make,1
+INFIIT,car_make,1
+INFIN,car_make,1
+INFIN ,car_make,1
+INFIN*,car_make,1
+INFIN.,car_make,1
+INFINA,car_make,1
+INFINI,car_make,1
+INFINN,car_make,1
+INFINT,car_make,1
+INFINY,car_make,1
+INFIT,car_make,1
+INFITI,car_make,1
+INFITN,car_make,1
+INFITT,car_make,1
+INFITY,car_make,1
+INFNIT,car_make,1
+INFNTI,car_make,1
+INFNTY,car_make,1
+INFTY,car_make,1
+INIF,car_make,1
+INIFIN,car_make,1
+INIFIT,car_make,1
+ININIT,car_make,1
+INK,car_make,1
+INPAL,car_make,1
+INPALA,car_make,1
+INPULS,car_make,1
+INREPI,car_make,1
+INSPIR,car_make,1
+INT,car_make,1
+INT HA,car_make,1
+INT'L,car_make,1
+INT'NL,car_make,1
+INT. 3,car_make,1
+INTEGA,car_make,1
+INTEGE,car_make,1
+INTEGR,car_make,1
+INTEP,car_make,1
+INTER,car_make,1
+INTER.,car_make,1
+INTERC,car_make,1
+INTERG,car_make,1
+INTERI,car_make,1
+INTERN,car_make,1
+INTERP,car_make,1
+INTGRA,car_make,1
+INTL,car_make,1
+INTNL,car_make,1
+INTNTL,car_make,1
+INTR,car_make,1
+INTRE,car_make,1
+INTREG,car_make,1
+INTREP,car_make,1
+INTRIG,car_make,1
+INTRIN,car_make,1
+INTRIP,car_make,1
+INTRNL,car_make,1
+INUEU,car_make,1
+ION,car_make,1
+IOYOTA,car_make,1
+IRAZ,car_make,1
+IROC,car_make,1
+IS300,car_make,1
+ISEZU,car_make,1
+ISIZU,car_make,1
+ISLAND,car_make,1
+ISSAN,car_make,1
+ISSUSE,car_make,1
+ISSUSU,car_make,1
+ISSUZI,car_make,1
+ISSUZU,car_make,1
+ISSZU,car_make,1
+ISU,car_make,1
+ISUAZ,car_make,1
+ISUGI,car_make,1
+ISUKI,car_make,1
+ISUKU,car_make,1
+ISUSKI,car_make,1
+ISUSU,car_make,1
+ISUSZU,car_make,1
+ISUVU,car_make,1
+ISUZ,car_make,1
+ISUZA,car_make,1
+ISUZE,car_make,1
+ISUZI,car_make,1
+ISUZO,car_make,1
+ISUZS,car_make,1
+ISUZU,car_make,1
+ISUZU ,car_make,1
+ISUZUI,car_make,1
+ISUZZI,car_make,1
+ISZU,car_make,1
+ISZUIE,car_make,1
+ISZUKU,car_make,1
+ISZUSI,car_make,1
+ISZUSO,car_make,1
+ISZUZU,car_make,1
+IT IS,car_make,1
+ITALI,car_make,1
+ITALIA,car_make,1
+ITALIJ,car_make,1
+ITASCA,car_make,1
+ITERNA,car_make,1
+ITHASC,car_make,1
+ITRNTL,car_make,1
+ITS A,car_make,1
+ITS CO,car_make,1
+ITSUSI,car_make,1
+IVECO,car_make,1
+IZ,car_make,1
+IZAZU,car_make,1
+IZIZU,car_make,1
+IZSUSU,car_make,1
+IZUDU,car_make,1
+IZUI,car_make,1
+IZUKI,car_make,1
+IZUS,car_make,1
+IZUSI,car_make,1
+IZUSSO,car_make,1
+IZUSU,car_make,1
+IZUZ,car_make,1
+IZUZI,car_make,1
+IZUZO,car_make,1
+IZUZU,car_make,1
+IZUZZU,car_make,1
+IZZSU,car_make,1
+IZZU,car_make,1
+IZZUE,car_make,1
+IZZUEE,car_make,1
+IZZUSU,car_make,1
+IZZUZI,car_make,1
+IZZUZO,car_make,1
+J,car_make,1
+JAC,car_make,1
+JACKWA,car_make,1
+JACQUA,car_make,1
+JAG,car_make,1
+JAGA,car_make,1
+JAGAR,car_make,1
+JAGCUR,car_make,1
+JAGGAR,car_make,1
+JAGOIR,car_make,1
+JAGQAR,car_make,1
+JAGQUA,car_make,1
+JAGUA,car_make,1
+JAGUAR,car_make,1
+JAGUER,car_make,1
+JAGUGA,car_make,1
+JAGUQR,car_make,1
+JAGUR,car_make,1
+JAGURA,car_make,1
+JAGURE,car_make,1
+JAGURI,car_make,1
+JAGWA,car_make,1
+JAGWIR,car_make,1
+JAKWA,car_make,1
+JAKWAR,car_make,1
+JALON,car_make,1
+JAM,car_make,1
+JAMAHA,car_make,1
+JAMAHM,car_make,1
+JAP,car_make,1
+JAPAN,car_make,1
+JAPANE,car_make,1
+JAQ,car_make,1
+JAQU,car_make,1
+JAQUA,car_make,1
+JAQUAR,car_make,1
+JAR,car_make,1
+JARGUA,car_make,1
+JARTRN,car_make,1
+JARUGU,car_make,1
+JATTA,car_make,1
+JAU,car_make,1
+JAUAR,car_make,1
+JAUGAR,car_make,1
+JAUGER,car_make,1
+JAUGUA,car_make,1
+JAVUAR,car_make,1
+JAX,car_make,1
+JAYCO,car_make,1
+JCM,car_make,1
+JEDA,car_make,1
+JEDAR,car_make,1
+JEEEP,car_make,1
+JEEO,car_make,1
+JEEO C,car_make,1
+JEEP,car_make,1
+JEEP ,car_make,1
+JEEP  ,car_make,1
+JEEP &,car_make,1
+JEEP 4,car_make,1
+JEEP A,car_make,1
+JEEP C,car_make,1
+JEEP E,car_make,1
+JEEP G,car_make,1
+JEEP L,car_make,1
+JEEP P,car_make,1
+JEEP R,car_make,1
+JEEP S,car_make,1
+JEEP T,car_make,1
+JEEP W,car_make,1
+JEEP Y,car_make,1
+JEEP-,car_make,1
+JEEP/W,car_make,1
+JEEP?,car_make,1
+JEEPA,car_make,1
+JEEPCH,car_make,1
+JEEPGC,car_make,1
+JEEPK,car_make,1
+JEEPS,car_make,1
+JEER-D,car_make,1
+JEETA,car_make,1
+JEE[,car_make,1
+JEG,car_make,1
+JEO,car_make,1
+JEP,car_make,1
+JEPP,car_make,1
+JEROKE,car_make,1
+JET SK,car_make,1
+JET/SE,car_make,1
+JETA,car_make,1
+JETER,car_make,1
+JETRA,car_make,1
+JETSKI,car_make,1
+JETTA,car_make,1
+JETTA ,car_make,1
+JETTA/,car_make,1
+JETTER,car_make,1
+JETTI,car_make,1
+JETTR,car_make,1
+JIM,car_make,1
+JIMMY,car_make,1
+JIP,car_make,1
+JITTNE,car_make,1
+JLG,car_make,1
+JM,car_make,1
+JMC,car_make,1
+JOHN,car_make,1
+JOHN D,car_make,1
+JONWAY,car_make,1
+JOURNE,car_make,1
+JP,car_make,1
+JT,car_make,1
+JUCON,car_make,1
+JUGAR,car_make,1
+JUGUAR,car_make,1
+JUNK,car_make,1
+JXKD,car_make,1
+K,car_make,1
+KAIWAS,car_make,1
+KALIS,car_make,1
+KALOSK,car_make,1
+KAMISA,car_make,1
+KAMISK,car_make,1
+KAMSKI,car_make,1
+KARAVA,car_make,1
+KASWAK,car_make,1
+KAUFMA,car_make,1
+KAW,car_make,1
+KAWA,car_make,1
+KAWAKI,car_make,1
+KAWAS,car_make,1
+KAWASA,car_make,1
+KAWASI,car_make,1
+KAWASK,car_make,1
+KAWASO,car_make,1
+KAWAST,car_make,1
+KAWAZA,car_make,1
+KAWOSA,car_make,1
+KAWOSI,car_make,1
+KAWSAK,car_make,1
+KAWSAW,car_make,1
+KAWSKI,car_make,1
+KEA,car_make,1
+KEEP,car_make,1
+KEMORE,car_make,1
+KEN,car_make,1
+KEN/MO,car_make,1
+KENILW,car_make,1
+KENMOR,car_make,1
+KENNWO,car_make,1
+KENSWO,car_make,1
+KENW,car_make,1
+KENWOO,car_make,1
+KENWOR,car_make,1
+KENWRT,car_make,1
+KEWOOD,car_make,1
+KEYA,car_make,1
+KEYMOU,car_make,1
+KHRYL,car_make,1
+KHRYSL,car_make,1
+KI,car_make,1
+KIA,car_make,1
+KIA ,car_make,1
+KIA   ,car_make,1
+KIA EX,car_make,1
+KIA FO,car_make,1
+KIA JS,car_make,1
+KIA OP,car_make,1
+KIA RI,car_make,1
+KIA SA,car_make,1
+KIA SE,car_make,1
+KIA SO,car_make,1
+KIA SP,car_make,1
+KIA SU,car_make,1
+KIA-,car_make,1
+KIASEP,car_make,1
+KIAV,car_make,1
+KIL,car_make,1
+KIMCL,car_make,1
+KINA,car_make,1
+KINCO,car_make,1
+KING O,car_make,1
+KIO,car_make,1
+KIV,car_make,1
+KIWASK,car_make,1
+KJM896,car_make,1
+KKKKKK,car_make,1
+KNOWN,car_make,1
+KNWRTH,car_make,1
+KOLD K,car_make,1
+KOMATS,car_make,1
+KOMOSO,car_make,1
+KOMPER,car_make,1
+KOWAS,car_make,1
+KOWASA,car_make,1
+KOWASI,car_make,1
+KOWASK,car_make,1
+KOWAZA,car_make,1
+KOWOSA,car_make,1
+KOWSKI,car_make,1
+KOWYAS,car_make,1
+KRANE,car_make,1
+KRASL,car_make,1
+KRUGER,car_make,1
+KRYS,car_make,1
+KRYSLE,car_make,1
+KURB,car_make,1
+KURBMA,car_make,1
+KURMAN,car_make,1
+KUSHMA,car_make,1
+KUWASA,car_make,1
+KW,car_make,1
+KWASAK,car_make,1
+KWASKI,car_make,1
+KWASSK,car_make,1
+KYA,car_make,1
+KYMCO,car_make,1
+KYSMO,car_make,1
+L,car_make,1
+L ROVE,car_make,1
+L-FORD,car_make,1
+L/FORD,car_make,1
+LA SAB,car_make,1
+LABARN,car_make,1
+LABRON,car_make,1
+LACAR,car_make,1
+LAMBO,car_make,1
+LAMBOR,car_make,1
+LAMBR,car_make,1
+LAMBRE,car_make,1
+LAMO,car_make,1
+LANCER,car_make,1
+LANCIA,car_make,1
+LAND,car_make,1
+LAND C,car_make,1
+LAND R,car_make,1
+LAND Y,car_make,1
+LAND/R,car_make,1
+LANDCR,car_make,1
+LANDE,car_make,1
+LANDO,car_make,1
+LANDR,car_make,1
+LANDRO,car_make,1
+LANDRV,car_make,1
+LANDSC,car_make,1
+LANGER,car_make,1
+LANROV,car_make,1
+LANSER,car_make,1
+LARADE,car_make,1
+LARADO,car_make,1
+LAREAT,car_make,1
+LAREDO,car_make,1
+LARGE,car_make,1
+LARK,car_make,1
+LARKIN,car_make,1
+LASABA,car_make,1
+LASABL,car_make,1
+LASABR,car_make,1
+LASAIB,car_make,1
+LASARD,car_make,1
+LASRA,car_make,1
+LASSAB,car_make,1
+LAST C,car_make,1
+LATE S,car_make,1
+LATON,car_make,1
+LAX,car_make,1
+LAXUS,car_make,1
+LAZER,car_make,1
+LCLN,car_make,1
+LCRUZE,car_make,1
+LD ROV,car_make,1
+LD RVR,car_make,1
+LEBOY,car_make,1
+LEBRAO,car_make,1
+LECAR,car_make,1
+LECUS,car_make,1
+LEGACY,car_make,1
+LEGAND,car_make,1
+LEGANZ,car_make,1
+LEGENC,car_make,1
+LEGEND,car_make,1
+LEGION,car_make,1
+LEMONA,car_make,1
+LENARD,car_make,1
+LESABO,car_make,1
+LESABR,car_make,1
+LESALB,car_make,1
+LEVUS,car_make,1
+LEX,car_make,1
+LEX US,car_make,1
+LEXAS,car_make,1
+LEXCES,car_make,1
+LEXER,car_make,1
+LEXES,car_make,1
+LEXEUS,car_make,1
+LEXICO,car_make,1
+LEXIIS,car_make,1
+LEXIS,car_make,1
+LEXIUS,car_make,1
+LEXS,car_make,1
+LEXSUS,car_make,1
+LEXU,car_make,1
+LEXUA,car_make,1
+LEXUE,car_make,1
+LEXUS,car_make,1
+LEXUS ,car_make,1
+LEXUS-,car_make,1
+LEXUS/,car_make,1
+LEXUS?,car_make,1
+LEXUSB,car_make,1
+LEXUSS,car_make,1
+LEXUUS,car_make,1
+LEXUX,car_make,1
+LEXUZ,car_make,1
+LEXX,car_make,1
+LEXXUS,car_make,1
+LEXY,car_make,1
+LEYTON,car_make,1
+LHS,car_make,1
+LIA,car_make,1
+LIAMS,car_make,1
+LIBERT,car_make,1
+LIC,car_make,1
+LIC NO,car_make,1
+LICHON,car_make,1
+LICLN,car_make,1
+LICN,car_make,1
+LICNC,car_make,1
+LICNOL,car_make,1
+LICO,car_make,1
+LICOLN,car_make,1
+LICON,car_make,1
+LICONL,car_make,1
+LIFT,car_make,1
+LIGHT,car_make,1
+LIM,car_make,1
+LIMCLN,car_make,1
+LIME B,car_make,1
+LIMITE,car_make,1
+LIMMO,car_make,1
+LIMO,car_make,1
+LIMO  ,car_make,1
+LIMOSI,car_make,1
+LIMOUS,car_make,1
+LIN,car_make,1
+LIN.,car_make,1
+LINC,car_make,1
+LINC M,car_make,1
+LINC `,car_make,1
+LINC*,car_make,1
+LINC.,car_make,1
+LINC..,car_make,1
+LINC.L,car_make,1
+LINCH,car_make,1
+LINCHO,car_make,1
+LINCIL,car_make,1
+LINCL,car_make,1
+LINCLN,car_make,1
+LINCLO,car_make,1
+LINCN,car_make,1
+LINCO,car_make,1
+LINCO.,car_make,1
+LINCOH,car_make,1
+LINCOI,car_make,1
+LINCOL,car_make,1
+LINCOM,car_make,1
+LINCON,car_make,1
+LINDEN,car_make,1
+LINDOL,car_make,1
+LINER,car_make,1
+LINK,car_make,1
+LINKED,car_make,1
+LINKON,car_make,1
+LINL,car_make,1
+LINLCO,car_make,1
+LINOCL,car_make,1
+LINOCN,car_make,1
+LINOCO,car_make,1
+LINOLN,car_make,1
+LINVOL,car_make,1
+LIPRA,car_make,1
+LIT,car_make,1
+LITTLE,car_make,1
+LIVERY,car_make,1
+LN,car_make,1
+LN'ROV,car_make,1
+LNC,car_make,1
+LNC.,car_make,1
+LNCL,car_make,1
+LNCLN,car_make,1
+LNCLN?,car_make,1
+LNCLON,car_make,1
+LNCN,car_make,1
+LNCOL,car_make,1
+LNCOLN,car_make,1
+LND RO,car_make,1
+LNDROV,car_make,1
+LNDRVR,car_make,1
+LNFINI,car_make,1
+LNROVR,car_make,1
+LOAD R,car_make,1
+LOADER,car_make,1
+LONCOL,car_make,1
+LONCON,car_make,1
+LONG M,car_make,1
+LORADE,car_make,1
+LORADO,car_make,1
+LOREDO,car_make,1
+LOTS,car_make,1
+LOUDO,car_make,1
+LR,car_make,1
+LROVER,car_make,1
+LRVER,car_make,1
+LS,car_make,1
+LS 300,car_make,1
+LSC,car_make,1
+LTC,car_make,1
+LTD,car_make,1
+LUIMA,car_make,1
+LULL,car_make,1
+LUM,car_make,1
+LUMA,car_make,1
+LUMIN,car_make,1
+LUMINA,car_make,1
+LUMNA,car_make,1
+LUSKIN,car_make,1
+LUXUS,car_make,1
+LX,car_make,1
+LX1,car_make,1
+LX570,car_make,1
+M,car_make,1
+M B,car_make,1
+M BENZ,car_make,1
+M COOP,car_make,1
+M ITSU,car_make,1
+M&AACU,car_make,1
+M-B,car_make,1
+M-BENZ,car_make,1
+M-VAN,car_make,1
+M. G.,car_make,1
+M. VAN,car_make,1
+M.B,car_make,1
+M.BENS,car_make,1
+M.BENZ,car_make,1
+M.BIKE,car_make,1
+M.CYCL,car_make,1
+M.VAN,car_make,1
+M/A,car_make,1
+M/B,car_make,1
+M/BENS,car_make,1
+M/BENZ,car_make,1
+M/BIKE,car_make,1
+M/C,car_make,1
+M/CYCL,car_make,1
+M/SHIF,car_make,1
+M/VAN,car_make,1
+M/W,car_make,1
+M1388,car_make,1
+M35X,car_make,1
+M37X,car_make,1
+M45,car_make,1
+MA,car_make,1
+MAADZA,car_make,1
+MABLU,car_make,1
+MAC,car_make,1
+MAC   ,car_make,1
+MAC TR,car_make,1
+MACEDE,car_make,1
+MACK,car_make,1
+MACK &,car_make,1
+MACK I,car_make,1
+MACK T,car_make,1
+MACON,car_make,1
+MACURY,car_make,1
+MAD,car_make,1
+MADADA,car_make,1
+MADAZ,car_make,1
+MADAZA,car_make,1
+MADEZ,car_make,1
+MADEZA,car_make,1
+MADWIC,car_make,1
+MADZA,car_make,1
+MAG,car_make,1
+MAGDA,car_make,1
+MAGNA,car_make,1
+MAGNUM,car_make,1
+MAGUM,car_make,1
+MAGVAN,car_make,1
+MAIL,car_make,1
+MAIXA,car_make,1
+MAIXIN,car_make,1
+MAIXMA,car_make,1
+MAKE,car_make,1
+MAKE N,car_make,1
+MALABO,car_make,1
+MALABU,car_make,1
+MALAGU,car_make,1
+MALARD,car_make,1
+MALBIU,car_make,1
+MALEVU,car_make,1
+MALIBO,car_make,1
+MALIBU,car_make,1
+MALIVU,car_make,1
+MALLAR,car_make,1
+MALUBI,car_make,1
+MALUBO,car_make,1
+MANAZA,car_make,1
+MANDA,car_make,1
+MANDAZ,car_make,1
+MANI,car_make,1
+MANIMA,car_make,1
+MANLIS,car_make,1
+MANOR,car_make,1
+MANY,car_make,1
+MANY C,car_make,1
+MANY V,car_make,1
+MANZA,car_make,1
+MANZDA,car_make,1
+MAOS,car_make,1
+MAQUIS,car_make,1
+MAR,car_make,1
+MARAGE,car_make,1
+MARANO,car_make,1
+MARC,car_make,1
+MARCAD,car_make,1
+MARCDI,car_make,1
+MARCE,car_make,1
+MARCED,car_make,1
+MARCEE,car_make,1
+MARCEY,car_make,1
+MARCI,car_make,1
+MARCQU,car_make,1
+MARCRY,car_make,1
+MARCUR,car_make,1
+MARCY,car_make,1
+MARDER,car_make,1
+MARDZA,car_make,1
+MARINA,car_make,1
+MARINE,car_make,1
+MARIOT,car_make,1
+MARK,car_make,1
+MARK 5,car_make,1
+MARK 7,car_make,1
+MARK3,car_make,1
+MARK4,car_make,1
+MARKE,car_make,1
+MARKEY,car_make,1
+MARKIA,car_make,1
+MARNDO,car_make,1
+MARNI,car_make,1
+MARONO,car_make,1
+MAROON,car_make,1
+MARQU,car_make,1
+MARQUE,car_make,1
+MARQUI,car_make,1
+MARQUS,car_make,1
+MARRAG,car_make,1
+MARRON,car_make,1
+MARSDA,car_make,1
+MARTIN,car_make,1
+MARTIZ,car_make,1
+MARUC,car_make,1
+MARZA,car_make,1
+MARZAD,car_make,1
+MAS,car_make,1
+MASADA,car_make,1
+MASADE,car_make,1
+MASADI,car_make,1
+MASD,car_make,1
+MASDA,car_make,1
+MASEDA,car_make,1
+MASEDE,car_make,1
+MASERA,car_make,1
+MASIDA,car_make,1
+MASSEY,car_make,1
+MASZDA,car_make,1
+MAT,car_make,1
+MATRIX,car_make,1
+MATSUB,car_make,1
+MAURAN,car_make,1
+MAVRIC,car_make,1
+MAX,car_make,1
+MAXAMA,car_make,1
+MAXDA,car_make,1
+MAXI,car_make,1
+MAXI P,car_make,1
+MAXIA,car_make,1
+MAXIAM,car_make,1
+MAXIM,car_make,1
+MAXIMA,car_make,1
+MAXIME,car_make,1
+MAXIMI,car_make,1
+MAXIMM,car_make,1
+MAXIMN,car_make,1
+MAXIMU,car_make,1
+MAXIN,car_make,1
+MAXINA,car_make,1
+MAXINE,car_make,1
+MAXIUM,car_make,1
+MAXMA,car_make,1
+MAXMER,car_make,1
+MAXMIA,car_make,1
+MAXMUM,car_make,1
+MAXON,car_make,1
+MAXU,car_make,1
+MAXUAM,car_make,1
+MAXUM,car_make,1
+MAXXFO,car_make,1
+MAYBE,car_make,1
+MAZ,car_make,1
+MAZA,car_make,1
+MAZA 6,car_make,1
+MAZAD,car_make,1
+MAZADA,car_make,1
+MAZADE,car_make,1
+MAZARA,car_make,1
+MAZARI,car_make,1
+MAZBA,car_make,1
+MAZDA,car_make,1
+MAZDA ,car_make,1
+MAZDA-,car_make,1
+MAZDA3,car_make,1
+MAZDA4,car_make,1
+MAZDA5,car_make,1
+MAZDA6,car_make,1
+MAZDA?,car_make,1
+MAZDAB,car_make,1
+MAZDAR,car_make,1
+MAZDAS,car_make,1
+MAZDAW,car_make,1
+MAZDA`,car_make,1
+MAZDNA,car_make,1
+MAZDS,car_make,1
+MAZDZ,car_make,1
+MAZEDA,car_make,1
+MAZERA,car_make,1
+MAZETA,car_make,1
+MAZIA,car_make,1
+MAZIDA,car_make,1
+MAZMA,car_make,1
+MAZRA,car_make,1
+MAZSA,car_make,1
+MAZZ,car_make,1
+MAZZA,car_make,1
+MAZZDA,car_make,1
+MAZZE,car_make,1
+MAZZNA,car_make,1
+MB,car_make,1
+MB    ,car_make,1
+MB350,car_make,1
+MB430,car_make,1
+MBC240,car_make,1
+MBENZ,car_make,1
+MBENZE,car_make,1
+MBGALA,car_make,1
+MBIKE,car_make,1
+MBL HM,car_make,1
+MBW,car_make,1
+MBX,car_make,1
+MBZ,car_make,1
+MC,car_make,1
+MC    ,car_make,1
+MC/BE,car_make,1
+MCARLO,car_make,1
+MCI,car_make,1
+MCUGER,car_make,1
+MCURY,car_make,1
+MCY,car_make,1
+MCY   ,car_make,1
+MCYCLE,car_make,1
+MDV,car_make,1
+MDX,car_make,1
+MDZA62,car_make,1
+ME,car_make,1
+ME BE,car_make,1
+ME BE ,car_make,1
+ME BEN,car_make,1
+ME-BE,car_make,1
+ME/ BE,car_make,1
+ME/BE,car_make,1
+ME/BE ,car_make,1
+ME/BEN,car_make,1
+ME/BEZ,car_make,1
+ME/BNZ,car_make,1
+ME/DE,car_make,1
+MEADES,car_make,1
+MEB BE,car_make,1
+MEBE,car_make,1
+MEBENZ,car_make,1
+MEBNZ,car_make,1
+MEC,car_make,1
+MEC BE,car_make,1
+MEC BZ,car_make,1
+MECADE,car_make,1
+MECBNZ,car_make,1
+MECE,car_make,1
+MECED,car_make,1
+MECEDE,car_make,1
+MECEDZ,car_make,1
+MECER,car_make,1
+MECERD,car_make,1
+MECERV,car_make,1
+MECESD,car_make,1
+MECRED,car_make,1
+MECRES,car_make,1
+MECRU,car_make,1
+MECRY,car_make,1
+MECUR,car_make,1
+MECURE,car_make,1
+MECURY,car_make,1
+MED,car_make,1
+MEDEZ,car_make,1
+MEDZA,car_make,1
+MEITIA,car_make,1
+MEKUR,car_make,1
+MEND.,car_make,1
+MENDEZ,car_make,1
+MENTON,car_make,1
+MER,car_make,1
+MER BE,car_make,1
+MER BZ,car_make,1
+MER CE,car_make,1
+MER*,car_make,1
+MERARY,car_make,1
+MERBEN,car_make,1
+MERBEZ,car_make,1
+MERBNZ,car_make,1
+MERC,car_make,1
+MERC B,car_make,1
+MERC-B,car_make,1
+MERC.,car_make,1
+MERC..,car_make,1
+MERCA,car_make,1
+MERCA ,car_make,1
+MERCAD,car_make,1
+MERCBE,car_make,1
+MERCBZ,car_make,1
+MERCD,car_make,1
+MERCDE,car_make,1
+MERCDS,car_make,1
+MERCDZ,car_make,1
+MERCE,car_make,1
+MERCE.,car_make,1
+MERCEA,car_make,1
+MERCEC,car_make,1
+MERCED,car_make,1
+MERCEE,car_make,1
+MERCEI,car_make,1
+MERCEL,car_make,1
+MERCEN,car_make,1
+MERCER,car_make,1
+MERCES,car_make,1
+MERCEV,car_make,1
+MERCEZ,car_make,1
+MERCHR,car_make,1
+MERCID,car_make,1
+MERCMQ,car_make,1
+MERCR,car_make,1
+MERCRU,car_make,1
+MERCRY,car_make,1
+MERCS,car_make,1
+MERCU,car_make,1
+MERCUA,car_make,1
+MERCUI,car_make,1
+MERCUR,car_make,1
+MERCUY,car_make,1
+MERCY,car_make,1
+MERCY ,car_make,1
+MERCYR,car_make,1
+MERDCA,car_make,1
+MERDCE,car_make,1
+MERDED,car_make,1
+MERDES,car_make,1
+MERDEZ,car_make,1
+MEREC,car_make,1
+MERECD,car_make,1
+MERECE,car_make,1
+MEREDE,car_make,1
+MERKUR,car_make,1
+MERS,car_make,1
+MERSA,car_make,1
+MERSAD,car_make,1
+MERSED,car_make,1
+MERSET,car_make,1
+MERUCY,car_make,1
+MERY.,car_make,1
+MERZ,car_make,1
+MERZED,car_make,1
+MESADE,car_make,1
+MESSP,car_make,1
+MESUBI,car_make,1
+METCED,car_make,1
+METRO,car_make,1
+METSBI,car_make,1
+METSUB,car_make,1
+MEUCUR,car_make,1
+MEZDA,car_make,1
+MG,car_make,1
+MGB,car_make,1
+MGM,car_make,1
+MGSPOT,car_make,1
+MGUZZI,car_make,1
+MH,car_make,1
+MI VAN,car_make,1
+MI-VAN,car_make,1
+MIATA,car_make,1
+MIATA?,car_make,1
+MIC,car_make,1
+MICH,car_make,1
+MICHIB,car_make,1
+MICHUB,car_make,1
+MICHUI,car_make,1
+MID,car_make,1
+MIDAS,car_make,1
+MIDAZ,car_make,1
+MIDGET,car_make,1
+MIDSIZ,car_make,1
+MIDWAY,car_make,1
+MIGHT,car_make,1
+MILABO,car_make,1
+MILAN,car_make,1
+MILANO,car_make,1
+MILENU,car_make,1
+MILIT,car_make,1
+MILITA,car_make,1
+MILLER,car_make,1
+MILLI,car_make,1
+MIMI C,car_make,1
+MIMI V,car_make,1
+MIN,car_make,1
+MIN CO,car_make,1
+MIN VA,car_make,1
+MINBUS,car_make,1
+MINI,car_make,1
+MINI  ,car_make,1
+MINI B,car_make,1
+MINI C,car_make,1
+MINI V,car_make,1
+MINI-C,car_make,1
+MINI-V,car_make,1
+MINIBU,car_make,1
+MINIC,car_make,1
+MINICA,car_make,1
+MINICO,car_make,1
+MINIVA,car_make,1
+MINIVN,car_make,1
+MINVAN,car_make,1
+MINVN,car_make,1
+MIRADA,car_make,1
+MIRAGE,car_make,1
+MIRAND,car_make,1
+MIS,car_make,1
+MISABE,car_make,1
+MISABU,car_make,1
+MISB,car_make,1
+MISB.,car_make,1
+MISBCH,car_make,1
+MISBI,car_make,1
+MISBIS,car_make,1
+MISBU,car_make,1
+MISBUI,car_make,1
+MISBUS,car_make,1
+MISBUT,car_make,1
+MISC,car_make,1
+MISC.,car_make,1
+MISCH,car_make,1
+MISH,car_make,1
+MISHBI,car_make,1
+MISHI,car_make,1
+MISHIB,car_make,1
+MISHU,car_make,1
+MISHUB,car_make,1
+MISI,car_make,1
+MISIB,car_make,1
+MISIBI,car_make,1
+MISIBU,car_make,1
+MISIT,car_make,1
+MISITI,car_make,1
+MISS,car_make,1
+MISS Y,car_make,1
+MISSAN,car_make,1
+MISSB*,car_make,1
+MISSBI,car_make,1
+MISSH,car_make,1
+MISSI,car_make,1
+MISSIO,car_make,1
+MISSTU,car_make,1
+MISSU,car_make,1
+MISSUB,car_make,1
+MIST,car_make,1
+MISTBU,car_make,1
+MISTCH,car_make,1
+MISTH,car_make,1
+MISTI,car_make,1
+MISTIB,car_make,1
+MISTIH,car_make,1
+MISTRA,car_make,1
+MISTRU,car_make,1
+MISTS,car_make,1
+MISTSU,car_make,1
+MISTU,car_make,1
+MISTUB,car_make,1
+MISTUI,car_make,1
+MISTUS,car_make,1
+MISTZ,car_make,1
+MISU,car_make,1
+MISUB,car_make,1
+MISUBE,car_make,1
+MISUBH,car_make,1
+MISUBI,car_make,1
+MISUBS,car_make,1
+MISUBU,car_make,1
+MISUC,car_make,1
+MISUIB,car_make,1
+MISZU,car_make,1
+MIT,car_make,1
+MIT   ,car_make,1
+MIT.,car_make,1
+MITABI,car_make,1
+MITAHB,car_make,1
+MITB,car_make,1
+MITBHI,car_make,1
+MITBIS,car_make,1
+MITBSH,car_make,1
+MITBU,car_make,1
+MITBUS,car_make,1
+MITBUT,car_make,1
+MITC,car_make,1
+MITCBI,car_make,1
+MITCH,car_make,1
+MITCH*,car_make,1
+MITCHB,car_make,1
+MITCHI,car_make,1
+MITCHU,car_make,1
+MITCU,car_make,1
+MITCUB,car_make,1
+MITHSB,car_make,1
+MITI,car_make,1
+MITIB,car_make,1
+MITIBH,car_make,1
+MITIBI,car_make,1
+MITIBU,car_make,1
+MITIS,car_make,1
+MITISB,car_make,1
+MITISH,car_make,1
+MITISI,car_make,1
+MITISJ,car_make,1
+MITISU,car_make,1
+MITIUB,car_make,1
+MITIZI,car_make,1
+MITIZU,car_make,1
+MITOBU,car_make,1
+MITS,car_make,1
+MITS*,car_make,1
+MITS.,car_make,1
+MITSA,car_make,1
+MITSAB,car_make,1
+MITSB,car_make,1
+MITSBH,car_make,1
+MITSBI,car_make,1
+MITSBS,car_make,1
+MITSBU,car_make,1
+MITSCH,car_make,1
+MITSH,car_make,1
+MITSHA,car_make,1
+MITSHB,car_make,1
+MITSHI,car_make,1
+MITSHU,car_make,1
+MITSI,car_make,1
+MITSIB,car_make,1
+MITSIU,car_make,1
+MITSO,car_make,1
+MITSOB,car_make,1
+MITSS,car_make,1
+MITSSU,car_make,1
+MITSTI,car_make,1
+MITSU,car_make,1
+MITSU.,car_make,1
+MITSUB,car_make,1
+MITSUC,car_make,1
+MITSUH,car_make,1
+MITSUI,car_make,1
+MITSUP,car_make,1
+MITSUR,car_make,1
+MITSUS,car_make,1
+MITSUT,car_make,1
+MITSUV,car_make,1
+MITSZU,car_make,1
+MITT,car_make,1
+MITTOB,car_make,1
+MITTS,car_make,1
+MITTSU,car_make,1
+MITU,car_make,1
+MITUB,car_make,1
+MITUB*,car_make,1
+MITUBI,car_make,1
+MITUBS,car_make,1
+MITUBU,car_make,1
+MITUIB,car_make,1
+MITUS,car_make,1
+MITUSB,car_make,1
+MITUSH,car_make,1
+MITUSI,car_make,1
+MITUSU,car_make,1
+MITZ,car_make,1
+MITZ*,car_make,1
+MITZA,car_make,1
+MITZAB,car_make,1
+MITZBI,car_make,1
+MITZI,car_make,1
+MITZIB,car_make,1
+MITZSU,car_make,1
+MITZU,car_make,1
+MITZU ,car_make,1
+MITZUB,car_make,1
+MITZUS,car_make,1
+MIXER,car_make,1
+MIY,car_make,1
+MIZ,car_make,1
+MIZDA,car_make,1
+MIZTSU,car_make,1
+MIZTU,car_make,1
+MIZUBI,car_make,1
+MK35,car_make,1
+MKS,car_make,1
+MKX,car_make,1
+MKZ,car_make,1
+ML,car_make,1
+ML 320,car_make,1
+ML 350,car_make,1
+ML 500,car_make,1
+ML320,car_make,1
+ML340,car_make,1
+ML350,car_make,1
+ML430,car_make,1
+MNG,car_make,1
+MOB H,car_make,1
+MOBHOM,car_make,1
+MOBIL,car_make,1
+MOBILE,car_make,1
+MOBLE,car_make,1
+MODAS,car_make,1
+MODEL,car_make,1
+MODSER,car_make,1
+MODZA,car_make,1
+MONARK,car_make,1
+MONCAR,car_make,1
+MONT C,car_make,1
+MONTA,car_make,1
+MONTAC,car_make,1
+MONTAN,car_make,1
+MONTAR,car_make,1
+MONTE,car_make,1
+MONTEC,car_make,1
+MONTEG,car_make,1
+MONTER,car_make,1
+MONTI,car_make,1
+MONTIC,car_make,1
+MONTIN,car_make,1
+MONTRO,car_make,1
+MONTY,car_make,1
+MONZA,car_make,1
+MOPAD,car_make,1
+MOPED,car_make,1
+MOPEDE,car_make,1
+MOPEDS,car_make,1
+MOPEG,car_make,1
+MOR,car_make,1
+MORANN,car_make,1
+MORANO,car_make,1
+MORE T,car_make,1
+MORGAN,car_make,1
+MORONE,car_make,1
+MOSADE,car_make,1
+MOSDA,car_make,1
+MOSDAH,car_make,1
+MOSDTA,car_make,1
+MOSTAN,car_make,1
+MOT,car_make,1
+MOT HO,car_make,1
+MOTANA,car_make,1
+MOTCYC,car_make,1
+MOTER,car_make,1
+MOTERC,car_make,1
+MOTNGO,car_make,1
+MOTO,car_make,1
+MOTO H,car_make,1
+MOTO S,car_make,1
+MOTOBI,car_make,1
+MOTOC.,car_make,1
+MOTOCA,car_make,1
+MOTOCI,car_make,1
+MOTOCY,car_make,1
+MOTOGU,car_make,1
+MOTOHO,car_make,1
+MOTOR,car_make,1
+MOTORB,car_make,1
+MOTORC,car_make,1
+MOTORH,car_make,1
+MOTORI,car_make,1
+MOTORO,car_make,1
+MOTORS,car_make,1
+MOTOTC,car_make,1
+MOTRCY,car_make,1
+MOUN,car_make,1
+MOUNT,car_make,1
+MOUNT.,car_make,1
+MOUNTA,car_make,1
+MOUNTE,car_make,1
+MOUNTI,car_make,1
+MOVING,car_make,1
+MOZDA,car_make,1
+MOZDA5,car_make,1
+MOZOLA,car_make,1
+MPV,car_make,1
+MPV MO,car_make,1
+MPVLX,car_make,1
+MRBENZ,car_make,1
+MRCDES,car_make,1
+MRCDS,car_make,1
+MRCE B,car_make,1
+MRCEDS,car_make,1
+MRCRY,car_make,1
+MRCURY,car_make,1
+MRCY,car_make,1
+MREC,car_make,1
+MSTANG,car_make,1
+MSUBYH,car_make,1
+MT CYC,car_make,1
+MTA ST,car_make,1
+MTBSHI,car_make,1
+MTCOL,car_make,1
+MTCY,car_make,1
+MTISUB,car_make,1
+MTORCY,car_make,1
+MTR,car_make,1
+MTR BI,car_make,1
+MTR CY,car_make,1
+MTRCYC,car_make,1
+MTSBHI,car_make,1
+MTSBSH,car_make,1
+MTSHBI,car_make,1
+MTSU,car_make,1
+MTT CY,car_make,1
+MUCARY,car_make,1
+MUCRY,car_make,1
+MUCURY,car_make,1
+MUGEN,car_make,1
+MUITSU,car_make,1
+MULI C,car_make,1
+MULITP,car_make,1
+MULT,car_make,1
+MULTI,car_make,1
+MULTIP,car_make,1
+MULTPL,car_make,1
+MULTY,car_make,1
+MUNI,car_make,1
+MUR,car_make,1
+MURANO,car_make,1
+MURARY,car_make,1
+MURC,car_make,1
+MURCA,car_make,1
+MURCAR,car_make,1
+MURCER,car_make,1
+MURCEY,car_make,1
+MURCHA,car_make,1
+MURCRY,car_make,1
+MURCUR,car_make,1
+MURCY,car_make,1
+MURECR,car_make,1
+MURICY,car_make,1
+MUS,car_make,1
+MUSANG,car_make,1
+MUSBIT,car_make,1
+MUSHBI,car_make,1
+MUSHI,car_make,1
+MUSSIB,car_make,1
+MUST,car_make,1
+MUSTA,car_make,1
+MUSTAG,car_make,1
+MUSTAN,car_make,1
+MUSTBU,car_make,1
+MUTAND,car_make,1
+MUTANG,car_make,1
+MUTIBU,car_make,1
+MUTIPL,car_make,1
+MUTSHU,car_make,1
+MUTSUB,car_make,1
+MUTSUI,car_make,1
+MUTUSH,car_make,1
+MUZDA,car_make,1
+MUZTAN,car_make,1
+MV,car_make,1
+MVP,car_make,1
+MW,car_make,1
+MX35,car_make,1
+MYCLO,car_make,1
+MYSIQU,car_make,1
+MYSTIQ,car_make,1
+MZ,car_make,1
+MZARAD,car_make,1
+MZDA,car_make,1
+M_BENZ,car_make,1
+N,car_make,1
+N  A,car_make,1
+N / A,car_make,1
+N A,car_make,1
+N-A,car_make,1
+N./A,car_make,1
+N.A,car_make,1
+N/,car_make,1
+N/ A,car_make,1
+N//A,car_make,1
+N/1,car_make,1
+N/A   ,car_make,1
+N/A  -,car_make,1
+N/A OL,car_make,1
+N/A/,car_make,1
+N/A1,car_make,1
+N/ABKN,car_make,1
+N/ACK,car_make,1
+N/ACY,car_make,1
+N/AOTA,car_make,1
+N/AR,car_make,1
+N/AS,car_make,1
+N/AY,car_make,1
+N/A__4,car_make,1
+N/A`,car_make,1
+N/Aï¿½,car_make,1
+N/D,car_make,1
+N/N,car_make,1
+N/S,car_make,1
+N/T,car_make,1
+N/V,car_make,1
+N0A,car_make,1
+N:A,car_make,1
+NA    ,car_make,1
+NA AVE,car_make,1
+NA GRE,car_make,1
+NA.,car_make,1
+NA/,car_make,1
+NA6,car_make,1
+NAA,car_make,1
+NACIAN,car_make,1
+NACK,car_make,1
+NAICAN,car_make,1
+NAISAN,car_make,1
+NAISSA,car_make,1
+NAITE,car_make,1
+NAK,car_make,1
+NANA,car_make,1
+NANDA,car_make,1
+NANO,car_make,1
+NASH,car_make,1
+NASS,car_make,1
+NASSAN,car_make,1
+NASSAU,car_make,1
+NASSEN,car_make,1
+NASSIA,car_make,1
+NASSIN,car_make,1
+NASSON,car_make,1
+NASSSU,car_make,1
+NASSU,car_make,1
+NASSUA,car_make,1
+NASSUM,car_make,1
+NASSUN,car_make,1
+NASSUS,car_make,1
+NATION,car_make,1
+NAUSSI,car_make,1
+NAV,car_make,1
+NAVI,car_make,1
+NAVIG,car_make,1
+NAVIGA,car_make,1
+NAVIO,car_make,1
+NAVY B,car_make,1
+NAW,car_make,1
+NAYOTA,car_make,1
+NAZDA,car_make,1
+NA`,car_make,1
+NC,car_make,1
+NE,car_make,1
+NEASON,car_make,1
+NECO,car_make,1
+NEE,car_make,1
+NEEDS,car_make,1
+NEES,car_make,1
+NEESA,car_make,1
+NEESAN,car_make,1
+NEESS,car_make,1
+NEISON,car_make,1
+NEISS,car_make,1
+NEISSA,car_make,1
+NEISSN,car_make,1
+NEISSU,car_make,1
+NELPON,car_make,1
+NENE,car_make,1
+NEO,car_make,1
+NEON,car_make,1
+NEOPN,car_make,1
+NERCAD,car_make,1
+NERCE,car_make,1
+NES,car_make,1
+NESAN,car_make,1
+NESON,car_make,1
+NESS,car_make,1
+NESSA,car_make,1
+NESSAI,car_make,1
+NESSAN,car_make,1
+NESSIA,car_make,1
+NESSIM,car_make,1
+NESSIN,car_make,1
+NESSIO,car_make,1
+NESSN,car_make,1
+NESSON,car_make,1
+NESUN,car_make,1
+NEW YO,car_make,1
+NEWYOU,car_make,1
+NIAAN,car_make,1
+NIACIA,car_make,1
+NIACIN,car_make,1
+NIASSA,car_make,1
+NIASSI,car_make,1
+NIASSN,car_make,1
+NICAIN,car_make,1
+NICIAN,car_make,1
+NIEISS,car_make,1
+NIENO,car_make,1
+NIEON,car_make,1
+NIESA,car_make,1
+NIESAN,car_make,1
+NIESS,car_make,1
+NIESSA,car_make,1
+NIESSE,car_make,1
+NIESSI,car_make,1
+NIESSN,car_make,1
+NIESSO,car_make,1
+NIESSU,car_make,1
+NIGHTH,car_make,1
+NIISAN,car_make,1
+NIISSA,car_make,1
+NINJA,car_make,1
+NINSAN,car_make,1
+NION,car_make,1
+NIOSSI,car_make,1
+NIS,car_make,1
+NIS?,car_make,1
+NISAAN,car_make,1
+NISAN,car_make,1
+NISAN1,car_make,1
+NISANX,car_make,1
+NISAU,car_make,1
+NISAUN,car_make,1
+NISIAN,car_make,1
+NISMAX,car_make,1
+NISMO,car_make,1
+NISNO,car_make,1
+NISON,car_make,1
+NISS,car_make,1
+NISS3,car_make,1
+NISS84,car_make,1
+NISSA,car_make,1
+NISSAA,car_make,1
+NISSAB,car_make,1
+NISSAI,car_make,1
+NISSAL,car_make,1
+NISSAM,car_make,1
+NISSAN,car_make,1
+NISSAO,car_make,1
+NISSAU,car_make,1
+NISSCN,car_make,1
+NISSEA,car_make,1
+NISSEN,car_make,1
+NISSHA,car_make,1
+NISSI,car_make,1
+NISSIA,car_make,1
+NISSIN,car_make,1
+NISSIO,car_make,1
+NISSIS,car_make,1
+NISSIU,car_make,1
+NISSMA,car_make,1
+NISSN,car_make,1
+NISSNA,car_make,1
+NISSNU,car_make,1
+NISSON,car_make,1
+NISSSA,car_make,1
+NISSSN,car_make,1
+NISSU,car_make,1
+NISSUA,car_make,1
+NISSUE,car_make,1
+NISSUM,car_make,1
+NISSUN,car_make,1
+NISSUS,car_make,1
+NITRO,car_make,1
+NIXAN,car_make,1
+NIXMAI,car_make,1
+NIXON,car_make,1
+NIZA,car_make,1
+NIZAN,car_make,1
+NIZZAN,car_make,1
+NKNOW,car_make,1
+NKNOWN,car_make,1
+NKONWN,car_make,1
+NKOWN,car_make,1
+NM/A,car_make,1
+NMW X6,car_make,1
+NN,car_make,1
+NNISSA,car_make,1
+NNNNN,car_make,1
+NO,car_make,1
+NO BRA,car_make,1
+NO EMB,car_make,1
+NO I'D,car_make,1
+NO IDE,car_make,1
+NO LOG,car_make,1
+NO MAK,car_make,1
+NO MAR,car_make,1
+NO MKE,car_make,1
+NO NAM,car_make,1
+NO PLA,car_make,1
+NO SUR,car_make,1
+NO TIR,car_make,1
+NOCLUE,car_make,1
+NOICE,car_make,1
+NOMAD,car_make,1
+NOMAKE,car_make,1
+NON,car_make,1
+NON CL,car_make,1
+NONAME,car_make,1
+NONDA,car_make,1
+NONE,car_make,1
+NONE  ,car_make,1
+NOR SU,car_make,1
+NORTH,car_make,1
+NORTON,car_make,1
+NOSIE.,car_make,1
+NOSSAN,car_make,1
+NOT,car_make,1
+NOT AP,car_make,1
+NOT AV,car_make,1
+NOT CE,car_make,1
+NOT KN,car_make,1
+NOT NO,car_make,1
+NOT SH,car_make,1
+NOT SU,car_make,1
+NOTKNO,car_make,1
+NOTSUR,car_make,1
+NOVA,car_make,1
+NOVE,car_make,1
+NOW,car_make,1
+NQ,car_make,1
+NS,car_make,1
+NSSAN,car_make,1
+NSSEN,car_make,1
+NT,car_make,1
+NUE,car_make,1
+NUKOWN,car_make,1
+NUMERO,car_make,1
+NUSS,car_make,1
+NUSSAN,car_make,1
+NUSSAS,car_make,1
+NUSSIA,car_make,1
+NUSSIN,car_make,1
+NV,car_make,1
+NY,car_make,1
+NYC SC,car_make,1
+NYC T,car_make,1
+NYCCAB,car_make,1
+NYON,car_make,1
+NYPD,car_make,1
+NYPD L,car_make,1
+NYRTT,car_make,1
+NYSAN,car_make,1
+NYSP,car_make,1
+NYTAXI,car_make,1
+NZ,car_make,1
+ODDESS,car_make,1
+ODDESY,car_make,1
+ODDISE,car_make,1
+ODESSE,car_make,1
+ODESSY,car_make,1
+ODESY,car_make,1
+ODIE,car_make,1
+ODIES,car_make,1
+ODLMOB,car_make,1
+ODLS,car_make,1
+ODLSMO,car_make,1
+ODOSSE,car_make,1
+ODYESS,car_make,1
+ODYSEE,car_make,1
+ODYSEY,car_make,1
+ODYSSE,car_make,1
+ODYSSY,car_make,1
+OFF TH,car_make,1
+OFFICE,car_make,1
+OIEWA,car_make,1
+OIL TR,car_make,1
+OLBS,car_make,1
+OLD,car_make,1
+OLD CA,car_make,1
+OLD JU,car_make,1
+OLD M,car_make,1
+OLD MB,car_make,1
+OLD MO,car_make,1
+OLD PO,car_make,1
+OLD RU,car_make,1
+OLD SM,car_make,1
+OLD TA,car_make,1
+OLD TR,car_make,1
+OLD VA,car_make,1
+OLD WH,car_make,1
+OLD0M,car_make,1
+OLDA,car_make,1
+OLDAMO,car_make,1
+OLDBIL,car_make,1
+OLDCAR,car_make,1
+OLDE,car_make,1
+OLDER,car_make,1
+OLDES,car_make,1
+OLDIES,car_make,1
+OLDM,car_make,1
+OLDMBL,car_make,1
+OLDMIB,car_make,1
+OLDMLE,car_make,1
+OLDMO,car_make,1
+OLDMOB,car_make,1
+OLDMOI,car_make,1
+OLDMOL,car_make,1
+OLDMOS,car_make,1
+OLDMOV,car_make,1
+OLDMOW,car_make,1
+OLDMSO,car_make,1
+OLDOM,car_make,1
+OLDOMB,car_make,1
+OLDOMI,car_make,1
+OLDOSM,car_make,1
+OLDS,car_make,1
+OLDS M,car_make,1
+OLDS.,car_make,1
+OLDS98,car_make,1
+OLDSBI,car_make,1
+OLDSI,car_make,1
+OLDSM,car_make,1
+OLDSMA,car_make,1
+OLDSMB,car_make,1
+OLDSMI,car_make,1
+OLDSMO,car_make,1
+OLDSMS,car_make,1
+OLDSOM,car_make,1
+OLD`,car_make,1
+OLEDHI,car_make,1
+OLEGRO,car_make,1
+OLERO,car_make,1
+OLMOBI,car_make,1
+OLMS,car_make,1
+OLODS,car_make,1
+OLS,car_make,1
+OLSDMO,car_make,1
+OLSEN,car_make,1
+OLSMBL,car_make,1
+OLSMO,car_make,1
+OLSMOB,car_make,1
+OLSMOI,car_make,1
+OLSMV,car_make,1
+OLSON,car_make,1
+OMAGA,car_make,1
+OMEGA,car_make,1
+OMNI,car_make,1
+OMOBIL,car_make,1
+OMPLA,car_make,1
+ONDER,car_make,1
+ONIX,car_make,1
+ONVOY,car_make,1
+OPAL,car_make,1
+OPEL,car_make,1
+OPEN T,car_make,1
+OPTIMA,car_make,1
+ORANGE,car_make,1
+OREGON,car_make,1
+OSEMOB,car_make,1
+OSHK,car_make,1
+OSMBLE,car_make,1
+OSMO,car_make,1
+OSMOBI,car_make,1
+OSMOBL,car_make,1
+OSMOVI,car_make,1
+OTTI,car_make,1
+OTTIE,car_make,1
+OUDA,car_make,1
+OUDI,car_make,1
+OUDIE,car_make,1
+OUT,car_make,1
+OUTBAC,car_make,1
+OUTER,car_make,1
+OUTI,car_make,1
+OUTIE,car_make,1
+OUTLAN,car_make,1
+OUTSID,car_make,1
+OUTTA,car_make,1
+OUTTER,car_make,1
+OUTTI,car_make,1
+OUTTIE,car_make,1
+OUTTY,car_make,1
+OUTY,car_make,1
+OUTY 8,car_make,1
+OUTY86,car_make,1
+OVAL,car_make,1
+OVRALL,car_make,1
+OWSMOB,car_make,1
+OXYGEN,car_make,1
+OYDESS,car_make,1
+OYSTER,car_make,1
+P U,car_make,1
+P.NEON,car_make,1
+P/A,car_make,1
+P/M,car_make,1
+P/T,car_make,1
+P/U,car_make,1
+P/U TR,car_make,1
+P0NTIA,car_make,1
+PA,car_make,1
+PAASAT,car_make,1
+PACE,car_make,1
+PACE A,car_make,1
+PACFIC,car_make,1
+PACIF,car_make,1
+PACIFC,car_make,1
+PACIFI,car_make,1
+PACKAR,car_make,1
+PAGGIO,car_make,1
+PAILG,car_make,1
+PALAMI,car_make,1
+PAN,car_make,1
+PANASO,car_make,1
+PANEL,car_make,1
+PANEYA,car_make,1
+PANIAC,car_make,1
+PANIYA,car_make,1
+PANTIA,car_make,1
+PARA,car_make,1
+PARA -,car_make,1
+PARA T,car_make,1
+PARADE,car_make,1
+PARCH,car_make,1
+PARK,car_make,1
+PARK A,car_make,1
+PARKAV,car_make,1
+PARKED,car_make,1
+PARKIN,car_make,1
+PASAAT,car_make,1
+PASAD,car_make,1
+PASASS,car_make,1
+PASAT,car_make,1
+PASATT,car_make,1
+PASEO,car_make,1
+PASIAC,car_make,1
+PASIAT,car_make,1
+PASS,car_make,1
+PASSAC,car_make,1
+PASSAD,car_make,1
+PASSAN,car_make,1
+PASSAT,car_make,1
+PASSEN,car_make,1
+PASSET,car_make,1
+PASSFI,car_make,1
+PASSOT,car_make,1
+PASSPO,car_make,1
+PASST,car_make,1
+PATH,car_make,1
+PATH F,car_make,1
+PATHF,car_make,1
+PATHFI,car_make,1
+PAVER,car_make,1
+PAYLOA,car_make,1
+PB,car_make,1
+PD SCO,car_make,1
+PEDI,car_make,1
+PEDICA,car_make,1
+PELUDE,car_make,1
+PENNSY,car_make,1
+PENSK,car_make,1
+PENSKE,car_make,1
+PEOGEO,car_make,1
+PEOGOT,car_make,1
+PEOPLE,car_make,1
+PERLUD,car_make,1
+PERSAD,car_make,1
+PERSAT,car_make,1
+PERSAU,car_make,1
+PETER,car_make,1
+PETERB,car_make,1
+PETERS,car_make,1
+PETERV,car_make,1
+PETTIB,car_make,1
+PETTY,car_make,1
+PEUG,car_make,1
+PEUGEO,car_make,1
+PEUGET,car_make,1
+PEUGOT,car_make,1
+PEUGTT,car_make,1
+PEUGUO,car_make,1
+PEWGEO,car_make,1
+PHASAR,car_make,1
+PHIAT,car_make,1
+PHOENI,car_make,1
+PHOTO,car_make,1
+PHYFIL,car_make,1
+PHYLIC,car_make,1
+PHYLIF,car_make,1
+PHYMOU,car_make,1
+PIAGGI,car_make,1
+PIAGGO,car_make,1
+PIAGIO,car_make,1
+PIC-UP,car_make,1
+PICK,car_make,1
+PICK  ,car_make,1
+PICK U,car_make,1
+PICKIP,car_make,1
+PICKUP,car_make,1
+PICUP,car_make,1
+PILMOU,car_make,1
+PILOT,car_make,1
+PILVI,car_make,1
+PINK B,car_make,1
+PINK C,car_make,1
+PINO,car_make,1
+PINTIC,car_make,1
+PINTO,car_make,1
+PINYO,car_make,1
+PIOLET,car_make,1
+PIONAC,car_make,1
+PIONEE,car_make,1
+PIONER,car_make,1
+PIONIA,car_make,1
+PIRELL,car_make,1
+PISAAT,car_make,1
+PISSAN,car_make,1
+PISSAT,car_make,1
+PITTER,car_make,1
+PIYMOU,car_make,1
+PIZZAI,car_make,1
+PLATBE,car_make,1
+PLATE,car_make,1
+PLATES,car_make,1
+PLAYMO,car_make,1
+PLEMME,car_make,1
+PLIMET,car_make,1
+PLIMIC,car_make,1
+PLIMIT,car_make,1
+PLIMMA,car_make,1
+PLIMMI,car_make,1
+PLIMON,car_make,1
+PLIMOT,car_make,1
+PLIMUT,car_make,1
+PLM,car_make,1
+PLMOU,car_make,1
+PLMOUT,car_make,1
+PLMTH,car_make,1
+PLMUTH,car_make,1
+PLMY,car_make,1
+PLMYTH,car_make,1
+PLOW,car_make,1
+PLOWER,car_make,1
+PLUMO,car_make,1
+PLUMOU,car_make,1
+PLY,car_make,1
+PLY.,car_make,1
+PLYM,car_make,1
+PLYM O,car_make,1
+PLYM.,car_make,1
+PLYMET,car_make,1
+PLYMIT,car_make,1
+PLYMO,car_make,1
+PLYMON,car_make,1
+PLYMOT,car_make,1
+PLYMOU,car_make,1
+PLYMPT,car_make,1
+PLYMT,car_make,1
+PLYMTH,car_make,1
+PLYMUO,car_make,1
+PLYMUT,car_make,1
+PLYMYH,car_make,1
+PLYNOU,car_make,1
+PLYOM,car_make,1
+PLYTH,car_make,1
+PLYTHM,car_make,1
+PLYTHO,car_make,1
+PLYWMO,car_make,1
+PNTIAC,car_make,1
+POESCH,car_make,1
+POINAC,car_make,1
+POINT,car_make,1
+POINTI,car_make,1
+POLARI,car_make,1
+POLICE,car_make,1
+POMOCO,car_make,1
+POMT,car_make,1
+POMTAI,car_make,1
+PON,car_make,1
+PONA,car_make,1
+PONATI,car_make,1
+PONDIA,car_make,1
+PONIA,car_make,1
+PONIAC,car_make,1
+PONIAN,car_make,1
+PONIAT,car_make,1
+PONIC,car_make,1
+PONICA,car_make,1
+PONITA,car_make,1
+PONT,car_make,1
+PONT.,car_make,1
+PONT28,car_make,1
+PONTA,car_make,1
+PONTAC,car_make,1
+PONTAI,car_make,1
+PONTAN,car_make,1
+PONTC,car_make,1
+PONTCA,car_make,1
+PONTI,car_make,1
+PONTI.,car_make,1
+PONTIA,car_make,1
+PONTIC,car_make,1
+PONTII,car_make,1
+PONTIO,car_make,1
+PONTY,car_make,1
+PONTYA,car_make,1
+PONY,car_make,1
+POP UP,car_make,1
+POR,car_make,1
+PORCE,car_make,1
+PORCH,car_make,1
+PORCHA,car_make,1
+PORCHE,car_make,1
+PORSC,car_make,1
+PORSCE,car_make,1
+PORSCH,car_make,1
+PORSE,car_make,1
+PORSH,car_make,1
+PORSHA,car_make,1
+PORSHC,car_make,1
+PORSHE,car_make,1
+PORSHO,car_make,1
+PORSTH,car_make,1
+PORTHE,car_make,1
+POS,car_make,1
+POSHA,car_make,1
+POSIBL,car_make,1
+POSSIB,car_make,1
+POST O,car_make,1
+POSTAL,car_make,1
+POT,car_make,1
+POTAIC,car_make,1
+POTAIN,car_make,1
+POTAMI,car_make,1
+POTAN,car_make,1
+POTANI,car_make,1
+POTE,car_make,1
+POTH,car_make,1
+POTIAC,car_make,1
+POTIAK,car_make,1
+POTIAN,car_make,1
+POTIN,car_make,1
+POTINA,car_make,1
+POUCH,car_make,1
+POUGET,car_make,1
+POUT,car_make,1
+PPONT,car_make,1
+PRASON,car_make,1
+PRE,car_make,1
+PRELUD,car_make,1
+PREMAV,car_make,1
+PRESTI,car_make,1
+PRESTO,car_make,1
+PREUS,car_make,1
+PREVOS,car_make,1
+PRIDE,car_make,1
+PRIMA,car_make,1
+PRIMIS,car_make,1
+PRIMO,car_make,1
+PRIO,car_make,1
+PRIOR,car_make,1
+PRIOS,car_make,1
+PRIS,car_make,1
+PRISIM,car_make,1
+PRISM,car_make,1
+PRISON,car_make,1
+PRISSA,car_make,1
+PRIUS,car_make,1
+PRIVIA,car_make,1
+PRIX,car_make,1
+PRIXSE,car_make,1
+PRIZ,car_make,1
+PRIZA?,car_make,1
+PRIZIA,car_make,1
+PRIZM,car_make,1
+PROBE,car_make,1
+PRODIG,car_make,1
+PROPAN,car_make,1
+PROTEG,car_make,1
+PROVE,car_make,1
+PS,car_make,1
+PT,car_make,1
+PT    ,car_make,1
+PT CHR,car_make,1
+PT CRS,car_make,1
+PT CRU,car_make,1
+PT CUR,car_make,1
+PTCRU,car_make,1
+PTCRUI,car_make,1
+PTCRUZ,car_make,1
+PTCRZR,car_make,1
+PTOYOT,car_make,1
+PTRB,car_make,1
+PU,car_make,1
+PU TRU,car_make,1
+PUCH,car_make,1
+PUEGOT,car_make,1
+PUGEOT,car_make,1
+PUGET,car_make,1
+PUMICE,car_make,1
+PUNTIA,car_make,1
+PURCHE,car_make,1
+PURPLE,car_make,1
+PUSHCA,car_make,1
+PVTCAB,car_make,1
+PYLM,car_make,1
+PYLMO,car_make,1
+PYLMTH,car_make,1
+PYM,car_make,1
+PYMOTH,car_make,1
+PYMOUT,car_make,1
+PYYMOU,car_make,1
+Q,car_make,1
+Q 45,car_make,1
+Q-45,car_make,1
+Q30,car_make,1
+Q35,car_make,1
+Q45,car_make,1
+Q45   ,car_make,1
+Q5,car_make,1
+Q56,car_make,1
+Q7,car_make,1
+Q70,car_make,1
+QN07,car_make,1
+QN08,car_make,1
+QN11,car_make,1
+QS12,car_make,1
+QS13,car_make,1
+QUAD,car_make,1
+QUAT,car_make,1
+QUATTA,car_make,1
+QUATTR,car_make,1
+QUEST,car_make,1
+QUESTI,car_make,1
+QUINHI,car_make,1
+QW01,car_make,1
+QW03,car_make,1
+QW06,car_make,1
+QWEST,car_make,1
+QX4,car_make,1
+QX50,car_make,1
+QX56,car_make,1
+QX60,car_make,1
+QX80,car_make,1
+R,car_make,1
+R ROVE,car_make,1
+R V,car_make,1
+R. ROV,car_make,1
+R.ROVE,car_make,1
+R.ROVR,car_make,1
+R.V.,car_make,1
+RA/ROV,car_make,1
+RAAB,car_make,1
+RAB4,car_make,1
+RABBIT,car_make,1
+RABIT,car_make,1
+RACE,car_make,1
+RACE C,car_make,1
+RAD,car_make,1
+RAD 4,car_make,1
+RAGE,car_make,1
+RAGEL,car_make,1
+RAIDER,car_make,1
+RAINBO,car_make,1
+RAINGO,car_make,1
+RALEIG,car_make,1
+RAM,car_make,1
+RAM   ,car_make,1
+RAM /D,car_make,1
+RAM 1,car_make,1
+RAM 15,car_make,1
+RAM 25,car_make,1
+RAM 35,car_make,1
+RAM DO,car_make,1
+RAM PI,car_make,1
+RAM SP,car_make,1
+RAM TR,car_make,1
+RAM-6,car_make,1
+RAM150,car_make,1
+RAM25,car_make,1
+RAM350,car_make,1
+RAMADA,car_make,1
+RAMATA,car_make,1
+RAMBLE,car_make,1
+RAMERO,car_make,1
+RAMS,car_make,1
+RAMVAN,car_make,1
+RANG,car_make,1
+RANG R,car_make,1
+RANGE,car_make,1
+RANGE ,car_make,1
+RANGE/,car_make,1
+RANGER,car_make,1
+RANGLE,car_make,1
+RANGO,car_make,1
+RANGRO,car_make,1
+RAURUS,car_make,1
+RAV,car_make,1
+RAV 4,car_make,1
+RAV-4,car_make,1
+RAV4,car_make,1
+RAV4  ,car_make,1
+RAVE,car_make,1
+RAZZ,car_make,1
+RD,car_make,1
+RECREA,car_make,1
+RED,car_make,1
+RED /W,car_make,1
+RED BO,car_make,1
+RED PI,car_make,1
+RED PO,car_make,1
+RED SU,car_make,1
+RED TR,car_make,1
+RED VA,car_make,1
+RED/,car_make,1
+RED/BR,car_make,1
+REEVY,car_make,1
+REF,car_make,1
+REGAL,car_make,1
+REGALE,car_make,1
+REGENC,car_make,1
+REGENT,car_make,1
+REGO,car_make,1
+REGULA,car_make,1
+RELAY,car_make,1
+RELIAN,car_make,1
+RELICA,car_make,1
+REM,car_make,1
+RENAL,car_make,1
+RENALT,car_make,1
+RENAU,car_make,1
+RENAUI,car_make,1
+RENAUL,car_make,1
+RENAUT,car_make,1
+RENDEV,car_make,1
+RENOLT,car_make,1
+RENUAL,car_make,1
+RENUL,car_make,1
+RENULT,car_make,1
+REPORT,car_make,1
+RESORT,car_make,1
+RETIRE,car_make,1
+RETRO,car_make,1
+REUCK,car_make,1
+REV,car_make,1
+REV LI,car_make,1
+REVEL,car_make,1
+REXHAL,car_make,1
+RGERVR,car_make,1
+RHINO,car_make,1
+RHODE,car_make,1
+RHODEO,car_make,1
+RIBBIT,car_make,1
+RIG,car_make,1
+RINGO,car_make,1
+RIO,car_make,1
+RIVER,car_make,1
+RIVERA,car_make,1
+RIVERI,car_make,1
+RIVIER,car_make,1
+RLIE,car_make,1
+RNG R,car_make,1
+RNG RV,car_make,1
+RNGROV,car_make,1
+RNGRV,car_make,1
+RNGRVR,car_make,1
+ROAD R,car_make,1
+ROADRU,car_make,1
+ROBER,car_make,1
+ROD,car_make,1
+RODEO,car_make,1
+RODERO,car_make,1
+RODIO,car_make,1
+ROGERS,car_make,1
+ROGUE,car_make,1
+ROKETA,car_make,1
+ROLL R,car_make,1
+ROLLER,car_make,1
+ROLLS,car_make,1
+ROLLSR,car_make,1
+ROMEO,car_make,1
+RONTIA,car_make,1
+ROOVER,car_make,1
+ROSS,car_make,1
+ROTO,car_make,1
+ROTOW,car_make,1
+ROUGE,car_make,1
+ROUGUE,car_make,1
+ROUTIN,car_make,1
+ROVER,car_make,1
+ROVER ,car_make,1
+ROVERA,car_make,1
+ROVOL,car_make,1
+ROYAL,car_make,1
+ROYCE,car_make,1
+ROZDA,car_make,1
+RR,car_make,1
+RR150,car_make,1
+RROVER,car_make,1
+RROYCE,car_make,1
+RSX,car_make,1
+RUAL,car_make,1
+RUNNER,car_make,1
+RUST,car_make,1
+RUSTED,car_make,1
+RUSTY,car_make,1
+RUV,car_make,1
+RV,car_make,1
+RV CAM,car_make,1
+RV MOT,car_make,1
+RV ON,car_make,1
+RV TRA,car_make,1
+RV VAN,car_make,1
+RV'S M,car_make,1
+RV. TR,car_make,1
+RV2000,car_make,1
+RVCAMP,car_make,1
+RVEO L,car_make,1
+RVMH,car_make,1
+RVS,car_make,1
+RX 8,car_make,1
+RX-7,car_make,1
+RX300,car_make,1
+RX7,car_make,1
+RYDER,car_make,1
+S,car_make,1
+S.W,car_make,1
+S/W,car_make,1
+S1700,car_make,1
+S300,car_make,1
+S320,car_make,1
+S420,car_make,1
+S430,car_make,1
+S439 M,car_make,1
+S500,car_make,1
+S550,car_make,1
+SAAB,car_make,1
+SAAB  ,car_make,1
+SAAB 9,car_make,1
+SAAB Q,car_make,1
+SAAB S,car_make,1
+SAAB-,car_make,1
+SAABB,car_make,1
+SAABE,car_make,1
+SAAD,car_make,1
+SAAD  ,car_make,1
+SAAV,car_make,1
+SAAZUK,car_make,1
+SAB,car_make,1
+SABA,car_make,1
+SABARU,car_make,1
+SABAU,car_make,1
+SABAUR,car_make,1
+SABB,car_make,1
+SABBRU,car_make,1
+SABE,car_make,1
+SABEL,car_make,1
+SABLE,car_make,1
+SABLER,car_make,1
+SABRA,car_make,1
+SABRAU,car_make,1
+SABRE,car_make,1
+SABRU,car_make,1
+SABU,car_make,1
+SABURA,car_make,1
+SABURU,car_make,1
+SAD,car_make,1
+SADAAN,car_make,1
+SADAM,car_make,1
+SADAN,car_make,1
+SADAN ,car_make,1
+SADDAN,car_make,1
+SADEN,car_make,1
+SADERN,car_make,1
+SADURN,car_make,1
+SAFARI,car_make,1
+SAIGON,car_make,1
+SALEM,car_make,1
+SAM,car_make,1
+SAN,car_make,1
+SANADA,car_make,1
+SANATA,car_make,1
+SANDAN,car_make,1
+SANFE,car_make,1
+SANITA,car_make,1
+SANMEN,car_make,1
+SANTA,car_make,1
+SANTAR,car_make,1
+SANTRA,car_make,1
+SAP,car_make,1
+SAPARI,car_make,1
+SARDEN,car_make,1
+SARURN,car_make,1
+SASAN,car_make,1
+SASTA,car_make,1
+SASUKI,car_make,1
+SAT,car_make,1
+SATAN,car_make,1
+SATARN,car_make,1
+SATDEN,car_make,1
+SATERN,car_make,1
+SATIRN,car_make,1
+SATON,car_make,1
+SATRUN,car_make,1
+SATU,car_make,1
+SATUAN,car_make,1
+SATUN,car_make,1
+SATUR,car_make,1
+SATURA,car_make,1
+SATURE,car_make,1
+SATURI,car_make,1
+SATURM,car_make,1
+SATURN,car_make,1
+SATYRN,car_make,1
+SAUB,car_make,1
+SAUBB,car_make,1
+SAUD,car_make,1
+SAUDA,car_make,1
+SAUDAN,car_make,1
+SAVANA,car_make,1
+SAVANI,car_make,1
+SAVANN,car_make,1
+SAVIL,car_make,1
+SAVILE,car_make,1
+SAZUKI,car_make,1
+SC,car_make,1
+SC7000,car_make,1
+SCANIA,car_make,1
+SCARA,car_make,1
+SCARAB,car_make,1
+SCAREV,car_make,1
+SCCORD,car_make,1
+SCH BU,car_make,1
+SCHBUS,car_make,1
+SCHELL,car_make,1
+SCHOOL,car_make,1
+SCHWAN,car_make,1
+SCHWIN,car_make,1
+SCIOM,car_make,1
+SCION,car_make,1
+SCO,car_make,1
+SCO*,car_make,1
+SCOOT,car_make,1
+SCOOTE,car_make,1
+SCOOTO,car_make,1
+SCOOTR,car_make,1
+SCOTER,car_make,1
+SCOTTE,car_make,1
+SCOUT,car_make,1
+SCURA,car_make,1
+SD,car_make,1
+SDOOR,car_make,1
+SE,car_make,1
+SEA DO,car_make,1
+SEA RA,car_make,1
+SEABRI,car_make,1
+SEADAN,car_make,1
+SEANNA,car_make,1
+SEATRA,car_make,1
+SEBAN,car_make,1
+SEBRIN,car_make,1
+SEBRYI,car_make,1
+SECTRA,car_make,1
+SEDA,car_make,1
+SEDAM,car_make,1
+SEDAN,car_make,1
+SEDANB,car_make,1
+SEDANN,car_make,1
+SEDEN,car_make,1
+SEDN,car_make,1
+SEDONA,car_make,1
+SEE PI,car_make,1
+SEEDOO,car_make,1
+SEINNA,car_make,1
+SEION,car_make,1
+SELECA,car_make,1
+SELICA,car_make,1
+SELLIC,car_make,1
+SEMI,car_make,1
+SEMI B,car_make,1
+SEMI T,car_make,1
+SENADA,car_make,1
+SENATR,car_make,1
+SENECA,car_make,1
+SENN,car_make,1
+SENOMA,car_make,1
+SENTR?,car_make,1
+SENTRA,car_make,1
+SENTRY,car_make,1
+SENTUR,car_make,1
+SEPHIA,car_make,1
+SEPHIR,car_make,1
+SEPIA,car_make,1
+SEPTHA,car_make,1
+SEQUOI,car_make,1
+SERB,car_make,1
+SERUS,car_make,1
+SERVIL,car_make,1
+SETHIA,car_make,1
+SETRA,car_make,1
+SETURN,car_make,1
+SEVAN,car_make,1
+SEVEN,car_make,1
+SEVERA,car_make,1
+SEVERY,car_make,1
+SEVILE,car_make,1
+SEVILL,car_make,1
+SHADOW,car_make,1
+SHASTA,car_make,1
+SHAVE,car_make,1
+SHAVY,car_make,1
+SHEBY,car_make,1
+SHELBY,car_make,1
+SHELL,car_make,1
+SHEV,car_make,1
+SHEVEY,car_make,1
+SHEVI,car_make,1
+SHEVY,car_make,1
+SHINTO,car_make,1
+SHIP C,car_make,1
+SHIPPI,car_make,1
+SHMNS,car_make,1
+SHOGUN,car_make,1
+SHOOTE,car_make,1
+SHOPPI,car_make,1
+SHOREL,car_make,1
+SHUTTL,car_make,1
+SHVROA,car_make,1
+SIAT,car_make,1
+SIBARU,car_make,1
+SICION,car_make,1
+SIDAN,car_make,1
+SIDDAN,car_make,1
+SIEENA,car_make,1
+SIENA,car_make,1
+SIENNA,car_make,1
+SIENNE,car_make,1
+SIERA,car_make,1
+SIERRA,car_make,1
+SIGNAT,car_make,1
+SILHOU,car_make,1
+SILVAR,car_make,1
+SILVER,car_make,1
+SIMWER,car_make,1
+SINATA,car_make,1
+SINNA,car_make,1
+SION,car_make,1
+SION T,car_make,1
+SIRUS,car_make,1
+SITDOW,car_make,1
+SIV,car_make,1
+SIVIC,car_make,1
+SIZUKI,car_make,1
+SKAMPR,car_make,1
+SKYBIR,car_make,1
+SKYLAC,car_make,1
+SKYLAR,car_make,1
+SLINGS,car_make,1
+SM BUS,car_make,1
+SMALL,car_make,1
+SMALL ,car_make,1
+SMAR,car_make,1
+SMART,car_make,1
+SMARTC,car_make,1
+SMASHE,car_make,1
+SMC,car_make,1
+SMILE,car_make,1
+SMW,car_make,1
+SNACK,car_make,1
+SNOW,car_make,1
+SNOW P,car_make,1
+SNOWCA,car_make,1
+SNUL,car_make,1
+SO MAN,car_make,1
+SOB,car_make,1
+SOBB,car_make,1
+SOLARA,car_make,1
+SOLARI,car_make,1
+SOME,car_make,1
+SOMEDA,car_make,1
+SOMETH,car_make,1
+SONADO,car_make,1
+SONATA,car_make,1
+SONATE,car_make,1
+SONIC,car_make,1
+SONORA,car_make,1
+SONOTA,car_make,1
+SOPHIA,car_make,1
+SOREN,car_make,1
+SORENT,car_make,1
+SOSUKI,car_make,1
+SOUL,car_make,1
+SOUTH,car_make,1
+SPACE,car_make,1
+SPACE2,car_make,1
+SPARCO,car_make,1
+SPEC,car_make,1
+SPECAL,car_make,1
+SPECTR,car_make,1
+SPECTU,car_make,1
+SPEED,car_make,1
+SPOR-C,car_make,1
+SPORST,car_make,1
+SPORT,car_make,1
+SPORTC,car_make,1
+SPORTE,car_make,1
+SPORTS,car_make,1
+SPORTY,car_make,1
+SPORTZ,car_make,1
+SPOT,car_make,1
+SPRINT,car_make,1
+SPRITE,car_make,1
+SPRTCA,car_make,1
+SPYDER,car_make,1
+SR,car_make,1
+SRX,car_make,1
+SRX4,car_make,1
+SS,car_make,1
+SSUPER,car_make,1
+ST WAG,car_make,1
+ST.WAG,car_make,1
+ST/WA,car_make,1
+STA WG,car_make,1
+STAION,car_make,1
+STAND,car_make,1
+STANZA,car_make,1
+STAR,car_make,1
+STAR C,car_make,1
+STAR T,car_make,1
+STARCR,car_make,1
+STARFI,car_make,1
+STARLI,car_make,1
+STARTR,car_make,1
+STATAN,car_make,1
+STATIO,car_make,1
+STATOR,car_make,1
+STATUR,car_make,1
+STATW,car_make,1
+STAURN,car_make,1
+STEADY,car_make,1
+STEALT,car_make,1
+STEATH,car_make,1
+STECO,car_make,1
+STELIN,car_make,1
+STELLA,car_make,1
+STEP I,car_make,1
+STERL ,car_make,1
+STERLG,car_make,1
+STERLI,car_make,1
+STINRA,car_make,1
+STION,car_make,1
+STOLEN,car_make,1
+STOMS,car_make,1
+STONG,car_make,1
+STORAG,car_make,1
+STORM,car_make,1
+STRADA,car_make,1
+STRAND,car_make,1
+STRATA,car_make,1
+STRATI,car_make,1
+STRATS,car_make,1
+STRATU,car_make,1
+STREAM,car_make,1
+STREET,car_make,1
+STRICK,car_make,1
+STRIP,car_make,1
+STRIPP,car_make,1
+STS,car_make,1
+STUDER,car_make,1
+STWAGO,car_make,1
+STYL,car_make,1
+SU,car_make,1
+SUABRU,car_make,1
+SUB,car_make,1
+SUB CO,car_make,1
+SUB SW,car_make,1
+SUBAN,car_make,1
+SUBAR,car_make,1
+SUBARA,car_make,1
+SUBARB,car_make,1
+SUBARI,car_make,1
+SUBARN,car_make,1
+SUBARO,car_make,1
+SUBARU,car_make,1
+SUBARY,car_make,1
+SUBAU,car_make,1
+SUBB,car_make,1
+SUBBAR,car_make,1
+SUBER,car_make,1
+SUBERA,car_make,1
+SUBERB,car_make,1
+SUBERU,car_make,1
+SUBN,car_make,1
+SUBORO,car_make,1
+SUBR,car_make,1
+SUBRA,car_make,1
+SUBRAN,car_make,1
+SUBRAR,car_make,1
+SUBRAU,car_make,1
+SUBREW,car_make,1
+SUBRIU,car_make,1
+SUBRO,car_make,1
+SUBRU,car_make,1
+SUBRUA,car_make,1
+SUBRUU,car_make,1
+SUBSRU,car_make,1
+SUBU,car_make,1
+SUBUAR,car_make,1
+SUBUE,car_make,1
+SUBUR,car_make,1
+SUBURA,car_make,1
+SUBURB,car_make,1
+SUBURI,car_make,1
+SUBURO,car_make,1
+SUBURR,car_make,1
+SUBURU,car_make,1
+SUBV,car_make,1
+SUBWAY,car_make,1
+SUD,car_make,1
+SUDAAN,car_make,1
+SUDAM,car_make,1
+SUDAN,car_make,1
+SUDDAN,car_make,1
+SUDDEN,car_make,1
+SUDEN,car_make,1
+SUDONA,car_make,1
+SUDYAM,car_make,1
+SUEDAM,car_make,1
+SUEDAN,car_make,1
+SUF,car_make,1
+SUIS,car_make,1
+SUIZIK,car_make,1
+SUIZUZ,car_make,1
+SUKI,car_make,1
+SUMMIT,car_make,1
+SUN VA,car_make,1
+SUNBIR,car_make,1
+SUNBUR,car_make,1
+SUNDAN,car_make,1
+SUNDER,car_make,1
+SUNFIR,car_make,1
+SUNL,car_make,1
+SUNNY,car_make,1
+SUNRA,car_make,1
+SUNRIS,car_make,1
+SUNY,car_make,1
+SUP/R,car_make,1
+SUPE,car_make,1
+SUPER,car_make,1
+SUPERB,car_make,1
+SUPERS,car_make,1
+SUPRA,car_make,1
+SUPREM,car_make,1
+SUR,car_make,1
+SURB,car_make,1
+SURBAN,car_make,1
+SURBRU,car_make,1
+SURBUR,car_make,1
+SUSAKI,car_make,1
+SUSI,car_make,1
+SUSIKI,car_make,1
+SUSKI,car_make,1
+SUSRBU,car_make,1
+SUSU,car_make,1
+SUSUK,car_make,1
+SUSUKI,car_make,1
+SUSUKY,car_make,1
+SUSUZK,car_make,1
+SUSZI,car_make,1
+SUSZKI,car_make,1
+SUSZU,car_make,1
+SUTARN,car_make,1
+SUV,car_make,1
+SUV   ,car_make,1
+SUV IN,car_make,1
+SUV NO,car_make,1
+SUV SM,car_make,1
+SUV=,car_make,1
+SUVARO,car_make,1
+SUVARU,car_make,1
+SUVERO,car_make,1
+SUVERU,car_make,1
+SUVIL,car_make,1
+SUVKA,car_make,1
+SUVO,car_make,1
+SUVS,car_make,1
+SUVS T,car_make,1
+SUVUKI,car_make,1
+SUYDAM,car_make,1
+SUYDAN,car_make,1
+SUZ,car_make,1
+SUZAKI,car_make,1
+SUZAN,car_make,1
+SUZEKI,car_make,1
+SUZI,car_make,1
+SUZIC,car_make,1
+SUZIDK,car_make,1
+SUZIKI,car_make,1
+SUZIKK,car_make,1
+SUZKI,car_make,1
+SUZKUI,car_make,1
+SUZO,car_make,1
+SUZOKI,car_make,1
+SUZSKI,car_make,1
+SUZU,car_make,1
+SUZUIK,car_make,1
+SUZUK,car_make,1
+SUZUK.,car_make,1
+SUZUKI,car_make,1
+SUZUKY,car_make,1
+SUZULI,car_make,1
+SUZUSK,car_make,1
+SUZUW ,car_make,1
+SUZUZI,car_make,1
+SUZZUK,car_make,1
+SV,car_make,1
+SVU,car_make,1
+SW,car_make,1
+SWAG.,car_make,1
+SWISS,car_make,1
+SXT,car_make,1
+SYDAAM,car_make,1
+SYDAN,car_make,1
+SYLVER,car_make,1
+SYZF,car_make,1
+T,car_make,1
+T BIRD,car_make,1
+T RCUR,car_make,1
+T& C,car_make,1
+T&C,car_make,1
+T.CAB,car_make,1
+T.T.,car_make,1
+T.TRA.,car_make,1
+T/CORO,car_make,1
+T/R,car_make,1
+T/T,car_make,1
+TA,car_make,1
+TA 4*4,car_make,1
+TACOMA,car_make,1
+TACTOR,car_make,1
+TAHDE,car_make,1
+TAHO,car_make,1
+TAHOE,car_make,1
+TAHOER,car_make,1
+TAHOUE,car_make,1
+TAILER,car_make,1
+TAILG,car_make,1
+TAILOR,car_make,1
+TAKE L,car_make,1
+TAKOMA,car_make,1
+TALHOU,car_make,1
+TALON,car_make,1
+TAM,car_make,1
+TAN,car_make,1
+TAN/BR,car_make,1
+TANK,car_make,1
+TANKER,car_make,1
+TAO TA,car_make,1
+TAOTAO,car_make,1
+TAP TA,car_make,1
+TAR,car_make,1
+TARCTO,car_make,1
+TARP,car_make,1
+TARP O,car_make,1
+TARPED,car_make,1
+TARUS,car_make,1
+TASSAT,car_make,1
+TATOYA,car_make,1
+TAU,car_make,1
+TAUR,car_make,1
+TAURAS,car_make,1
+TAURES,car_make,1
+TAURIS,car_make,1
+TAURO,car_make,1
+TAUROS,car_make,1
+TAURS,car_make,1
+TAURUS,car_make,1
+TAXI,car_make,1
+TAXI  ,car_make,1
+TAXI 7,car_make,1
+TAXI C,car_make,1
+TAXI L,car_make,1
+TAXI'S,car_make,1
+TAXICA,car_make,1
+TAYOTA,car_make,1
+TAYOTO,car_make,1
+TBIRD,car_make,1
+TEC,car_make,1
+TEMPO,car_make,1
+TERCEL,car_make,1
+TERMIN,car_make,1
+TERRY,car_make,1
+TESLA,car_make,1
+TEST,car_make,1
+TESTIN,car_make,1
+TETER,car_make,1
+THANBR,car_make,1
+THE CA,car_make,1
+THER A,car_make,1
+THERE,car_make,1
+THERMO,car_make,1
+THESLY,car_make,1
+THEY A,car_make,1
+THOE,car_make,1
+THOMAS,car_make,1
+THREE,car_make,1
+THRILL,car_make,1
+THROOP,car_make,1
+THUBRD,car_make,1
+THUN,car_make,1
+THUND,car_make,1
+THUNDE,car_make,1
+THUNDR,car_make,1
+THURAS,car_make,1
+THURDB,car_make,1
+THURND,car_make,1
+TIA,car_make,1
+TIAGGA,car_make,1
+TIAGGI,car_make,1
+TIBURO,car_make,1
+TIE,car_make,1
+TIEMPO,car_make,1
+TIHOE,car_make,1
+TILER,car_make,1
+TIOGA,car_make,1
+TISCH,car_make,1
+TITAN,car_make,1
+TIYATO,car_make,1
+TK,car_make,1
+TL,car_make,1
+TLC,car_make,1
+TMECH,car_make,1
+TMW,car_make,1
+TNK,car_make,1
+TOCOMA,car_make,1
+TOHO,car_make,1
+TOLL,car_make,1
+TOMOS,car_make,1
+TOMSON,car_make,1
+TONDA,car_make,1
+TONTIA,car_make,1
+TOPAZ,car_make,1
+TOPEAK,car_make,1
+TOPEDO,car_make,1
+TOR GL,car_make,1
+TORES,car_make,1
+TORING,car_make,1
+TORINO,car_make,1
+TORIS,car_make,1
+TORNAD,car_make,1
+TORONA,car_make,1
+TOROTA,car_make,1
+TOROYA,car_make,1
+TORP,car_make,1
+TORPED,car_make,1
+TORPID,car_make,1
+TORREC,car_make,1
+TORRES,car_make,1
+TORUS,car_make,1
+TOTA,car_make,1
+TOTALE,car_make,1
+TOTOTA,car_make,1
+TOTOY,car_make,1
+TOTOYA,car_make,1
+TOTOYO,car_make,1
+TOTOYT,car_make,1
+TOTTA,car_make,1
+TOTYA,car_make,1
+TOTYAO,car_make,1
+TOTYO,car_make,1
+TOTYOT,car_make,1
+TOUARG,car_make,1
+TOUOTA,car_make,1
+TOUR,car_make,1
+TOUR B,car_make,1
+TOURBU,car_make,1
+TOUREG,car_make,1
+TOURRU,car_make,1
+TOURUS,car_make,1
+TOVAR,car_make,1
+TOW,car_make,1
+TOW  T,car_make,1
+TOW TR,car_make,1
+TOWCAR,car_make,1
+TOWEND,car_make,1
+TOWING,car_make,1
+TOWN,car_make,1
+TOWN &,car_make,1
+TOWN A,car_make,1
+TOWN C,car_make,1
+TOWN E,car_make,1
+TOWN&C,car_make,1
+TOWNC,car_make,1
+TOWNCA,car_make,1
+TOWNCO,car_make,1
+TOWNCR,car_make,1
+TOWNE,car_make,1
+TOWNS,car_make,1
+TOWTR,car_make,1
+TOWTRK,car_make,1
+TOWTRU,car_make,1
+TOWTUC,car_make,1
+TOY,car_make,1
+TOY   ,car_make,1
+TOY0TA,car_make,1
+TOYA,car_make,1
+TOYADA,car_make,1
+TOYAO,car_make,1
+TOYAOT,car_make,1
+TOYATA,car_make,1
+TOYATO,car_make,1
+TOYATR,car_make,1
+TOYAYO,car_make,1
+TOYDA,car_make,1
+TOYITA,car_make,1
+TOYLA,car_make,1
+TOYO,car_make,1
+TOYOA,car_make,1
+TOYOAT,car_make,1
+TOYODA,car_make,1
+TOYOKO,car_make,1
+TOYOLA,car_make,1
+TOYORA,car_make,1
+TOYOT,car_make,1
+TOYOTA,car_make,1
+TOYOTE,car_make,1
+TOYOTO,car_make,1
+TOYOTQ,car_make,1
+TOYOTS,car_make,1
+TOYOTT,car_make,1
+TOYOTY,car_make,1
+TOYOYA,car_make,1
+TOYOYT,car_make,1
+TOYPTA,car_make,1
+TOYRA,car_make,1
+TOYT,car_make,1
+TOYTA,car_make,1
+TOYTAO,car_make,1
+TOYTO,car_make,1
+TOYTOA,car_make,1
+TOYTOT,car_make,1
+TOYTOY,car_make,1
+TR,car_make,1
+TR/TL,car_make,1
+TRA,car_make,1
+TRAC,car_make,1
+TRACER,car_make,1
+TRACK,car_make,1
+TRACKE,car_make,1
+TRACKT,car_make,1
+TRACT,car_make,1
+TRACTO,car_make,1
+TRACTR,car_make,1
+TRAFFI,car_make,1
+TRAI,car_make,1
+TRAIKE,car_make,1
+TRAIL,car_make,1
+TRAILB,car_make,1
+TRAILE,car_make,1
+TRAILM,car_make,1
+TRAILO,car_make,1
+TRAILR,car_make,1
+TRAILS,car_make,1
+TRAITO,car_make,1
+TRALER,car_make,1
+TRALOR,car_make,1
+TRALR,car_make,1
+TRAMP,car_make,1
+TRAN,car_make,1
+TRANIS,car_make,1
+TRANS,car_make,1
+TRANSA,car_make,1
+TRANSI,car_make,1
+TRANSM,car_make,1
+TRANSP,car_make,1
+TRANSV,car_make,1
+TRASH,car_make,1
+TRAUSE,car_make,1
+TRAVEL,car_make,1
+TRCK,car_make,1
+TRCTOR,car_make,1
+TRCUKS,car_make,1
+TRE,car_make,1
+TREE B,car_make,1
+TREE C,car_make,1
+TREK,car_make,1
+TREVOS,car_make,1
+TRIAN,car_make,1
+TRIBUT,car_make,1
+TRICON,car_make,1
+TRILER,car_make,1
+TRIPLE,car_make,1
+TRITON,car_make,1
+TRIUM,car_make,1
+TRIUMP,car_make,1
+TRIVM,car_make,1
+TRK,car_make,1
+TRL,car_make,1
+TRLER,car_make,1
+TRLR,car_make,1
+TRNSAM,car_make,1
+TRO,car_make,1
+TROJAN,car_make,1
+TROOP,car_make,1
+TROOPE,car_make,1
+TROWN,car_make,1
+TRUC,car_make,1
+TRUCK,car_make,1
+TRUCK ,car_make,1
+TRUCK?,car_make,1
+TRUCKS,car_make,1
+TRUCKT,car_make,1
+TRUIMP,car_make,1
+TRUIMT,car_make,1
+TRUK,car_make,1
+TRW,car_make,1
+TS5,car_make,1
+TSI5,car_make,1
+TSUBAR,car_make,1
+TT,car_make,1
+TTX,car_make,1
+TUCSON,car_make,1
+TUNDER,car_make,1
+TUNDRA,car_make,1
+TURBO,car_make,1
+TURCEL,car_make,1
+TURKEY,car_make,1
+TURSEL,car_make,1
+TUSCAN,car_make,1
+TUSCO,car_make,1
+TUSSON,car_make,1
+TUTUS,car_make,1
+TWIN C,car_make,1
+TWIN R,car_make,1
+TWNCAR,car_make,1
+TWNCOU,car_make,1
+TWO,car_make,1
+TWO CA,car_make,1
+TWO MO,car_make,1
+TWO SC,car_make,1
+TWON C,car_make,1
+TWOTON,car_make,1
+TYHO,car_make,1
+TYOTA,car_make,1
+TYPHOO,car_make,1
+TYTA,car_make,1
+U HAUL,car_make,1
+U-CAN,car_make,1
+U-HALL,car_make,1
+U-HAUL,car_make,1
+U/A,car_make,1
+U/K,car_make,1
+U/N,car_make,1
+UCON,car_make,1
+UCON  ,car_make,1
+UCON X,car_make,1
+UCONN,car_make,1
+UD,car_make,1
+UDI,car_make,1
+UGO,car_make,1
+UHAL,car_make,1
+UHAUAL,car_make,1
+UHAUL,car_make,1
+UHHAUL,car_make,1
+UHUAL,car_make,1
+UK,car_make,1
+UKKWN,car_make,1
+UKN,car_make,1
+UKNOW,car_make,1
+UKNOWN,car_make,1
+UKNW,car_make,1
+UKNWN,car_make,1
+UKNWOW,car_make,1
+UKON,car_make,1
+UKOW,car_make,1
+UKOWN,car_make,1
+ULITMA,car_make,1
+ULTAMA,car_make,1
+ULTIMA,car_make,1
+ULTRA,car_make,1
+UMK,car_make,1
+UMKNOW,car_make,1
+UN,car_make,1
+UN K,car_make,1
+UNADEN,car_make,1
+UNAME,car_make,1
+UNAVAI,car_make,1
+UNBRAN,car_make,1
+UNCLEA,car_make,1
+UNCON,car_make,1
+UNDER,car_make,1
+UNHITC,car_make,1
+UNIDEN,car_make,1
+UNIVER,car_make,1
+UNJ,car_make,1
+UNK,car_make,1
+UNK   ,car_make,1
+UNK -,car_make,1
+UNK ?,car_make,1
+UNK PO,car_make,1
+UNK S,car_make,1
+UNK.,car_make,1
+UNKBUS,car_make,1
+UNKI,car_make,1
+UNKMOW,car_make,1
+UNKN,car_make,1
+UNKN  ,car_make,1
+UNKNM,car_make,1
+UNKNNO,car_make,1
+UNKNO,car_make,1
+UNKNOE,car_make,1
+UNKNON,car_make,1
+UNKNOQ,car_make,1
+UNKNOW,car_make,1
+UNKNW,car_make,1
+UNKNWN,car_make,1
+UNKNWO,car_make,1
+UNKON,car_make,1
+UNKONW,car_make,1
+UNKOW,car_make,1
+UNKOWM,car_make,1
+UNKOWN,car_make,1
+UNKW,car_make,1
+UNKWN,car_make,1
+UNKWON,car_make,1
+UNKWOW,car_make,1
+UNK_X3,car_make,1
+UNL,car_make,1
+UNLNOW,car_make,1
+UNMARK,car_make,1
+UNNONE,car_make,1
+UNREAD,car_make,1
+UNSURE,car_make,1
+UNWILL,car_make,1
+UPRIGT,car_make,1
+UPS,car_make,1
+UR,car_make,1
+URALL,car_make,1
+URBAN,car_make,1
+US,car_make,1
+USA,car_make,1
+USMADE,car_make,1
+USMAIL,car_make,1
+USO,car_make,1
+USPS,car_make,1
+UTILIT,car_make,1
+UTLIMA,car_make,1
+UUNKNO,car_make,1
+UUNKW,car_make,1
+UV,car_make,1
+V,car_make,1
+V M W,car_make,1
+V W,car_make,1
+V-6,car_make,1
+V-W,car_make,1
+V-WHEE,car_make,1
+V.CART,car_make,1
+V.W,car_make,1
+V.W.,car_make,1
+V.WAGO,car_make,1
+V/W,car_make,1
+V6,car_make,1
+V6 VOL,car_make,1
+V75 EX,car_make,1
+VA,car_make,1
+VAGAN,car_make,1
+VAGON,car_make,1
+VAILAN,car_make,1
+VALCO,car_make,1
+VALENT,car_make,1
+VALIAN,car_make,1
+VALO,car_make,1
+VALSWA,car_make,1
+VALVO,car_make,1
+VAN,car_make,1
+VAN   ,car_make,1
+VAN BL,car_make,1
+VAN CH,car_make,1
+VAN DO,car_make,1
+VAN MI,car_make,1
+VAN ON,car_make,1
+VAN'94,car_make,1
+VAN-,car_make,1
+VAND,car_make,1
+VANDAM,car_make,1
+VANDUF,car_make,1
+VANDUM,car_make,1
+VANDUR,car_make,1
+VANFOR,car_make,1
+VANHOO,car_make,1
+VANIVA,car_make,1
+VANN,car_make,1
+VANS,car_make,1
+VANTUR,car_make,1
+VANY,car_make,1
+VAN_DG,car_make,1
+VAN_RV,car_make,1
+VARIED,car_make,1
+VARIES,car_make,1
+VARIET,car_make,1
+VARIOU,car_make,1
+VARY,car_make,1
+VASPER,car_make,1
+VASSAP,car_make,1
+VASWAG,car_make,1
+VAULTS,car_make,1
+VAUX,car_make,1
+VAV,car_make,1
+VE,car_make,1
+VEANE,car_make,1
+VEAPS,car_make,1
+VECH,car_make,1
+VEGA,car_make,1
+VEH,car_make,1
+VEHICL,car_make,1
+VEKEN,car_make,1
+VELMON,car_make,1
+VELOCI,car_make,1
+VELOST,car_make,1
+VELVO,car_make,1
+VENDIN,car_make,1
+VENDOR,car_make,1
+VENT,car_make,1
+VENTLY,car_make,1
+VENTO,car_make,1
+VENTUR,car_make,1
+VENZA,car_make,1
+VEPSA,car_make,1
+VERIZ,car_make,1
+VERIZN,car_make,1
+VERIZO,car_make,1
+VERSA,car_make,1
+VESAA,car_make,1
+VESBA,car_make,1
+VESCA,car_make,1
+VESOA,car_make,1
+VESPA,car_make,1
+VESPA?,car_make,1
+VESPE,car_make,1
+VESPER,car_make,1
+VESPO,car_make,1
+VESRA,car_make,1
+VESSPA,car_make,1
+VESSSA,car_make,1
+VEST,car_make,1
+VESTA,car_make,1
+VESTAR,car_make,1
+VESTS,car_make,1
+VET,car_make,1
+VETT,car_make,1
+VETURA,car_make,1
+VEZPA,car_make,1
+VIBE,car_make,1
+VIC,car_make,1
+VICOR,car_make,1
+VICT,car_make,1
+VICTOC,car_make,1
+VICTOR,car_make,1
+VIKING,car_make,1
+VILKS,car_make,1
+VILLA,car_make,1
+VILLAG,car_make,1
+VILLAN,car_make,1
+VILLIA,car_make,1
+VILVO,car_make,1
+VINO,car_make,1
+VINO-1,car_make,1
+VIP,car_make,1
+VIPER,car_make,1
+VIRAGO,car_make,1
+VIRO,car_make,1
+VISPA,car_make,1
+VISPE,car_make,1
+VISTA,car_make,1
+VISTAC,car_make,1
+VITARA,car_make,1
+VITITI,car_make,1
+VIUK,car_make,1
+VKSWAG,car_make,1
+VKWGEN,car_make,1
+VKWGN,car_make,1
+VLK,car_make,1
+VLKS,car_make,1
+VLKSWA,car_make,1
+VLKSWG,car_make,1
+VLKSWN,car_make,1
+VLKWGN,car_make,1
+VLOKS,car_make,1
+VLOVO,car_make,1
+VLSWGN,car_make,1
+VLVO,car_make,1
+VLWGN,car_make,1
+VMW,car_make,1
+VMWARE,car_make,1
+VN,car_make,1
+VNFORD,car_make,1
+VO,car_make,1
+VOAGER,car_make,1
+VOAYAG,car_make,1
+VOC,car_make,1
+VOGEN,car_make,1
+VOGO,car_make,1
+VOGSW,car_make,1
+VOGUE,car_make,1
+VOIKWA,car_make,1
+VOK,car_make,1
+VOKES,car_make,1
+VOKESW,car_make,1
+VOKLKS,car_make,1
+VOKLSW,car_make,1
+VOKLWS,car_make,1
+VOKS,car_make,1
+VOKSWA,car_make,1
+VOKWAG,car_make,1
+VOKWSW,car_make,1
+VOL,car_make,1
+VOL. W,car_make,1
+VOLDSW,car_make,1
+VOLESW,car_make,1
+VOLGES,car_make,1
+VOLGS,car_make,1
+VOLGSW,car_make,1
+VOLK,car_make,1
+VOLK  ,car_make,1
+VOLK W,car_make,1
+VOLK-W,car_make,1
+VOLKAW,car_make,1
+VOLKEN,car_make,1
+VOLKES,car_make,1
+VOLKEW,car_make,1
+VOLKKS,car_make,1
+VOLKS,car_make,1
+VOLKS ,car_make,1
+VOLKS.,car_make,1
+VOLKSG,car_make,1
+VOLKSN,car_make,1
+VOLKSO,car_make,1
+VOLKSV,car_make,1
+VOLKSW,car_make,1
+VOLKTW,car_make,1
+VOLKW,car_make,1
+VOLKWA,car_make,1
+VOLKWG,car_make,1
+VOLKWN,car_make,1
+VOLKWS,car_make,1
+VOLKZ,car_make,1
+VOLKZW,car_make,1
+VOLO,car_make,1
+VOLOWA,car_make,1
+VOLS,car_make,1
+VOLSE,car_make,1
+VOLSEW,car_make,1
+VOLSGW,car_make,1
+VOLSKW,car_make,1
+VOLSW,car_make,1
+VOLSW ,car_make,1
+VOLSWA,car_make,1
+VOLSWV,car_make,1
+VOLT,car_make,1
+VOLT W,car_make,1
+VOLTS,car_make,1
+VOLTSW,car_make,1
+VOLTWA,car_make,1
+VOLTZ,car_make,1
+VOLTZW,car_make,1
+VOLV,car_make,1
+VOLVA,car_make,1
+VOLVE,car_make,1
+VOLVLO,car_make,1
+VOLVO,car_make,1
+VOLVO ,car_make,1
+VOLVO-,car_make,1
+VOLVOE,car_make,1
+VOLVOQ,car_make,1
+VOLVOS,car_make,1
+VOLVS,car_make,1
+VOLVSW,car_make,1
+VOLVW,car_make,1
+VOLVWA,car_make,1
+VOLVWG,car_make,1
+VOLW,car_make,1
+VOLWA,car_make,1
+VOLWAG,car_make,1
+VOLWGN,car_make,1
+VOLX,car_make,1
+VOLXWA,car_make,1
+VOLZ,car_make,1
+VOLZTW,car_make,1
+VOLZW,car_make,1
+VOLZWA,car_make,1
+VOOSEW,car_make,1
+VORKSW,car_make,1
+VOS WA,car_make,1
+VOSEWA,car_make,1
+VOSKWA,car_make,1
+VOSLWA,car_make,1
+VOSWA,car_make,1
+VOSWAG,car_make,1
+VOTLS,car_make,1
+VOTLSW,car_make,1
+VOTLWA,car_make,1
+VOTLZ,car_make,1
+VOTSWA,car_make,1
+VOTSWG,car_make,1
+VOTTS,car_make,1
+VOUGER,car_make,1
+VOVLE,car_make,1
+VOVLO,car_make,1
+VOVLVO,car_make,1
+VOVO,car_make,1
+VOVOL,car_make,1
+VOWAGA,car_make,1
+VOX,car_make,1
+VOXVAG,car_make,1
+VOY,car_make,1
+VOYAG,car_make,1
+VOYAGE,car_make,1
+VOYAGF,car_make,1
+VOYAGR,car_make,1
+VOYARD,car_make,1
+VOYAYE,car_make,1
+VOYEGE,car_make,1
+VOYER,car_make,1
+VOYGER,car_make,1
+VOYOER,car_make,1
+VRST,car_make,1
+VTEC,car_make,1
+VTECH,car_make,1
+VTRUCK,car_make,1
+VUE,car_make,1
+VUICK,car_make,1
+VULCAN,car_make,1
+VULSWA,car_make,1
+VULVA,car_make,1
+VULVO,car_make,1
+VV,car_make,1
+VV PAS,car_make,1
+VW,car_make,1
+VW    ,car_make,1
+VW  JE,car_make,1
+VW BEE,car_make,1
+VW BLA,car_make,1
+VW BUG,car_make,1
+VW GO,car_make,1
+VW GOL,car_make,1
+VW GTI,car_make,1
+VW JET,car_make,1
+VW PAS,car_make,1
+VW PAZ,car_make,1
+VW SED,car_make,1
+VW SUV,car_make,1
+VW TDI,car_make,1
+VW VAN,car_make,1
+VW WAG,car_make,1
+VW-,car_make,1
+VWAGAN,car_make,1
+VWAGEN,car_make,1
+VWAGON,car_make,1
+VWGOLF,car_make,1
+VWJETA,car_make,1
+VWPASA,car_make,1
+VWV,car_make,1
+VYSPA,car_make,1
+W,car_make,1
+W&B,car_make,1
+W/O TH,car_make,1
+WABASH,car_make,1
+WAGAN,car_make,1
+WAGEN,car_make,1
+WAGGO,car_make,1
+WAGGON,car_make,1
+WAGING,car_make,1
+WAGNER,car_make,1
+WAGON,car_make,1
+WAVE,car_make,1
+WB,car_make,1
+WELLCR,car_make,1
+WELLFC,car_make,1
+WERNER,car_make,1
+WESTER,car_make,1
+WESTWA,car_make,1
+WG,car_make,1
+WH&BLK,car_make,1
+WHEEL,car_make,1
+WHIT,car_make,1
+WHITE,car_make,1
+WHITEG,car_make,1
+WHOLE,car_make,1
+WHT/OR,car_make,1
+WHTBMW,car_make,1
+WHYTE,car_make,1
+WIC,car_make,1
+WINABA,car_make,1
+WINCHE,car_make,1
+WIND S,car_make,1
+WINDBA,car_make,1
+WINDS,car_make,1
+WINDSO,car_make,1
+WINDST,car_make,1
+WINEBI,car_make,1
+WINIBE,car_make,1
+WINNAB,car_make,1
+WINNBE,car_make,1
+WINNE,car_make,1
+WINNEB,car_make,1
+WINNER,car_make,1
+WINNIE,car_make,1
+WINOB,car_make,1
+WINOBE,car_make,1
+WINSOR,car_make,1
+WINST,car_make,1
+WINSTA,car_make,1
+WINSTO,car_make,1
+WINSTR,car_make,1
+WINTER,car_make,1
+WK,car_make,1
+WOLF W,car_make,1
+WOLFS,car_make,1
+WOLKS,car_make,1
+WOLKSV,car_make,1
+WOLKSW,car_make,1
+WOLSKW,car_make,1
+WOLSVA,car_make,1
+WOLSW,car_make,1
+WOLSWA,car_make,1
+WOLVSW,car_make,1
+WOOD,car_make,1
+WOODEN,car_make,1
+WORK,car_make,1
+WORK T,car_make,1
+WORK V,car_make,1
+WORLD,car_make,1
+WORLD ,car_make,1
+WOS,car_make,1
+WRANGE,car_make,1
+WRANGL,car_make,1
+WRECK,car_make,1
+WRECKE,car_make,1
+WRNGLE,car_make,1
+WV,car_make,1
+WVAGON,car_make,1
+WW,car_make,1
+X,car_make,1
+X5,car_make,1
+X5 BMW,car_make,1
+X5BMW,car_make,1
+XEERA,car_make,1
+XHE,car_make,1
+XLI,car_make,1
+XMAN,car_make,1
+XMAX,car_make,1
+XPDITN,car_make,1
+XRS,car_make,1
+XTASCA,car_make,1
+XTERA,car_make,1
+XTERRA,car_make,1
+XTYPE,car_make,1
+XX,car_make,1
+XXX,car_make,1
+XXXXX,car_make,1
+XXXXXX,car_make,1
+Y,car_make,1
+Y.BUS,car_make,1
+YACHT,car_make,1
+YADEA,car_make,1
+YADEO,car_make,1
+YAHAMA,car_make,1
+YAHMA,car_make,1
+YAHMAH,car_make,1
+YAIURS,car_make,1
+YALE,car_make,1
+YAM,car_make,1
+YAMA,car_make,1
+YAMAH,car_make,1
+YAMAHA,car_make,1
+YAMAR,car_make,1
+YAMAS,car_make,1
+YAMHA,car_make,1
+YAMHAA,car_make,1
+YAMHAH,car_make,1
+YAMMA,car_make,1
+YARIS,car_make,1
+YELLOW,car_make,1
+YES MK,car_make,1
+YETTA,car_make,1
+YHNDA,car_make,1
+YMAHA,car_make,1
+YOCHI,car_make,1
+YOKAHA,car_make,1
+YOMHA,car_make,1
+YOYOTA,car_make,1
+YUGO,car_make,1
+YUKON,car_make,1
+YUMA,car_make,1
+Z28,car_make,1
+Z300,car_make,1
+ZAEWOG,car_make,1
+ZASIT,car_make,1
+ZEPHYR,car_make,1
+ZERO,car_make,1
+ZESPA,car_make,1
+ZEZUKI,car_make,1
+ZION,car_make,1
+ZIP,car_make,1
+ZM,car_make,1
+ZOOZOO,car_make,1
+ZUBARU,car_make,1
+ZUBURU,car_make,1
+ZUCATI,car_make,1
+ZUISU,car_make,1
+ZUMA,car_make,1
+ZUSUKI,car_make,1
+ZUZKI,car_make,1
+ZUZO,car_make,1
+ZUZU,car_make,1
+ZUZU  ,car_make,1
+ZUZUKI,car_make,1
+ZW,car_make,1
+ZXASF,car_make,1
+ZYON,car_make,1
+_4D,car_make,1
+_BMW,car_make,1
+_CAR,car_make,1
+_D,car_make,1
+_DODGE,car_make,1
+_FORD,car_make,1
+_N/A,car_make,1
+_NA,car_make,1
+_TRUCK,car_make,1
+_VAN,car_make,1
+__VN,car_make,1

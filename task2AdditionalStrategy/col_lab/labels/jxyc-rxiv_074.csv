@@ -1,0 +1,39 @@
+value,label,count
+ALPHABET CITY,neighborhood,72
+CHELSEA,neighborhood,126
+CHINATOWN,neighborhood,2
+CIVIC CENTER,neighborhood,6
+CLINTON,neighborhood,49
+EAST VILLAGE,neighborhood,45
+FASHION,neighborhood,28
+FINANCIAL,neighborhood,4
+FLATIRON,neighborhood,34
+GRAMERCY,neighborhood,66
+GREENWICH VILLAGE-CENTRAL,neighborhood,98
+GREENWICH VILLAGE-WEST,neighborhood,122
+HARLEM-CENTRAL,neighborhood,93
+HARLEM-EAST,neighborhood,22
+HARLEM-UPPER,neighborhood,66
+HARLEM-WEST,neighborhood,25
+INWOOD,neighborhood,34
+JAVITS CENTER,neighborhood,5
+KIPS BAY,neighborhood,12
+LITTLE ITALY,neighborhood,7
+LOWER EAST SIDE,neighborhood,45
+MANHATTAN VALLEY,neighborhood,32
+MIDTOWN CBD,neighborhood,12
+MIDTOWN EAST,neighborhood,121
+MIDTOWN WEST,neighborhood,51
+MORNINGSIDE HEIGHTS,neighborhood,21
+MURRAY HILL,neighborhood,66
+SOHO,neighborhood,71
+SOUTHBRIDGE,neighborhood,4
+TRIBECA,neighborhood,21
+UPPER EAST SIDE (59-79),neighborhood,301
+UPPER EAST SIDE (79-96),neighborhood,396
+UPPER EAST SIDE (96-110),neighborhood,13
+UPPER WEST SIDE (59-79),neighborhood,138
+UPPER WEST SIDE (79-96),neighborhood,205
+UPPER WEST SIDE (96-116),neighborhood,108
+WASHINGTON HEIGHTS LOWER,neighborhood,61
+WASHINGTON HEIGHTS UPPER,neighborhood,63

@@ -1,0 +1,5 @@
+value,label,count
+R0-CONDOMINIUM,building_classification,1
+R2-WALK-UP,building_classification,52
+R4-ELEVATOR,building_classification,845
+R9-CONDOPS,building_classification,170

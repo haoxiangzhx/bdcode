@@ -1,0 +1,74 @@
+value,label,count
+ABANDONED BUILDING,location_type,1
+AIRPORT TERMINAL,location_type,1
+ATM,location_type,1
+BANK,location_type,1
+BAR/NIGHT CLUB,location_type,1
+BEAUTY & NAIL SALON,location_type,1
+BOOK/CARD,location_type,1
+BRIDGE,location_type,1
+BUS (NYC TRANSIT),location_type,1
+BUS (OTHER),location_type,1
+BUS STOP,location_type,1
+BUS TERMINAL,location_type,1
+CANDY STORE,location_type,1
+CEMETERY,location_type,1
+CHAIN STORE,location_type,1
+CHECK CASHING BUSINESS,location_type,1
+CHURCH,location_type,1
+CLOTHING/BOUTIQUE,location_type,1
+COMMERCIAL BUILDING,location_type,1
+CONSTRUCTION SITE,location_type,1
+DAYCARE FACILITY,location_type,1
+DEPARTMENT STORE,location_type,1
+DOCTOR/DENTIST OFFICE,location_type,1
+DRUG STORE,location_type,1
+DRY CLEANER/LAUNDRY,location_type,1
+FACTORY/WAREHOUSE,location_type,1
+FAST FOOD,location_type,1
+FERRY/FERRY TERMINAL,location_type,1
+FOOD SUPERMARKET,location_type,1
+GAS STATION,location_type,1
+GROCERY/BODEGA,location_type,1
+GYM/FITNESS FACILITY,location_type,1
+HIGHWAY/PARKWAY,location_type,1
+HOMELESS SHELTER,location_type,1
+HOSPITAL,location_type,1
+HOTEL/MOTEL,location_type,1
+JEWELRY,location_type,1
+LIQUOR STORE,location_type,1
+LOAN COMPANY,location_type,1
+MAILBOX INSIDE,location_type,1
+MAILBOX OUTSIDE,location_type,1
+MARINA/PIER,location_type,1
+MOSQUE,location_type,1
+OPEN AREAS (OPEN LOTS),location_type,1
+OTHER HOUSE OF WORSHIP,location_type,1
+PARK/PLAYGROUND,location_type,1
+PARKING LOT/GARAGE (PRIVATE),location_type,1
+PARKING LOT/GARAGE (PUBLIC),location_type,1
+PHOTO/COPY,location_type,1
+PRIVATE/PAROCHIAL SCHOOL,location_type,1
+PUBLIC BUILDING,location_type,1
+PUBLIC SCHOOL,location_type,1
+RESIDENCE - APT. HOUSE,location_type,1
+RESIDENCE - PUBLIC HOUSING,location_type,1
+RESIDENCE-HOUSE,location_type,1
+RESTAURANT/DINER,location_type,1
+SHOE,location_type,1
+SMALL MERCHANT,location_type,1
+SOCIAL CLUB/POLICY,location_type,1
+STORAGE FACILITY,location_type,1
+STORE UNCLASSIFIED,location_type,1
+STREET,location_type,1
+SYNAGOGUE,location_type,1
+TAXI (LIVERY LICENSED),location_type,1
+TAXI (YELLOW LICENSED),location_type,1
+TAXI/LIVERY (UNLICENSED),location_type,1
+TELECOMM. STORE,location_type,1
+TRAMWAY,location_type,1
+TRANSIT - NYC SUBWAY,location_type,1
+TRANSIT FACILITY (OTHER),location_type,1
+TUNNEL,location_type,1
+VARIETY STORE,location_type,1
+VIDEO STORE,location_type,1
