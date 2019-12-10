@@ -1,0 +1,6 @@
+building_=['plaza','malls','stadium','center','ctr','aquatic']
+
+park_=['garden','lake','pool','pond','park','playgroud','plgd','square','sqr', 'field', \
+'esplanade','gore','pier','beach','zoo','marsh','run','tennis'] # ??'pier': type of location or name of location + number
+
+site_=['complex','terminal','bid','memorial'] 

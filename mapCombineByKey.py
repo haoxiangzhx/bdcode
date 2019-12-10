@@ -161,6 +161,17 @@ def generate_json(key, vals):
 	jsonCol['number_distinct_values'] = int(jsonCol['number_distinct_values'])
 	return (1, jsonCol)
 
+def to_list(a):
+	return [a]
+
+def append(a, b):
+	a.append(b)
+	return a
+
+def extend(a, b):
+	a.extend(b)
+	return a
+
 # 2mqz-v5im
 # '2bmr-jdsv'
 datasetSize = np.load("datasetSize.npy")
@@ -191,7 +202,7 @@ for fileName in datasetName[start:end]:
 
 
 	after_fmap = data.flatMap(lambda s: mapper(s, header, map_num_val))
-	after_fmap_groupByKey = after_fmap.groupByKey()
+	after_fmap_groupByKey = after_fmap.combineByKey(to_list, append, extend)
 	key_list = after_fmap_groupByKey.map(lambda x: (x[0], list(x[1])))
 
 	print("-"*40)
@@ -224,7 +235,7 @@ for fileName in datasetName[start:end]:
 	print("Writing json to file ...")
 
 	# print(json.dumps(jsonDict))
-	with open('mapReduceJson/'+fileName+'.json', 'w') as outfile:
+	with open('mapCombineJson/'+fileName+'.json', 'w') as outfile:
 		json.dump(jsonDict, outfile)
 
 	print("="*40)

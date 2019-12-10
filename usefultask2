@@ -1,0 +1,15 @@
+python3 -m venv task2
+
+source task2/bin/activate
+
+cd folder of jupyternotebook
+
+pip install -r requirements.txt
+
+pip install ipykernel
+
+ipython kernel install --user --name=task2
+
+jupyter notebook
+
+change kernel from python3 to task2

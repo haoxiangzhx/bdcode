@@ -1,6 +1,155 @@
+
+!!! nohup ssh hz2103@dumbo.hpc.nyu.edu
+!!! appending output to nohup.out
+
+business name, play ground, school name (not abbrv)
+
+time spark-submit --master yarn --deploy-mode cluster --verbose --driver-memory 32G --num-executors 4 --executor-cores 5 task1.py 1894 1900
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --conf spark.driver.maxResultSize=2G --driver-memory 16G task1.py 1894 1900
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --conf spark.driver.maxResultSize=2G --driver-memory 16G task1.py 1890 1891
+
+yarn application -list | grep hz2103
+application_1569350662793_87900	  mapCombineByKey.py	               SPARK	    hz2103	root.users.hz2103	          ACCEPTED	         UNDEFINED	             0%	                                N/A
+application_1569350662793_87895	  mapCombineByKey.py	               SPARK	    hz2103	root.users.hz2103	          ACCEPTED	         UNDEFINED	             0%	                                N/A
+application_1569350662793_87290	            task1.py	               SPARK	    hz2103	root.users.hz2103	          ACCEPTED	         UNDEFINED	             0%	                                N/
+
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --conf spark.driver.maxResultSize=2G --driver-memory 16G task1.py 1884 1885
+
+1887 1884
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1879 1880
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1883 1884
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1884 1885
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1885 1886
+
+--------------------------------
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1886 1887
+
+-------
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1887 1888
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1888 1889
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1889 1890
+
+how to login to specific node, dumbo hpc!!!!!
+
 module load python/gnu/3.6.5
 
 module load spark/2.4.0
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1885 1886
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1884 1885
+
+sleep 1
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1883 1884
+
+sleep 3600
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1882 1883
+
+a
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1881 1882
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1880 1881
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1879 1880
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1876 1877
+
+time spark-submit --master local[8] --conf spark.executor.memoryOverhead=3G --driver-memory 12G task1.py 1890 1900
+
+time spark-submit --master local[6] --conf spark.executor.memoryOverhead=3G --driver-memory 4G task1.py 1874 1900
+
+time spark-submit --master local[8] --conf spark.executor.memoryOverhead=3G --driver-memory 8G task1.py 1874 1900
+
+time spark-submit --master yarn --deploy-mode cluster --verbose --driver-memory 56G --num-executors 4 --executor-cores 5 task1.py 0 10
+
+time spark-submit --master local[8] --conf spark.executor.memoryOverhead=16G --driver-memory 48G task1.py 1662 1663
+
+time spark-submit --master local[8] --conf spark.executor.memoryOverhead=16G --driver-memory 32G mapReduceVersion.py 1799 1800
+
+time spark-submit --master yarn --deploy-mode cluster --verbose --driver-memory 56G --num-executors 4 --executor-cores 5 mapCombineByKey.py 1872 1900
+
+time spark-submit --driver-memory 16G --num-executors 4 --executor-cores 5 mapCombineByKey.py 1872 1900
+
+time spark-submit --driver-memory 56G --num-executors 4 --executor-cores 5 mapReduceVersion.py 1872 1900
+
+time spark-submit --master local[8] --conf spark.executor.memoryOverhead=16G --driver-memory 32G mapReduceVersion.py 1662 1663
+
+	real	1m53.417s
+	user	0m21.427s
+	sys	0m5.343s
+
+time spark-submit --driver-memory 48G --num-executors 3 --executor-cores 5 task1.py 1662 1663
+
+	real	1m54.696s
+	user	1m36.620s
+	sys	0m17.482s	
+
+time spark-submit --driver-memory 48G --num-executors 3 --executor-cores 5 mapReduceVersion.py 1662 1663
+
+	real	1m20.936s
+	user	0m32.664s
+	sys	0m8.345s
+
+time spark-submit --driver-memory 56G --num-executors 4 --executor-cores 5 mapReduceVersion.py 1662 1663
+
+	real	1m22.922s
+	user	0m31.677s
+	sys	0m8.122s
+
+time spark-submit --driver-memory 56G --num-executors 7 --executor-cores 5 mapReduceVersion.py 1662 1663
+
+	real	1m22.972s
+	user	0m31.422s
+	sys	0m9.464s
+
+time spark-submit --driver-memory 56G --num-executors 2 --executor-cores 5 mapReduceVersion.py 1662 1663
+
+	real	1m23.961s
+	user	0m32.938s
+	sys	0m7.276s
+
+time spark-submit --driver-memory 56G --num-executors 2 --executor-cores 5 mapReduceVersion.py 1799 1800
+
+	real	7m36.807s
+	user	0m35.529s
+	sys	0m11.015s
+
+time spark-submit --driver-memory 56G --num-executors 4 --executor-cores 5 mapReduceVersion.py 1799 1800
+
+	real	7m25.201s
+	user	0m37.158s
+	sys	0m7.902s
+
+time spark-submit --driver-memory 56G --num-executors 4 --executor-cores 5 mapAvoidGroupByKey.py 1799 1800
+
+	keyboard interrupt: 13m10.592s
+
+time spark-submit --driver-memory 56G --num-executors 4 --executor-cores 5 mapCombineByKey.py 1799 1800
+	
+	real	7m3.760s
+	user	0m39.668s
+	sys	0m8.706s
+
+time spark-submit --master local[8] --conf spark.executor.memoryOverhead=16G --driver-memory 32G mapCombineByKey.py 1662 1663
+
+	
+
+spark-submit --master yarn --deploy-mode cluster --verbose --driver-memory 48G --executor-memory 16G --num-executors 3 --executor-cores 5 task1.py 1662 1663
+
 
 time spark-submit   --master local[8]   --conf spark.executor.memoryOverhead=3G   --executor-memory 6G   task1.py
 

@@ -1,3 +1,13 @@
+# https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html
+
+# Avoid GroupByKey
+
+# check num of partitions!!!
+
+# Check combineByKey!!!
+
+# https://stackoverflow.com/questions/27977182/spark-groupby-taking-lot-of-time
+
 import sys
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import *
@@ -191,7 +201,8 @@ for fileName in datasetName[start:end]:
 
 
 	after_fmap = data.flatMap(lambda s: mapper(s, header, map_num_val))
-	after_fmap_groupByKey = after_fmap.groupByKey()
+	after_fmap_list = after_fmap.map(lambda x: (x[0], [x[1]]))
+	after_fmap_groupByKey = after_fmap.reduceByKey(lambda a, b: a + b)
 	key_list = after_fmap_groupByKey.map(lambda x: (x[0], list(x[1])))
 
 	print("-"*40)
