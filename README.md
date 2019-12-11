@@ -15,6 +15,7 @@ The structure of our project is below:
 	* [version2](task1/task1.py)
   * [version3](task1/mapReduceVersion.py)
 * [Task2](task2/)
+* Manually label columns (task2/task2_gt0.py)
 * [Task2 Additional Strategy](task2AdditionalStrategy) 
 * [Utils](utils)	
 
