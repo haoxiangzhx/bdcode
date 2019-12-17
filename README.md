@@ -18,6 +18,8 @@ The structure of our project is below:
 	* [Manually label columns](https://github.com/haoxiangzhx/bdcode/blob/master/task2/task2_gt0.py)
 	* [Predict street_name/address/park_playground/location_type](https://github.com/haoxiangzhx/bdcode/blob/master/task2/task2_strt.py)
 	* [Predict city/borough/neighborhood](https://github.com/haoxiangzhx/bdcode/blob/master/task2/task2_city.py)
+	* [Predict digit value](https://github.com/haoxiangzhx/bdcode/blob/master/task2/task2_number.py)
+	* [Prediction with dictionaries](https://github.com/haoxiangzhx/bdcode/blob/master/task2/task2_dict.py)
 	* [Save task2.json](https://github.com/haoxiangzhx/bdcode/blob/master/task2/task2_savepred.py)
 	* [Save task2-manual-labels.json](https://github.com/haoxiangzhx/bdcode/blob/master/task2/task2_savemanual.py)
 	* [Calculate Precision and Recall](https://github.com/haoxiangzhx/bdcode/blob/master/task2/evaluation.py)
